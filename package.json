@@ -1,0 +1,21 @@
+{
+  "name": "mikirigi",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-cache-inmemory": "^1.6.2",
+    "apollo-client": "^2.6.3",
+    "apollo-link-context": "^1.0.18",
+    "apollo-link-http": "^1.5.15",
+    "graphql": "^14.4.2",
+    "graphql-tag": "^2.10.1",
+    "graphql-tools": "^4.0.5",
+    "node-fetch": "^2.6.0"
+  }
+}
