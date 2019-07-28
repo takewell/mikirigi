@@ -50,9 +50,9 @@ const execQuery = (query, variables) => {
     totalStarCount: repository.stargazers.totalCount,
     starredAts: starredAts
   };
+
   let endCursor = repository.stargazers.pageInfo.endCursor;
   while (true) {
-    let hasNext;
     const resp = await execQuery(GetRepositoryStars, {
      repoName: v.repoName,
      ownerName: v.ownerName,
@@ -61,7 +61,7 @@ const execQuery = (query, variables) => {
     const { repository } = resp.data;
     Array.prototype.push.apply(starredAts, repository.stargazers.edges.map(e => e.starredAt));
     endCursor = repository.stargazers.pageInfo.endCursor;
-    hasNext = repository.stargazers.pageInfo.hasNextPage;
+    const hasNext = repository.stargazers.pageInfo.hasNextPage;
     if(hasNext === false) {
       repoData.endCursor = endCursor;
       break;
