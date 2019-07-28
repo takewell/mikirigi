@@ -1,0 +1,831 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GetRepositoryStars 1`] = `
+"{
+  \\"repository\\": {
+    \\"name\\": \\"node-style-guide\\",
+    \\"stargazers\\": {
+      \\"totalCount\\": 4588,
+      \\"pageInfo\\": {
+        \\"hasNextPage\\": true,
+        \\"startCursor\\": \\"Y3Vyc29yOnYyOpO5MjAxMi0wNi0yOVQwMDoxOTozNSswOTowMADNn7E=\\",
+        \\"endCursor\\": \\"Y3Vyc29yOnYyOpO5MjAxMy0wNy0xMVQxMzo1MTo0NiswOTowMADOANNP7g==\\",
+        \\"__typename\\": \\"PageInfo\\"
+      },
+      \\"edges\\": [
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Martyn Loughran\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Dirk Ginader\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Dan Shaw\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Hendrik Gebhardt\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Patrick Rogers\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Guan Yang\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Felix Geisendörfer\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Jacky Zhao\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Yuya Saito\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": null,
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Justin Reidy\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Camilo Aguilar\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Tom de Grunt\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Isao Yagi\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Craig Morgan\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Ben Hall\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Linus Gustav Larsson Thiel\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Vincent Voyer\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Ivan Bernat\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Daniel Tralamazza\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Andre Krug\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Hitesh Joshi\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Sebastian Tiedtke\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Tara Feener\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Alberto\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Lars-Magnus Skog\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Steve Henderson\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Alexis Smirnov\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Florian Rathgeber\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Remy Loubradou\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Hunter Loftis\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": null,
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Андрей Листочкин (Andrey Listochkin)\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Pierre\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Kristin Markle\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Nick Fisher\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Matthew Clark\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Michael McGlynn\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Nisse Hult\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Ravindra Kumar\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Lee Powell\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": null,
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Derek Stobbe\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Alain Gilbert\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Eve Killaby\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Xiuyu Li\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Seth Gholson\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Edward Kline\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": null,
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Max West\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-06-28T15:19:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Sam Hashemi\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2012-08-27T19:54:30Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Lennart Alvestad\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-02-11T09:26:23Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Sugendran Ganess\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-02-25T16:52:23Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Johannes Jörg Schmidt\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-03-06T18:37:00Z\\",
+          \\"node\\": {
+            \\"name\\": null,
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-03-07T05:18:37Z\\",
+          \\"node\\": {
+            \\"name\\": \\"John D'Agostino\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-03-14T13:56:24Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Jeff Escalante\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-03-21T23:27:53Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Bogdan Nitica\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-03-25T08:13:42Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Slava\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-03-27T20:57:31Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Victor Teixeira\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-04T00:17:47Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Vlad Filippov\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-04T02:37:02Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Ryan Bland\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-04T02:45:24Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Mohammad Reza Taesiri\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-04T20:05:55Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Umar Hansa\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-07T19:40:10Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Makoto Tateno\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-07T23:38:03Z\\",
+          \\"node\\": {
+            \\"name\\": \\"HIRAKI Satoru\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-08T02:39:32Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Mitsuru Ogawa\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-09T22:18:45Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Tony Pujals\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-11T11:48:15Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Michael DeRazon\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-14T14:03:43Z\\",
+          \\"node\\": {
+            \\"name\\": \\"tricarte\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-18T09:46:26Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Alex Semyonov\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-22T05:58:40Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Eugene Marinelli\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-22T18:12:51Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Rosco Hill\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-25T20:30:34Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Dejan Ranisavljevic\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-26T13:45:45Z\\",
+          \\"node\\": {
+            \\"name\\": \\"John Gosset\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-26T15:12:13Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Jelte Lagendijk\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-04-28T17:26:47Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Sergei Bogdanov\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-05-04T05:55:02Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Matthew Palmer\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-05-16T18:02:02Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Seth Vincent\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-05-29T22:04:33Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Dave Stevens\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-06-02T05:49:49Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Colin Wren\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-06-03T08:55:20Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Young\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-06-11T22:45:32Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Vadym Borodin\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-06-29T09:17:45Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Mudkip\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-03T03:00:12Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Fabio Agostinho Boris\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-03T03:14:36Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Gustavo Leite\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-03T03:18:15Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Victor Larodiel\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-03T06:04:35Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Caio Gondim\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-03T18:51:37Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Dmitry Polushkin\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-05T00:18:15Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Karolina Szczur\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-05T08:10:55Z\\",
+          \\"node\\": {
+            \\"name\\": null,
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-05T09:05:53Z\\",
+          \\"node\\": {
+            \\"name\\": null,
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-05T12:00:05Z\\",
+          \\"node\\": {
+            \\"name\\": \\"yao hao\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-05T15:23:19Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Markus Lanthaler\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-05T15:23:36Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Ben Smith\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-07T00:36:07Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Nicolas Brassard\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-07T09:37:00Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Ondrej Brinkel\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-08T20:05:28Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Kamyar Navidan\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-08T20:51:07Z\\",
+          \\"node\\": {
+            \\"name\\": \\"Jeff Paine\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        },
+        {
+          \\"starredAt\\": \\"2013-07-11T04:51:46Z\\",
+          \\"node\\": {
+            \\"name\\": \\"John Hatcher\\",
+            \\"__typename\\": \\"User\\"
+          },
+          \\"__typename\\": \\"StargazerEdge\\"
+        }
+      ],
+      \\"__typename\\": \\"StargazerConnection\\"
+    },
+    \\"__typename\\": \\"Repository\\"
+  }
+}"
+`;
+
+exports[`ViewerQuery 1`] = `
+"{
+  \\"viewer\\": {
+    \\"login\\": \\"takewell\\",
+    \\"__typename\\": \\"User\\"
+  }
+}"
+`;

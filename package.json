@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "jest",
+    "updates": "jest --updateSnapshot"
   },
   "author": "",
   "license": "ISC",
@@ -17,5 +19,8 @@
     "graphql-tag": "^2.10.1",
     "graphql-tools": "^4.0.5",
     "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
   }
 }
