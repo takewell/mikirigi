@@ -36,23 +36,38 @@ const execQuery = (query, variables) => {
   });
 };
 
-
 (async () => {
   const v = {
     repoName: "lucet",
     ownerName: "fastly",
-    cousor: "Y3Vyc29yOnYyOpO5MjAxOS0wMy0yOFQwMDo1NzozMSswOTowMADOCbBF9g=="
+    cursor: "Y3Vyc29yOnYyOpO5MjAxOS0wMy0yOFQwMDo1NzozMSswOTowMADOCbBF9g=="
   };
   const res = await execQuery(GetRepositoryStars, v);
   const { repository } = res.data;
   const starredAts = repository.stargazers.edges.map(e => e.starredAt);
-  const repo = {
+  const repoData = {
     name: repository.name,
     totalStarCount: repository.stargazers.totalCount,
     starredAts: starredAts
   };
   let endCursor = repository.stargazers.pageInfo.endCursor;
-  await writef("./output.json", JSON.stringify(repo, null, 2));
+  while (true) {
+    let hasNext;
+    const resp = await execQuery(GetRepositoryStars, {
+     repoName: v.repoName,
+     ownerName: v.ownerName,
+     cursor: endCursor,
+    });
+    const { repository } = resp.data;
+    Array.prototype.push.apply(starredAts, repository.stargazers.edges.map(e => e.starredAt));
+    endCursor = repository.stargazers.pageInfo.endCursor;
+    hasNext = repository.stargazers.pageInfo.hasNextPage;
+    if(hasNext === false) {
+      repoData.endCursor = endCursor;
+      break;
+    }
+  }
+  await writef("./output.json", JSON.stringify(repoData, null, 2));
 })();
 
 const writef = (filepath, data) => {
