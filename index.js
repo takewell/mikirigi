@@ -44,25 +44,31 @@ const execQuery = (query, variables) => {
   };
   const res = await execQuery(GetRepositoryStars, v);
   const { repository } = res.data;
-  const starredAts = repository.stargazers.edges.map(e => e.starredAt);
+  const staredAts = repository.stargazers.edges.map(e => e.starredAt);
   const repoData = {
     name: repository.name,
     totalStarCount: repository.stargazers.totalCount,
-    starredAts: starredAts
+    staredAts
   };
 
   let endCursor = repository.stargazers.pageInfo.endCursor;
   while (true) {
     const resp = await execQuery(GetRepositoryStars, {
-     repoName: v.repoName,
-     ownerName: v.ownerName,
-     cursor: endCursor,
+      repoName: v.repoName,
+      ownerName: v.ownerName,
+      cursor: endCursor
     });
     const { repository } = resp.data;
-    Array.prototype.push.apply(starredAts, repository.stargazers.edges.map(e => e.starredAt));
+    Array.prototype.push.apply(
+      staredAts,
+      repository.stargazers.edges.map(e => e.starredAt)
+    );
     endCursor = repository.stargazers.pageInfo.endCursor;
     const hasNext = repository.stargazers.pageInfo.hasNextPage;
-    if(hasNext === false) {
+    console.info('exec', hasNext);
+    if (hasNext) {
+      continue;
+    } else {
       repoData.endCursor = endCursor;
       break;
     }
