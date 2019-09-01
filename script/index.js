@@ -4,7 +4,7 @@ const { ApolloClient } = require("apollo-client");
 const { HttpLink } = require("apollo-link-http");
 const { setContext } = require("apollo-link-context");
 const { InMemoryCache } = require("apollo-cache-inmemory");
-const { ViewerQuery, GetRepositoryStars } = require("./query");
+const { ViewerQuery, GetRepository } = require("./query");
 
 const GITHUB_ACCESS_TOKEN = process.env.GITHUB_ACCESS_TOKEN;
 const API_ENDPOINT = "https://api.github.com/graphql";
@@ -42,7 +42,7 @@ const execQuery = (query, variables) => {
     ownerName: "fastly",
     cursor: "Y3Vyc29yOnYyOpO5MjAxOS0wMy0yOFQwMDo1NzozMSswOTowMADOCbBF9g=="
   };
-  const res = await execQuery(GetRepositoryStars, v);
+  const res = await execQuery(GetRepository, v);
   const { repository } = res.data;
   const staredAts = repository.stargazers.edges.map(e => e.starredAt);
   const repoData = {
@@ -53,7 +53,7 @@ const execQuery = (query, variables) => {
 
   let endCursor = repository.stargazers.pageInfo.endCursor;
   while (true) {
-    const resp = await execQuery(GetRepositoryStars, {
+    const resp = await execQuery(GetRepository, {
       repoName: v.repoName,
       ownerName: v.ownerName,
       cursor: endCursor

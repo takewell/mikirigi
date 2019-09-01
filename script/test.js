@@ -6,7 +6,7 @@ test("ViewerQuery", async () => {
   expect(res).toMatchSnapshot();
 });
 
-test("GetRepositoryStars", async () => {
+test("GetRepository", async () => {
   const res = await execQuery(GetRepositoryStars, {
     repoName: 'lucet',
     ownerName:'fastly',

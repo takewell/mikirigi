@@ -8,8 +8,8 @@ exports.ViewerQuery = gql`
   }
 `;
 
-exports.GetRepositoryStars = gql`
-  query GetRepositoryStars($repoName: String!, $ownerName: String!, $cursor: String) {
+exports.GetRepository = gql`
+  query GetRepository($repoName: String!, $ownerName: String!, $cursor: String) {
     repository(name: $repoName, owner: $ownerName) {
       name
       stargazers(first: 100, after: $cursor, orderBy: { field: STARRED_AT, direction: ASC }) {
