@@ -2,30 +2,27 @@
   "name": "mikirigi-cli",
   "version": "0.0.1",
   "description": "",
-  "main": "./lib/index.js",
+  "main": "src/index.js",
   "bin": {
-    "mik": "./lib/index.js"
+    "miki": "src/index.js"
   },
   "scripts": {
-    "build": "tsc -p .",
-    "watch": "tsc -p . --watch",
-    "create": "npm run build && npm run test",
-    "test": "sudo npm i -g && pizza",
     "refresh": "rm -rf ./node_modules ./package-lock.json && npm install"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
+    "apollo-cache-inmemory": "^1.6.3",
+    "apollo-client": "^2.6.4",
+    "apollo-link-context": "^1.0.19",
+    "apollo-link-http": "^1.5.16",
     "chalk": "^2.4.2",
     "clear": "^0.1.0",
     "commander": "^3.0.1",
     "figlet": "^1.2.4",
+    "graphql": "^14.5.4",
+    "graphql-tag": "^2.10.1",
+    "node-fetch": "^2.6.0",
     "path": "^0.12.7"
-  },
-  "devDependencies": {
-    "@types/node": "^12.7.4",
-    "nodemon": "^1.19.2",
-    "ts-node": "^8.3.0",
-    "typescript": "^3.6.2"
   }
 }

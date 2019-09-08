@@ -1,5 +1,5 @@
-const { execQuery } = require("./index");
-const { ViewerQuery, GetRepositoryStars } = require("./query");
+const { execQuery } = require("./lib/execQuery");
+const { ViewerQuery, GetRepositoryStars } = require("./lib/query");
 
 test("ViewerQuery", async () => {
   const res = await execQuery(ViewerQuery);
