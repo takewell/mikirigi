@@ -11,7 +11,7 @@ plt.show()
 
 
 #%%
-json = pd.read_json('./output.json')
+json = pd.read_json('./data/output.json')
 json['starredAts'] = pd.to_datetime(json['starredAts'])
 json.set_index('starredAts', inplace=True)
 print(pd.date_range('2019-03-27', periods=5, freq='D'))
