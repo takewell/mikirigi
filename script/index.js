@@ -73,7 +73,7 @@ const execQuery = (query, variables) => {
       break;
     }
   }
-  await writef("./output.json", JSON.stringify(repoData, null, 2));
+  await writef("./data/output.json", JSON.stringify(repoData, null, 2));
 })();
 
 const writef = (filepath, data) => {
