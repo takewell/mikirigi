@@ -9,10 +9,18 @@ exports.ViewerQuery = gql`
 `;
 
 exports.GetRepositoryStars = gql`
-  query GetRepositoryStars($repoName: String!, $ownerName: String!, $cursor: String) {
+  query GetRepositoryStars(
+    $repoName: String!
+    $ownerName: String!
+    $cursor: String
+  ) {
     repository(name: $repoName, owner: $ownerName) {
       name
-      stargazers(first: 100, after: $cursor, orderBy: { field: STARRED_AT, direction: ASC }) {
+      stargazers(
+        first: 100
+        after: $cursor
+        orderBy: { field: STARRED_AT, direction: ASC }
+      ) {
         totalCount
         pageInfo {
           hasNextPage
