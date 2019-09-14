@@ -1,0 +1,12 @@
+{
+  "javascript_runtime_repositorys": [
+    { "name": "v8/v8"},
+    { "name": "microsoft/ChakraCore"},
+    { "name": "facebook/hermes"},
+    { "name": "jerryscript-project/jerryscript"},
+    { "name": "es-shims/es5-shim"},
+    { "name": "cesanta/v7"},
+    { "name": "cesanta/mjs"},
+    { "name": "svaarala/duktape"}
+  ]
+}

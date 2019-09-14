@@ -1,0 +1,40 @@
+{
+  "licenses": [
+    {
+      "name": "GNU Affero General Public License v3.0"
+    },
+    {
+      "name": "Apache License 2.0"
+    },
+    {
+      "name": "BSD 2-Clause \"Simplified\" License"
+    },
+    {
+      "name": "BSD 3-Clause \"New\" or \"Revised\" License"
+    },
+    {
+      "name": "Eclipse Public License 2.0"
+    },
+    {
+      "name": "GNU General Public License v2.0"
+    },
+    {
+      "name": "GNU General Public License v3.0"
+    },
+    {
+      "name": "GNU Lesser General Public License v2.1"
+    },
+    {
+      "name": "GNU Lesser General Public License v3.0"
+    },
+    {
+      "name": "MIT License"
+    },
+    {
+      "name": "Mozilla Public License 2.0"
+    },
+    {
+      "name": "The Unlicense"
+    }
+  ]
+}
