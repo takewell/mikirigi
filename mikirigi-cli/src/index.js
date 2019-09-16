@@ -3,7 +3,7 @@
 const chalk = require("chalk");
 const figlet = require("figlet");
 const program = require("commander");
-const { storeRepositoriStars } = require("./lib/action");
+const { storeRepositoriStars, storeRepositoriLanguages } = require("./lib/action");
 
 console.log(
   chalk.red(figlet.textSync("mikirigi-cli", { horizontalLayout: "full" }))
@@ -17,6 +17,14 @@ program
   .action(cmd => {
     const [ownerName, repoName] = cmd.split("/");
     storeRepositoriStars({ ownerName, repoName });
+  });
+
+program
+  .command("srl")
+  .description("store repositori languages <owner/reponame>")
+  .action(cmd => {
+    const [ownerName, repoName] = cmd.split("/");
+    storeRepositoriLanguages({ ownerName, repoName });
   });
 
 program.parse(process.argv);

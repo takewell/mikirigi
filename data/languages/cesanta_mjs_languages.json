@@ -1,0 +1,40 @@
+{
+  "name": "mjs",
+  "totalCount": 8,
+  "languages": [
+    {
+      "name": "C",
+      "size": 1287222
+    },
+    {
+      "name": "Assembly",
+      "size": 113699
+    },
+    {
+      "name": "Python",
+      "size": 103681
+    },
+    {
+      "name": "Makefile",
+      "size": 24696
+    },
+    {
+      "name": "C++",
+      "size": 16989
+    },
+    {
+      "name": "JavaScript",
+      "size": 14596
+    },
+    {
+      "name": "Batchfile",
+      "size": 3468
+    },
+    {
+      "name": "Shell",
+      "size": 440
+    }
+  ],
+  "endCursor": "",
+  "execDate": "2019-09-15T16:57:50.530Z"
+}

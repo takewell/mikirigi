@@ -1,0 +1,72 @@
+{
+  "name": "ChakraCore",
+  "totalCount": 16,
+  "languages": [
+    {
+      "name": "JavaScript",
+      "size": 51315145
+    },
+    {
+      "name": "C++",
+      "size": 39335010
+    },
+    {
+      "name": "WebAssembly",
+      "size": 3117315
+    },
+    {
+      "name": "Objective-C",
+      "size": 2421169
+    },
+    {
+      "name": "C",
+      "size": 1677571
+    },
+    {
+      "name": "Assembly",
+      "size": 192443
+    },
+    {
+      "name": "Roff",
+      "size": 176573
+    },
+    {
+      "name": "Batchfile",
+      "size": 94079
+    },
+    {
+      "name": "Python",
+      "size": 92408
+    },
+    {
+      "name": "CMake",
+      "size": 85822
+    },
+    {
+      "name": "Shell",
+      "size": 57125
+    },
+    {
+      "name": "PowerShell",
+      "size": 56962
+    },
+    {
+      "name": "Perl",
+      "size": 29562
+    },
+    {
+      "name": "Groovy",
+      "size": 19833
+    },
+    {
+      "name": "CSS",
+      "size": 1576
+    },
+    {
+      "name": "Pawn",
+      "size": 1137
+    }
+  ],
+  "endCursor": "",
+  "execDate": "2019-09-15T16:58:45.006Z"
+}

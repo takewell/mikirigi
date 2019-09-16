@@ -1,0 +1,24 @@
+{
+  "name": "es5-shim",
+  "totalCount": 4,
+  "languages": [
+    {
+      "name": "JavaScript",
+      "size": 331070
+    },
+    {
+      "name": "HTML",
+      "size": 4886
+    },
+    {
+      "name": "Makefile",
+      "size": 3906
+    },
+    {
+      "name": "CSS",
+      "size": 2120
+    }
+  ],
+  "endCursor": "",
+  "execDate": "2019-09-15T16:58:13.159Z"
+}
