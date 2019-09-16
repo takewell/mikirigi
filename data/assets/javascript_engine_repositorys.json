@@ -1,5 +1,5 @@
 {
-  "javascript_runtime_repositorys": [
+  "javascript_engine_repositorys": [
     { "name": "v8/v8"},
     { "name": "microsoft/ChakraCore"},
     { "name": "facebook/hermes"},

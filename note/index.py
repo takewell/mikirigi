@@ -14,6 +14,7 @@ plt.show()
 # stars
 repositoriStars = pd.read_json('data/output.json')
 stars = pd.to_datetime(repositoriStars['staredAts'])
+
 stars.describe()
 stars.hist()
 
