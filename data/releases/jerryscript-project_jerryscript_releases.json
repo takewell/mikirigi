@@ -1,0 +1,41 @@
+{
+  "name": "jerryscript",
+  "totalCount": 2,
+  "releases": [
+    {
+      "name": "JerryScript 1.0",
+      "createdAt": "2016-09-01T12:52:10Z",
+      "publishedAt": "2016-09-02T09:28:16Z",
+      "updatedAt": "2016-09-02T12:10:24Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.0",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "JerryScript 2.0",
+      "createdAt": "2019-08-01T11:24:41Z",
+      "publishedAt": "2019-08-01T12:47:32Z",
+      "updatedAt": "2019-08-01T12:47:32Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v2.0",
+      "releaseAssetsCount": 2,
+      "releaseAssets": [
+        {
+          "name": "jerryscript-2.0.zip",
+          "contentType": "application/zip",
+          "size": 4378195
+        },
+        {
+          "name": "jerryscript-2.0-singlesource.zip",
+          "contentType": "application/zip",
+          "size": 555670
+        }
+      ]
+    }
+  ],
+  "endCursor": "",
+  "execDate": "2019-09-16T04:07:47.408Z"
+}

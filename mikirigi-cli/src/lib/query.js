@@ -66,8 +66,8 @@ exports.GetRepositoryLanguages = gql`
   }
 `;
 
-exports.GetRepositoryRelease = gql`
-  query GetRepositoryRelease(
+exports.GetRepositoryReleases = gql`
+  query GetRepositoryReleases(
     $repoName: String!
     $ownerName: String!
     $corsor: String
@@ -87,6 +87,13 @@ exports.GetRepositoryRelease = gql`
         }
         edges {
           node {
+            name
+            createdAt
+            publishedAt
+            updatedAt
+            isDraft
+            isPrerelease
+            tagName
             releaseAssets(first: 100) {
               totalCount
               nodes {
@@ -95,13 +102,6 @@ exports.GetRepositoryRelease = gql`
                 size
               }
             }
-            name
-            createdAt
-            publishedAt
-            updatedAt
-            isDraft
-            isPrerelease
-            tagName
           }
         }
       }

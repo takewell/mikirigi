@@ -1,6 +1,11 @@
 const fs = require("fs");
 const { execQuery } = require("./execQuery");
-const { ViewerQuery, GetRepositoryStars, GetRepositoryLanguages } = require("./query");
+const {
+  ViewerQuery,
+  GetRepositoryStars,
+  GetRepositoryLanguages,
+  GetRepositoryReleases
+} = require("./query");
 
 const writef = (filepath, data) => {
   return new Promise((resolve, reject) => {
@@ -107,6 +112,112 @@ exports.storeRepositoriLanguages = async ({ ownerName, repoName }) => {
   }
   await writef(
     `${process.cwd()}/${ownerName}_${repoName}_languages.json`,
+    JSON.stringify(repoData, null, 2)
+  );
+};
+
+exports.storeRepositoriReleases = async ({ ownerName, repoName }) => {
+  const res = await execQuery(GetRepositoryReleases, {
+    ownerName,
+    repoName
+  });
+  const { repository } = res.data;
+  const releases = repository.releases.edges.map(e => {
+    const {
+      name,
+      createdAt,
+      publishedAt,
+      updatedAt,
+      isDraft,
+      isPrerelease,
+      tagName,
+      releaseAssets
+    } = e.node;
+    return {
+      name,
+      createdAt,
+      publishedAt,
+      updatedAt,
+      isDraft,
+      isPrerelease,
+      tagName,
+      releaseAssetsCount: releaseAssets.totalCount,
+      releaseAssets: releaseAssets.nodes.map(e => {
+        const { name, contentType, size } = e;
+        return {
+          name,
+          contentType,
+          size
+        };
+      })
+    };
+  });
+  const repoData = {
+    name: repository.name,
+    totalCount: repository.releases.totalCount,
+    releases,
+    endCursor: "",
+    execDate: new Date()
+  };
+
+  let endCursor = repository.releases.pageInfo.endCursor;
+  const hasSecond = repository.releases.pageInfo.hasNextPage;
+  console.info("exec", hasSecond);
+  while (true) {
+    if (!hasSecond) {
+      break;
+    }
+    const resp = await execQuery(GetRepositoryReleases, {
+      repoName,
+      ownerName,
+      cursor: endCursor
+    });
+    const { repository } = resp.data;
+    Array.prototype.push.apply(
+      releases,
+      repository.releases.edges.map(e => {
+        const {
+          name,
+          createdAt,
+          publishedAt,
+          updatedAt,
+          isDraft,
+          isPrerelease,
+          tagName,
+          releaseAssets
+        } = e.node;
+        return {
+          name,
+          createdAt,
+          publishedAt,
+          updatedAt,
+          isDraft,
+          isPrerelease,
+          tagName,
+          releaseAssetsCount: releaseAssets.totalCount,
+          releaseAssets: releaseAssets.nodes.map(e => {
+            const { name, contentType, size } = e;
+            return {
+              name,
+              contentType,
+              size
+            };
+          })
+        };
+      })
+    );
+    endCursor = repository.releases.pageInfo.endCursor;
+    const hasNext = repository.releases.pageInfo.hasNextPage;
+    console.info("exec", hasNext);
+    if (hasNext) {
+      continue;
+    } else {
+      repoData.endCursor = endCursor;
+      break;
+    }
+  }
+  await writef(
+    `${process.cwd()}/${ownerName}_${repoName}_releases.json`,
     JSON.stringify(repoData, null, 2)
   );
 };

@@ -1,0 +1,19 @@
+{
+  "name": "mjs",
+  "totalCount": 1,
+  "releases": [
+    {
+      "name": "v1.26",
+      "createdAt": "2018-02-08T13:19:10Z",
+      "publishedAt": "2018-02-08T19:16:53Z",
+      "updatedAt": "2018-02-08T19:16:53Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "1.26",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    }
+  ],
+  "endCursor": "",
+  "execDate": "2019-09-16T04:07:18.887Z"
+}

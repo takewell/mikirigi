@@ -1,0 +1,630 @@
+{
+  "name": "ChakraCore",
+  "totalCount": 50,
+  "releases": [
+    {
+      "name": "ChakraCore v1.2.0",
+      "createdAt": "2016-08-24T01:50:54Z",
+      "publishedAt": "2016-08-24T03:12:07Z",
+      "updatedAt": "2017-05-24T22:31:13Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.2.0.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "ChakraCore-binaries.zip",
+          "contentType": "application/x-zip-compressed",
+          "size": 30824269
+        }
+      ]
+    },
+    {
+      "name": "ChakraCore v1.2.1",
+      "createdAt": "2016-10-15T01:26:56Z",
+      "publishedAt": "2016-10-22T01:04:59Z",
+      "updatedAt": "2017-05-24T22:31:05Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.2.1",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "ChakraCore-binaries.zip",
+          "contentType": "application/x-zip-compressed",
+          "size": 43783736
+        }
+      ]
+    },
+    {
+      "name": "ChakraCore v1.3.0",
+      "createdAt": "2016-10-17T18:37:41Z",
+      "publishedAt": "2016-10-28T01:04:24Z",
+      "updatedAt": "2017-05-24T22:30:46Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.3.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "ChakraCore-binaries.zip",
+          "contentType": "application/x-zip-compressed",
+          "size": 45712367
+        }
+      ]
+    },
+    {
+      "name": "ChakraCore v1.2.2",
+      "createdAt": "2016-11-21T21:44:02Z",
+      "publishedAt": "2016-11-21T23:21:34Z",
+      "updatedAt": "2017-05-24T22:30:19Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.2.2",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "ChakraCore-binaries.zip",
+          "contentType": "application/x-zip-compressed",
+          "size": 44651170
+        }
+      ]
+    },
+    {
+      "name": "ChakraCore v1.3.1",
+      "createdAt": "2016-11-21T22:29:17Z",
+      "publishedAt": "2016-11-21T23:22:08Z",
+      "updatedAt": "2017-05-24T22:30:12Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.3.1",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "ChakraCore-binaries.zip",
+          "contentType": "application/x-zip-compressed",
+          "size": 46631524
+        }
+      ]
+    },
+    {
+      "name": "ChakraCore v1.2.3",
+      "createdAt": "2016-12-21T06:48:43Z",
+      "publishedAt": "2016-12-21T18:10:49Z",
+      "updatedAt": "2017-05-24T22:30:04Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.2.3",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "ChakraCore-binaries.zip",
+          "contentType": "application/x-zip-compressed",
+          "size": 43799407
+        }
+      ]
+    },
+    {
+      "name": "ChakraCore v1.3.2",
+      "createdAt": "2016-12-21T06:51:17Z",
+      "publishedAt": "2016-12-21T18:14:58Z",
+      "updatedAt": "2017-05-24T22:29:55Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.3.2",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "ChakraCore-binaries.zip",
+          "contentType": "application/x-zip-compressed",
+          "size": 45709642
+        }
+      ]
+    },
+    {
+      "name": "ChakraCore v1.4.0",
+      "createdAt": "2016-12-21T06:54:04Z",
+      "publishedAt": "2016-12-21T17:59:03Z",
+      "updatedAt": "2017-05-24T22:29:26Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.4.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "ChakraCore-binaries.zip",
+          "contentType": "application/x-zip-compressed",
+          "size": 48882064
+        }
+      ]
+    },
+    {
+      "name": "ChakraCore v1.4.1",
+      "createdAt": "2017-02-09T23:16:50Z",
+      "publishedAt": "2017-02-11T00:07:32Z",
+      "updatedAt": "2017-02-11T00:08:12Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.4.1",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "ChakraCore-binaries.zip",
+          "contentType": "application/x-zip-compressed",
+          "size": 49869781
+        }
+      ]
+    },
+    {
+      "name": "ChakraCore v1.4.2",
+      "createdAt": "2017-03-21T02:04:37Z",
+      "publishedAt": "2017-03-21T03:07:45Z",
+      "updatedAt": "2017-05-24T22:28:59Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.4.2",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "ChakraCore-binaries.zip",
+          "contentType": "application/x-zip-compressed",
+          "size": 49064401
+        }
+      ]
+    },
+    {
+      "name": "ChakraCore v1.4.3",
+      "createdAt": "2017-04-26T23:37:55Z",
+      "publishedAt": "2017-04-27T00:26:07Z",
+      "updatedAt": "2017-05-24T22:28:33Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.4.3",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "ChakraCore-binaries.zip",
+          "contentType": "application/x-zip-compressed",
+          "size": 50294719
+        }
+      ]
+    },
+    {
+      "name": "ChakraCore v1.4.4",
+      "createdAt": "2017-05-23T01:11:31Z",
+      "publishedAt": "2017-05-23T22:36:07Z",
+      "updatedAt": "2017-05-24T22:27:42Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.4.4",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "ChakraCore-binaries.zip",
+          "contentType": "application/x-zip-compressed",
+          "size": 50321375
+        }
+      ]
+    },
+    {
+      "name": "ChakraCore v1.5.0",
+      "createdAt": "2017-05-23T21:42:30Z",
+      "publishedAt": "2017-05-25T22:52:21Z",
+      "updatedAt": "2018-02-24T08:12:59Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.5.0",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.4.5",
+      "createdAt": "2017-06-05T19:37:15Z",
+      "publishedAt": "2017-06-07T18:04:13Z",
+      "updatedAt": "2017-06-07T18:04:13Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.4.5",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.5.1",
+      "createdAt": "2017-06-06T08:54:44Z",
+      "publishedAt": "2017-06-07T18:04:28Z",
+      "updatedAt": "2018-02-24T08:13:24Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.5.1",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.5.2",
+      "createdAt": "2017-06-15T20:55:18Z",
+      "publishedAt": "2017-06-15T23:28:58Z",
+      "updatedAt": "2018-02-24T08:13:57Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.5.2",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.5.3",
+      "createdAt": "2017-07-13T22:13:20Z",
+      "publishedAt": "2017-07-14T18:06:15Z",
+      "updatedAt": "2017-07-14T18:06:15Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.5.3",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.6.0",
+      "createdAt": "2017-07-20T17:38:39Z",
+      "publishedAt": "2017-07-20T21:06:46Z",
+      "updatedAt": "2018-02-24T08:05:12Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.6.0",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.7.0",
+      "createdAt": "2017-07-24T18:42:18Z",
+      "publishedAt": "2017-07-24T21:23:36Z",
+      "updatedAt": "2018-02-24T08:01:21Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.7.0",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.7.1",
+      "createdAt": "2017-08-10T19:03:56Z",
+      "publishedAt": "2017-08-10T20:13:19Z",
+      "updatedAt": "2017-08-10T20:13:19Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.7.1",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.6.1",
+      "createdAt": "2017-09-08T20:22:14Z",
+      "publishedAt": "2017-09-11T16:08:06Z",
+      "updatedAt": "2018-02-24T08:03:09Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.6.1",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.7.2",
+      "createdAt": "2017-09-14T19:10:18Z",
+      "publishedAt": "2017-09-14T23:13:48Z",
+      "updatedAt": "2017-09-14T23:13:48Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.7.2",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.6.2",
+      "createdAt": "2017-09-14T19:23:38Z",
+      "publishedAt": "2017-09-14T23:13:46Z",
+      "updatedAt": "2017-09-14T23:13:46Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.6.2",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.7.3",
+      "createdAt": "2017-10-10T19:54:10Z",
+      "publishedAt": "2017-10-10T21:26:34Z",
+      "updatedAt": "2017-10-11T21:04:01Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.7.3",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.7.4",
+      "createdAt": "2017-11-16T00:30:46Z",
+      "publishedAt": "2017-11-16T19:27:06Z",
+      "updatedAt": "2017-11-16T19:28:42Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.7.4",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.7.5",
+      "createdAt": "2017-12-12T19:22:37Z",
+      "publishedAt": "2017-12-12T21:59:48Z",
+      "updatedAt": "2017-12-18T04:38:20Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.7.5",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.7.6",
+      "createdAt": "2018-01-08T22:53:33Z",
+      "publishedAt": "2018-01-09T19:44:26Z",
+      "updatedAt": "2018-01-09T19:44:26Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.7.6",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.8.0",
+      "createdAt": "2018-01-17T02:12:29Z",
+      "publishedAt": "2018-01-17T19:43:45Z",
+      "updatedAt": "2018-01-17T19:43:45Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.8.0",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.8.1",
+      "createdAt": "2018-02-13T21:15:52Z",
+      "publishedAt": "2018-02-14T00:02:27Z",
+      "updatedAt": "2018-02-14T00:02:27Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.8.1",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.8.2",
+      "createdAt": "2018-03-13T20:42:17Z",
+      "publishedAt": "2018-03-13T23:58:23Z",
+      "updatedAt": "2018-03-13T23:58:23Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.8.2",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.8.3",
+      "createdAt": "2018-04-10T19:00:08Z",
+      "publishedAt": "2018-04-11T00:54:58Z",
+      "updatedAt": "2018-04-11T20:29:08Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.8.3",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.8.4",
+      "createdAt": "2018-05-08T20:09:40Z",
+      "publishedAt": "2018-05-08T21:49:21Z",
+      "updatedAt": "2018-05-08T21:49:21Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.8.4",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.8.5",
+      "createdAt": "2018-06-12T20:47:31Z",
+      "publishedAt": "2018-06-12T22:14:01Z",
+      "updatedAt": "2018-06-12T22:14:01Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.8.5",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.10.0",
+      "createdAt": "2018-06-28T21:11:18Z",
+      "publishedAt": "2018-06-29T16:47:20Z",
+      "updatedAt": "2018-06-29T16:47:20Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.10.0",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.10.1",
+      "createdAt": "2018-07-10T19:01:18Z",
+      "publishedAt": "2018-07-10T22:36:13Z",
+      "updatedAt": "2018-07-10T22:36:13Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.10.1",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.10.2",
+      "createdAt": "2018-08-15T17:15:03Z",
+      "publishedAt": "2018-08-15T20:55:57Z",
+      "updatedAt": "2018-08-15T20:55:57Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.10.2",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.0",
+      "createdAt": "2018-08-28T18:53:41Z",
+      "publishedAt": "2018-08-28T20:44:42Z",
+      "updatedAt": "2018-08-28T20:44:42Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.0",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.1",
+      "createdAt": "2018-09-11T23:23:16Z",
+      "publishedAt": "2018-09-12T16:47:02Z",
+      "updatedAt": "2018-09-12T16:47:02Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.1",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.2",
+      "createdAt": "2018-10-09T20:30:04Z",
+      "publishedAt": "2018-10-09T22:41:16Z",
+      "updatedAt": "2018-10-09T22:41:16Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.2",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.3",
+      "createdAt": "2018-11-13T22:15:42Z",
+      "publishedAt": "2018-11-14T02:11:40Z",
+      "updatedAt": "2018-11-14T02:11:40Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.3",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.4",
+      "createdAt": "2018-12-11T20:56:41Z",
+      "publishedAt": "2018-12-11T21:27:29Z",
+      "updatedAt": "2018-12-13T18:35:42Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.4",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.5",
+      "createdAt": "2019-01-08T21:37:20Z",
+      "publishedAt": "2019-01-09T00:50:05Z",
+      "updatedAt": "2019-01-09T17:22:42Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.5",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.6",
+      "createdAt": "2019-02-13T18:47:36Z",
+      "publishedAt": "2019-02-12T22:40:06Z",
+      "updatedAt": "2019-02-15T22:16:56Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.6",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.7",
+      "createdAt": "2019-03-12T20:24:25Z",
+      "publishedAt": "2019-03-12T23:03:59Z",
+      "updatedAt": "2019-03-14T17:23:54Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.7",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.8",
+      "createdAt": "2019-04-09T19:44:03Z",
+      "publishedAt": "2019-04-10T00:00:52Z",
+      "updatedAt": "2019-04-10T00:00:52Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.8",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.9",
+      "createdAt": "2019-05-14T20:36:59Z",
+      "publishedAt": "2019-05-14T23:18:53Z",
+      "updatedAt": "2019-05-14T23:18:53Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.9",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.10",
+      "createdAt": "2019-06-11T19:21:27Z",
+      "publishedAt": "2019-06-12T15:36:09Z",
+      "updatedAt": "2019-06-12T15:36:09Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.10",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.11",
+      "createdAt": "2019-07-09T19:12:14Z",
+      "publishedAt": "2019-07-09T23:16:45Z",
+      "updatedAt": "2019-07-09T23:16:45Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.11",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.12",
+      "createdAt": "2019-08-13T20:45:33Z",
+      "publishedAt": "2019-08-14T01:56:46Z",
+      "updatedAt": "2019-08-14T01:56:46Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.12",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "ChakraCore v1.11.13",
+      "createdAt": "2019-09-10T23:44:06Z",
+      "publishedAt": "2019-09-11T18:25:25Z",
+      "updatedAt": "2019-09-11T18:25:25Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.11.13",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    }
+  ],
+  "endCursor": "",
+  "execDate": "2019-09-16T04:08:03.443Z"
+}

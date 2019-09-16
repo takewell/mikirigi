@@ -1,0 +1,109 @@
+{
+  "name": "hermes",
+  "totalCount": 3,
+  "releases": [
+    {
+      "name": "Hermes v0.1.0",
+      "createdAt": "2019-07-10T16:43:55Z",
+      "publishedAt": "2019-07-06T18:37:41Z",
+      "updatedAt": "2019-07-10T16:53:13Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v0.1.0",
+      "releaseAssetsCount": 4,
+      "releaseAssets": [
+        {
+          "name": "hermes-cli-darwin-v0.1.0.tar.gz",
+          "contentType": "application/x-gzip",
+          "size": 1495444
+        },
+        {
+          "name": "hermes-cli-linux-v0.1.0.tar.gz",
+          "contentType": "application/x-gzip",
+          "size": 22923933
+        },
+        {
+          "name": "hermes-runtime-android-v0.1.0.tar.gz",
+          "contentType": "application/x-gzip",
+          "size": 11470434
+        },
+        {
+          "name": "hermes-cli-windows-v0.1.0.tar.gz",
+          "contentType": "application/x-gzip",
+          "size": 14574891
+        }
+      ]
+    },
+    {
+      "name": "Release v0.1.1",
+      "createdAt": "2019-07-26T22:54:35Z",
+      "publishedAt": "2019-07-26T23:21:08Z",
+      "updatedAt": "2019-07-26T23:21:08Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v0.1.1",
+      "releaseAssetsCount": 4,
+      "releaseAssets": [
+        {
+          "name": "hermes-cli-darwin-v0.1.1.tar.gz",
+          "contentType": "application/x-gzip",
+          "size": 1532879
+        },
+        {
+          "name": "hermes-cli-linux-v0.1.1.tar.gz",
+          "contentType": "application/x-gzip",
+          "size": 36688163
+        },
+        {
+          "name": "hermes-runtime-android-v0.1.1.tar.gz",
+          "contentType": "application/x-gzip",
+          "size": 11943443
+        },
+        {
+          "name": "hermes-cli-windows-v0.1.1.tar.gz",
+          "contentType": "application/x-gzip",
+          "size": 14575565
+        }
+      ]
+    },
+    {
+      "name": "Release v0.2.1",
+      "createdAt": "2019-09-12T22:21:08Z",
+      "publishedAt": "2019-09-13T20:33:52Z",
+      "updatedAt": "2019-09-13T20:33:52Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v0.2.1",
+      "releaseAssetsCount": 5,
+      "releaseAssets": [
+        {
+          "name": "hermes-cli-darwin-v0.2.1.tar.gz",
+          "contentType": "application/x-gzip",
+          "size": 1568323
+        },
+        {
+          "name": "hermes-cli-linux-v0.2.1.tar.gz",
+          "contentType": "application/x-gzip",
+          "size": 36721686
+        },
+        {
+          "name": "hermes-cli-windows-v0.2.1.tar.gz",
+          "contentType": "application/x-gzip",
+          "size": 14592648
+        },
+        {
+          "name": "hermes-engine-v0.2.1.tgz",
+          "contentType": "application/gzip",
+          "size": 62806723
+        },
+        {
+          "name": "hermes-runtime-android-v0.2.1.tar.gz",
+          "contentType": "application/x-gzip",
+          "size": 9926305
+        }
+      ]
+    }
+  ],
+  "endCursor": "",
+  "execDate": "2019-09-16T04:07:56.161Z"
+}

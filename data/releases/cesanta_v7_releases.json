@@ -1,0 +1,41 @@
+{
+  "name": "v7",
+  "totalCount": 3,
+  "releases": [
+    {
+      "name": "1.0 \"Symmetric Susan\", 2015-04-26",
+      "createdAt": "2015-04-27T13:05:21Z",
+      "publishedAt": "2015-04-27T14:08:07Z",
+      "updatedAt": "2015-04-29T07:21:29Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "1.0",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "2.0 \"Handsome Donkey\", 2016-03-08",
+      "createdAt": "2016-03-04T16:16:39Z",
+      "publishedAt": "2016-03-08T19:11:57Z",
+      "updatedAt": "2016-03-08T19:11:57Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "2.0",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    },
+    {
+      "name": "3.0 \"Judicious Pedant\", 2016-05-19",
+      "createdAt": "2016-05-19T09:35:11Z",
+      "publishedAt": "2016-05-19T09:46:05Z",
+      "updatedAt": "2016-05-19T09:54:09Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "3.0",
+      "releaseAssetsCount": 0,
+      "releaseAssets": []
+    }
+  ],
+  "endCursor": "",
+  "execDate": "2019-09-16T04:07:31.280Z"
+}

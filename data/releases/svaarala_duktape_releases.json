@@ -1,0 +1,885 @@
+{
+  "name": "duktape",
+  "totalCount": 51,
+  "releases": [
+    {
+      "name": "v0.1.0",
+      "createdAt": "2013-02-14T19:37:45Z",
+      "publishedAt": "2014-10-17T09:55:05Z",
+      "updatedAt": "2014-10-17T09:55:05Z",
+      "isDraft": false,
+      "isPrerelease": true,
+      "tagName": "v0.1.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-full-0.1.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 489148
+        }
+      ]
+    },
+    {
+      "name": "v0.2.0",
+      "createdAt": "2013-02-27T16:25:09Z",
+      "publishedAt": "2014-10-17T09:56:52Z",
+      "updatedAt": "2014-10-17T09:56:52Z",
+      "isDraft": false,
+      "isPrerelease": true,
+      "tagName": "v0.2.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-full-0.2.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 876040
+        }
+      ]
+    },
+    {
+      "name": "v0.3.0",
+      "createdAt": "2013-03-16T19:44:25Z",
+      "publishedAt": "2014-10-17T09:57:45Z",
+      "updatedAt": "2014-10-17T09:57:45Z",
+      "isDraft": false,
+      "isPrerelease": true,
+      "tagName": "v0.3.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-full-0.3.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 1021684
+        }
+      ]
+    },
+    {
+      "name": "v0.4.0",
+      "createdAt": "2013-03-31T21:57:29Z",
+      "publishedAt": "2014-10-17T09:58:36Z",
+      "updatedAt": "2014-10-17T09:58:36Z",
+      "isDraft": false,
+      "isPrerelease": true,
+      "tagName": "v0.4.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-full-0.4.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 1165040
+        }
+      ]
+    },
+    {
+      "name": "v0.5.0",
+      "createdAt": "2013-05-16T21:49:59Z",
+      "publishedAt": "2014-10-17T09:59:20Z",
+      "updatedAt": "2014-10-17T09:59:20Z",
+      "isDraft": false,
+      "isPrerelease": true,
+      "tagName": "v0.5.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-full-0.5.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 1431196
+        }
+      ]
+    },
+    {
+      "name": "v0.6.0",
+      "createdAt": "2013-09-21T17:50:44Z",
+      "publishedAt": "2014-10-17T10:00:07Z",
+      "updatedAt": "2014-10-17T10:00:07Z",
+      "isDraft": false,
+      "isPrerelease": true,
+      "tagName": "v0.6.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-full-0.6.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 1453104
+        }
+      ]
+    },
+    {
+      "name": "v0.7.0",
+      "createdAt": "2013-10-30T21:30:55Z",
+      "publishedAt": "2014-10-17T10:00:51Z",
+      "updatedAt": "2014-10-17T10:00:51Z",
+      "isDraft": false,
+      "isPrerelease": true,
+      "tagName": "v0.7.0",
+      "releaseAssetsCount": 2,
+      "releaseAssets": [
+        {
+          "name": "duktape-0.7.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 334324
+        },
+        {
+          "name": "duktape-full-0.7.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 1466380
+        }
+      ]
+    },
+    {
+      "name": "v0.8.0",
+      "createdAt": "2013-12-18T23:15:50Z",
+      "publishedAt": "2014-10-17T10:01:31Z",
+      "updatedAt": "2014-10-17T10:01:31Z",
+      "isDraft": false,
+      "isPrerelease": true,
+      "tagName": "v0.8.0",
+      "releaseAssetsCount": 2,
+      "releaseAssets": [
+        {
+          "name": "duktape-full-0.8.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 1592904
+        },
+        {
+          "name": "duktape-0.8.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 341812
+        }
+      ]
+    },
+    {
+      "name": "v0.9.0",
+      "createdAt": "2014-02-01T23:43:42Z",
+      "publishedAt": "2014-10-17T10:10:20Z",
+      "updatedAt": "2014-10-17T10:10:20Z",
+      "isDraft": false,
+      "isPrerelease": true,
+      "tagName": "v0.9.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-0.9.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 356084
+        }
+      ]
+    },
+    {
+      "name": "v0.10.0",
+      "createdAt": "2014-04-13T16:40:27Z",
+      "publishedAt": "2014-10-17T10:10:47Z",
+      "updatedAt": "2014-10-17T10:10:47Z",
+      "isDraft": false,
+      "isPrerelease": true,
+      "tagName": "v0.10.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-0.10.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 390664
+        }
+      ]
+    },
+    {
+      "name": "v0.11.0",
+      "createdAt": "2014-07-11T11:19:42Z",
+      "publishedAt": "2014-10-17T10:11:42Z",
+      "updatedAt": "2014-10-17T10:11:42Z",
+      "isDraft": false,
+      "isPrerelease": true,
+      "tagName": "v0.11.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-0.11.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 420180
+        }
+      ]
+    },
+    {
+      "name": "v0.12.0",
+      "createdAt": "2014-09-26T11:52:09Z",
+      "publishedAt": "2014-10-17T10:12:08Z",
+      "updatedAt": "2014-10-17T10:12:08Z",
+      "isDraft": false,
+      "isPrerelease": true,
+      "tagName": "v0.12.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-0.12.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 428424
+        }
+      ]
+    },
+    {
+      "name": "v1.0.0",
+      "createdAt": "2014-10-26T11:13:33Z",
+      "publishedAt": "2014-10-26T15:11:37Z",
+      "updatedAt": "2014-10-26T15:13:05Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.0.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.0.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 434340
+        }
+      ]
+    },
+    {
+      "name": "v1.0.1",
+      "createdAt": "2014-10-31T13:08:36Z",
+      "publishedAt": "2014-10-31T13:12:53Z",
+      "updatedAt": "2014-10-31T13:12:53Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.0.1",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.0.1.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 428292
+        }
+      ]
+    },
+    {
+      "name": "v1.0.2",
+      "createdAt": "2014-11-08T02:33:08Z",
+      "publishedAt": "2014-11-08T02:36:44Z",
+      "updatedAt": "2014-11-08T02:36:44Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.0.2",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.0.2.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 428588
+        }
+      ]
+    },
+    {
+      "name": "v1.1.0",
+      "createdAt": "2015-01-09T16:35:27Z",
+      "publishedAt": "2015-01-09T17:03:34Z",
+      "updatedAt": "2015-01-09T17:03:34Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.1.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.1.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 460312
+        }
+      ]
+    },
+    {
+      "name": "v1.1.1",
+      "createdAt": "2015-02-17T17:29:19Z",
+      "publishedAt": "2015-02-17T17:38:42Z",
+      "updatedAt": "2015-02-17T17:38:42Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.1.1",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.1.1.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 460812
+        }
+      ]
+    },
+    {
+      "name": "v1.1.2",
+      "createdAt": "2015-03-17T19:02:35Z",
+      "publishedAt": "2015-03-17T19:15:13Z",
+      "updatedAt": "2015-03-17T19:15:13Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.1.2",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.1.2.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 462076
+        }
+      ]
+    },
+    {
+      "name": "v1.1.3",
+      "createdAt": "2015-04-03T00:17:10Z",
+      "publishedAt": "2015-04-03T16:41:27Z",
+      "updatedAt": "2015-04-03T16:41:27Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.1.3",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.1.3.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 462400
+        }
+      ]
+    },
+    {
+      "name": "v1.2.0",
+      "createdAt": "2015-04-05T22:10:48Z",
+      "publishedAt": "2015-04-05T22:28:52Z",
+      "updatedAt": "2015-04-05T22:28:52Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.2.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.2.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 513968
+        }
+      ]
+    },
+    {
+      "name": "v1.2.1",
+      "createdAt": "2015-04-07T21:02:26Z",
+      "publishedAt": "2015-04-07T21:18:27Z",
+      "updatedAt": "2015-04-07T21:18:27Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.2.1",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.2.1.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 513720
+        }
+      ]
+    },
+    {
+      "name": "v1.2.2",
+      "createdAt": "2015-06-02T11:27:54Z",
+      "publishedAt": "2015-06-02T13:23:28Z",
+      "updatedAt": "2015-06-02T13:23:28Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.2.2",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.2.2.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 514160
+        }
+      ]
+    },
+    {
+      "name": "v1.2.3",
+      "createdAt": "2015-08-09T09:26:16Z",
+      "publishedAt": "2015-08-09T09:41:41Z",
+      "updatedAt": "2015-08-09T09:41:41Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.2.3",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.2.3.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 514152
+        }
+      ]
+    },
+    {
+      "name": "v1.2.4",
+      "createdAt": "2015-09-06T20:01:36Z",
+      "publishedAt": "2015-09-06T20:20:56Z",
+      "updatedAt": "2015-09-06T20:20:56Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.2.4",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.2.4.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 514304
+        }
+      ]
+    },
+    {
+      "name": "v1.3.0",
+      "createdAt": "2015-09-12T02:10:27Z",
+      "publishedAt": "2015-09-12T02:29:32Z",
+      "updatedAt": "2015-09-12T02:29:32Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.3.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.3.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 665344
+        }
+      ]
+    },
+    {
+      "name": "v1.2.5",
+      "createdAt": "2015-11-23T00:07:53Z",
+      "publishedAt": "2015-11-23T01:26:28Z",
+      "updatedAt": "2015-11-23T01:26:28Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.2.5",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.2.5.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 514312
+        }
+      ]
+    },
+    {
+      "name": "v1.3.1",
+      "createdAt": "2015-11-26T22:02:50Z",
+      "publishedAt": "2015-11-26T22:20:56Z",
+      "updatedAt": "2015-11-26T22:20:56Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.3.1",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.3.1.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 665892
+        }
+      ]
+    },
+    {
+      "name": "v1.4.0",
+      "createdAt": "2016-01-10T01:17:28Z",
+      "publishedAt": "2016-01-10T21:08:29Z",
+      "updatedAt": "2016-01-10T21:08:29Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.4.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.4.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 697624
+        }
+      ]
+    },
+    {
+      "name": "v1.3.2",
+      "createdAt": "2016-01-11T12:06:16Z",
+      "publishedAt": "2016-01-11T12:21:18Z",
+      "updatedAt": "2016-01-11T12:21:18Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.3.2",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.3.2.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 665660
+        }
+      ]
+    },
+    {
+      "name": "v1.3.3",
+      "createdAt": "2016-04-10T21:47:43Z",
+      "publishedAt": "2016-04-17T23:13:06Z",
+      "updatedAt": "2016-04-17T23:13:06Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.3.3",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.3.3.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 665788
+        }
+      ]
+    },
+    {
+      "name": "v1.4.1",
+      "createdAt": "2016-04-18T22:17:28Z",
+      "publishedAt": "2016-04-19T00:33:34Z",
+      "updatedAt": "2016-04-19T00:33:34Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.4.1",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.4.1.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 698848
+        }
+      ]
+    },
+    {
+      "name": "v1.2.6",
+      "createdAt": "2016-04-19T01:01:05Z",
+      "publishedAt": "2016-04-19T01:26:01Z",
+      "updatedAt": "2016-04-19T01:26:01Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.2.6",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.2.6.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 514684
+        }
+      ]
+    },
+    {
+      "name": "v1.5.0",
+      "createdAt": "2016-05-03T11:50:20Z",
+      "publishedAt": "2016-05-03T12:02:43Z",
+      "updatedAt": "2016-05-03T12:02:43Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.5.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.5.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 708528
+        }
+      ]
+    },
+    {
+      "name": "v1.4.2",
+      "createdAt": "2016-08-28T22:06:29Z",
+      "publishedAt": "2016-08-28T22:19:43Z",
+      "updatedAt": "2016-08-28T22:19:43Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.4.2",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.4.2.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 701676
+        }
+      ]
+    },
+    {
+      "name": "v1.5.1",
+      "createdAt": "2016-08-29T21:39:43Z",
+      "publishedAt": "2016-08-29T22:07:48Z",
+      "updatedAt": "2016-08-29T22:07:48Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.5.1",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.5.1.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 709952
+        }
+      ]
+    },
+    {
+      "name": "v1.5.2",
+      "createdAt": "2016-12-08T20:26:44Z",
+      "publishedAt": "2016-12-08T20:49:28Z",
+      "updatedAt": "2016-12-08T20:49:28Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.5.2",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.5.2.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 710108
+        }
+      ]
+    },
+    {
+      "name": "v1.6.0",
+      "createdAt": "2016-12-11T22:03:08Z",
+      "publishedAt": "2016-12-11T22:11:04Z",
+      "updatedAt": "2016-12-11T22:11:04Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.6.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.6.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 710360
+        }
+      ]
+    },
+    {
+      "name": "v2.0.0",
+      "createdAt": "2017-01-02T03:09:09Z",
+      "publishedAt": "2017-01-02T03:20:51Z",
+      "updatedAt": "2017-01-02T03:20:51Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v2.0.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-2.0.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 972196
+        }
+      ]
+    },
+    {
+      "name": "v1.6.1",
+      "createdAt": "2017-01-15T01:07:14Z",
+      "publishedAt": "2017-01-15T01:14:03Z",
+      "updatedAt": "2017-01-15T01:14:03Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.6.1",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.6.1.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 714820
+        }
+      ]
+    },
+    {
+      "name": "v2.0.1",
+      "createdAt": "2017-01-26T19:55:10Z",
+      "publishedAt": "2017-01-26T20:03:19Z",
+      "updatedAt": "2017-01-26T20:03:19Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v2.0.1",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-2.0.1.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 970320
+        }
+      ]
+    },
+    {
+      "name": "v1.7.0",
+      "createdAt": "2017-03-19T22:18:23Z",
+      "publishedAt": "2017-03-19T22:38:14Z",
+      "updatedAt": "2017-03-19T22:38:14Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.7.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.7.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 711384
+        }
+      ]
+    },
+    {
+      "name": "v2.0.2",
+      "createdAt": "2017-03-19T22:55:37Z",
+      "publishedAt": "2017-03-19T23:05:22Z",
+      "updatedAt": "2017-03-19T23:05:22Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v2.0.2",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-2.0.2.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 975496
+        }
+      ]
+    },
+    {
+      "name": "v2.1.0",
+      "createdAt": "2017-04-15T12:02:33Z",
+      "publishedAt": "2017-04-15T18:50:16Z",
+      "updatedAt": "2017-04-15T18:50:16Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v2.1.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-2.1.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 1024608
+        }
+      ]
+    },
+    {
+      "name": "v2.0.3",
+      "createdAt": "2017-05-03T21:10:44Z",
+      "publishedAt": "2017-05-03T21:40:18Z",
+      "updatedAt": "2017-05-03T21:40:18Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v2.0.3",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-2.0.3.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 1009688
+        }
+      ]
+    },
+    {
+      "name": "v2.1.1",
+      "createdAt": "2017-07-28T20:27:31Z",
+      "publishedAt": "2017-07-28T22:18:42Z",
+      "updatedAt": "2017-07-28T22:18:42Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v2.1.1",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-2.1.1.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 1024568
+        }
+      ]
+    },
+    {
+      "name": "v1.8.0",
+      "createdAt": "2017-08-02T19:07:47Z",
+      "publishedAt": "2017-08-02T19:42:15Z",
+      "updatedAt": "2017-08-02T19:42:15Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v1.8.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-1.8.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 723112
+        }
+      ]
+    },
+    {
+      "name": "v2.2.0",
+      "createdAt": "2017-09-23T00:49:04Z",
+      "publishedAt": "2017-09-23T01:14:22Z",
+      "updatedAt": "2017-09-23T01:14:22Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v2.2.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-2.2.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 969136
+        }
+      ]
+    },
+    {
+      "name": "v2.1.2",
+      "createdAt": "2018-04-21T20:59:03Z",
+      "publishedAt": "2018-04-22T00:29:57Z",
+      "updatedAt": "2018-04-22T00:29:57Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v2.1.2",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-2.1.2.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 1027484
+        }
+      ]
+    },
+    {
+      "name": "v2.2.1",
+      "createdAt": "2018-04-26T07:25:40Z",
+      "publishedAt": "2018-04-26T07:46:05Z",
+      "updatedAt": "2018-04-26T07:46:05Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v2.2.1",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-2.2.1.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 966496
+        }
+      ]
+    },
+    {
+      "name": "v2.3.0",
+      "createdAt": "2018-08-04T16:40:48Z",
+      "publishedAt": "2018-08-04T21:55:14Z",
+      "updatedAt": "2018-08-04T21:55:14Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v2.3.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-2.3.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 997572
+        }
+      ]
+    },
+    {
+      "name": "v2.4.0",
+      "createdAt": "2019-07-28T20:32:18Z",
+      "publishedAt": "2019-07-28T20:47:00Z",
+      "updatedAt": "2019-07-28T20:47:00Z",
+      "isDraft": false,
+      "isPrerelease": false,
+      "tagName": "v2.4.0",
+      "releaseAssetsCount": 1,
+      "releaseAssets": [
+        {
+          "name": "duktape-2.4.0.tar.xz",
+          "contentType": "application/x-xz",
+          "size": 1027744
+        }
+      ]
+    }
+  ],
+  "endCursor": "",
+  "execDate": "2019-09-16T04:05:54.724Z"
+}
