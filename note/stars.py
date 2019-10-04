@@ -27,6 +27,19 @@ hermes = convertDateTime('facebook/hermes')
 hermes.hist()
 
 #%%
+v8 = convertDateTime('v8/v8')
+v8.hist()
+
+#%%
+chakracore = convertDateTime('microsoft/ChakraCore')
+chakracore.hist()
+
+#%%
+duktape = convertDateTime('svaarala/duktape')
+duktape.hist()
+
+
+#%%
 
 # それぞれ比べる
 f = open("data/assets/javascript_engine_repositorys.json")
@@ -42,3 +55,16 @@ f.close()
 
 
 #%%
+# languages
+def loadLanguages(name):
+  name = name.split('/')
+  fname = 'data/languages/' + name[0] +'_' + name[1] + '_languages.json'
+  js_engine = pd.read_json(fname)
+  return js_engine
+
+js_engine = loadLanguages('v8/v8')
+js_engine
+
+
+#%%
+releases = pd.read_json()
