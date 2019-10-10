@@ -1,0 +1,10 @@
+{
+  "moststar_repositorys": [
+    "tensorflow/tensorflow",
+    "opencv/opencv",
+    "elastic/elasticsearch",
+    "arduino/Arduino",
+    "bitcoin/bitcoin",
+    "moby/moby"
+  ]
+}

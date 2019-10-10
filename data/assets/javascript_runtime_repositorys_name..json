@@ -1,11 +1,18 @@
 {
   "javascript_runtime_repositorys": [
-    { "name": "nodejs/node", "maintained": true },
-    { "name": "runtimejs/runtime", "maintained": false },
-    { "name": "microsoft/napajs", "maintained": true },
-    { "name": "denoland/deno", "maintained": true },
-    { "name": "mozilla/shumway", "maintained": false },
-    { "name": "ncsoft/Unreal.js", "maintained": true },
-    { "name": "voodooattack/nexusjs", "maintained": true }
+    "nodejs/node",
+    "maintained",
+    "runtimejs/runtime",
+    "maintained",
+    "microsoft/napajs",
+    "maintained",
+    "denoland/deno",
+    "maintained",
+    "mozilla/shumway",
+    "maintained",
+    "ncsoft/Unreal.js",
+    "maintained",
+    "voodooattack/nexusjs",
+    "maintained"
   ]
 }

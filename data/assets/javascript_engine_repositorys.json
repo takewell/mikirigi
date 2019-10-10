@@ -1,12 +1,12 @@
 {
   "javascript_engine_repositorys": [
-    { "name": "v8/v8"},
-    { "name": "microsoft/ChakraCore"},
-    { "name": "facebook/hermes"},
-    { "name": "jerryscript-project/jerryscript"},
-    { "name": "es-shims/es5-shim"},
-    { "name": "cesanta/v7"},
-    { "name": "cesanta/mjs"},
-    { "name": "svaarala/duktape"}
+    "v8/v8",
+    "microsoft/ChakraCore",
+    "facebook/hermes",
+    "jerryscript-project/jerryscript",
+    "es-shims/es5-shim",
+    "cesanta/v7",
+    "cesanta/mjs",
+    "svaarala/duktape"
   ]
 }
