@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ViewerQuery 1`] = `
+Object {
+  "data": Object {
+    "viewer": Object {
+      "__typename": "User",
+      "login": "takewell",
+    },
+  },
+  "loading": false,
+  "networkStatus": 7,
+  "stale": false,
+}
+`;

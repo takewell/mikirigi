@@ -7,6 +7,7 @@ import scipy as sp
 import pandas as pd
 import json
 import datetime
+import statsmodels.api as sm
 
 #%%
 
@@ -104,6 +105,34 @@ f.close()
 
 
 plotStars('bitcoin/bitcoin')
+
+
+def acsPlot(name):
+  star_df = create_star_df(name)
+  github_life = github_life_series()
+  result = pd.concat([star_df, github_life], axis=1)
+  star_counts = pd.Series(result['star'], dtype='float')
+  star_counts.index = pd.to_datetime(result['t'])
+  # asc = sm.tsa.stattools.acf(star_counts, nlags=40)
+  star_counts.plot()
+  fig = plt.figure(figsize=(12,8))
+  ax1 = fig.add_subplot(211)
+  fig = sm.graphics.tsa.plot_acf(star_counts, lags=40, ax=ax1)
+  ax2 = fig.add_subplot(212)
+  fig = sm.graphics.tsa.plot_pacf(star_counts, lags=40, ax=ax2)
+
+
+#%%
+acsPlot('elastic/elasticsearch')
+
+
+#%%
+acsPlot('opencv/opencv')
+
+
+#%%
+
+acsPlot('nervgh/angular-file-upload')
 
 
 #%%
