@@ -8,6 +8,9 @@ const {
   storerepositoryLanguages,
   storerepositoryReleases
 } = require("./lib/action");
+const Repo = require('./models/repos');
+
+Repo.sync({force: false })
 
 console.log(
   chalk.red(figlet.textSync("mikirigi-cli", { horizontalLayout: "full" }))

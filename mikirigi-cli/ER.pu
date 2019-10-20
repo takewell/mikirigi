@@ -1,0 +1,17 @@
+@startuml ER
+!define table(x) class x
+!define primary_key(x) - x
+left to right direction
+hide circle
+hide methods
+
+table(repos) {
+  primary_key(name)
+  primary_key(owner)
+  stars
+  downloads
+  updateAt
+  createAt
+}
+
+@enduml
