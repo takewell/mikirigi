@@ -15,7 +15,7 @@ const writef = (filepath, data) => {
   });
 };
 
-exports.storeRepositoriStars = async ({ ownerName, repoName }) => {
+exports.storerepositoryStars = async ({ ownerName, repoName }) => {
   const res = await execQuery(GetRepositoryStars, {
     ownerName,
     repoName
@@ -58,7 +58,7 @@ exports.storeRepositoriStars = async ({ ownerName, repoName }) => {
   );
 };
 
-exports.storeRepositoriLanguages = async ({ ownerName, repoName }) => {
+exports.storerepositoryLanguages = async ({ ownerName, repoName }) => {
   const res = await execQuery(GetRepositoryLanguages, {
     ownerName,
     repoName
@@ -116,7 +116,7 @@ exports.storeRepositoriLanguages = async ({ ownerName, repoName }) => {
   );
 };
 
-exports.storeRepositoriReleases = async ({ ownerName, repoName }) => {
+exports.storerepositoryReleases = async ({ ownerName, repoName }) => {
   const res = await execQuery(GetRepositoryReleases, {
     ownerName,
     repoName

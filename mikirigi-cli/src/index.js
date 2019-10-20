@@ -4,9 +4,9 @@ const chalk = require("chalk");
 const figlet = require("figlet");
 const program = require("commander");
 const {
-  storeRepositoriStars,
-  storeRepositoriLanguages,
-  storeRepositoriReleases
+  storerepositoryStars,
+  storerepositoryLanguages,
+  storerepositoryReleases
 } = require("./lib/action");
 
 console.log(
@@ -17,26 +17,26 @@ program.version("0.0.1").description("CLI for GitHub graphql API v4");
 
 program
   .command("srs")
-  .description("store repositori stars <owner/reponame>")
+  .description("store repository stars <owner/reponame>")
   .action(cmd => {
     const [ownerName, repoName] = cmd.split("/");
-    storeRepositoriStars({ ownerName, repoName });
+    storerepositoryStars({ ownerName, repoName });
   });
 
 program
   .command("srl")
-  .description("store repositori languages <owner/reponame>")
+  .description("store repository languages <owner/reponame>")
   .action(cmd => {
     const [ownerName, repoName] = cmd.split("/");
-    storeRepositoriLanguages({ ownerName, repoName });
+    storerepositoryLanguages({ ownerName, repoName });
   });
 
 program
   .command("srr")
-  .description("store repositori releases <owner/reponame>")
+  .description("store repository releases <owner/reponame>")
   .action(cmd => {
     const [ownerName, repoName] = cmd.split("/");
-    storeRepositoriReleases({ ownerName, repoName });
+    storerepositoryReleases({ ownerName, repoName });
   });
 
 program.parse(process.argv);
