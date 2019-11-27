@@ -6,12 +6,30 @@ hide circle
 hide methods
 
 table(repos) {
-  primary_key(name)
-  primary_key(owner)
-  stars
-  downloads
-  updateAt
-  createAt
+  primary_key(nameWithOwner)
 }
+
+table(repoStats) {
+  primary_key(nameWithOwner（FK）)
+  updated
+  created
+  issueCount
+  forkCount
+}
+
+table(stars) {
+  primary_key(nameWithOwner（FK）)
+  totalCount
+  starAtsJSON
+}
+
+table(downloads) {
+  primary_key(nameWithOwner（FK）)
+  downloadsJSON
+}
+
+repos "1" -- "1" repoStats
+repos "1" -- "1" stars
+repos "1" -- "1" downloads
 
 @enduml

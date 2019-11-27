@@ -33,3 +33,12 @@ exports.execQuery = (query, variables) => {
       .catch(err => reject(err));
   });
 };
+
+exports.execNPMQuery = async (repoName, dateRange) => {
+  return await fetch(
+    `https://api.npmjs.org/downloads/range/${dateRange}/${repoName}`,
+    {
+      method: "GET"
+    }
+  );
+};

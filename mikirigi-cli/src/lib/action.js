@@ -1,11 +1,12 @@
 const fs = require("fs");
-const { execQuery } = require("./execQuery");
+const { execQuery, execNPMQuery } = require("./execQuery");
 const {
   ViewerQuery,
   GetRepositoryStars,
   GetRepositoryLanguages,
   GetRepositoryReleases
 } = require("./query");
+const { scrapingNPMPackages } = require("./scraping");
 
 const writef = (filepath, data) => {
   return new Promise((resolve, reject) => {
@@ -15,7 +16,48 @@ const writef = (filepath, data) => {
   });
 };
 
-exports.storerepositoryStars = async ({ ownerName, repoName }) => {
+exports.storeRepoStars = async ({ ownerName, repoName }) => {
+  const res = await execQuery(GetRepositoryStars, {
+    ownerName,
+    repoName
+  });
+
+  const { repository } = res.data;
+  const staredAts = repository.stargazers.edges.map(e => e.starredAt);
+  const repoData = {
+    name: repository.name,
+    totalStarCount: repository.stargazers.totalCount,
+    staredAts,
+    endCursor: "",
+    execDate: new Date()
+  };
+
+  let endCursor = repository.stargazers.pageInfo.endCursor;
+  while (true) {
+    const resp = await execQuery(GetRepositoryStars, {
+      repoName,
+      ownerName,
+      cursor: endCursor
+    });
+    const { repository } = resp.data;
+    Array.prototype.push.apply(
+      staredAts,
+      repository.stargazers.edges.map(e => e.starredAt)
+    );
+    endCursor = repository.stargazers.pageInfo.endCursor;
+    const hasNext = repository.stargazers.pageInfo.hasNextPage;
+    console.info("exec", hasNext);
+    if (hasNext) {
+      continue;
+    } else {
+      repoData.endCursor = endCursor;
+      break;
+    }
+  }
+  return repoData;
+};
+
+exports.writeRepositoryStars = async ({ ownerName, repoName }) => {
   const res = await execQuery(GetRepositoryStars, {
     ownerName,
     repoName
@@ -221,3 +263,55 @@ exports.storerepositoryReleases = async ({ ownerName, repoName }) => {
     JSON.stringify(repoData, null, 2)
   );
 };
+
+exports.wirteRepositoryDownloads = async ({ name }) => {
+  const ranges = ["2016-09-04:2018-02-28", "2018-03-01:2019-09-01"];
+  let downloads = [];
+  for (const range of ranges) {
+    const res = await execNPMQuery(name, range);
+    const json = await res.json();
+    Array.prototype.push.apply(downloads, json.downloads);
+  }
+  await writef(
+    `${process.cwd()}/${name}_download.json`,
+    JSON.stringify(
+      {
+        name,
+        downloads
+      },
+      null,
+      2
+    )
+  );
+};
+
+exports.writeNPMkeywordPackages = async ({ keyword }) => {
+  const packages = await scrapingNPMPackages(keyword);
+  await writef(
+    `${process.cwd()}/${keyword}.json`,
+    JSON.stringify(
+      {
+        keyword,
+        packages
+      },
+      null,
+      2
+    )
+  );
+};
+
+exports.writePackageProperty = async ({ name }) => {
+  const property = await scrapingPackagesProperty(name);
+  console.log(property)
+  await writef(
+    `${process.cwd()}/${keyword}.json`,
+    JSON.stringify(
+      {
+        keyword,
+        packages
+      },
+      null,
+      2
+    )
+  );
+}

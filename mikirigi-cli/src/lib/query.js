@@ -15,7 +15,7 @@ exports.GetRepositoryStars = gql`
     $cursor: String
   ) {
     repository(name: $repoName, owner: $ownerName) {
-      name
+      nameWithOwner
       stargazers(
         first: 100
         after: $cursor
@@ -42,7 +42,7 @@ exports.GetRepositoryLanguages = gql`
     $corsor: String
   ) {
     repository(name: $repoName, owner: $ownerName) {
-      name
+      nameWithOwner
       languages(
         first: 100
         after: $corsor
@@ -73,7 +73,7 @@ exports.GetRepositoryReleases = gql`
     $corsor: String
   ) {
     repository(name: $repoName, owner: $ownerName) {
-      name
+      nameWithOwner
       releases(
         first: 100
         after: $corsor

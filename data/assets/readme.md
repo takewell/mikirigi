@@ -1,2 +1,0 @@
-- javascript_runtime_repositorys https://github.com/search?q=JavaScript+runtime
-- javascript_engine_repositorys https://en.wikipedia.org/wiki/List_of_ECMAScript_engines

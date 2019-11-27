@@ -1,0 +1,11 @@
+{
+  "keyword": "keyword",
+  "packages": [
+    {
+      "name": "npm name",
+      "description": "",
+      "keywords": ["keyword1", "keyword2", "keyword3"],
+      "author": ""
+    }
+  ]
+}

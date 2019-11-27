@@ -1,37 +1,21 @@
 const { Sequelize, database } = require('../lib/databaseLoader')
-const { STRING, JSONB } = Sequelize;
+const { STRING } = Sequelize;
 
 module.exports = database.define(
   "repo",
   {
-    name: {
+    nameWithOwner: {
       type: STRING,
       allowNULL: false,
       primaryKey: true,
     },
-    ownerName: {
-      type: STRING,
-      allowNULL: false,
-      primaryKey: true
-    },
-    stars: {
-      type: JSONB,
-      allowNULL: true
-    },
-    downloads: {
-      type: JSONB,
-      allowNULL: true
-    }
   },
   {
     freezeTableName: false,
     timestamps: true,
     indexes: [
       {
-        fields: ["name"]
-      },
-      {
-        fields: ["ownerName"]
+        fields: ["nameWithOwner"]
       }
     ]
   }

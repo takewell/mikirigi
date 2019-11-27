@@ -133,6 +133,3 @@ acsPlot('opencv/opencv')
 #%%
 
 acsPlot('nervgh/angular-file-upload')
-
-
-#%%
