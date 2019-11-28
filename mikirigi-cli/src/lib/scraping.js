@@ -94,3 +94,47 @@ exports.scrapingNPMPackages = async (keyword) => {
   await browser.close();
   return packages.flat();
 };
+
+exports.scrapingPackagesProperty = async (name) => {
+
+  const browser = await puppeteer.launch({
+    args: ["--no-sandbox", "--disable-setuid-sandbox"]
+  });
+
+  const getPrpperty = async ({name}) => {
+    const page = await browser.newPage();
+    await page.goto(
+      `https://www.npmtrends.com/${name}`,
+      {
+        waitUntil: "domcontentloaded"
+      }
+    )
+    const json = await page.evaluate(() => {
+      // const nameWithOwer = document.querySelector("table.table > tbody > tr > td > a.name-header").href.replace('https://github.com/', '')
+      const names = Array.from(
+        document.querySelectorAll("table.table > tbody > tr > td"),
+        e => e.innerText
+      );
+      return names;
+      // const stars = document.querySelectorAll("table.table > tbody > tr > td")[1].innerText
+      // const forks = document.querySelectorAll("table.table > tbody > tr > td")[2].innerText
+      // const issues = document.querySelectorAll("table.table > tbody > tr > td")[3].innerText
+      // return {
+      //   name,
+      //   // nameWithOwer,
+      //   stars,
+      //   forks,
+      //   issues
+      // }  
+    });
+    return page.close().then(() => {
+      return new Promise((resolve, reject) =>
+        json ? resolve(json) : reject(new Error("json undefind"))
+      );
+    });
+  }
+
+  const property = await getPrpperty({name})
+  await browser.close();
+  return property
+}

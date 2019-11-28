@@ -8,7 +8,8 @@ const {
   storerepositoryLanguages,
   storerepositoryReleases,
   wirteRepositoryDownloads,
-  writeNPMkeywordPackages
+  writeNPMkeywordPackages,
+  writePackageProperty
 } = require("./lib/action");
 const Repo = require("./models/repos");
 const RepoStas = require("./models/repoStats");
@@ -78,6 +79,13 @@ program
   .description("write keywords packages by npm <name>")
   .action(cmd => {
     writeNPMkeywordPackages({ keyword: cmd });
+  });
+
+program
+  .command("wpp")
+  .description("write packages property by npm <name>")
+  .action(cmd => {
+    writePackageProperty({ name: cmd });
   });
 
 program.parse(process.argv);

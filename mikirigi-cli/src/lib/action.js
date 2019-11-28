@@ -6,7 +6,7 @@ const {
   GetRepositoryLanguages,
   GetRepositoryReleases
 } = require("./query");
-const { scrapingNPMPackages } = require("./scraping");
+const { scrapingNPMPackages, scrapingPackagesProperty } = require("./scraping");
 
 const writef = (filepath, data) => {
   return new Promise((resolve, reject) => {
@@ -272,8 +272,9 @@ exports.wirteRepositoryDownloads = async ({ name }) => {
     const json = await res.json();
     Array.prototype.push.apply(downloads, json.downloads);
   }
+  const n = name.replace('/', "::")
   await writef(
-    `${process.cwd()}/${name}_download.json`,
+    `${process.cwd()}/${n}_download.json`,
     JSON.stringify(
       {
         name,
@@ -303,15 +304,13 @@ exports.writeNPMkeywordPackages = async ({ keyword }) => {
 exports.writePackageProperty = async ({ name }) => {
   const property = await scrapingPackagesProperty(name);
   console.log(property)
-  await writef(
-    `${process.cwd()}/${keyword}.json`,
-    JSON.stringify(
-      {
-        keyword,
-        packages
-      },
-      null,
-      2
-    )
-  );
+  // const n = name.replace('/', "::")
+  // await writef(
+  //   `${process.cwd()}/${n}.json`,
+  //   JSON.stringify(
+  //     property,
+  //     null,
+  //     2
+  //   )
+  // );
 }
