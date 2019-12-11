@@ -6,6 +6,8 @@
 - srl `<nameWithOnwer>` (store repository languages execution)
 - wrs `<nameWithOnwer>` (write repository stars)
 - wrd `<name>` (wirte repository downloads)
+- wkp `<keyword>` (write keyword packages)
+- wpp `<name>` 
 
 
 chai 6607

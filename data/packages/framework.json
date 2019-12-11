@@ -1,0 +1,598 @@
+{
+  "keyword": "framework",
+  "packages": [
+    {
+      "name": "express",
+      "descriptions": "Fast, unopinionated, minimalist web framework",
+      "keyword": [
+        "express",
+        "framework",
+        "sinatra",
+        "web",
+        "rest",
+        "restful",
+        "router",
+        "app",
+        "api"
+      ],
+      "author": "dougwilson"
+    },
+    {
+      "name": "socket.io",
+      "descriptions": "Node.js realtime framework server",
+      "keyword": [
+        "realtime",
+        "framework",
+        "websocket",
+        "tcp",
+        "events",
+        "socket",
+        "io"
+      ],
+      "author": "darrachequesne"
+    },
+    {
+      "name": "socket.io-client",
+      "descriptions": "[![Build Status](https://secure.travis-ci.org/socketio/socket.io-client.svg?branch=master)](http://travis-ci.org/socketio/socket.io-client) [![Dependency Status](https://david-dm.org/socketio/socket.io-client.svg)](https://david-dm.org/socketio/socket.io-",
+      "keyword": [
+        "realtime",
+        "framework",
+        "websocket",
+        "tcp",
+        "events",
+        "client"
+      ],
+      "author": "darrachequesne"
+    },
+    {
+      "name": "connect",
+      "descriptions": "High performance middleware framework",
+      "keyword": [
+        "framework",
+        "web",
+        "middleware",
+        "connect",
+        "rack"
+      ],
+      "author": "dougwilson"
+    },
+    {
+      "name": "bootstrap",
+      "descriptions": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "xhmikosr"
+    },
+    {
+      "name": "koa",
+      "descriptions": "Koa web app framework",
+      "keyword": [
+        "web",
+        "app",
+        "http",
+        "application",
+        "framework",
+        "middleware",
+        "rack"
+      ],
+      "author": "dead_horse"
+    },
+    {
+      "name": "angular",
+      "descriptions": "HTML enhanced for web apps",
+      "keyword": [
+        "angular",
+        "framework",
+        "browser",
+        "client-side"
+      ],
+      "author": "petebacondarwin"
+    },
+    {
+      "name": "antd",
+      "descriptions": "An enterprise-class UI design language and React components implementation",
+      "keyword": [
+        "ant",
+        "component",
+        "components",
+        "design",
+        "framework",
+        "frontend",
+        "react",
+        "react-component",
+        "ui"
+      ],
+      "author": "zombiej"
+    },
+    {
+      "name": "restify",
+      "descriptions": "REST framework",
+      "keyword": [
+        "REST",
+        "framework",
+        "express",
+        "DTrace"
+      ],
+      "author": "hekike"
+    },
+    {
+      "name": "swiper",
+      "descriptions": "Most modern mobile touch slider and framework with hardware accelerated transitions",
+      "keyword": [
+        "swiper",
+        "swipe",
+        "slider",
+        "touch",
+        "ios",
+        "mobile",
+        "cordova",
+        "phonegap",
+        "app",
+        "framework",
+        "framework7",
+        "carousel",
+        "gallery",
+        "plugin"
+      ],
+      "author": "nolimits4web"
+    },
+    {
+      "name": "gulp-mocha",
+      "descriptions": "Run Mocha tests",
+      "keyword": [
+        "gulpplugin",
+        "mocha",
+        "test",
+        "testing",
+        "unit",
+        "framework",
+        "runner",
+        "tdd",
+        "bdd",
+        "qunit",
+        "spec",
+        "tap"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "bulma",
+      "descriptions": "Modern CSS framework based on Flexbox",
+      "keyword": [
+        "css",
+        "sass",
+        "flexbox",
+        "responsive",
+        "framework"
+      ],
+      "author": "jgthms"
+    },
+    {
+      "name": "angular-animate",
+      "descriptions": "AngularJS module for animations",
+      "keyword": [
+        "angular",
+        "framework",
+        "browser",
+        "animation",
+        "client-side"
+      ],
+      "author": "petebacondarwin"
+    },
+    {
+      "name": "angular-sanitize",
+      "descriptions": "AngularJS module for sanitizing HTML",
+      "keyword": [
+        "angular",
+        "framework",
+        "browser",
+        "html",
+        "client-side"
+      ],
+      "author": "petebacondarwin"
+    },
+    {
+      "name": "vorpal",
+      "descriptions": "Node's first framework for building immersive CLI apps.",
+      "keyword": [
+        "api",
+        "cli",
+        "repl",
+        "shell",
+        "immersive",
+        "framework",
+        "app",
+        "application",
+        "command",
+        "commander",
+        "automated",
+        "prompt",
+        "inquirer"
+      ],
+      "author": "dthree"
+    },
+    {
+      "name": "angular-route",
+      "descriptions": "AngularJS router module",
+      "keyword": [
+        "angular",
+        "framework",
+        "browser",
+        "router",
+        "client-side"
+      ],
+      "author": "petebacondarwin"
+    },
+    {
+      "name": "angular-resource",
+      "descriptions": "AngularJS module for interacting with RESTful server-side data sources",
+      "keyword": [
+        "angular",
+        "framework",
+        "browser",
+        "rest",
+        "client-side"
+      ],
+      "author": "petebacondarwin"
+    },
+    {
+      "name": "angular-mocks",
+      "descriptions": "AngularJS mocks for testing",
+      "keyword": [
+        "angular",
+        "framework",
+        "browser",
+        "mocks",
+        "testing",
+        "client-side"
+      ],
+      "author": "petebacondarwin"
+    },
+    {
+      "name": "foundation-sites",
+      "descriptions": "The most advanced responsive front-end framework in the world.",
+      "keyword": [
+        "css",
+        "scss",
+        "sass",
+        "js",
+        "responsive",
+        "mobile-first",
+        "framework",
+        "eyeglass-module",
+        "handlebars-helper-rel",
+        "handlebars-helper-slugify"
+      ],
+      "author": "ncoden"
+    },
+    {
+      "name": "fastify",
+      "descriptions": "Fast and low overhead web framework, for Node.js",
+      "keyword": [
+        "web",
+        "framework",
+        "json",
+        "schema",
+        "open",
+        "api"
+      ],
+      "author": "delvedor"
+    },
+    {
+      "name": "angular-messages",
+      "descriptions": "AngularJS module that provides enhanced support for displaying messages within templates",
+      "keyword": [
+        "angular",
+        "framework",
+        "browser",
+        "client-side"
+      ],
+      "author": "petebacondarwin"
+    },
+    {
+      "name": "angular-cookies",
+      "descriptions": "AngularJS module for cookies",
+      "keyword": [
+        "angular",
+        "framework",
+        "browser",
+        "cookies",
+        "client-side"
+      ],
+      "author": "petebacondarwin"
+    },
+    {
+      "name": "ionic-angular",
+      "descriptions": "A powerful framework for building mobile and progressive web apps with JavaScript and Angular",
+      "keyword": [
+        "ionic",
+        "framework",
+        "mobile",
+        "app",
+        "hybrid",
+        "webapp",
+        "cordova",
+        "progressive web app",
+        "pwa"
+      ],
+      "author": "liamdebeasi"
+    },
+    {
+      "name": "loopback",
+      "descriptions": "LoopBack: Open Source Framework for Node.js",
+      "keyword": [
+        "web",
+        "restful",
+        "rest",
+        "api",
+        "express",
+        "restify",
+        "koa",
+        "auth",
+        "security",
+        "oracle",
+        "mysql",
+        "nosql",
+        "mongo",
+        "mongodb",
+        "View more"
+      ],
+      "author": "bajtos"
+    },
+    {
+      "name": "seneca",
+      "descriptions": "A Microservices Framework for Node.js",
+      "keyword": [
+        "micro",
+        "service",
+        "microservice",
+        "micro-service",
+        "microservices",
+        "micro-services",
+        "services",
+        "micro services",
+        "micro service",
+        "framework",
+        "minimum",
+        "viable",
+        "product",
+        "toolkit"
+      ],
+      "author": "rjrodger"
+    },
+    {
+      "name": "@hapi/hapi",
+      "descriptions": "HTTP Server framework",
+      "keyword": [
+        "framework",
+        "http",
+        "api",
+        "web"
+      ],
+      "author": "hueniverse"
+    },
+    {
+      "name": "angular-aria",
+      "descriptions": "AngularJS module for making accessibility easy",
+      "keyword": [
+        "angular",
+        "framework",
+        "browser",
+        "accessibility",
+        "a11y",
+        "client-side"
+      ],
+      "author": "petebacondarwin"
+    },
+    {
+      "name": "rtlcss",
+      "descriptions": "Framework for transforming cascading style sheets (CSS) from left-to-right (LTR) to right-to-left (RTL)",
+      "keyword": [
+        "rtl",
+        "css",
+        "ltr",
+        "rtlcss",
+        "framework",
+        "style",
+        "mirror",
+        "flip",
+        "convert",
+        "transform"
+      ],
+      "author": "myounes"
+    },
+    {
+      "name": "angular-touch",
+      "descriptions": "AngularJS module for touch events and helpers for touch-enabled devices",
+      "keyword": [
+        "angular",
+        "framework",
+        "browser",
+        "touch",
+        "client-side"
+      ],
+      "author": "petebacondarwin"
+    },
+    {
+      "name": "dva",
+      "descriptions": "React and redux based, lightweight and elm-style framework.",
+      "keyword": [
+        "dva",
+        "alibaba",
+        "react",
+        "react-native",
+        "redux",
+        "redux-saga",
+        "elm",
+        "framework",
+        "frontend"
+      ],
+      "author": "sorrycc"
+    },
+    {
+      "name": "svelte",
+      "descriptions": "Cybernetically enhanced web apps",
+      "keyword": [
+        "UI",
+        "framework",
+        "templates",
+        "templating"
+      ],
+      "author": "rich_harris"
+    },
+    {
+      "name": "iview",
+      "descriptions": "A high quality UI components Library with Vue.js",
+      "keyword": [
+        "iview",
+        "vue",
+        "vue.js",
+        "component",
+        "components",
+        "ui",
+        "framework"
+      ],
+      "author": "duanmu"
+    },
+    {
+      "name": "ccxt",
+      "descriptions": "A JavaScript / Python / PHP cryptocurrency trading library with support for 130+ exchanges",
+      "keyword": [
+        "algorithmic",
+        "algotrading",
+        "altcoin",
+        "altcoins",
+        "api",
+        "arbitrage",
+        "backtest",
+        "backtesting",
+        "bitcoin",
+        "bot",
+        "btc",
+        "cny",
+        "coin",
+        "coins",
+        "View more"
+      ],
+      "author": "x84"
+    },
+    {
+      "name": "express-generator",
+      "descriptions": "Express' application generator",
+      "keyword": [
+        "express",
+        "framework",
+        "sinatra",
+        "web",
+        "rest",
+        "restful",
+        "router",
+        "app",
+        "api"
+      ],
+      "author": "dougwilson"
+    },
+    {
+      "name": "antd-mobile",
+      "descriptions": "基于 React 的移动设计规范实现",
+      "keyword": [
+        "ant",
+        "design",
+        "react",
+        "react-component",
+        "component",
+        "components",
+        "ui",
+        "framework",
+        "frontend",
+        "mobile"
+      ],
+      "author": "yuanfei.gyf"
+    },
+    {
+      "name": "aurelia-framework",
+      "descriptions": "The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.",
+      "keyword": [
+        "aurelia",
+        "framework",
+        "spa"
+      ],
+      "author": "aureliaeffect"
+    },
+    {
+      "name": "hexo",
+      "descriptions": "A fast, simple & powerful blog framework, powered by Node.js.",
+      "keyword": [
+        "website",
+        "blog",
+        "cms",
+        "framework",
+        "hexo"
+      ],
+      "author": "curben"
+    },
+    {
+      "name": "riot",
+      "descriptions": "Simple and elegant component-based UI library",
+      "keyword": [
+        "custom tags",
+        "custom elements",
+        "web components",
+        "virtual dom",
+        "shadow dom",
+        "minimal",
+        "minimalist",
+        "client-side",
+        "framework",
+        "declarative",
+        "templating",
+        "template",
+        "data binding",
+        "mvc",
+        "View more"
+      ],
+      "author": "gianlucaguarini"
+    },
+    {
+      "name": "admin-lte",
+      "descriptions": "Responsive open source admin dashboard and control panel.",
+      "keyword": [
+        "css",
+        "sass",
+        "responsive",
+        "admin",
+        "template",
+        "theme",
+        "framework",
+        "control-panel",
+        "dashboard"
+      ],
+      "author": "rejack"
+    },
+    {
+      "name": "@ionic/core",
+      "descriptions": "Base components for Ionic",
+      "keyword": [
+        "ionic",
+        "framework",
+        "stencil",
+        "mobile",
+        "app",
+        "webapp",
+        "capacitor",
+        "cordova",
+        "electron",
+        "progressive web app",
+        "pwa"
+      ],
+      "author": "liamdebeasi"
+    }
+  ]
+}

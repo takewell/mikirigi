@@ -1,0 +1,624 @@
+{
+  "keyword": "testing",
+  "packages": [
+    {
+      "name": "chai",
+      "descriptions": "BDD/TDD assertion library for node.js and the browser. Test framework agnostic.",
+      "keyword": [
+        "test",
+        "assertion",
+        "assert",
+        "testing",
+        "chai"
+      ],
+      "author": "chaijs"
+    },
+    {
+      "name": "jest",
+      "descriptions": "Delightful JavaScript Testing.",
+      "keyword": [
+        "ava",
+        "babel",
+        "coverage",
+        "easy",
+        "expect",
+        "facebook",
+        "immersive",
+        "instant",
+        "jasmine",
+        "jest",
+        "jsdom",
+        "mocha",
+        "mocking",
+        "painless",
+        "View more"
+      ],
+      "author": "scotthovestadt"
+    },
+    {
+      "name": "karma",
+      "descriptions": "Spectacular Test Runner for JavaScript.",
+      "keyword": [
+        "karma",
+        "spectacular",
+        "runner",
+        "js",
+        "javascript",
+        "testing",
+        "test",
+        "remote",
+        "execution"
+      ],
+      "author": "karmarunnerbot"
+    },
+    {
+      "name": "jest-cli",
+      "descriptions": "Delightful JavaScript Testing.",
+      "keyword": [
+        "ava",
+        "babel",
+        "coverage",
+        "easy",
+        "expect",
+        "facebook",
+        "immersive",
+        "instant",
+        "jasmine",
+        "jest",
+        "jsdom",
+        "mocha",
+        "mocking",
+        "painless",
+        "View more"
+      ],
+      "author": "scotthovestadt"
+    },
+    {
+      "name": "enzyme",
+      "descriptions": "JavaScript Testing utilities for React",
+      "keyword": [
+        "javascript",
+        "shallow rendering",
+        "shallowRender",
+        "test",
+        "reactjs",
+        "react",
+        "flux",
+        "testing",
+        "test utils",
+        "assertion helpers",
+        "tdd",
+        "mocha"
+      ],
+      "author": "ljharb"
+    },
+    {
+      "name": "supertest",
+      "descriptions": "SuperAgent driven library for testing HTTP servers",
+      "keyword": [
+        "superagent",
+        "request",
+        "tdd",
+        "bdd",
+        "http",
+        "test",
+        "testing"
+      ],
+      "author": "rimiti"
+    },
+    {
+      "name": "selenium-webdriver",
+      "descriptions": "The official WebDriver JavaScript bindings from the Selenium project",
+      "keyword": [
+        "automation",
+        "selenium",
+        "testing",
+        "webdriver",
+        "webdriverjs"
+      ],
+      "author": "corevo"
+    },
+    {
+      "name": "nyc",
+      "descriptions": "The Istanbul command line interface",
+      "keyword": [
+        "coverage",
+        "reporter",
+        "subprocess",
+        "testing"
+      ],
+      "author": "coreyfarrell"
+    },
+    {
+      "name": "ts-jest",
+      "descriptions": "A preprocessor with source maps support to help use TypeScript with Jest",
+      "keyword": [
+        "jest",
+        "typescript",
+        "sourcemap",
+        "react",
+        "testing"
+      ],
+      "author": "kul"
+    },
+    {
+      "name": "protractor",
+      "descriptions": "Webdriver E2E test wrapper for Angular.",
+      "keyword": [
+        "angular",
+        "test",
+        "testing",
+        "webdriver",
+        "webdriverjs",
+        "selenium"
+      ],
+      "author": "cnishina"
+    },
+    {
+      "name": "enzyme-adapter-react-16",
+      "descriptions": "JavaScript Testing utilities for React",
+      "keyword": [
+        "javascript",
+        "shallow rendering",
+        "shallowRender",
+        "test",
+        "reactjs",
+        "react",
+        "flux",
+        "testing",
+        "test utils",
+        "assertion helpers",
+        "tdd",
+        "mocha"
+      ],
+      "author": "ljharb"
+    },
+    {
+      "name": "chai-as-promised",
+      "descriptions": "Extends Chai with assertions about promises.",
+      "keyword": [
+        "chai",
+        "chai-plugin",
+        "browser",
+        "async",
+        "testing",
+        "assertions",
+        "promises",
+        "promises-aplus"
+      ],
+      "author": "domenic"
+    },
+    {
+      "name": "deep-eql",
+      "descriptions": "Improved deep equality testing for Node.js and the browser.",
+      "keyword": [
+        "chai util",
+        "deep equal",
+        "object equal",
+        "testing"
+      ],
+      "author": "chaijs"
+    },
+    {
+      "name": "enzyme-to-json",
+      "descriptions": "Convert enzyme wrapper to a format compatible with Jest snapshot",
+      "keyword": [
+        "enzyme",
+        "jest",
+        "snapshot",
+        "wrapper",
+        "pretty-format",
+        "cheerio",
+        "convert",
+        "testing",
+        "unit",
+        "test"
+      ],
+      "author": "vincentlanglet"
+    },
+    {
+      "name": "sinon-chai",
+      "descriptions": "Extends Chai with assertions for the Sinon.JS mocking framework.",
+      "keyword": [
+        "chai",
+        "chai-plugin",
+        "browser",
+        "vendor",
+        "mocks-and-spies",
+        "sinon",
+        "testing",
+        "spies",
+        "stubs",
+        "mocks"
+      ],
+      "author": "simondel"
+    },
+    {
+      "name": "@jest/core",
+      "descriptions": "Delightful JavaScript Testing.",
+      "keyword": [
+        "ava",
+        "babel",
+        "coverage",
+        "easy",
+        "expect",
+        "facebook",
+        "immersive",
+        "instant",
+        "jasmine",
+        "jest",
+        "jsdom",
+        "mocha",
+        "mocking",
+        "painless",
+        "View more"
+      ],
+      "author": "scotthovestadt"
+    },
+    {
+      "name": "axe-core",
+      "descriptions": "Accessibility engine for automated Web UI testing",
+      "keyword": [
+        "Accessibility",
+        "a11y",
+        "testing",
+        "unit",
+        "tdd",
+        "bdd",
+        "axe"
+      ],
+      "author": "npmdeque"
+    },
+    {
+      "name": "cypress",
+      "descriptions": "Cypress.io end to end testing tool",
+      "keyword": [
+        "automation",
+        "browser",
+        "cypress",
+        "cypress.io",
+        "e2e",
+        "end-to-end",
+        "integration",
+        "mocks",
+        "runner",
+        "spies",
+        "stubs",
+        "test",
+        "testing"
+      ],
+      "author": "flotwig"
+    },
+    {
+      "name": "cucumber",
+      "descriptions": "The official JavaScript implementation of Cucumber.",
+      "keyword": [
+        "testing",
+        "bdd",
+        "cucumber",
+        "gherkin",
+        "tests"
+      ],
+      "author": "charlierudolph"
+    },
+    {
+      "name": "ava",
+      "descriptions": "Testing can be a drag. AVA helps you get it done.",
+      "keyword": [
+        "🦄",
+        "test",
+        "runner",
+        "testing",
+        "ava",
+        "concurrent",
+        "parallel",
+        "fast",
+        "tdd",
+        "cli-app",
+        "cli",
+        "jest",
+        "mocha",
+        "tape",
+        "View more"
+      ],
+      "author": "novemberborn"
+    },
+    {
+      "name": "webdriver-manager",
+      "descriptions": "A selenium server and browser driver manager for your end to end tests.",
+      "keyword": [
+        "angular",
+        "test",
+        "testing",
+        "protractor",
+        "webdriver",
+        "webdriverjs",
+        "selenium",
+        "selenium-webdriver"
+      ],
+      "author": "cnishina"
+    },
+    {
+      "name": "json-server",
+      "descriptions": "Serves JSON files through REST routes.",
+      "keyword": [
+        "JSON",
+        "server",
+        "fake",
+        "REST",
+        "API",
+        "prototyping",
+        "mock",
+        "mocking",
+        "test",
+        "testing",
+        "rest",
+        "data",
+        "dummy",
+        "sandbox"
+      ],
+      "author": "typicode"
+    },
+    {
+      "name": "browserstack",
+      "descriptions": "A client for working with the BrowserStack APIs.",
+      "keyword": [
+        "automation",
+        "browser",
+        "browserstack",
+        "screenshot",
+        "testing"
+      ],
+      "author": "scott.gonzalez"
+    },
+    {
+      "name": "gulp-mocha",
+      "descriptions": "Run Mocha tests",
+      "keyword": [
+        "gulpplugin",
+        "mocha",
+        "test",
+        "testing",
+        "unit",
+        "framework",
+        "runner",
+        "tdd",
+        "bdd",
+        "qunit",
+        "spec",
+        "tap"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "enzyme-adapter-utils",
+      "descriptions": "JavaScript Testing utilities for React",
+      "keyword": [
+        "javascript",
+        "shallow rendering",
+        "shallowRender",
+        "test",
+        "reactjs",
+        "react",
+        "flux",
+        "testing",
+        "test utils",
+        "assertion helpers",
+        "tdd",
+        "mocha"
+      ],
+      "author": "ljharb"
+    },
+    {
+      "name": "newman",
+      "descriptions": "Command-line companion utility for Postman",
+      "keyword": [
+        "newman",
+        "postman",
+        "api",
+        "testing",
+        "ci",
+        "rest-client",
+        "rest"
+      ],
+      "author": "codenirvana"
+    },
+    {
+      "name": "fetch-mock",
+      "descriptions": "Mock http requests made using fetch (or isomorphic-fetch)",
+      "keyword": [
+        "fetch",
+        "http",
+        "mock",
+        "testing",
+        "spy",
+        "xhr",
+        "ajax"
+      ],
+      "author": "wheresrhys"
+    },
+    {
+      "name": "karma-firefox-launcher",
+      "descriptions": "A Karma plugin. Launcher for Firefox.",
+      "keyword": [
+        "karma",
+        "testing",
+        "karma-plugin",
+        "karma-launcher",
+        "firefox"
+      ],
+      "author": "karmarunnerbot"
+    },
+    {
+      "name": "nise",
+      "descriptions": "Fake XHR and server",
+      "keyword": [
+        "test",
+        "testing",
+        "fake",
+        "mock",
+        "xhr",
+        "server"
+      ],
+      "author": "mrgnrdrck"
+    },
+    {
+      "name": "@testing-library/react",
+      "descriptions": "Simple and complete React DOM testing utilities that encourage good testing practices.",
+      "keyword": [
+        "testing",
+        "react",
+        "ui",
+        "dom",
+        "jsdom",
+        "unit",
+        "integration",
+        "functional",
+        "end-to-end",
+        "e2e"
+      ],
+      "author": "testing-library-bot"
+    },
+    {
+      "name": "wd",
+      "descriptions": "WebDriver/Selenium 2 node.js client",
+      "keyword": [
+        "testing",
+        "automation",
+        "webdriver",
+        "webdriverjs",
+        "selenium"
+      ],
+      "author": "jlipps"
+    },
+    {
+      "name": "karma-cli",
+      "descriptions": "The Karma command line interface.",
+      "keyword": [
+        "karma",
+        "spectacular",
+        "runner",
+        "js",
+        "javascript",
+        "testing",
+        "test",
+        "remote",
+        "execution"
+      ],
+      "author": "karmarunnerbot"
+    },
+    {
+      "name": "angular-mocks",
+      "descriptions": "AngularJS mocks for testing",
+      "keyword": [
+        "angular",
+        "framework",
+        "browser",
+        "mocks",
+        "testing",
+        "client-side"
+      ],
+      "author": "petebacondarwin"
+    },
+    {
+      "name": "@testing-library/dom",
+      "descriptions": "Simple and complete DOM testing utilities that encourage good testing practices.",
+      "keyword": [
+        "testing",
+        "ui",
+        "dom",
+        "jsdom",
+        "unit",
+        "integration",
+        "functional",
+        "end-to-end",
+        "e2e"
+      ],
+      "author": "testing-library-bot"
+    },
+    {
+      "name": "wait-for-expect",
+      "descriptions": "Wait for expectation to be true, useful for integration and end to end testing",
+      "keyword": [
+        "jest",
+        "expect",
+        "wait",
+        "async",
+        "await",
+        "promise",
+        "integration",
+        "testing",
+        "unit"
+      ],
+      "author": "lgandecki"
+    },
+    {
+      "name": "jest-enzyme",
+      "descriptions": "Testing Matchers for Enzyme",
+      "keyword": [
+        "javascript",
+        "shallow rendering",
+        "shallowRender",
+        "test",
+        "reactjs",
+        "react",
+        "flux",
+        "testing",
+        "test utils",
+        "assertion helpers",
+        "tdd",
+        "jest",
+        "enzyme"
+      ],
+      "author": "blainekasten"
+    },
+    {
+      "name": "jasminewd2",
+      "descriptions": "WebDriverJS adapter for Jasmine2.",
+      "keyword": [
+        "test",
+        "testing",
+        "webdriver",
+        "webdriverjs",
+        "selenium",
+        "jasmine"
+      ],
+      "author": "angularcore"
+    },
+    {
+      "name": "tap",
+      "descriptions": "A Test-Anything-Protocol library for JavaScript",
+      "keyword": [
+        "assert",
+        "tap",
+        "test",
+        "testing"
+      ],
+      "author": "isaacs"
+    },
+    {
+      "name": "blocking-proxy",
+      "descriptions": "WebDriver Proxy for testing rich clients. It block certain calls until Angular is done updating the page under test.",
+      "keyword": [
+        "test",
+        "testing",
+        "webdriver",
+        "webdriverjs",
+        "selenium"
+      ],
+      "author": "angularcore"
+    },
+    {
+      "name": "webdriver-js-extender",
+      "descriptions": "A plugin which adds additional commands to selenium's javascript implementation of the webdriver client side API",
+      "keyword": [
+        "testing",
+        "webdriver",
+        "webdriverjs",
+        "selenium",
+        "appium"
+      ],
+      "author": "angularcore"
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "keyword": "frameworks",
+  "packages": [
+    {
+      "name": "@nestjsx/crud",
+      "descriptions": "NestJs CRUD for RESTful APIs",
+      "keyword": [
+        "typescript",
+        "typeorm",
+        "nest",
+        "nestjs",
+        "rest",
+        "restful",
+        "api",
+        "crud",
+        "crud-generator",
+        "backend",
+        "frameworks"
+      ],
+      "author": "zmotivat0r"
+    },
+    {
+      "name": "@nestjsx/crud-typeorm",
+      "descriptions": "NestJs CRUD for RESTful APIs - TypeORM",
+      "keyword": [
+        "typescript",
+        "typeorm",
+        "nest",
+        "nestjs",
+        "rest",
+        "restful",
+        "api",
+        "crud",
+        "crud-generator",
+        "backend",
+        "frameworks"
+      ],
+      "author": "zmotivat0r"
+    },
+    {
+      "name": "cbp-theme",
+      "descriptions": "CBP Common Framework UI Theme",
+      "keyword": [
+        "CBP",
+        "CF",
+        "Common",
+        "Frameworks",
+        "Team",
+        "UI"
+      ],
+      "author": "higgo36"
+    },
+    {
+      "name": "@tsdi/boot",
+      "descriptions": "Application bootstrap. base on AOP, Ioc container, via @tsdi/core .",
+      "keyword": [
+        "boot",
+        "frameworks",
+        "Application",
+        "AOP",
+        "aop",
+        "tsdi",
+        "@tsdi",
+        "tsioc",
+        "ioc",
+        "IoC",
+        "type",
+        "container",
+        "dependency",
+        "injection"
+      ],
+      "author": "houjun"
+    },
+    {
+      "name": "@mvx/mvc",
+      "descriptions": "@Mvx/mvc is mvc framework on server, base on koa, @tsdi frameworks",
+      "keyword": [
+        "mvc",
+        "type-mvc",
+        "typemvc",
+        "boot",
+        "frameworks",
+        "Application",
+        "AOP",
+        "aop",
+        "tsdi",
+        "@tsdi",
+        "tsioc",
+        "ioc",
+        "IoC",
+        "type",
+        "View more"
+      ],
+      "author": "houjun"
+    },
+    {
+      "name": "@tsdi/components",
+      "descriptions": "Application components. base on AOP, Ioc container, via @tsdi/core .",
+      "keyword": [
+        "components",
+        "boot",
+        "frameworks",
+        "Application",
+        "AOP",
+        "aop",
+        "tsdi",
+        "@tsdi",
+        "tsioc",
+        "ioc",
+        "IoC",
+        "type",
+        "container",
+        "dependency"
+      ],
+      "author": "houjun"
+    },
+    {
+      "name": "@tsdi/platform-server-boot",
+      "descriptions": "Boot application on node server, AOP Ioc container, via typescript decorator",
+      "keyword": [
+        "boot",
+        "Application",
+        "frameworks",
+        "platform",
+        "server",
+        "AOP",
+        "aop",
+        "tsdi",
+        "@tsdi",
+        "tsioc",
+        "ioc",
+        "IoC",
+        "type",
+        "container",
+        "View more"
+      ],
+      "author": "houjun"
+    },
+    {
+      "name": "@mvx/identity",
+      "descriptions": "Identity is oidc for mvc, type-mvc is base on koa. Decorator, Ioc, AOP mvc framework on server.",
+      "keyword": [
+        "oidc",
+        "identity",
+        "mvc",
+        "type-mvc",
+        "typemvc",
+        "boot",
+        "frameworks",
+        "Application",
+        "AOP",
+        "aop",
+        "tsdi",
+        "@tsdi",
+        "tsioc",
+        "ioc",
+        "View more"
+      ],
+      "author": "houjun"
+    },
+    {
+      "name": "mithril-coat",
+      "descriptions": "A minimalistic frontend web framework that builds on Mithril",
+      "keyword": [
+        "frameworks",
+        "client",
+        "web",
+        "app",
+        "mithril",
+        "mvc"
+      ],
+      "author": "shlomo-muse"
+    },
+    {
+      "name": "tcpleveldb",
+      "descriptions": "A implementation of the leveldb with a tcp-server and client in node.js",
+      "keyword": [
+        "tcpleveldb",
+        "store",
+        "database",
+        "leveldb",
+        "client",
+        "server",
+        "tcp",
+        "IoT",
+        "frameworks",
+        "backend"
+      ],
+      "author": "yamigr"
+    },
+    {
+      "name": "caviar",
+      "descriptions": "A pluggable and extendable web framework which integrates React, Next and Koa to create your own web application out of the box with even zero configuration",
+      "keyword": [
+        "caviar",
+        "skeleton",
+        "frameworks",
+        "web framework",
+        "micro-frontends",
+        "frontends",
+        "config chain",
+        "config layer",
+        "blocks",
+        "BFF",
+        "backend-for-frontend"
+      ],
+      "author": "kael"
+    },
+    {
+      "name": "@tsdi/platform-browser-boot",
+      "descriptions": "Tsioc is AOP, Ioc container, via typescript decorator",
+      "keyword": [
+        "boot",
+        "Application",
+        "frameworks",
+        "plarform",
+        "browser",
+        "AOP",
+        "aop",
+        "tsdi",
+        "@tsdi",
+        "tsioc",
+        "ioc",
+        "IoC",
+        "type",
+        "container",
+        "View more"
+      ],
+      "author": "houjun"
+    },
+    {
+      "name": "rollup-boilerplate",
+      "descriptions": "Rollup boilerplate is a project generator for UMD libraries",
+      "keyword": [
+        "rollup",
+        "boilerplate",
+        "rollup-boilerplate",
+        "rollup boilerplate",
+        "starter",
+        "project builder",
+        "builder",
+        "app",
+        "plugins",
+        "libraries",
+        "frameworks",
+        "library",
+        "framework",
+        "umd",
+        "View more"
+      ],
+      "author": "scssyworks"
+    },
+    {
+      "name": "@mvx/typeorm-adapter",
+      "descriptions": "@Mvx/typeorm-adapter is typeorm adapter orm for mvc, type-mvc is base on koa. Decorator, Ioc, AOP mvc frameworker on server.",
+      "keyword": [
+        "typeorm",
+        "adapter",
+        "mvc",
+        "type-mvc",
+        "typemvc",
+        "boot",
+        "frameworks",
+        "Application",
+        "AOP",
+        "aop",
+        "tsdi",
+        "@tsdi",
+        "tsioc",
+        "ioc",
+        "View more"
+      ],
+      "author": "houjun"
+    },
+    {
+      "name": "@mvx/model",
+      "descriptions": "@Mvx/model is model for mvc frameworker on server.",
+      "keyword": [
+        "model",
+        "type-mvc",
+        "typemvc",
+        "boot",
+        "frameworks",
+        "Application",
+        "AOP",
+        "aop",
+        "tsdi",
+        "@tsdi",
+        "tsioc",
+        "ioc",
+        "IoC",
+        "type",
+        "View more"
+      ],
+      "author": "houjun"
+    },
+    {
+      "name": "sqltt",
+      "descriptions": "SQL Tagged Templates",
+      "keyword": [
+        "SQL",
+        "database",
+        "backend",
+        "cli",
+        "frameworks",
+        "GraphQL",
+        "orm",
+        "string",
+        "template",
+        "TaggedTemplates",
+        "DRY"
+      ],
+      "author": "joanmi"
+    },
+    {
+      "name": "cordova-plugin-ios-framework-adsupport",
+      "descriptions": "Add AdSupport.framework to your xcode project generated by cordova",
+      "keyword": [
+        "ecosystem:cordova",
+        "cordova-ios",
+        "frameworks",
+        "Xcode"
+      ],
+      "author": "tbetous"
+    },
+    {
+      "name": "@scalio-oss/nest-couchbase",
+      "descriptions": "Couchbase module for Nest framework",
+      "keyword": [
+        "typescript",
+        "couchbase",
+        "orm",
+        "nest",
+        "nestjs",
+        "api",
+        "backend",
+        "frameworks"
+      ],
+      "author": "gorilych"
+    },
+    {
+      "name": "pusudb",
+      "descriptions": "Framework to build web- and micro-services.",
+      "keyword": [
+        "pusuDB",
+        "pusudb",
+        "database",
+        "leveldb",
+        "websocket",
+        "server",
+        "ws",
+        "IoT",
+        "frameworks",
+        "framework",
+        "backend",
+        "realtime",
+        "webservice",
+        "REST",
+        "View more"
+      ],
+      "author": "yamigr"
+    },
+    {
+      "name": "@patched-nestjsx/crud",
+      "descriptions": "NestJs CRUD for RESTful APIs",
+      "keyword": [
+        "typescript",
+        "typeorm",
+        "nest",
+        "nestjs",
+        "rest",
+        "restful",
+        "api",
+        "crud",
+        "crud-generator",
+        "backend",
+        "frameworks"
+      ],
+      "author": "mike12"
+    },
+    {
+      "name": "@patched-nestjsx/crud-typeorm",
+      "descriptions": "NestJs CRUD for RESTful APIs - TypeORM",
+      "keyword": [
+        "typescript",
+        "typeorm",
+        "nest",
+        "nestjs",
+        "rest",
+        "restful",
+        "api",
+        "crud",
+        "crud-generator",
+        "backend",
+        "frameworks"
+      ],
+      "author": "mike12"
+    },
+    {
+      "name": "pusudb-use-ejs",
+      "descriptions": "A ejs middleware for the pusudb-framework.",
+      "keyword": [
+        "pusuDB",
+        "pusudb",
+        "server",
+        "middleware",
+        "extension",
+        "web",
+        "http",
+        "html",
+        "webpage",
+        "IoT",
+        "frameworks",
+        "framework",
+        "backend",
+        "ejs",
+        "View more"
+      ],
+      "author": "yamigr"
+    },
+    {
+      "name": "pusudb-use-static-file",
+      "descriptions": "A static-file middleware for the pusudb-framework.",
+      "keyword": [
+        "pusuDB",
+        "pusudb",
+        "server",
+        "middleware",
+        "extension",
+        "web",
+        "http",
+        "html",
+        "static",
+        "webpage",
+        "IoT",
+        "frameworks",
+        "framework",
+        "backend",
+        "View more"
+      ],
+      "author": "yamigr"
+    },
+    {
+      "name": "meow-boilerplate",
+      "descriptions": "It's just a little Meow Boilerplate for your next Project",
+      "keyword": [
+        "boilerplate",
+        "startkit",
+        "template",
+        "library",
+        "front end",
+        "css",
+        "documentation",
+        "sass",
+        "cypress",
+        "webpack",
+        "gulp",
+        "sassdoc",
+        "grid",
+        "layout",
+        "View more"
+      ],
+      "author": "redeagle"
+    },
+    {
+      "name": "pusudb-use-auth-jwt",
+      "descriptions": "A authentiation middleware for the pusudb-framework.",
+      "keyword": [
+        "pusuDB",
+        "pusudb",
+        "server",
+        "middleware",
+        "extension",
+        "web",
+        "http",
+        "html",
+        "auth",
+        "IoT",
+        "frameworks",
+        "framework",
+        "backend",
+        "authentication",
+        "View more"
+      ],
+      "author": "yamigr"
+    },
+    {
+      "name": "leaftech-crud-typeorm",
+      "descriptions": "NestJs CRUD for RESTful APIs - TypeORM",
+      "keyword": [
+        "typescript",
+        "typeorm",
+        "nest",
+        "nestjs",
+        "rest",
+        "restful",
+        "api",
+        "crud",
+        "crud-generator",
+        "backend",
+        "frameworks"
+      ],
+      "author": "tui2tone"
+    },
+    {
+      "name": "fastnodejs",
+      "descriptions": "This is nodejs web frameworks",
+      "keyword": [
+        "web",
+        "frameworks"
+      ],
+      "author": "como20170606"
+    },
+    {
+      "name": "express-prerender",
+      "descriptions": "A prerender middleware for express. This middleware serves cached prerendered pages for crawlers or if no cached page exists for a requested page it will cache a page using PhantomJS and respond with that newly cached page.",
+      "keyword": [
+        "express",
+        "middleware",
+        "prerender",
+        "javascript",
+        "frontend",
+        "frameworks"
+      ],
+      "author": "kalk"
+    },
+    {
+      "name": "generator-flask-heroku",
+      "descriptions": "Yeoman generator for Flask project to be deployed to Heroku",
+      "keyword": [
+        "yeoman",
+        "yeoman-generator",
+        "flask-generator",
+        "python",
+        "heroku",
+        "dokku",
+        "flask",
+        "yo",
+        "frameworks",
+        "micro frameworks",
+        "generator",
+        "cli",
+        "tool",
+        "development"
+      ],
+      "author": "arudmin"
+    },
+    {
+      "name": "tcppubsub",
+      "descriptions": "A simple node-js-tcp publish-subscribe framework. With a broker and a client called member.",
+      "keyword": [
+        "tcppubsub",
+        "publish",
+        "subscribe",
+        "dealer",
+        "consumer",
+        "server",
+        "member",
+        "broker",
+        "IoT",
+        "frameworks",
+        "backend"
+      ],
+      "author": "yamigr"
+    },
+    {
+      "name": "generator-flask-materialize",
+      "descriptions": "Yeoman generator for Flask project to be deployed to materialize",
+      "keyword": [
+        "yeoman",
+        "yeoman-generator",
+        "flask-generator",
+        "python",
+        "materialize",
+        "dokku",
+        "flask",
+        "yo",
+        "frameworks",
+        "micro frameworks",
+        "generator",
+        "cli",
+        "heroku",
+        "tool"
+      ],
+      "author": "arudmin"
+    },
+    {
+      "name": "generator-flask",
+      "descriptions": "Yeoman generator for Flask project",
+      "keyword": [
+        "yeoman",
+        "yeoman-generator",
+        "yo",
+        "python",
+        "flask",
+        "frameworks",
+        "micro frameworks",
+        "generator",
+        "cli",
+        "tool",
+        "development"
+      ],
+      "author": "romainberger"
+    },
+    {
+      "name": "nestjs-crud-typeorm",
+      "descriptions": "NestJs CRUD for RESTful APIs - TypeORM",
+      "keyword": [
+        "typescript",
+        "typeorm",
+        "nest",
+        "nestjs",
+        "rest",
+        "restful",
+        "api",
+        "crud",
+        "crud-generator",
+        "backend",
+        "frameworks"
+      ],
+      "author": "joeybenenati"
+    },
+    {
+      "name": "js-templates-generator",
+      "descriptions": "[![CircleCI](https://circleci.com/gh/onwuvic/templetes-generator.svg?style=svg)](https://circleci.com/gh/onwuvic/templetes-generator) [![Maintainability](https://api.codeclimate.com/v1/badges/87660de3566aad73ebdd/maintainability)](https://codeclimate.com",
+      "keyword": [
+        "boilerplate",
+        "node",
+        "template",
+        "CLI",
+        "generate",
+        "javascript",
+        "frameworks"
+      ],
+      "author": "onwuvic"
+    },
+    {
+      "name": "cordova-plugin-ios-frameworks",
+      "descriptions": "Add additional libraries/frameworks to your Xcode project on Prepare/Build/Run",
+      "keyword": [
+        "ecosystem:cordova",
+        "cordova-ios",
+        "frameworks",
+        "Xcode"
+      ],
+      "author": "nestedlooper"
+    },
+    {
+      "name": "mws-spotify-wrapper",
+      "descriptions": "This project was created to test TDD Frameworks and tools",
+      "keyword": [
+        "tdd",
+        "testing",
+        "frameworks"
+      ],
+      "author": "mws.souza"
+    },
+    {
+      "name": "rebox",
+      "descriptions": "Simple REST sandbox for local developments",
+      "keyword": [
+        "rest",
+        "sandbox",
+        "local",
+        "developments",
+        "frameworks",
+        "learning"
+      ],
+      "author": "goliney"
+    },
+    {
+      "name": "middleware-dispatcher",
+      "descriptions": "Middlewares for objects and classes",
+      "keyword": [
+        "frameworks",
+        "middlewares"
+      ],
+      "author": "shuvalov-anton"
+    },
+    {
+      "name": "katalyst",
+      "descriptions": "Full-stack, highly-scalable web frameworks, based on koa",
+      "keyword": [
+        "Web",
+        "frameworks"
+      ],
+      "author": "robinqu"
+    },
+    {
+      "name": "cbp-theme-modified",
+      "descriptions": "Modified and Updated CBP Common Framework UI Theme",
+      "keyword": [
+        "CBP",
+        "CF",
+        "Common",
+        "Frameworks",
+        "Team",
+        "UI"
+      ],
+      "author": "tenji240"
+    }
+  ]
+}

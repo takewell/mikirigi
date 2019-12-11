@@ -1,0 +1,659 @@
+{
+  "keyword": "mobile",
+  "packages": [
+    {
+      "name": "swiper",
+      "descriptions": "Most modern mobile touch slider and framework with hardware accelerated transitions",
+      "keyword": [
+        "swiper",
+        "swipe",
+        "slider",
+        "touch",
+        "ios",
+        "mobile",
+        "cordova",
+        "phonegap",
+        "app",
+        "framework",
+        "framework7",
+        "carousel",
+        "gallery",
+        "plugin"
+      ],
+      "author": "nolimits4web"
+    },
+    {
+      "name": "react-native-vector-icons",
+      "descriptions": "Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "osx",
+        "windows",
+        "macos",
+        "ui",
+        "icon",
+        "icons",
+        "vector",
+        "View more"
+      ],
+      "author": "oblador"
+    },
+    {
+      "name": "libphonenumber-js",
+      "descriptions": "A simpler (and smaller) rewrite of Google Android's popular libphonenumber library",
+      "keyword": [
+        "javascript",
+        "telephone",
+        "phone",
+        "number",
+        "input",
+        "mobile",
+        "android",
+        "iphone",
+        "international",
+        "libphonenumber"
+      ],
+      "author": "catamphetamine"
+    },
+    {
+      "name": "ionicons",
+      "descriptions": "Premium icons for Ionic.",
+      "keyword": [
+        "ionicons",
+        "ionic",
+        "icon",
+        "svg",
+        "font",
+        "mobile",
+        "web component",
+        "component",
+        "custom element"
+      ],
+      "author": "adamdbradley"
+    },
+    {
+      "name": "mobile-detect",
+      "descriptions": "Device detection (phone, tablet, desktop, mobile grade, os, versions)",
+      "keyword": [
+        "useragent",
+        "mobile",
+        "phone",
+        "tablet",
+        "detect",
+        "device",
+        "browser",
+        "version",
+        "mobilegrade",
+        "sniff"
+      ],
+      "author": "hgoebl"
+    },
+    {
+      "name": "fastclick",
+      "descriptions": "Polyfill to remove click delays on browsers with touch UIs.",
+      "keyword": [
+        "fastclick",
+        "mobile",
+        "touch",
+        "tap",
+        "click",
+        "delay"
+      ],
+      "author": "mattandrews"
+    },
+    {
+      "name": "react-responsive",
+      "descriptions": "Media queries in react for responsive design",
+      "keyword": [
+        "css",
+        "react-component",
+        "viewport",
+        "react",
+        "mobile",
+        "media queries",
+        "respond",
+        "media query",
+        "matchMedia",
+        "responsive",
+        "component"
+      ],
+      "author": "contra"
+    },
+    {
+      "name": "react-native-animatable",
+      "descriptions": "Easy to use declarative transitions and animations for React Native",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "fade",
+        "bounce",
+        "slide",
+        "animatable",
+        "transition",
+        "animation"
+      ],
+      "author": "oblador"
+    },
+    {
+      "name": "parse",
+      "descriptions": "The Parse JavaScript SDK",
+      "keyword": [
+        "cloud",
+        "mobile",
+        "api"
+      ],
+      "author": "acinader"
+    },
+    {
+      "name": "ionic",
+      "descriptions": "A tool for creating and developing Ionic Framework mobile apps.",
+      "keyword": [
+        "ionic",
+        "ionic framework",
+        "ionicframework",
+        "mobile",
+        "app",
+        "hybrid",
+        "cordova",
+        "native",
+        "phonegap"
+      ],
+      "author": "ionicjs"
+    },
+    {
+      "name": "body-scroll-lock",
+      "descriptions": "Enables body scroll locking (for iOS Mobile and Tablet, Android, desktop Safari/Chrome/Firefox) without breaking scrolling of a target element (eg. modal/lightbox/flyouts/nav-menus)",
+      "keyword": [
+        "body scroll",
+        "body scroll lock",
+        "react scroll lock",
+        "react scroll",
+        "scroll",
+        "lock",
+        "freeze",
+        "toggle",
+        "disable",
+        "overflow",
+        "modal",
+        "lightbox",
+        "react",
+        "vanilla-js",
+        "View more"
+      ],
+      "author": "willmcpo"
+    },
+    {
+      "name": "ionic-angular",
+      "descriptions": "A powerful framework for building mobile and progressive web apps with JavaScript and Angular",
+      "keyword": [
+        "ionic",
+        "framework",
+        "mobile",
+        "app",
+        "hybrid",
+        "webapp",
+        "cordova",
+        "progressive web app",
+        "pwa"
+      ],
+      "author": "liamdebeasi"
+    },
+    {
+      "name": "loopback",
+      "descriptions": "LoopBack: Open Source Framework for Node.js",
+      "keyword": [
+        "web",
+        "restful",
+        "rest",
+        "api",
+        "express",
+        "restify",
+        "koa",
+        "auth",
+        "security",
+        "oracle",
+        "mysql",
+        "nosql",
+        "mongo",
+        "mongodb",
+        "View more"
+      ],
+      "author": "bajtos"
+    },
+    {
+      "name": "dom7",
+      "descriptions": "Minimalistic JavaScript library for DOM manipulation, with a jQuery-compatible API",
+      "keyword": [
+        "dom",
+        "dom7",
+        "jquery",
+        "mobile",
+        "framework7"
+      ],
+      "author": "nolimits4web"
+    },
+    {
+      "name": "is-mobile",
+      "descriptions": "Check if mobile browser.",
+      "keyword": [
+        "mobile",
+        "desktop",
+        "check",
+        "browser"
+      ],
+      "author": "juliangruber"
+    },
+    {
+      "name": "intl-tel-input",
+      "descriptions": "A JavaScript plugin for entering and validating international telephone numbers",
+      "keyword": [
+        "international",
+        "i18n",
+        "country",
+        "dial",
+        "code",
+        "telephone",
+        "mobile",
+        "input",
+        "flag"
+      ],
+      "author": "jackocnr"
+    },
+    {
+      "name": "rc-hammerjs",
+      "descriptions": "ReactJS / HammerJS integration. Support touch events in your React app.",
+      "keyword": [
+        "react",
+        "react-component",
+        "tap",
+        "tappable",
+        "touch",
+        "hammer",
+        "hammerjs",
+        "mobile"
+      ],
+      "author": "paranoidjk"
+    },
+    {
+      "name": "react-device-detect",
+      "descriptions": "Detect device type and render your component according to it",
+      "keyword": [
+        "useragent",
+        "mobile",
+        "phone",
+        "tablet",
+        "detect",
+        "device",
+        "browser",
+        "smart-tv",
+        "smarttv",
+        "version",
+        "model",
+        "console"
+      ],
+      "author": "duskload"
+    },
+    {
+      "name": "css-mediaquery",
+      "descriptions": "Parses and determines if a given CSS Media Query matches a set of values.",
+      "keyword": [
+        "css",
+        "media",
+        "query",
+        "mediaquery",
+        "mobile",
+        "parse",
+        "match"
+      ],
+      "author": "ericf"
+    },
+    {
+      "name": "antd-mobile",
+      "descriptions": "基于 React 的移动设计规范实现",
+      "keyword": [
+        "ant",
+        "design",
+        "react",
+        "react-component",
+        "component",
+        "components",
+        "ui",
+        "framework",
+        "frontend",
+        "mobile"
+      ],
+      "author": "yuanfei.gyf"
+    },
+    {
+      "name": "react-native-collapsible",
+      "descriptions": "Animated collapsible component for React Native using the Animated API. Good for accordions, toggles etc",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "collapse",
+        "collapsible",
+        "toggle",
+        "accordion"
+      ],
+      "author": "oblador"
+    },
+    {
+      "name": "iscroll",
+      "descriptions": "Smooth scrolling for the web",
+      "keyword": [
+        "scrolling",
+        "carousel",
+        "zoom",
+        "iphone",
+        "android",
+        "mobile",
+        "desktop"
+      ],
+      "author": "cubiq"
+    },
+    {
+      "name": "react-easy-swipe",
+      "descriptions": "React easy swipe - Easy handler for common touch operations",
+      "keyword": [
+        "React swipe",
+        "React easy swipe",
+        "React touch",
+        "react-swipe",
+        "react-easy-swipe",
+        "react-touch",
+        "react-component",
+        "Mobile",
+        "Swipe",
+        "Touch"
+      ],
+      "author": "leandrowd"
+    },
+    {
+      "name": "@ionic/core",
+      "descriptions": "Base components for Ionic",
+      "keyword": [
+        "ionic",
+        "framework",
+        "stencil",
+        "mobile",
+        "app",
+        "webapp",
+        "capacitor",
+        "cordova",
+        "electron",
+        "progressive web app",
+        "pwa"
+      ],
+      "author": "liamdebeasi"
+    },
+    {
+      "name": "react-native-progress",
+      "descriptions": "Progress indicators and spinners for React Native using ReactART",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "ui",
+        "progress",
+        "progressindicator",
+        "circle",
+        "pie",
+        "bar",
+        "progressbar",
+        "indeterminate",
+        "View more"
+      ],
+      "author": "oblador"
+    },
+    {
+      "name": "magnific-popup",
+      "descriptions": "Lightbox and modal dialog plugin. Can display inline HTML, iframes (YouTube video, Vimeo, Google Maps), or an image gallery. Animation effects are added with CSS3 transitions. For jQuery or Zepto.",
+      "keyword": [
+        "ecosystem:jquery",
+        "jquery-plugin",
+        "zepto",
+        "lightbox",
+        "popup",
+        "modal",
+        "window",
+        "dialog",
+        "gallery",
+        "jquery",
+        "photo",
+        "responsive",
+        "mobile"
+      ],
+      "author": "dimsemenov"
+    },
+    {
+      "name": "appium-android-driver",
+      "descriptions": "Android UiAutomator and Chrome support for Appium",
+      "keyword": [
+        "appium",
+        "android",
+        "testing",
+        "automation",
+        "mobile",
+        "mobile testing"
+      ],
+      "author": "nick.mokhnach"
+    },
+    {
+      "name": "react-hammerjs",
+      "descriptions": "ReactJS / HammerJS integration. Support touch events in your React app.",
+      "keyword": [
+        "react",
+        "react-component",
+        "tap",
+        "tappable",
+        "touch",
+        "hammer",
+        "hammerjs",
+        "mobile"
+      ],
+      "author": "jedwatson"
+    },
+    {
+      "name": "vconsole",
+      "descriptions": "A lightweight, extendable front-end developer tool for mobile web page.",
+      "keyword": [
+        "console",
+        "debug",
+        "mobile"
+      ],
+      "author": "maiz"
+    },
+    {
+      "name": "express-device",
+      "descriptions": "Browser detection library, built on top of express",
+      "keyword": [
+        "browser",
+        "mobile",
+        "detection",
+        "user-agent",
+        "useragent",
+        "express",
+        "layout",
+        "view routing",
+        "desktop",
+        "phone",
+        "tablet",
+        "tv",
+        "bot",
+        "car",
+        "View more"
+      ],
+      "author": "rguerreiro"
+    },
+    {
+      "name": "@ionic/angular",
+      "descriptions": "Angular specific wrappers for @ionic/core",
+      "keyword": [
+        "ionic",
+        "framework",
+        "angular",
+        "mobile",
+        "app",
+        "webapp",
+        "capacitor",
+        "cordova",
+        "progressive web app",
+        "pwa"
+      ],
+      "author": "liamdebeasi"
+    },
+    {
+      "name": "react-native-lightbox",
+      "descriptions": "Images etc in Full Screen Lightbox Popovers for React Native",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "lightbox",
+        "gallery",
+        "image"
+      ],
+      "author": "oblador"
+    },
+    {
+      "name": "mint-ui",
+      "descriptions": "Mobile UI elements for vue.js",
+      "keyword": [
+        "component",
+        "vue",
+        "mobile",
+        "eleme"
+      ],
+      "author": "marchen"
+    },
+    {
+      "name": "device",
+      "descriptions": "Device type detection library based on the useragent string. Refactored from express-device.",
+      "keyword": [
+        "browser",
+        "mobile",
+        "detection",
+        "user-agent",
+        "useragent",
+        "desktop",
+        "phone",
+        "tablet",
+        "tv",
+        "bot",
+        "car",
+        "parsing",
+        "device"
+      ],
+      "author": "rguerreiro"
+    },
+    {
+      "name": "react-native-extended-stylesheet",
+      "descriptions": "Extended StyleSheets for React Native",
+      "keyword": [
+        "react",
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "mobile",
+        "ios",
+        "android"
+      ],
+      "author": "vitalets"
+    },
+    {
+      "name": "react-native-htmlview",
+      "descriptions": "A component which renders HTML content as native views",
+      "keyword": [
+        "react",
+        "html",
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "mobile",
+        "ui"
+      ],
+      "author": "jsdf"
+    },
+    {
+      "name": "weui",
+      "descriptions": "A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.",
+      "keyword": [
+        "weui",
+        "wechat",
+        "weixin",
+        "css",
+        "less",
+        "mobile"
+      ],
+      "author": "weui"
+    },
+    {
+      "name": "nativescript",
+      "descriptions": "Command-line interface for building NativeScript projects",
+      "keyword": [
+        "nativescript",
+        "telerik",
+        "mobile"
+      ],
+      "author": "tns-bot"
+    },
+    {
+      "name": "ember-gestures",
+      "descriptions": "TouchAction and Gesture support for Ember Applications",
+      "keyword": [
+        "ember-addon",
+        "mobile",
+        "touch",
+        "gestures",
+        "hammerjs",
+        "ember",
+        "fastclick",
+        "touch action",
+        "pointer events"
+      ],
+      "author": "eriktrom"
+    },
+    {
+      "name": "lory.js",
+      "descriptions": "Touch enabled minimalistic slider written in vanilla JavaScript.",
+      "keyword": [
+        "responsive",
+        "lightweight",
+        "minimalistic",
+        "carousel",
+        "slider",
+        "touch",
+        "slideshow",
+        "jQuery",
+        "mobile"
+      ],
+      "author": "meandmax"
+    }
+  ]
+}

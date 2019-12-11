@@ -1,0 +1,596 @@
+{
+  "keyword": "backend",
+  "packages": [
+    {
+      "name": "local-web-server",
+      "descriptions": "A lean, modular web server for rapid full-stack development",
+      "keyword": [
+        "dev",
+        "server",
+        "web",
+        "tool",
+        "front-end",
+        "development",
+        "cors",
+        "mime",
+        "rest",
+        "mock",
+        "api",
+        "proxy",
+        "lws",
+        "backend",
+        "View more"
+      ],
+      "author": "75lb"
+    },
+    {
+      "name": "strapi",
+      "descriptions": "An open source headless CMS solution to create and manage your own API. It provides a powerful dashboard and features to make your life easier. Databases supported: MongoDB, MySQL, MariaDB, PostgreSQL, SQLite",
+      "keyword": [
+        "strapi",
+        "cms",
+        "cmf",
+        "content management system",
+        "content management framework",
+        "admin panel",
+        "dashboard",
+        "api",
+        "auth",
+        "framework",
+        "http",
+        "json",
+        "koa",
+        "koajs",
+        "View more"
+      ],
+      "author": "alexandrebodin"
+    },
+    {
+      "name": "prisma",
+      "descriptions": "Prisma is a realtime GraphQL database layer. Connect directly from the frontend or build your own GraphQL server.",
+      "keyword": [
+        "prisma",
+        "graphql",
+        "backend",
+        "deployment",
+        "api",
+        "server"
+      ],
+      "author": "timsuchanek"
+    },
+    {
+      "name": "gentelella",
+      "descriptions": "Gentelella Admin is a free to use Bootstrap admin template",
+      "keyword": [
+        "css",
+        "js",
+        "html",
+        "template",
+        "admin",
+        "bootstrap",
+        "theme",
+        "backend",
+        "responsive"
+      ],
+      "author": "andreicn"
+    },
+    {
+      "name": "netlify-cms-backend-test",
+      "descriptions": "Development testing backend for Netlify CMS",
+      "keyword": [
+        "netlify",
+        "netlify-cms",
+        "backend"
+      ],
+      "author": "erquhart"
+    },
+    {
+      "name": "netlify-cms-backend-bitbucket",
+      "descriptions": "Bitbucket backend for Netlify CMS",
+      "keyword": [
+        "netlify",
+        "netlify-cms",
+        "backend",
+        "bitbucket"
+      ],
+      "author": "erquhart"
+    },
+    {
+      "name": "netlify-cms-backend-gitlab",
+      "descriptions": "GitLab backend for Netlify CMS",
+      "keyword": [
+        "netlify",
+        "netlify-cms",
+        "backend",
+        "gitlab"
+      ],
+      "author": "erquhart"
+    },
+    {
+      "name": "netlify-cms-backend-git-gateway",
+      "descriptions": "Git Gateway backend for Netlify CMS",
+      "keyword": [
+        "netlify",
+        "netlify-cms",
+        "backend",
+        "git-gateway",
+        "gateway"
+      ],
+      "author": "erquhart"
+    },
+    {
+      "name": "netlify-cms-backend-github",
+      "descriptions": "GitHub backend for Netlify CMS",
+      "keyword": [
+        "netlify",
+        "netlify-cms",
+        "backend",
+        "github"
+      ],
+      "author": "erquhart"
+    },
+    {
+      "name": "kuzzle-sdk",
+      "descriptions": "Official Javascript SDK for Kuzzle",
+      "keyword": [
+        "kuzzle",
+        "sdk",
+        "baas",
+        "backend",
+        "realtime",
+        "advanced search",
+        "bulk"
+      ],
+      "author": "kuzzle"
+    },
+    {
+      "name": "git-http-backend",
+      "descriptions": "Serve a git repository over http",
+      "keyword": [
+        "git",
+        "http",
+        "backend",
+        "web",
+        "server",
+        "git-receive-pack",
+        "git-update-pack"
+      ],
+      "author": "substack"
+    },
+    {
+      "name": "sails-generate-backend",
+      "descriptions": "Default generator for backend code files in new Sails projects. Creates the default contents of the `api/` and `config/` folders when you run `sails new` on the command line.",
+      "keyword": [
+        "backend",
+        "generator",
+        "sails",
+        "generate",
+        "plugin"
+      ],
+      "author": "sgress454"
+    },
+    {
+      "name": "lws",
+      "descriptions": "A lean, modular web server for rapid full-stack development",
+      "keyword": [
+        "lws",
+        "server",
+        "http",
+        "http2",
+        "https",
+        "backend"
+      ],
+      "author": "75lb"
+    },
+    {
+      "name": "strongloop",
+      "descriptions": "StrongLoop Command Line Tools",
+      "keyword": [
+        "Backend",
+        "LoopBack",
+        "Mobile",
+        "Platform",
+        "StrongLoop",
+        "alerts",
+        "analytics",
+        "agent",
+        "apm",
+        "build",
+        "bundle",
+        "cluster",
+        "config",
+        "dependencies",
+        "View more"
+      ],
+      "author": "superkhau"
+    },
+    {
+      "name": "lws-index",
+      "descriptions": "Serve-index middleware plugin for lws",
+      "keyword": [
+        "lws",
+        "lws-middleware",
+        "index",
+        "server",
+        "backend"
+      ],
+      "author": "75lb"
+    },
+    {
+      "name": "dnd-multi-backend",
+      "descriptions": "Multi Backend system compatible with DnD Core / React DnD",
+      "keyword": [
+        "agnostic",
+        "dnd",
+        "drag",
+        "drop",
+        "backend",
+        "multi"
+      ],
+      "author": "louisbrunner"
+    },
+    {
+      "name": "node-pnglib",
+      "descriptions": "Pure Javascript lib for generate PNG with backend Node.js.",
+      "keyword": [
+        "pictrue",
+        "png",
+        "pngjs",
+        "pnglib",
+        "backend"
+      ],
+      "author": "lellansin"
+    },
+    {
+      "name": "@nestjsx/crud",
+      "descriptions": "NestJs CRUD for RESTful APIs",
+      "keyword": [
+        "typescript",
+        "typeorm",
+        "nest",
+        "nestjs",
+        "rest",
+        "restful",
+        "api",
+        "crud",
+        "crud-generator",
+        "backend",
+        "frameworks"
+      ],
+      "author": "zmotivat0r"
+    },
+    {
+      "name": "@nestjsx/crud-typeorm",
+      "descriptions": "NestJs CRUD for RESTful APIs - TypeORM",
+      "keyword": [
+        "typescript",
+        "typeorm",
+        "nest",
+        "nestjs",
+        "rest",
+        "restful",
+        "api",
+        "crud",
+        "crud-generator",
+        "backend",
+        "frameworks"
+      ],
+      "author": "zmotivat0r"
+    },
+    {
+      "name": "statsd-udpkv-backend",
+      "descriptions": "A StatsD backend for simple udp receivers, such as Splunk.",
+      "keyword": [
+        "statsd",
+        "backend",
+        "udp",
+        "splunk"
+      ],
+      "author": "dylanmei"
+    },
+    {
+      "name": "itemsapi",
+      "descriptions": "Search API designed for creating marketplaces and vertical search applications",
+      "keyword": [
+        "faceted",
+        "aggregations",
+        "items",
+        "autocomplete",
+        "search",
+        "backend",
+        "cloud",
+        "json",
+        "elasticsearch",
+        "api"
+      ],
+      "author": "cigolpl"
+    },
+    {
+      "name": "k",
+      "descriptions": "New web framework",
+      "keyword": [
+        "framework",
+        "koa",
+        "web",
+        "restful",
+        "router",
+        "app",
+        "api",
+        "model",
+        "backend",
+        "middleware",
+        "es6",
+        "es7",
+        "async",
+        "await"
+      ],
+      "author": "speed"
+    },
+    {
+      "name": "@uppy/companion",
+      "descriptions": "OAuth helper and remote fetcher for Uppy's (https://uppy.io) extensible file upload widget with support for drag&drop, resumable uploads, previews, restrictions, file processing/encoding, remote providers like Dropbox and Google Drive, S3 and more :dog:",
+      "keyword": [
+        "file uploader",
+        "progress",
+        "preview",
+        "resumable uploads",
+        "tus",
+        "s3",
+        "google drive",
+        "dropbox",
+        "backend",
+        "websocket",
+        "express",
+        "realtime"
+      ],
+      "author": "goto-bus-stop"
+    },
+    {
+      "name": "@backand/vanilla-sdk",
+      "descriptions": "Backand SDK for JavaScript",
+      "keyword": [
+        "Backand",
+        "backend",
+        "backend sdk",
+        "backend js",
+        "backend javascript",
+        "vanilla-sdk",
+        "backend vanilla sdk"
+      ],
+      "author": "itayher"
+    },
+    {
+      "name": "statemachines",
+      "descriptions": "Deterministic and Nondeterministic Finite State Machines for JavaScript. The backend for my regex library.",
+      "keyword": [
+        "deterministic",
+        "nondeterministic",
+        "finite",
+        "state",
+        "machines",
+        "backend",
+        "regex"
+      ],
+      "author": "aaditmshah"
+    },
+    {
+      "name": "asciidoctor-reveal.js",
+      "descriptions": "A reveal.js converter for Asciidoctor.js. Write your slides in AsciiDoc!",
+      "keyword": [
+        "asciidoc",
+        "asciidoctor",
+        "opal",
+        "javascript",
+        "library",
+        "backend",
+        "template",
+        "reveal.js",
+        "jade"
+      ],
+      "author": "obilodeau"
+    },
+    {
+      "name": "sinch-request",
+      "descriptions": "Library for signing and verifying Sinch API http REST-requests for client (web/node) or backend.",
+      "keyword": [
+        "Sinch",
+        "browserify",
+        "SMS",
+        "VoIP",
+        "calling",
+        "video",
+        "datachannel",
+        "webrtc",
+        "SDK",
+        "request",
+        "signing",
+        "signature",
+        "digest",
+        "http auth",
+        "View more"
+      ],
+      "author": "sinchmagnus"
+    },
+    {
+      "name": "netlify-cms-backend-fs",
+      "descriptions": "Backend for Netlify CMS to test with local file system",
+      "keyword": [
+        "adarta",
+        "netlify-cms",
+        "backend",
+        "fs"
+      ],
+      "author": "talves"
+    },
+    {
+      "name": "baqend",
+      "descriptions": "Baqend JavaScript SDK",
+      "keyword": [
+        "backend",
+        "baqend",
+        "mongodb",
+        "sdk",
+        "backend-as-a-service"
+      ],
+      "author": "baqend"
+    },
+    {
+      "name": "marketcloud-node",
+      "descriptions": "Marketcloud NodeJS sdk",
+      "keyword": [
+        "ecommerce",
+        "api",
+        "nodejs",
+        "backend"
+      ],
+      "author": "fatmatto"
+    },
+    {
+      "name": "deep-resource",
+      "descriptions": "DEEP Resource Library",
+      "keyword": [
+        "digital enterprise end-to-end platform",
+        "amazon web services",
+        "platform-as-a-service",
+        "deep",
+        "aws",
+        "paas",
+        "cloud",
+        "computing",
+        "microservices",
+        "architecture",
+        "serverless",
+        "abstracted",
+        "core",
+        "library",
+        "View more"
+      ],
+      "author": "mitocgroup"
+    },
+    {
+      "name": "qwebs",
+      "descriptions": "Web application framework",
+      "keyword": [
+        "web",
+        "application",
+        "server",
+        "dependency-injection",
+        "webserver",
+        "promise",
+        "api",
+        "stream",
+        "backend",
+        "back-end",
+        "http",
+        "router",
+        "routing",
+        "route",
+        "View more"
+      ],
+      "author": "benoit.claveau"
+    },
+    {
+      "name": "magcore-plugin-backend-tv-stalker",
+      "descriptions": "TV backend plugin for stalker.",
+      "keyword": [
+        "magcore",
+        "ministra",
+        "plugin",
+        "tv",
+        "backend"
+      ],
+      "author": "infomir"
+    },
+    {
+      "name": "xprez",
+      "descriptions": "A minimal web framework (built on top of Express.js) that separates router, controllers and services.",
+      "keyword": [
+        "express",
+        "mvc",
+        "model-view-controller",
+        "web-service",
+        "service",
+        "web-framework",
+        "framework",
+        "backend-framework",
+        "backend",
+        "cli"
+      ],
+      "author": "yzhan"
+    },
+    {
+      "name": "facebook-events-by-location-core",
+      "descriptions": "Search Facebook events by location and proximity.",
+      "keyword": [
+        "facebook",
+        "events",
+        "event",
+        "search",
+        "location",
+        "backend"
+      ],
+      "author": "tobilg"
+    },
+    {
+      "name": "backend-tslint-rules",
+      "descriptions": "Shared TSLint rules to enforce a consistent code style for backend development with TypeScript",
+      "keyword": [
+        "linting-rules",
+        "tslint",
+        "backend",
+        "nodejs"
+      ],
+      "author": "fulls1z3"
+    },
+    {
+      "name": "magcore-plugin-backend-video-stalker",
+      "descriptions": "Video backend plugin for stalker.",
+      "keyword": [
+        "magcore",
+        "ministra",
+        "plugin",
+        "video",
+        "backend"
+      ],
+      "author": "infomir"
+    },
+    {
+      "name": "web-node",
+      "descriptions": "High level javaScript backend plugin system and configuration merger.",
+      "keyword": [
+        "web",
+        "backend",
+        "api",
+        "plugin",
+        "management"
+      ],
+      "author": "thaibault"
+    },
+    {
+      "name": "unpm-fs-backend",
+      "descriptions": "Static file backend for unpm json data",
+      "keyword": [
+        "unpm",
+        "backend",
+        "fs",
+        "static",
+        "file"
+      ],
+      "author": "jarofghosts"
+    },
+    {
+      "name": "essen",
+      "descriptions": "Minimalistic nodejs MVC framework",
+      "keyword": [
+        "essen",
+        "essenjs",
+        "node",
+        "nodejs",
+        "MVC",
+        "framework",
+        "backend"
+      ],
+      "author": "externuz"
+    }
+  ]
+}

@@ -1,0 +1,646 @@
+{
+  "keyword": "front-end",
+  "packages": [
+    {
+      "name": "bootstrap",
+      "descriptions": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "xhmikosr"
+    },
+    {
+      "name": "yo",
+      "descriptions": "CLI tool for running Yeoman generators",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "front-end",
+        "development",
+        "dev",
+        "build",
+        "web",
+        "tool",
+        "scaffold",
+        "stack",
+        "yeoman",
+        "generator",
+        "generate",
+        "app"
+      ],
+      "author": "sboudrias"
+    },
+    {
+      "name": "live-server",
+      "descriptions": "Simple development http server with live reload capability",
+      "keyword": [
+        "front-end",
+        "development",
+        "tool",
+        "server",
+        "http",
+        "cli"
+      ],
+      "author": "tapio"
+    },
+    {
+      "name": "cropperjs",
+      "descriptions": "JavaScript image cropper.",
+      "keyword": [
+        "image",
+        "crop",
+        "move",
+        "zoom",
+        "rotate",
+        "scale",
+        "cropper",
+        "cropper.js",
+        "cropping",
+        "processing",
+        "html",
+        "css",
+        "javascript",
+        "front-end"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "vue-js-modal",
+      "descriptions": "Modal Component for Vue.js",
+      "keyword": [
+        "front-end",
+        "web",
+        "vue",
+        "vuejs",
+        "dialog",
+        "alert",
+        "modal",
+        "vue-js-modal"
+      ],
+      "author": "euvl"
+    },
+    {
+      "name": "marko",
+      "descriptions": "UI Components + streaming, async, high performance, HTML templating for Node.js and the browser.",
+      "keyword": [
+        "front-end",
+        "templating",
+        "template",
+        "async",
+        "streaming",
+        "components",
+        "ui",
+        "vdom",
+        "dom",
+        "morphdom",
+        "virtual",
+        "virtual-dom"
+      ],
+      "author": "mlrawlings"
+    },
+    {
+      "name": "local-web-server",
+      "descriptions": "A lean, modular web server for rapid full-stack development",
+      "keyword": [
+        "dev",
+        "server",
+        "web",
+        "tool",
+        "front-end",
+        "development",
+        "cors",
+        "mime",
+        "rest",
+        "mock",
+        "api",
+        "proxy",
+        "lws",
+        "backend",
+        "View more"
+      ],
+      "author": "75lb"
+    },
+    {
+      "name": "viewerjs",
+      "descriptions": "JavaScript image viewer.",
+      "keyword": [
+        "image",
+        "viewer",
+        "viewerjs",
+        "viewer.js",
+        "html",
+        "css",
+        "javascript",
+        "front-end",
+        "web"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "cropper",
+      "descriptions": "A simple jQuery image cropping plugin.",
+      "keyword": [
+        "image",
+        "crop",
+        "move",
+        "zoom",
+        "rotate",
+        "scale",
+        "cropper",
+        "cropper.js",
+        "cropping",
+        "processing",
+        "jquery",
+        "plugin",
+        "jquery-plugin",
+        "html",
+        "View more"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "vue-notification",
+      "descriptions": "Vue.js Notification Library",
+      "keyword": [
+        "web",
+        "front-end",
+        "vue",
+        "vuejs",
+        "notification",
+        "vue-notification",
+        "vue-notifications"
+      ],
+      "author": "euvl"
+    },
+    {
+      "name": "bootstrap-css-only",
+      "descriptions": "[Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO depenedency on jQuery.",
+      "keyword": [
+        "bootstrap",
+        "css",
+        "fonticons",
+        "front-end",
+        "web"
+      ],
+      "author": "fyockm"
+    },
+    {
+      "name": "spectre.css",
+      "descriptions": "Spectre.css: A lightweight, responsive and modern CSS framework",
+      "keyword": [
+        "css",
+        "framework",
+        "flexbox",
+        "responsive",
+        "mobile-friendly",
+        "front-end",
+        "sass",
+        "modern"
+      ],
+      "author": "picturepan2"
+    },
+    {
+      "name": "bootstrap-material-design",
+      "descriptions": "Material Design for Bootstrap 4",
+      "keyword": [
+        "material",
+        "design",
+        "bootstrap",
+        "css",
+        "js",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "fezvrasta"
+    },
+    {
+      "name": "milligram",
+      "descriptions": "A minimalist CSS framework.",
+      "keyword": [
+        "bootstrap",
+        "css",
+        "css3",
+        "flexbox",
+        "front-end",
+        "framework",
+        "html",
+        "html5",
+        "kickstarter",
+        "less",
+        "responsive",
+        "mobile",
+        "mobile-first",
+        "postcss",
+        "View more"
+      ],
+      "author": "cjpatoilo"
+    },
+    {
+      "name": "@coreui/coreui",
+      "descriptions": "Open Source UI Kit built on top of Bootstrap 4",
+      "keyword": [
+        "bootstrap",
+        "css",
+        "dashboard",
+        "framework",
+        "front-end",
+        "responsive",
+        "sass",
+        "ui kit",
+        "webapp"
+      ],
+      "author": "coreui"
+    },
+    {
+      "name": "react-twitter-embed",
+      "descriptions": "React Twitter Embed Components",
+      "keyword": [
+        "front-end",
+        "react",
+        "react-component",
+        "twitter",
+        "timeline",
+        "twitter-embed"
+      ],
+      "author": "saurabhnemade"
+    },
+    {
+      "name": "@juggle/resize-observer",
+      "descriptions": "Polyfills the ResizeObserver API and supports box size options from the latest spec",
+      "keyword": [
+        "ResizeObserver",
+        "polyfill",
+        "ponyfill",
+        "event",
+        "resize",
+        "observer",
+        "typescript",
+        "javascript",
+        "element",
+        "component",
+        "container",
+        "queries",
+        "web components",
+        "front-end",
+        "View more"
+      ],
+      "author": "trem"
+    },
+    {
+      "name": "hardtack",
+      "descriptions": "An ultra-light (406 bytes) library for working with cookies in JavaScript",
+      "keyword": [
+        "cookie",
+        "cookies",
+        "js-cookie",
+        "browser",
+        "front-end"
+      ],
+      "author": "alik0211"
+    },
+    {
+      "name": "generator-webapp",
+      "descriptions": "Scaffold out a front-end web app",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "gulp"
+      ],
+      "author": "silvenon"
+    },
+    {
+      "name": "generate",
+      "descriptions": "Command line tool and developer framework for scaffolding out new GitHub projects. Generate offers the robustness and configurability of Yeoman, the expressiveness and simplicity of Slush, and more powerful flow control and composability than either.",
+      "keyword": [
+        "app",
+        "boilerplate",
+        "build",
+        "cli",
+        "cli-app",
+        "create",
+        "dev",
+        "development",
+        "end",
+        "framework",
+        "front",
+        "front-end",
+        "generate",
+        "generator",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "@pattern-lab/live-server",
+      "descriptions": "Simple development http server with live reload capability",
+      "keyword": [
+        "front-end",
+        "development",
+        "tool",
+        "server",
+        "http",
+        "cli"
+      ],
+      "author": "bmuenzenmeyer"
+    },
+    {
+      "name": "bootstrap3",
+      "descriptions": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+      "keyword": [
+        "css",
+        "less",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "nickjackson"
+    },
+    {
+      "name": "generator-react-webpack",
+      "descriptions": "Yeoman generator for using React with Webpack via Babel",
+      "keyword": [
+        "yeoman-generator",
+        "react",
+        "reactjs",
+        "webpack",
+        "scaffold",
+        "framework",
+        "component",
+        "frontend",
+        "front-end",
+        "app"
+      ],
+      "author": "sthzg"
+    },
+    {
+      "name": "generator-angular-fullstack",
+      "descriptions": "Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node",
+      "keyword": [
+        "yeoman-generator",
+        "mean",
+        "mongodb",
+        "angularjs",
+        "express",
+        "scaffold",
+        "fullstack",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+      ],
+      "author": "awk34"
+    },
+    {
+      "name": "fuelux",
+      "descriptions": "Base Fuel UX styles and controls",
+      "keyword": [
+        "application",
+        "bootstrap",
+        "controls",
+        "css",
+        "exacttarget",
+        "exact target",
+        "front-end",
+        "fuelux",
+        "fuel ux",
+        "js",
+        "salesforce",
+        "user interface",
+        "web"
+      ],
+      "author": "fuelux"
+    },
+    {
+      "name": "compressorjs",
+      "descriptions": "JavaScript image compressor.",
+      "keyword": [
+        "image",
+        "compress",
+        "compressor",
+        "compressor.js",
+        "image-compressor",
+        "lossy-compression",
+        "javascript",
+        "front-end",
+        "web"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "html5-boilerplate",
+      "descriptions": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+      "keyword": [
+        "h5bp",
+        "template",
+        "front-end"
+      ],
+      "author": "roblarsen"
+    },
+    {
+      "name": "webmidi",
+      "descriptions": "WebMidi.js helps you tame the Web MIDI API. Send and receive MIDI messages with ease. Control instruments with user-friendly functions (playNote, sendPitchBend, etc.). React to MIDI input with simple event listeners (noteon, pitchbend, controlchange, etc.",
+      "keyword": [
+        "midi",
+        "message",
+        "web",
+        "browser",
+        "front-end",
+        "webmidi api"
+      ],
+      "author": "djipco"
+    },
+    {
+      "name": "vue-croppa",
+      "descriptions": "A simple straightforward customizable lightweight mobile-friendly image cropper for Vue 2.0.",
+      "keyword": [
+        "cropper",
+        "vue",
+        "image",
+        "crop",
+        "upload",
+        "vue-cropper",
+        "vue cropper",
+        "image cropper",
+        "vue plugin",
+        "move",
+        "zoom",
+        "javascript",
+        "web",
+        "front-end",
+        "View more"
+      ],
+      "author": "zhanziyang"
+    },
+    {
+      "name": "generator-react-fullstack",
+      "descriptions": "Yeoman generator for React.js projects based on React Starter Kit (ES6+, Babel, React.js, Express, Webpack, BrowserSync)",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "boilerplate",
+        "component",
+        "front-end",
+        "web",
+        "react",
+        "reactjs"
+      ],
+      "author": "koistya"
+    },
+    {
+      "name": "@chenfengyuan/vue-qrcode",
+      "descriptions": "QR code component for Vue.js.",
+      "keyword": [
+        "qrcode",
+        "QR code",
+        "2d bar code",
+        "vue-component",
+        "html",
+        "css",
+        "javascript",
+        "front-end",
+        "web"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "amazeui",
+      "descriptions": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
+      "keyword": [
+        "AMUI",
+        "Amaze UI",
+        "AllMobile",
+        "css",
+        "js",
+        "less",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web",
+        "web-components"
+      ],
+      "author": "minwe"
+    },
+    {
+      "name": "bootstrap-wysiwyg",
+      "descriptions": "A tiny Bootstrap and jQuery based WYSIWYG rich text editor based on the browser function execCommand.",
+      "keyword": [
+        "css",
+        "js",
+        "responsive",
+        "front-end",
+        "web",
+        "wysiwyg",
+        "editor"
+      ],
+      "author": "artf"
+    },
+    {
+      "name": "@coreui/coreui-pro",
+      "descriptions": "UI Kit built on top of Bootstrap 4",
+      "keyword": [
+        "bootstrap",
+        "css",
+        "dashboard",
+        "framework",
+        "front-end",
+        "responsive",
+        "sass",
+        "ui kit",
+        "webapp"
+      ],
+      "author": "coreui"
+    },
+    {
+      "name": "ng-material-datetimepicker",
+      "descriptions": "A datetime picker for AngularJS Material",
+      "keyword": [
+        "css",
+        "js",
+        "mobile-first",
+        "angular",
+        "material",
+        "angular-material",
+        "responsive",
+        "front-end",
+        "web"
+      ],
+      "author": "hexadecy"
+    },
+    {
+      "name": "fragments-js",
+      "descriptions": "Fragments is an ultra-fast templating and data-binding library for front-end JavaScript applications.",
+      "keyword": [
+        "templates",
+        "data-binding",
+        "front-end",
+        "DocumentFragment"
+      ],
+      "author": "skylar.pagenkopf"
+    },
+    {
+      "name": "astrum",
+      "descriptions": "A lightweight pattern library designed to be included with any web project.",
+      "keyword": [
+        "pattern",
+        "library",
+        "styleguide",
+        "front-end"
+      ],
+      "author": "ryanhavoc"
+    },
+    {
+      "name": "mdui",
+      "descriptions": "A CSS Framework based on material design",
+      "keyword": [
+        "material design",
+        "responsive",
+        "framework",
+        "front-end",
+        "mobile-first",
+        "web"
+      ],
+      "author": "mdui"
+    },
+    {
+      "name": "vue-multilanguage",
+      "descriptions": "Multilanguage easy support to Vue.js 2",
+      "keyword": [
+        "vuejs",
+        "multilanguage",
+        "front-end"
+      ],
+      "author": "leonardovilarinho"
+    },
+    {
+      "name": "infima",
+      "descriptions": "A UI framework for content-centric websites.",
+      "keyword": [
+        "css",
+        "responsive",
+        "front-end",
+        "framework",
+        "web",
+        "dark mode"
+      ],
+      "author": "yangshun"
+    }
+  ]
+}

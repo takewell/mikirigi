@@ -30,7 +30,7 @@ exports.scrapingNPMPackages = async (keyword) => {
   const getKeyword = async ({ keyword, pageNum }) => {
     const page = await browser.newPage();
     await page.goto(
-      `https://www.npmjs.com/search?q=keywords%3A${keyword}&page=${pageNum}&perPage=20`,
+      `https://www.npmjs.com/search?ranking=popularity&q=keywords%3A${keyword}&page=${pageNum}&perPage=20`,
       {
         waitUntil: "domcontentloaded"
       }
@@ -83,9 +83,10 @@ exports.scrapingNPMPackages = async (keyword) => {
       return flattend;
     };
   }
-    
+
+  // だいたい 2 ページ程度で十分
   const packages = await Promise.all(
-    [...Array(88).keys()].map(i => {
+    [...Array(2).keys()].map(i => {
       const f = getKeyword({ keyword, pageNum: i });
       return f;
     })

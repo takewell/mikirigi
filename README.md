@@ -8,23 +8,6 @@ Set the generated your github access token as an environment variable
 
 `export GITHUB_ACCESS_TOKEN="xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"`
 
-chai
-karma
-jest
-selenium-webdriver
-supertest
-protractor
-ava
-cucumber
-enzyme
-karma-firefox-launcher
-tap
-wd
-wait-for-expect
-axe-core
-newman
-ts-jest
-fetch-mock
-enzyme-adapter-react-16
-browserstack
-jest-cli
+## 便利
+`$ less ./keyword.json | jq ".packages[].name" | xargs -I {} miki`
+
