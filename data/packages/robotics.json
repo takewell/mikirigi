@@ -1,0 +1,2700 @@
+{
+  "keyword": "robotics",
+  "packages": [
+    {
+      "name": "serialport",
+      "descriptions": "Node.js package to access serial ports. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!",
+      "keyword": [
+        "ccTalk",
+        "com port",
+        "data logging",
+        "hardware",
+        "iot",
+        "johnny-five",
+        "modem",
+        "nodebots",
+        "RFID",
+        "robotics",
+        "sensor",
+        "serial port",
+        "serial",
+        "serialport",
+        "View more"
+      ],
+      "author": "reconbot"
+    },
+    {
+      "name": "johnny-five",
+      "descriptions": "The JavaScript Robotics and Hardware Programming Framework. Use with: Arduino (all models), Electric Imp, Beagle Bone, Intel Galileo & Edison, Linino One, Pinoccio, pcDuino3, Raspberry Pi, Particle/Spark Core & Photon, Tessel 2, TI Launchpad and more!",
+      "keyword": [
+        "0A02",
+        "0A21",
+        "16x2 LCD",
+        "20x4 LCD",
+        "2D120X",
+        "2Y0A02",
+        "2Y0A21",
+        "74HC595",
+        "ADXL335",
+        "ADXL345",
+        "ALS-PT19",
+        "ALSPT19",
+        "ANALOG",
+        "arduino",
+        "View more"
+      ],
+      "author": "rwaldron"
+    },
+    {
+      "name": "cylon",
+      "descriptions": "JavaScript framework for robotics, drones, and the Internet of Things (IoT) using Node.js",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "drones",
+        "internet of things"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "raspi-board",
+      "descriptions": "Pin mapping functionality for the Raspberry Pi in Node.js",
+      "keyword": [
+        "nodebots",
+        "robotics",
+        "raspberry pi"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "raspi",
+      "descriptions": "Provides access to Raspberry Pi peripherals from Node.js",
+      "keyword": [
+        "raspberry pi",
+        "robotics",
+        "nodebots"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "sphero",
+      "descriptions": "Sphero.js - The Official Orbotix JavaScript SDK to control Sphero robots",
+      "keyword": [
+        "robot",
+        "robots",
+        "robotics",
+        "hardware",
+        "sphero",
+        "spherojs",
+        "sphero-js",
+        "orbotix",
+        "ollie",
+        "bb8",
+        "bb-8",
+        "sprk"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "raspi-i2c",
+      "descriptions": "Provides access to I2C on the Raspberry Pi from Node.js",
+      "keyword": [
+        "nodebots",
+        "robotics",
+        "raspberry pi"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "cylon-ble",
+      "descriptions": "Cylon module for Bluetooth Low Energy (LE) peripherals",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "Bluetooth",
+        "BLE",
+        "Bluetooth LE"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "virtual-serialport",
+      "descriptions": "A drop-in virtual replacement for node-serialport's SerialPort object",
+      "keyword": [
+        "arduino",
+        "serial",
+        "testing",
+        "robotics",
+        "serialport"
+      ],
+      "author": "reyiyo"
+    },
+    {
+      "name": "cylon-gpio",
+      "descriptions": "Cylon module for General Purpose Input/Output (GPIO)",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "cylon-joystick",
+      "descriptions": "Cylon module for any HID joystick",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "joystick",
+        "gamepad",
+        "xbox",
+        "xbox360",
+        "ps2",
+        "ps3",
+        "View more"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "rclnodejs",
+      "descriptions": "ROS2.0 JavaScript client with Node.js",
+      "keyword": [
+        "rclnodejs",
+        "ros2",
+        "ros",
+        "rcl",
+        "robotics",
+        "typescript"
+      ],
+      "author": "minggangw"
+    },
+    {
+      "name": "cylon-i2c",
+      "descriptions": "Cylon.js drivers for i2c devices",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "i2c"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "cylon-sphero",
+      "descriptions": "Cylon module for Sphero robot",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "sphero",
+        "spherojs",
+        "orbotix"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "cylon-intel-iot",
+      "descriptions": "Cylon module for Intel Joule, Edison, and Galileo IoT platforms",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio",
+        "i2c",
+        "intel",
+        "edison",
+        "galileo",
+        "joule"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "ev3dev-lang",
+      "descriptions": "An interface to control an EV3 or other supported platform running ev3dev from JavaScript.",
+      "keyword": [
+        "ev3dev",
+        "ev3",
+        "lego",
+        "robotics"
+      ],
+      "author": "wasabifan"
+    },
+    {
+      "name": "awesome-pid",
+      "descriptions": "A PID controller with built-in looping functionality.",
+      "keyword": [
+        "PID",
+        "robotics",
+        "automation",
+        "proportional-integral-derivative"
+      ],
+      "author": "dkim89"
+    },
+    {
+      "name": "raspi-peripheral",
+      "descriptions": "Provides a base class and pin management functions for the Raspi.js library suite",
+      "keyword": [
+        "nodebots",
+        "robotics",
+        "raspberry pi"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "roboticscape",
+      "descriptions": "Node.js bindings for libroboticscape for BeagleBoard.org BeagleBone Blue or Robotics Cape",
+      "keyword": [
+        "robotics",
+        "beaglebone"
+      ],
+      "author": "jkridner"
+    },
+    {
+      "name": "gazebojs",
+      "descriptions": "NodeJs bindings for the Gazebo 5 simulator (gazebosim.org)",
+      "keyword": [
+        "robotics",
+        "simulation",
+        "rigid",
+        "body",
+        "dynamics"
+      ],
+      "author": "hugomatic"
+    },
+    {
+      "name": "cylon-speech",
+      "descriptions": "Cylon module for text to speech",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "speech",
+        "espeak",
+        "tts"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "kinematics",
+      "descriptions": "Robot kinematics library",
+      "keyword": [
+        "robotics",
+        "inverse kinematics",
+        "kinematcis"
+      ],
+      "author": "glumb"
+    },
+    {
+      "name": "raspi-gpio",
+      "descriptions": "Provides access to GPIO on the Raspberry Pi from Node.js",
+      "keyword": [
+        "nodebots",
+        "robotics",
+        "raspberry pi"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "ribbons.component",
+      "descriptions": "Prototype for Ribbons components.",
+      "keyword": [
+        "ribbons",
+        "component",
+        "framework",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "vexdb",
+      "descriptions": "A simple tool for accessing the VexDB",
+      "keyword": [
+        "vexdb",
+        "vrc",
+        "vex",
+        "robotics",
+        "database",
+        "rest",
+        "api"
+      ],
+      "author": "mayormonty"
+    },
+    {
+      "name": "cylon-raspi",
+      "descriptions": "Cylon adaptor for Raspberry Pi",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio",
+        "i2c",
+        "raspberry pi",
+        "raspberrypi",
+        "raspi"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "node-dweetio",
+      "descriptions": "A node.js client for dweet.io",
+      "keyword": [
+        "dweet.io",
+        "internet of things",
+        "pubsub",
+        "IoT",
+        "m2m",
+        "robotics",
+        "sensors",
+        "arduino",
+        "beaglebone",
+        "messaging"
+      ],
+      "author": "jheising"
+    },
+    {
+      "name": "cylon-opencv",
+      "descriptions": "Cylon module for OpenCV",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "opencv",
+        "open cv",
+        "vision",
+        "computer vision"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "hedgehog-client",
+      "descriptions": "Client library for the Hedgehog Educational Robotics Controller",
+      "keyword": [
+        "hedgehog",
+        "controller",
+        "pria",
+        "robotics",
+        "robot",
+        "education"
+      ],
+      "author": "sillyfreak"
+    },
+    {
+      "name": "urdf-loader",
+      "descriptions": "URDF Loader for THREE.js and webcomponent viewer",
+      "keyword": [
+        "javascript",
+        "threejs",
+        "graphics",
+        "ros",
+        "robotics",
+        "urdf",
+        "urdf-models",
+        "webcomponents"
+      ],
+      "author": "gkjohnson"
+    },
+    {
+      "name": "amphion",
+      "descriptions": "Roslibjs based web visualization library",
+      "keyword": [
+        "ros",
+        "robotics",
+        "riz",
+        "javascript",
+        "threejs"
+      ],
+      "author": "tocttou"
+    },
+    {
+      "name": "nodatron",
+      "descriptions": "Uses python serial for 2 way communication to Arduino Uno.",
+      "keyword": [
+        "arduino",
+        "robotics",
+        "pyserial"
+      ],
+      "author": "kcenturion"
+    },
+    {
+      "name": "raspi-serial",
+      "descriptions": "Provides access to the serial port on the Raspberry Pi as part of the Raspi.js library suite",
+      "keyword": [
+        "nodebots",
+        "robotics",
+        "raspberry pi"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "abstract-io",
+      "descriptions": "An interface and base class for creating Johnny-Five IO plugins",
+      "keyword": [
+        "Johnny-Five",
+        "Robotics",
+        "IoT",
+        "Arduino",
+        "Raspberry Pi"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "cylon-beaglebone",
+      "descriptions": "Cylon adaptor for the Beaglebone Black single-board computer",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio",
+        "i2c",
+        "beaglebone"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "cylon-neurosky",
+      "descriptions": "Cylon module for Neurosky",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "neurosky",
+        "mindwave",
+        "eeg",
+        "brainwave",
+        "bci"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "raspi-soft-pwm",
+      "descriptions": "Provides access to Soft PWM on the Raspberry Pi as part of the Raspi.js library suite",
+      "keyword": [
+        "nodebots",
+        "robotics",
+        "raspberry pi"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "urdf-js",
+      "descriptions": "URDF Loader for THREE.js and webcomponent viewer",
+      "keyword": [
+        "javascript",
+        "threejs",
+        "graphics",
+        "ros",
+        "robotics",
+        "urdf",
+        "urdf-models",
+        "webcomponents"
+      ],
+      "author": "tocttou"
+    },
+    {
+      "name": "ribbons.logger",
+      "descriptions": "Prototype for Ribbons logger.",
+      "keyword": [
+        "ribbons",
+        "logger",
+        "framework",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "cylon-audio",
+      "descriptions": "Cylon module for Audio",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "audio",
+        "sound",
+        "mp3"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "cylon-ollie",
+      "descriptions": "Cylon module for Ollie",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "ollie",
+        "sphero",
+        "orbotix",
+        "bluetooth",
+        "ble",
+        "bluetooth le",
+        "View more"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "gamecontroller",
+      "descriptions": "A node driver for several gamecontroller",
+      "keyword": [
+        "gamepad",
+        "gamecontroller",
+        "playstation",
+        "xbox",
+        "snes",
+        "gaming",
+        "game",
+        "controller",
+        "joystick",
+        "robotics",
+        "robot"
+      ],
+      "author": "infusion"
+    },
+    {
+      "name": "ribbons",
+      "descriptions": "A robotics software development framework for Node.js: sensors, controllers and actuators.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "ribbons.actuator",
+      "descriptions": "Prototype for Ribbons actuators.",
+      "keyword": [
+        "ribbons",
+        "actuator",
+        "framework",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "thebluealliance",
+      "descriptions": "Node.js wrapper for The Blue Alliance v2 API",
+      "keyword": [
+        "usfirst",
+        "tba",
+        "thebluealliance",
+        "FIRST",
+        "robotics",
+        "FIRST robotics",
+        "competitive analysis",
+        "scouting",
+        "scout"
+      ],
+      "author": "khanh111"
+    },
+    {
+      "name": "raspi-led",
+      "descriptions": "Provides access to status LED on the Raspberry Pi as part of the Raspi.js library suite",
+      "keyword": [
+        "nodebots",
+        "robotics",
+        "raspberry pi"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "cylon-mip",
+      "descriptions": "Cylon module for MIP",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "mip",
+        "wowwee",
+        "bluetooth",
+        "bluetooth le",
+        "ble"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "ribbons.sensor",
+      "descriptions": "Prototype for Ribbons sensors.",
+      "keyword": [
+        "ribbons",
+        "sensor",
+        "framework",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "cylon-keyboard",
+      "descriptions": "Cylon module for Keyboard",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "drone",
+        "drones",
+        "hardware",
+        "keyboard"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "react-iot",
+      "descriptions": "React IoT - Johnny Five React renderer",
+      "keyword": [
+        "JavaScript",
+        "React",
+        "ReactDOM",
+        "renderer",
+        "iot",
+        "robotics",
+        "johnny-five"
+      ],
+      "author": "vnovick"
+    },
+    {
+      "name": "cylon-odroid",
+      "descriptions": "Cylon Adaptor for Odroid single-board computers",
+      "keyword": [
+        "odroid",
+        "odroidjs",
+        "cylon",
+        "cylonjs",
+        "robot",
+        "robotics",
+        "iot",
+        "gpio"
+      ],
+      "author": "nigeltiany"
+    },
+    {
+      "name": "angular-iot",
+      "descriptions": "IoT support for Angular",
+      "keyword": [
+        "angular",
+        "iot",
+        "arduino",
+        "robotics",
+        "raspberry pi"
+      ],
+      "author": "urish"
+    },
+    {
+      "name": "movehub",
+      "descriptions": "Interface to the Lego Boost Move Hub",
+      "keyword": [
+        "Lego",
+        "Boost",
+        "Move",
+        "Hub",
+        "BLE",
+        "Bluetooth",
+        "Robotics"
+      ],
+      "author": "hobbyquaker"
+    },
+    {
+      "name": "raspi-wiringpi",
+      "descriptions": "NPM wrapper around Wiring Pi so it can be easily installed via NPM or added as a package.json dependency",
+      "keyword": [
+        "raspberry pi",
+        "robotics",
+        "nodebots",
+        "wiringpi"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "nodesapiens",
+      "descriptions": "WiringPi based Interface to Robosapiens on Raspberry Pi",
+      "keyword": [
+        "wiringPi",
+        "gpio",
+        "raspberry",
+        "pi",
+        "robotics",
+        "robosapiens"
+      ],
+      "author": "darach"
+    },
+    {
+      "name": "cylon-api-http",
+      "descriptions": "HTTP API add-on module for Cylon.JS",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "api",
+        "http"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "hrp",
+      "descriptions": "Module that implements a protocol for talking to robots over a HID-USB communication",
+      "keyword": [
+        "robotics",
+        "usb",
+        "hid"
+      ],
+      "author": "andresmanelli"
+    },
+    {
+      "name": "ribbons.application",
+      "descriptions": "Prototype for Ribbons applications.",
+      "keyword": [
+        "ribbons",
+        "application",
+        "framework",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "ribbons.controller",
+      "descriptions": "Prototype for Ribbons controllers.",
+      "keyword": [
+        "ribbons",
+        "controller",
+        "framework",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "raspi-pwm",
+      "descriptions": "Provides access to PWM on the Raspberry Pi as part of the Raspi.js library suite",
+      "keyword": [
+        "nodebots",
+        "robotics",
+        "raspberry pi"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "cylon-firmata",
+      "descriptions": "Cylon module for Arduino and other microcontrollers using the Firmata protocol",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio",
+        "i2c",
+        "firmata",
+        "arduino",
+        "curie",
+        "arduino101"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "ribbons.out",
+      "descriptions": "Prototype for Ribbons output.",
+      "keyword": [
+        "ribbons",
+        "actuator",
+        "output",
+        "out",
+        "framework",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "snappy-io-nodes",
+      "descriptions": "Group of nodes for common sensors and actuators",
+      "keyword": [
+        "node",
+        "red",
+        "snappy",
+        "nodejs",
+        "js",
+        "robotics"
+      ],
+      "author": "prajankya"
+    },
+    {
+      "name": "cylon-leapmotion",
+      "descriptions": "Cylon module for the Leap Motion",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "leap",
+        "leap motion",
+        "leapmotion"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "favor",
+      "descriptions": "A simple library for creating hardware-agnostic IoT applications in Javascript",
+      "keyword": [
+        "iot",
+        "hardware",
+        "internet of things",
+        "robotics",
+        "favor",
+        "gpio",
+        "spi",
+        "i2c",
+        "raspberrypi",
+        "beaglebone"
+      ],
+      "author": "pedalpete"
+    },
+    {
+      "name": "cylon-pebble",
+      "descriptions": "Cylon.js adaptor/driver for the Pebble smartwatch",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "pebble",
+        "pebble time",
+        "wearables",
+        "smartwatch",
+        "smart watch"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "ribbons.platforms.ar.drone",
+      "descriptions": "AR.Drone as a Ribbons platform.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "platform",
+        "ARDrone",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "hazyair-dweetio",
+      "descriptions": "A node.js client for dweet.io",
+      "keyword": [
+        "dweet.io",
+        "internet of things",
+        "pubsub",
+        "IoT",
+        "m2m",
+        "robotics",
+        "sensors",
+        "arduino",
+        "beaglebone",
+        "messaging"
+      ],
+      "author": "marcin-sielski"
+    },
+    {
+      "name": "ribbons.sensors.keyboard.mac",
+      "descriptions": "Using a mac keyboard as a Ribbons sensor.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "sensor",
+        "keyboard",
+        "mac",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "ribbons.in",
+      "descriptions": "Prototype for Ribbons input.",
+      "keyword": [
+        "ribbons",
+        "sensor",
+        "input",
+        "in",
+        "framework",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "ribbons.actuators.flight",
+      "descriptions": "Ribbons flight actuator.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "actuator",
+        "flight",
+        "ar.drone",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "hrp-joy-driver",
+      "descriptions": "Translate the joystick data into commands intended for use with the hrp-server and related packages",
+      "keyword": [
+        "robotics",
+        "joytsick",
+        "hrp"
+      ],
+      "author": "andresmanelli"
+    },
+    {
+      "name": "ribbons.platforms.twitter.api",
+      "descriptions": "Twitter API as a Ribbons platform.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "platform",
+        "twitter",
+        "api",
+        "social",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "llwoll-gpio",
+      "descriptions": "Cylon module for General Purpose Input/Output (GPIO)",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio"
+      ],
+      "author": "llwoll"
+    },
+    {
+      "name": "thing-it-device-ar-drone",
+      "descriptions": "[Thing-it-node] Device Plugin for AR Drones.",
+      "keyword": [
+        "IoT",
+        "thing-it",
+        "Bluetooth",
+        "AR Drones",
+        "Robotics"
+      ],
+      "author": "marcgille"
+    },
+    {
+      "name": "j5e",
+      "descriptions": "J5e is a device framework built for ECMA TC-53's IO pattern",
+      "keyword": [
+        "javascript",
+        "robotics",
+        "IoT",
+        "embedded",
+        "moddable",
+        "xs",
+        "esp8266",
+        "led",
+        "switch"
+      ],
+      "author": "dtex"
+    },
+    {
+      "name": "zethus",
+      "descriptions": "Realtime robot data visualization in the browser",
+      "keyword": [
+        "ros",
+        "robotics",
+        "riz",
+        "javascript",
+        "threejs"
+      ],
+      "author": "tocttou"
+    },
+    {
+      "name": "rallf-js-sdk",
+      "descriptions": "Toolset to create Tasks for RALLF",
+      "keyword": [
+        "Automation",
+        "Bots",
+        "Rallf",
+        "RobotUnion",
+        "Selenium",
+        "sdk",
+        "AI",
+        "Browser",
+        "Robotics",
+        "Testing"
+      ],
+      "author": "_nkeff_"
+    },
+    {
+      "name": "webgme-rosmod",
+      "descriptions": "This repository contains ROSMOD developed for WebGME. ROSMOD is a web-based, collaborative, modeling and execution environment for distributed embedded applications built using ROS http://rosmod.rcps.isis.vanderbilt.edu",
+      "keyword": [
+        "webgme",
+        "webgme-domain",
+        "rosmod",
+        "model-driven-development",
+        "ros",
+        "robotics",
+        "distributed",
+        "cyber",
+        "physical",
+        "systems",
+        "CPS"
+      ],
+      "author": "finger563"
+    },
+    {
+      "name": "cylon-spark",
+      "descriptions": "Cylon adaptor for the Particle Core & Photon device",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio",
+        "spark",
+        "spark core",
+        "particle",
+        "particle-io",
+        "spark.js"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "cylon-ardrone",
+      "descriptions": "Cylon module for the Parrot ARDrone 2.0",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "ardrone",
+        "ar-drone",
+        "nodecopter",
+        "drone",
+        "drones"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "cylon-cli",
+      "descriptions": "Generate new adaptor/driver modules for Cylon.js",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "bhive",
+      "descriptions": "Behavior Tree for Javascript",
+      "keyword": [
+        "behavior",
+        "behavior tree",
+        "behaviortree",
+        "bt",
+        "decision tree",
+        "decisiontree",
+        "ai",
+        "robotics",
+        "game"
+      ],
+      "author": "noizbuster"
+    },
+    {
+      "name": "vanbujm-raspi-led",
+      "descriptions": "Provides access to status LED on the Raspberry Pi as part of the Raspi.js library suite",
+      "keyword": [
+        "nodebots",
+        "robotics",
+        "raspberry pi"
+      ],
+      "author": "vanbujm"
+    },
+    {
+      "name": "rosbrowz",
+      "descriptions": "A visualization library for robotics (ros) in the browser.",
+      "keyword": [
+        "ros",
+        "roslibjs",
+        "robot",
+        "robotics"
+      ],
+      "author": "ashish.chaudhary.rapyuta"
+    },
+    {
+      "name": "cylon-force",
+      "descriptions": "Cylon adaptor/driver for Force.com",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "salesforce"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "node-web-i2c",
+      "descriptions": "I2C access with Node.js",
+      "keyword": [
+        "hardware",
+        "i2c",
+        "iot",
+        "linux",
+        "pi",
+        "raspberry",
+        "raspberry pi",
+        "raspi",
+        "robot",
+        "robotics",
+        "robots",
+        "rpi",
+        "smbus"
+      ],
+      "author": "kou029w"
+    },
+    {
+      "name": "node-web-gpio",
+      "descriptions": "GPIO access with Node.js",
+      "keyword": [
+        "gpio",
+        "hardware",
+        "iot",
+        "linux",
+        "pi",
+        "raspberry",
+        "raspberry pi",
+        "raspi",
+        "robot",
+        "robotics",
+        "robots",
+        "rpi"
+      ],
+      "author": "kou029w"
+    },
+    {
+      "name": "cylon-skynet",
+      "descriptions": "Cylon.js adaptor for the Skynet open source machine to machine protocol",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "skynet",
+        "skynet.im",
+        "octoblu"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "raspi-core",
+      "descriptions": "This package is deprecated, use \"raspi\" instead",
+      "keyword": [
+        "raspberry pi",
+        "robotics",
+        "nodebots"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "cylon-crazyflie",
+      "descriptions": "Cylon adaptor/drivers for Crazyflie nanocopter",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "drone",
+        "crazyflie"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "cylon-digispark",
+      "descriptions": "Cylon module for Digispark",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio",
+        "i2c",
+        "digispark",
+        "digistump"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "cylon-octanis1-rover",
+      "descriptions": "Cylon module for Octanis 1 Rover",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "octanis",
+        "rover"
+      ],
+      "author": "bitmorse"
+    },
+    {
+      "name": "cylon-tessel",
+      "descriptions": "Cylon module for Tessel",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "tessel"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "@beardicus/line-us",
+      "descriptions": "A library for accessing Line-us drawing robots via Node.js and the browser.",
+      "keyword": [
+        "lineus",
+        "line-us",
+        "plotter",
+        "drawing",
+        "art",
+        "robot",
+        "robotics",
+        "hardware",
+        "websocket"
+      ],
+      "author": "beardicus"
+    },
+    {
+      "name": "cylon-rapiro",
+      "descriptions": "Cylon module for Rapiro",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio",
+        "rapiro",
+        "raspberry pi",
+        "raspi"
+      ],
+      "author": "andrewstewart"
+    },
+    {
+      "name": "cylon-pinoccio",
+      "descriptions": "Cylon adaptor for the Pinoccio mesh-networked microcontroller",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio",
+        "mesh",
+        "pinoccio"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "kaia.js",
+      "descriptions": "JS library for Kaia.ai robots",
+      "keyword": [
+        "kaia.ai",
+        "robotics",
+        "deep learning",
+        "tensorflow",
+        "slam",
+        "arduino",
+        "robot",
+        "self-driving",
+        "image recognition",
+        "image classification",
+        "tensorflow.js",
+        "speech recognition",
+        "kaia"
+      ],
+      "author": "kaiaai"
+    },
+    {
+      "name": "cylon-m2x",
+      "descriptions": "Cylon module for M2X",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "m2x",
+        "mqtt",
+        "m2m"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "urdf-exporter",
+      "descriptions": "THREE.js utility for exporting object trees as a URDF file",
+      "keyword": [
+        "javascript",
+        "three",
+        "threejs",
+        "graphics",
+        "geometry",
+        "model",
+        "urdf",
+        "export",
+        "exporter",
+        "robotics",
+        "robots"
+      ],
+      "author": "gkjohnson"
+    },
+    {
+      "name": "cylon-nest",
+      "descriptions": "Cylon.js adaptor for the Nest",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "nest"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "cylon-api-socketio",
+      "descriptions": "Socket.io API add-on module for Cylon.JS",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "api",
+        "socketio"
+      ],
+      "author": "andrewstewart"
+    },
+    {
+      "name": "saphero",
+      "descriptions": "A Client-Side Dashboard to Easily Connect and Control Sphero/BB-8/Ollie Devices",
+      "keyword": [
+        "robotics",
+        "sphero",
+        "bb8",
+        "bb-8",
+        "orbotix",
+        "hack",
+        "robot",
+        "robots",
+        "spherojs",
+        "sphero-js",
+        "ollie",
+        "sprk"
+      ],
+      "author": "sabbyt"
+    },
+    {
+      "name": "cylon-sphero-ble",
+      "descriptions": "Cylon.js module for Sphero BLE Robots",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "ollie",
+        "sphero",
+        "orbotix",
+        "bluetooth",
+        "ble",
+        "bluetooth le",
+        "View more"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "movehub-async",
+      "descriptions": "Asynchronous methods for the Lego Boost Move Hub package",
+      "keyword": [
+        "Lego",
+        "Boost",
+        "Move",
+        "Hub",
+        "BLE",
+        "Bluetooth",
+        "Robotics",
+        "Async"
+      ],
+      "author": "ttu"
+    },
+    {
+      "name": "cylon-i2cexpander",
+      "descriptions": "A cylon driver for the able-electroncs i2c 32 GPIO board for the raspberry pi",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "keyboard",
+        "i2c"
+      ],
+      "author": "marc_teichtahl"
+    },
+    {
+      "name": "simspark",
+      "descriptions": "Node interface to SimSpark, the simulator used for the RoboCup 3D Soccer Simulation League",
+      "keyword": [
+        "simulation",
+        "simulator",
+        "simspark",
+        "robotics",
+        "robots"
+      ],
+      "author": "jbilcke"
+    },
+    {
+      "name": "pypot",
+      "descriptions": "An ES6 / Javascript compliant, Promised-based, object-oriented client for Poppy robots (Pypot API) using Axios.",
+      "keyword": [
+        "poppy",
+        "poppy-ergo-jr",
+        "axios",
+        "robotics"
+      ],
+      "author": "cmcrobotics"
+    },
+    {
+      "name": "node-red-contrib-movehub",
+      "descriptions": "Node-RED Nodes to control the Lego Boost Move Hub",
+      "keyword": [
+        "node-red",
+        "lego",
+        "boost",
+        "move",
+        "hub",
+        "robotics",
+        "ble",
+        "bluetooth"
+      ],
+      "author": "hobbyquaker"
+    },
+    {
+      "name": "cylon-mqtt",
+      "descriptions": "Cylon module for MQTT",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "mqtt",
+        "m2m"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "ribbons.actuators.led",
+      "descriptions": "LED as a Ribbons actuator.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "actuator",
+        "led",
+        "arduino",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "raspi-onewire",
+      "descriptions": "Provides access to 1-Wire on the Raspberry Pi from Node.js",
+      "keyword": [
+        "nodebots",
+        "robotics",
+        "raspberry pi"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "cylon-hue",
+      "descriptions": "Cylon.js module for Phillips Hue",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "hue"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "cylon-imp",
+      "descriptions": "Cylon module for the Electric Imp",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio",
+        "i2c",
+        "imp",
+        "Electric Imp"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "rapp-platform-api",
+      "descriptions": "Containes RAPPCloud API modules used for interfering wth RAPP Platform as well as the RAPP Objects.",
+      "keyword": [
+        "robotics",
+        "cloud",
+        "cloud robotics",
+        "robot apps",
+        "robotic applications",
+        "path planning",
+        "web services",
+        "face detection",
+        "qr detection",
+        "human detection",
+        "object recognition",
+        "text to speech",
+        "computer vision",
+        "ontology",
+        "View more"
+      ],
+      "author": "leizer"
+    },
+    {
+      "name": "cylon-api-mqtt",
+      "descriptions": "MQTT API add-on module for Cylon.JS",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "api",
+        "mqtt"
+      ],
+      "author": "edgarsilva"
+    },
+    {
+      "name": "cylon-neurosky-master",
+      "descriptions": "Updated Cylon module for Neurosky to support node 10",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "neurosky",
+        "mindwave",
+        "eeg",
+        "brainwave",
+        "bci"
+      ],
+      "author": "refaelok"
+    },
+    {
+      "name": "cylon-powerup",
+      "descriptions": "Cylon module for the Powerup 3.0",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "powerup",
+        "airplane",
+        "bluetooth",
+        "bluetooth LE"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "heya",
+      "descriptions": "A platform for creating SumoBots",
+      "keyword": [
+        "sumobots",
+        "johnny-five",
+        "nodebots",
+        "robotics"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "snappy-core",
+      "descriptions": "Node-RED based Robotics Programming software backend",
+      "keyword": [
+        "snappy",
+        "robotics",
+        "node-red"
+      ],
+      "author": "prajankya"
+    },
+    {
+      "name": "cylon-wiced-sense",
+      "descriptions": "Cylon module for WicedSense",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "wiced-sense",
+        "ble",
+        "bluetooth",
+        "bluetooth le",
+        "wiced",
+        "broadcom"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "p5.j5",
+      "descriptions": "Johnny-five library for p5.js",
+      "keyword": [
+        "johnny-five",
+        "robotics",
+        "arduino",
+        "web",
+        "usb",
+        "bluetooth"
+      ],
+      "author": "monteslu"
+    },
+    {
+      "name": "inform-2d",
+      "descriptions": "Convert vector paths to MOTOMAN INFORM (.JBI) files",
+      "keyword": [
+        "motoman",
+        "browser",
+        "inform",
+        "jbi",
+        "robot",
+        "arm",
+        "industrial",
+        "robotics",
+        "svg"
+      ],
+      "author": "substack"
+    },
+    {
+      "name": "cylon-bebop",
+      "descriptions": "Cylon module for the Parrot Bebop drone",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "Parrot",
+        "Bebop",
+        "nodecopter",
+        "drones",
+        "drone"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "raspi-rotary-encoder",
+      "descriptions": "Provides reading of a Rotary Encoder connected to the Raspberry Pi's GPIO pins",
+      "keyword": [
+        "nodebots",
+        "robotics",
+        "raspberry pi"
+      ],
+      "author": "andrewn"
+    },
+    {
+      "name": "heya-remote-pawel-bot",
+      "descriptions": "Remote Pawel Bot driver for Heya",
+      "keyword": [
+        "sumobots",
+        "johnny-five",
+        "nodebots",
+        "robotics"
+      ],
+      "author": "nebrius"
+    },
+    {
+      "name": "pagenodes-nodes",
+      "descriptions": "Node definitions for pagenodes",
+      "keyword": [
+        "iot",
+        "johnny-five",
+        "robotics",
+        "midi",
+        "pagenodes"
+      ],
+      "author": "monteslu"
+    },
+    {
+      "name": "himm",
+      "descriptions": "Histrogramic In-Motion Mapping module framework for NodeJS.",
+      "keyword": [
+        "mapping",
+        "algorithm",
+        "histogram",
+        "obstacle",
+        "avoidance",
+        "real-time",
+        "mapp",
+        "building",
+        "robotics",
+        "motion",
+        "sampling",
+        "steering",
+        "omnidirectional",
+        "vector"
+      ],
+      "author": "ojengwa"
+    },
+    {
+      "name": "gazebo4js",
+      "descriptions": "NodeJs bindings for the Gazebo simulator (gazebosim.org)",
+      "keyword": [
+        "robotics",
+        "simulation",
+        "rigid",
+        "body",
+        "dynamics"
+      ],
+      "author": "hugomatic"
+    },
+    {
+      "name": "circle.landlessness",
+      "descriptions": "Have the ar.drone fly in a circle around an obstacle.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "ar.drone",
+        "robotics",
+        "detnodecopter"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "owi-robot-arm",
+      "descriptions": "Driver for OWI-535 ROBOTIC Arm Edge w/ USB",
+      "keyword": [
+        "robotics",
+        "robot",
+        "usb",
+        "nodebot",
+        "nodebots"
+      ],
+      "author": "tigeba"
+    },
+    {
+      "name": "dynanode",
+      "descriptions": "Node.js library for Dynamixel motors",
+      "keyword": [
+        "Dynamixel",
+        "Robotics",
+        "Servos"
+      ],
+      "author": "zmhenkel"
+    },
+    {
+      "name": "cylon-intel-iot-analytics",
+      "descriptions": "Cylon module for Intel IoT Analytics",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "intel",
+        "analytics"
+      ],
+      "author": "andrewstewart"
+    },
+    {
+      "name": "yogastudio",
+      "descriptions": "Yoga programming language for robots",
+      "keyword": [
+        "Yoga",
+        "language",
+        "robotics"
+      ],
+      "author": "tlbtlbtlb"
+    },
+    {
+      "name": "tga-client-sdk",
+      "descriptions": "JavaScript SDK to integrate with The Green Alliance Scouting Platform.",
+      "keyword": [
+        "frc",
+        "robots",
+        "robotics",
+        "scouting",
+        "analysis",
+        "data",
+        "match",
+        "competition"
+      ],
+      "author": "team4909"
+    },
+    {
+      "name": "kaia-services.js",
+      "descriptions": "JS library for Kaia.ai services",
+      "keyword": [
+        "kaia.ai",
+        "robotics",
+        "deep learning",
+        "tensorflow",
+        "slam",
+        "arduino",
+        "robot",
+        "self-driving",
+        "image recognition",
+        "image classification",
+        "tensorflow.js",
+        "speech recognition",
+        "kaia",
+        "messaging"
+      ],
+      "author": "kaiaai"
+    },
+    {
+      "name": "tba-api",
+      "descriptions": "Simple Node API for The Blue Alliance",
+      "keyword": [
+        "FIRST",
+        "Robotics",
+        "The",
+        "Blue",
+        "Alliance"
+      ],
+      "author": "astronautlevel"
+    },
+    {
+      "name": "cylon-octoblu",
+      "descriptions": "Cylon.js adaptor for the Octoblu open source machine to machine protocol",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "skynet",
+        "skynet.im",
+        "octoblu",
+        "meshblu"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "ble-io",
+      "descriptions": "IO class for generic GPIO service over Bluetooth low energy",
+      "keyword": [
+        "ble",
+        "noble",
+        "bluetooth",
+        "johnny-five",
+        "robotics",
+        "nodebots"
+      ],
+      "author": "monteslu"
+    },
+    {
+      "name": "ribbons.actuators.say.mac",
+      "descriptions": "Using Mac OSX's say command as a Ribbons actuator.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "actuator",
+        "say",
+        "text to voice",
+        "mac",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "choreo",
+      "descriptions": "A Robotics Framework",
+      "keyword": [
+        "micro",
+        "service",
+        "microservice",
+        "micro-service",
+        "microservices",
+        "micro-services",
+        "services",
+        "micro services",
+        "micro service",
+        "framework",
+        "minimum",
+        "viable",
+        "product",
+        "toolkit",
+        "View more"
+      ],
+      "author": "robotstudio"
+    },
+    {
+      "name": "javascript-robotics",
+      "descriptions": "Johnny-Five is the JavaScript Robotics and Hardware Programming Framework",
+      "keyword": [
+        "arduino",
+        "raspberrypi",
+        "usb",
+        "serial",
+        "serialport",
+        "firmata",
+        "robot",
+        "spark",
+        "spark core",
+        "spark-io",
+        "raspberry pi",
+        "rpi",
+        "raspi-io",
+        "intel galileo",
+        "View more"
+      ],
+      "author": "rwaldron"
+    },
+    {
+      "name": "cylon-chip",
+      "descriptions": "Cylon.js adaptor for the C.H.I.P. single-board computer",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio",
+        "i2c",
+        "chip",
+        "C.H.I.P.",
+        "Nexthingco"
+      ],
+      "author": "deadprogram"
+    },
+    {
+      "name": "cylon-joystick-node-4-and-5",
+      "descriptions": "Cylon module for any HID joystick",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "joystick",
+        "gamepad",
+        "xbox",
+        "xbox360",
+        "ps2",
+        "ps3",
+        "View more"
+      ],
+      "author": "davidmarkclements"
+    },
+    {
+      "name": "virtual-hrp-robot",
+      "descriptions": "Package that emulates a robot using the HID-Robot-Protocol (hrp)",
+      "keyword": [
+        "robotics",
+        "hrp",
+        "hid",
+        "usb",
+        "virtual"
+      ],
+      "author": "andresmanelli"
+    },
+    {
+      "name": "ribbons.actuators.say-mac",
+      "descriptions": "Using Mac OSX's say command as a Ribbons actuator.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "actuator",
+        "say",
+        "text to voice",
+        "mac",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "ribbons.in.keyboard.mac",
+      "descriptions": "Using a mac keyboard as a Ribbons input.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "sensor",
+        "input",
+        "in",
+        "keyboard",
+        "mac",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "bbeight-discovery",
+      "descriptions": "Automatically returns the address of your Sphero BB8 droid",
+      "keyword": [
+        "bb-8",
+        "bb8",
+        "hardware",
+        "sphero",
+        "robot",
+        "robotics",
+        "robots",
+        "sphero-js",
+        "spherojs",
+        "autodiscovery",
+        "discovery",
+        "bluetooth",
+        "ble"
+      ],
+      "author": "foliveira"
+    },
+    {
+      "name": "daftbot",
+      "descriptions": "JavaScript library for creating simple robots with Raspberry Pi.",
+      "keyword": [
+        "javascript",
+        "robotics",
+        "raspberry-pi"
+      ],
+      "author": "jimmcgaw"
+    },
+    {
+      "name": "cubelets",
+      "descriptions": "A package for interacting with Cubelets.",
+      "keyword": [
+        "modular",
+        "robotics",
+        "robot",
+        "cubelet",
+        "arduino",
+        "hardware"
+      ],
+      "author": "programmarchy"
+    },
+    {
+      "name": "ribbons.do",
+      "descriptions": "Prototype for Ribbons doers.",
+      "keyword": [
+        "ribbons",
+        "doer",
+        "framework",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "cylon-firmata-llwoll",
+      "descriptions": "Cylon module for Arduino and other microcontrollers using the Firmata protocol",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio",
+        "i2c",
+        "firmata",
+        "arduino"
+      ],
+      "author": "llwoll"
+    },
+    {
+      "name": "cylon-myo",
+      "descriptions": "Cylon module for the Myo",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "myo"
+      ],
+      "author": "adaemi"
+    },
+    {
+      "name": "snappy-robotics",
+      "descriptions": "Snappy Robotics GUI",
+      "keyword": [
+        "snappy",
+        "robotics",
+        "gui",
+        "nodered"
+      ],
+      "author": "prajankya"
+    },
+    {
+      "name": "ribbons.app",
+      "descriptions": "Prototype for Ribbons app.",
+      "keyword": [
+        "ribbons",
+        "application",
+        "app",
+        "framework",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "cylon-playbulb-candle",
+      "descriptions": "Cylon module for Playbulb Candle",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "playbulb candle",
+        "bluetooth",
+        "bluetooth le",
+        "ble"
+      ],
+      "author": "javiipg"
+    },
+    {
+      "name": "ribbons.platforms.lego.mindstorms.nxt",
+      "descriptions": "Lego Mindstorms NXT as a Ribbons platform.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "platform",
+        "lego",
+        "mindstorms",
+        "nxt",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "ribbons.sensors.twitter",
+      "descriptions": "Using Twitter as a Ribbons sensor.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "sensor",
+        "twitter",
+        "mentions",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "tba",
+      "descriptions": "A Node.js wrapper for The Blue Alliance API",
+      "keyword": [
+        "FRC",
+        "FIRST",
+        "Robotics",
+        "The Blue Alliance"
+      ],
+      "author": "carlcolglazier"
+    },
+    {
+      "name": "ribbons.platforms.arduino",
+      "descriptions": "Arduino as a Ribbons platform.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "platform",
+        "arduino",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "tba",
+      "descriptions": "A Node.js wrapper for The Blue Alliance API",
+      "keyword": [
+        "FRC",
+        "FIRST",
+        "Robotics",
+        "The Blue Alliance"
+      ],
+      "author": "carlcolglazier"
+    },
+    {
+      "name": "@pruebalau/cylon-odroid",
+      "descriptions": "Cylon Adaptor for Odroid single-board computers",
+      "keyword": [
+        "odroid",
+        "odroidjs",
+        "cylon",
+        "cylonjs",
+        "robot",
+        "robotics",
+        "iot",
+        "gpio"
+      ],
+      "author": "lauorozco"
+    },
+    {
+      "name": "ribbons.sensors.twitter.mentions",
+      "descriptions": "Using Twitter mentions as a Ribbons sensor.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "sensor",
+        "twitter",
+        "mentions",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "node-dweetproio",
+      "descriptions": "A node.js client for dweetpro.io",
+      "keyword": [
+        "dweetpro.io",
+        "dweet.io",
+        "internet of things",
+        "pubsub",
+        "IoT",
+        "m2m",
+        "robotics",
+        "sensors",
+        "arduino",
+        "beaglebone",
+        "messaging"
+      ],
+      "author": "bugvish"
+    },
+    {
+      "name": "kaia-scout.js",
+      "descriptions": "JS library for Kaia.ai Scout robot base",
+      "keyword": [
+        "kaia.ai",
+        "kaia-ai",
+        "kaiaai",
+        "kaia",
+        "robot",
+        "robot-base",
+        "robot base",
+        "robotics",
+        "arduino"
+      ],
+      "author": "kaiaai"
+    },
+    {
+      "name": "cylon-bean",
+      "descriptions": "Cylon adaptor for LightBlue Bean",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "gpio",
+        "i2c",
+        "bean",
+        "lightblue",
+        "firmata"
+      ],
+      "author": "innovate"
+    },
+    {
+      "name": "snappy-gui",
+      "descriptions": "Snappy Robotics GUI",
+      "keyword": [
+        "snappy",
+        "robotics",
+        "gui",
+        "nodered"
+      ],
+      "author": "prajankya"
+    },
+    {
+      "name": "ribbons.out.say.mac",
+      "descriptions": "Using Mac OSX's say command as a Ribbons output.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "actuator",
+        "output",
+        "out",
+        "say",
+        "text to voice",
+        "mac",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "ribbons.sensors.keyboard-mac",
+      "descriptions": "Using a mac keyboard as a Ribbons sensor.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "sensor",
+        "keyboard",
+        "mac",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "kaia-utils.js",
+      "descriptions": "JS utility library for Kaia.ai robots",
+      "keyword": [
+        "kaia.ai",
+        "kaia",
+        "kaia-ai",
+        "kaiaai",
+        "robot",
+        "robotics",
+        "webrtc"
+      ],
+      "author": "kaiaai"
+    },
+    {
+      "name": "snappy-server",
+      "descriptions": "Node-RED based Robotics Programming software backend",
+      "keyword": [
+        "snappy",
+        "robotics",
+        "node-red"
+      ],
+      "author": "prajankya"
+    },
+    {
+      "name": "ribbons.out.flight",
+      "descriptions": "Ribbons flight output.",
+      "keyword": [
+        "ribbons",
+        "framework",
+        "actuator",
+        "out",
+        "flight",
+        "ar.drone",
+        "robotics"
+      ],
+      "author": "landlessness"
+    },
+    {
+      "name": "kaia-face.js",
+      "descriptions": "Robot face animation library for Kaia.ai",
+      "keyword": [
+        "kaia.ai",
+        "robotics",
+        "robot",
+        "kaia",
+        "animation"
+      ],
+      "author": "kaiaai"
+    },
+    {
+      "name": "cylon-prueba",
+      "descriptions": "JavaScript framework for robotics, drones, and the Internet of Things (IoT) using Node.js",
+      "keyword": [
+        "cylon",
+        "cylonjs",
+        "cylons",
+        "robot",
+        "robots",
+        "robotics",
+        "iot",
+        "hardware",
+        "drones",
+        "internet of things"
+      ],
+      "author": "aulasamigas"
+    },
+    {
+      "name": "orbie",
+      "descriptions": "Orbie - a fork from the official Orbotix JavaScript SDK to control Sphero robots",
+      "keyword": [
+        "robot",
+        "robots",
+        "robotics",
+        "hardware",
+        "sphero",
+        "spherojs",
+        "sphero-js",
+        "orbotix",
+        "ollie",
+        "bb8",
+        "bb-8",
+        "sprk"
+      ],
+      "author": "wesselperik"
+    },
+    {
+      "name": "the-green-alliance-sdk",
+      "descriptions": "JavaScript SDK to integrate with The Green Alliance Scouting Platform.",
+      "keyword": [
+        "frc",
+        "robots",
+        "robotics",
+        "scouting",
+        "analysis",
+        "data",
+        "match",
+        "competition"
+      ],
+      "author": "the-green-alliance"
+    },
+    {
+      "name": "hrp-server",
+      "descriptions": "Small server to manage HID-Devices and HRP-compliant robots connections",
+      "keyword": [
+        "robotics",
+        "telerobotics",
+        "hrp",
+        "hid",
+        "usb",
+        "robot"
+      ],
+      "author": "andresmanelli"
+    },
+    {
+      "name": "robotsim",
+      "descriptions": "Yet Another Robot Simulation, WIP",
+      "keyword": [
+        "robotics",
+        "robot",
+        "simulation",
+        "artificialintelligence"
+      ],
+      "author": "ajlopez"
+    },
+    {
+      "name": "frc",
+      "descriptions": "Node.js support for a variety of frc functionality",
+      "keyword": [
+        "FRC",
+        "DriverStation",
+        "Node",
+        "First",
+        "Robotics",
+        "NetConsole"
+      ],
+      "author": "innoying"
+    },
+    {
+      "name": "@palettegear/serialport",
+      "descriptions": "Node.js package to access serial ports. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!",
+      "keyword": [
+        "ccTalk",
+        "com port",
+        "data logging",
+        "hardware",
+        "iot",
+        "johnny-five",
+        "modem",
+        "nodebots",
+        "RFID",
+        "robotics",
+        "sensor",
+        "serial port",
+        "serial",
+        "serialport",
+        "View more"
+      ],
+      "author": "nfrasser"
+    }
+  ]
+}

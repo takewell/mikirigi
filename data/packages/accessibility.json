@@ -1,0 +1,5448 @@
+{
+  "keyword": "accessibility",
+  "packages": [
+    {
+      "name": "eslint-plugin-jsx-a11y",
+      "descriptions": "Static AST checker for accessibility rules on JSX elements.",
+      "keyword": [
+        "eslint",
+        "eslintplugin",
+        "eslint-plugin",
+        "a11y",
+        "accessibility",
+        "jsx"
+      ],
+      "author": "jessebeach"
+    },
+    {
+      "name": "axe-core",
+      "descriptions": "Accessibility engine for automated Web UI testing",
+      "keyword": [
+        "Accessibility",
+        "a11y",
+        "testing",
+        "unit",
+        "tdd",
+        "bdd",
+        "axe"
+      ],
+      "author": "npmdeque"
+    },
+    {
+      "name": "aria-query",
+      "descriptions": "Programmatic access to the ARIA specification",
+      "keyword": [
+        "accessibility",
+        "ARIA"
+      ],
+      "author": "jessebeach"
+    },
+    {
+      "name": "downshift",
+      "descriptions": "A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete components",
+      "keyword": [
+        "enhanced input",
+        "react",
+        "autocomplete",
+        "autosuggest",
+        "typeahead",
+        "dropdown",
+        "select",
+        "combobox",
+        "omnibox",
+        "accessibility",
+        "WAI-ARIA",
+        "multiselect",
+        "multiple selection"
+      ],
+      "author": "silviuavram"
+    },
+    {
+      "name": "axobject-query",
+      "descriptions": "Programmatic access to information about the AXObject Model",
+      "keyword": [
+        "accessibility"
+      ],
+      "author": "jessebeach"
+    },
+    {
+      "name": "bootstrap-vue",
+      "descriptions": "BootstrapVue, with over 40 plugins and more than 80 custom components, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.",
+      "keyword": [
+        "Bootstrap",
+        "Bootstrap v4",
+        "Bootstrap for Vue",
+        "SSR",
+        "Web",
+        "Components",
+        "Directives",
+        "ARIA",
+        "Accessibility",
+        "Polymer",
+        "Vue",
+        "VueJS",
+        "Vue2",
+        "WebComponents",
+        "View more"
+      ],
+      "author": "tmorehouse"
+    },
+    {
+      "name": "postcss-focus-visible",
+      "descriptions": "Use the :focus-visible pseudo-selector in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "focus",
+        "ring",
+        "pseudos",
+        "selectors",
+        "accessibility",
+        "a11y",
+        "keyboards",
+        "pointer",
+        "cursor",
+        "mice",
+        "mouse",
+        "View more"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-focus-within",
+      "descriptions": "Use the :focus-within pseudo-selector in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "focus",
+        "within",
+        "polyfill",
+        "pseudos",
+        "selectors",
+        "accessibility",
+        "a11y",
+        "descendants",
+        "ancestors"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "css-blank-pseudo",
+      "descriptions": "Style form elements when they are empty",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "javascript",
+        "js",
+        "polyfill",
+        "blank",
+        "empty",
+        "pseudo",
+        "selectors",
+        "accessibility",
+        "a11y",
+        "input",
+        "select"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "focus-trap-react",
+      "descriptions": "A React component that traps focus.",
+      "keyword": [
+        "react",
+        "reactjs",
+        "react-component",
+        "aria",
+        "accessibility",
+        "modal",
+        "dialog",
+        "focus",
+        "keyboard"
+      ],
+      "author": "davidtheclark"
+    },
+    {
+      "name": "focus-trap",
+      "descriptions": "Trap focus within a DOM node.",
+      "keyword": [
+        "focus",
+        "accessibility",
+        "trap",
+        "capture",
+        "keyboard",
+        "modal"
+      ],
+      "author": "davidtheclark"
+    },
+    {
+      "name": "angular-aria",
+      "descriptions": "AngularJS module for making accessibility easy",
+      "keyword": [
+        "angular",
+        "framework",
+        "browser",
+        "accessibility",
+        "a11y",
+        "client-side"
+      ],
+      "author": "petebacondarwin"
+    },
+    {
+      "name": "what-input",
+      "descriptions": "A global utility for tracking the current input method (mouse, keyboard or touch).",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "input",
+        "javascript"
+      ],
+      "author": "ten1seven"
+    },
+    {
+      "name": "@storybook/addon-a11y",
+      "descriptions": "A11y addon for storybook",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "addon",
+        "storybook",
+        "valid",
+        "verify"
+      ],
+      "author": "shilman"
+    },
+    {
+      "name": "pa11y",
+      "descriptions": "Pa11y is your automated accessibility testing pal",
+      "keyword": [
+        "accessibility",
+        "analysis",
+        "cli",
+        "report"
+      ],
+      "author": "joseluisbolos"
+    },
+    {
+      "name": "react-axe",
+      "descriptions": "Dynamic accessibility analysis for React using axe-core",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "lint",
+        "test"
+      ],
+      "author": "npmdeque"
+    },
+    {
+      "name": "react-accessible-accordion",
+      "descriptions": "Accessible Accordion component for React",
+      "keyword": [
+        "react",
+        "component",
+        "accordion",
+        "collapse",
+        "accessible",
+        "accessibility",
+        "wai-aria",
+        "aria",
+        "a11y"
+      ],
+      "author": "ryami333"
+    },
+    {
+      "name": "accessibility-developer-tools",
+      "descriptions": "This is a library of accessibility-related testing and utility code.",
+      "keyword": [
+        "accessibility",
+        "testing",
+        "WCAG"
+      ],
+      "author": "addyosmani"
+    },
+    {
+      "name": "react-aria-menubutton",
+      "descriptions": "A fully accessible and flexible React-powered menu button",
+      "keyword": [
+        "react",
+        "reactjs",
+        "react-component",
+        "aria",
+        "accessibility",
+        "menu",
+        "dropdown",
+        "widget"
+      ],
+      "author": "davidtheclark"
+    },
+    {
+      "name": "lity",
+      "descriptions": "Lightweight, accessible and responsive lightbox.",
+      "keyword": [
+        "lightbox",
+        "modal",
+        "popup",
+        "lightweight",
+        "responsive",
+        "accessible",
+        "accessibility",
+        "a11y",
+        "jquery",
+        "jquery-plugin",
+        "ecosystem:jquery"
+      ],
+      "author": "jsor"
+    },
+    {
+      "name": "grommet",
+      "descriptions": "Focus on the essential experience",
+      "keyword": [
+        "grommet",
+        "grommet.io",
+        "grommetux",
+        "component",
+        "library",
+        "design system",
+        "framework",
+        "react",
+        "theming",
+        "templates",
+        "sticker sheets",
+        "design patterns",
+        "app templates",
+        "atomic design",
+        "View more"
+      ],
+      "author": "shimisun"
+    },
+    {
+      "name": "axe-webdriverjs",
+      "descriptions": "Provides a method to inject and analyze web pages using aXe",
+      "keyword": [
+        "a11y",
+        "unit",
+        "testing",
+        "tdd",
+        "bdd",
+        "accessibility",
+        "aXe",
+        "selenium",
+        "webdriver",
+        "webdriverjs"
+      ],
+      "author": "npmdeque"
+    },
+    {
+      "name": "react-toggled",
+      "descriptions": "Component to build simple, flexible, and accessible toggle components.",
+      "keyword": [
+        "toggle",
+        "react",
+        "accessibility",
+        "WAI-ARIA"
+      ],
+      "author": "kentcdodds"
+    },
+    {
+      "name": "ally.js",
+      "descriptions": "JavaScript library to help web applications with accessibility concerns",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "focus",
+        "focusable",
+        "tabbing",
+        "tabbable"
+      ],
+      "author": "rodneyrehm"
+    },
+    {
+      "name": "focus-group",
+      "descriptions": "Create a group of nodes with special focusing powers",
+      "keyword": [
+        "focus",
+        "accessibility",
+        "a11y",
+        "arrows",
+        "keyboard",
+        "navigation",
+        "aria"
+      ],
+      "author": "davidtheclark"
+    },
+    {
+      "name": "react-aria-modal",
+      "descriptions": "A fully accessible and flexible React modal built according WAI-ARIA Authoring Practices",
+      "keyword": [
+        "react",
+        "react-component",
+        "modal",
+        "accessibility",
+        "accessible",
+        "dialog"
+      ],
+      "author": "davidtheclark"
+    },
+    {
+      "name": "react-a11y",
+      "descriptions": "Warns about potential accessibility issues with your React elements.",
+      "keyword": [
+        "accessibility",
+        "react",
+        "a11y"
+      ],
+      "author": "erin-doyle"
+    },
+    {
+      "name": "postcss-focus",
+      "descriptions": "PostCSS plugin to add :focus selector to every :hover for keyboard accessibility",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "hover",
+        "focus",
+        "keyboard",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "pure-react-carousel",
+      "descriptions": "A highly impartial suite of React components that can be assembled by the consumer to create a responsive and aria compliant carousel with almost no limits on DOM structure or CSS styles.",
+      "keyword": [
+        "react",
+        "carousel",
+        "aria",
+        "responsive",
+        "accessibility",
+        "accessible"
+      ],
+      "author": "bcarroll22"
+    },
+    {
+      "name": "vue-autosuggest",
+      "descriptions": "Vue autosuggest component.",
+      "keyword": [
+        "vue",
+        "autosuggest",
+        "autocomplete",
+        "enhanced input",
+        "typeahead",
+        "dropdown",
+        "select",
+        "combobox",
+        "accessibility",
+        "WAI-ARIA",
+        "multiselect",
+        "multiple selection"
+      ],
+      "author": "darrenjennings"
+    },
+    {
+      "name": "a11y",
+      "descriptions": "Runs an accessibility audit against a URL",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "a11y",
+        "audit",
+        "test",
+        "accessibility",
+        "wai",
+        "aria",
+        "dev",
+        "developer",
+        "tool",
+        "report",
+        "web",
+        "website"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "axe-cli",
+      "descriptions": "A CLI for accessibility testing using axe-core",
+      "keyword": [
+        "axe-core",
+        "accessibility",
+        "a11y",
+        "wcag",
+        "cli",
+        "testing"
+      ],
+      "author": "npmdeque"
+    },
+    {
+      "name": "a11y-focus-store",
+      "descriptions": "Accessibility util for storing/restoring focus.",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "focus",
+        "store",
+        "restore",
+        "aria"
+      ],
+      "author": "thejameskyle"
+    },
+    {
+      "name": "jest-axe",
+      "descriptions": "Custom Jest matcher for aXe for testing accessibility",
+      "keyword": [
+        "jest",
+        "matcher",
+        "axe",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "nickcolley"
+    },
+    {
+      "name": "colorable",
+      "descriptions": "Color combination contrast tester",
+      "keyword": [
+        "color",
+        "contrast",
+        "wcag",
+        "accessibility"
+      ],
+      "author": "jxnblk"
+    },
+    {
+      "name": "ember-a11y-testing",
+      "descriptions": "The future of accessibility testing in Ember",
+      "keyword": [
+        "ember-addon",
+        "accessibility",
+        "ember",
+        "a11y",
+        "testing"
+      ],
+      "author": "drewlee"
+    },
+    {
+      "name": "a11y-dialog",
+      "descriptions": "A tiny script to make dialog windows accessible to assistive technology users.",
+      "keyword": [
+        "modal",
+        "dialog",
+        "accessibility",
+        "a11y",
+        "focus"
+      ],
+      "author": "hugogiraudel"
+    },
+    {
+      "name": "gulp-accessibility",
+      "descriptions": "Grade your sites accessibility and generate a report from different WCAG levels",
+      "keyword": [
+        "gulpplugin",
+        "accessibility",
+        "a11y",
+        "analysis",
+        "report",
+        "WCAG"
+      ],
+      "author": "yargalot"
+    },
+    {
+      "name": "eslint-plugin-react-native-a11y",
+      "descriptions": "React Native specific accessibility linting rules.",
+      "keyword": [
+        "eslint",
+        "eslintplugin",
+        "eslint-plugin",
+        "a11y",
+        "accessibility",
+        "react-native"
+      ],
+      "author": "jpdriver"
+    },
+    {
+      "name": "react-sanfona",
+      "descriptions": "React accessible accordion component",
+      "keyword": [
+        "react",
+        "reactjs",
+        "react-component",
+        "accordion",
+        "accessibility",
+        "aria",
+        "widget"
+      ],
+      "author": "daviferreira"
+    },
+    {
+      "name": "hint",
+      "descriptions": "The linting tool for the web",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "best-practices",
+        "compatibility",
+        "lint",
+        "performance",
+        "security"
+      ],
+      "author": "molant"
+    },
+    {
+      "name": "virtual-keyboard",
+      "descriptions": "Virtual Keyboard using jQuery UI",
+      "keyword": [
+        "customizable",
+        "keyboard",
+        "ui",
+        "accessibility",
+        "osk",
+        "jquery-plugin"
+      ],
+      "author": "mottie"
+    },
+    {
+      "name": "axe-reports",
+      "descriptions": "Create human readable reports from the results object created by the aXe analyze function.",
+      "keyword": [
+        "accessibility",
+        "aXe",
+        "automation",
+        "testing",
+        "report",
+        "tsv",
+        "csv"
+      ],
+      "author": "louisreedjr"
+    },
+    {
+      "name": "@material/touch-target",
+      "descriptions": "Touch target mixins and variables for Material Components for the web",
+      "keyword": [
+        "material components",
+        "material design",
+        "accessibility",
+        "touch target"
+      ],
+      "author": "abhiomkar"
+    },
+    {
+      "name": "accessible-autocomplete",
+      "descriptions": "An autocomplete component, built to be accessible.",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "autocomplete",
+        "component",
+        "plugin",
+        "typeahead",
+        "widget"
+      ],
+      "author": "alphagov"
+    },
+    {
+      "name": "dub-step",
+      "descriptions": "A set of primitives for building step/index based UI widgets controlled by swipe, timers, and/or buttons.",
+      "keyword": [
+        "enhanced input",
+        "react",
+        "carousel",
+        "swipe",
+        "slideshow",
+        "index",
+        "step",
+        "accessibility",
+        "WAI-ARIA",
+        "function as child",
+        "prop getter"
+      ],
+      "author": "infiniteluke"
+    },
+    {
+      "name": "access-sniff",
+      "descriptions": "A node/iojs library & CLI for HTML_Codesniffer",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "analysis",
+        "report",
+        "WCAG"
+      ],
+      "author": "yargalot"
+    },
+    {
+      "name": "jquery-bootgrid",
+      "descriptions": "Nice, sleek and intuitive. A grid control especially designed for bootstrap.",
+      "keyword": [
+        "jquery-plugin",
+        "jQuery",
+        "Bootstrap",
+        "Plugin",
+        "Component",
+        "Control",
+        "UI",
+        "Grid",
+        "Table",
+        "Data",
+        "Sorting",
+        "Filtering",
+        "HTML5",
+        "Accessibility"
+      ],
+      "author": "rafaelstaib"
+    },
+    {
+      "name": "cypress-axe",
+      "descriptions": "Custom cypress commands to inject axe-core and test for a11y",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "axe",
+        "axe-core",
+        "cypress"
+      ],
+      "author": "avanslaars"
+    },
+    {
+      "name": "focus-within",
+      "descriptions": "Style elements when they are focused or contain a focused element",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "javascript",
+        "js",
+        "polyfill",
+        "focus",
+        "within",
+        "pseudos",
+        "selectors",
+        "accessibility",
+        "a11y",
+        "descendants",
+        "ancestors"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "time-input-polyfill",
+      "descriptions": "An accessible polyfill for `<input type='time'/>` elements modeled after the Chrome & Firefox desktop implementations.",
+      "keyword": [
+        "time",
+        "input",
+        "polyfill",
+        "IE",
+        "accessible",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "dan503"
+    },
+    {
+      "name": "@lewisl9029/downshift",
+      "descriptions": "A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete components",
+      "keyword": [
+        "enhanced input",
+        "react",
+        "autocomplete",
+        "autosuggest",
+        "typeahead",
+        "dropdown",
+        "select",
+        "combobox",
+        "omnibox",
+        "accessibility",
+        "WAI-ARIA",
+        "multiselect",
+        "multiple selection"
+      ],
+      "author": "lewisl9029"
+    },
+    {
+      "name": "accessibilityjs",
+      "descriptions": "Client side accessibility error scanner.",
+      "keyword": [
+        "accessibility",
+        "a11y"
+      ],
+      "author": "mislav"
+    },
+    {
+      "name": "fela-plugin-rtl",
+      "descriptions": "Fela plugin to convert styles to RTL",
+      "keyword": [
+        "fela",
+        "fela-plugin",
+        "rtl",
+        "accessibility"
+      ],
+      "author": "rofrischmann"
+    },
+    {
+      "name": "eslint-plugin-vue-a11y",
+      "descriptions": "Static AST checker for accessibility rules on elements in .vue",
+      "keyword": [
+        "eslint",
+        "eslintplugin",
+        "eslint-plugin",
+        "vue",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "maranran"
+    },
+    {
+      "name": "@react-md/utils",
+      "descriptions": "General utils for react-md.",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "utils",
+        "throttled events",
+        "rtl",
+        "right to left websites",
+        "safari scroll fix"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "emoji-text",
+      "descriptions": "Convert emoji to accessible text-only descriptions",
+      "keyword": [
+        "emoji",
+        "text",
+        "convert",
+        "accessibility"
+      ],
+      "author": "makenai"
+    },
+    {
+      "name": "@hint/configuration-web-recommended",
+      "descriptions": "Webhint's recommended hints configuration for live websites",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "best-practices",
+        "compatibility",
+        "lint",
+        "performance",
+        "security",
+        "webhint",
+        "webhint-configuration"
+      ],
+      "author": "molant"
+    },
+    {
+      "name": "chai-a11y-axe",
+      "descriptions": "A11y tests for chai",
+      "keyword": [
+        "chai",
+        "accessibility",
+        "A11Y",
+        "testing"
+      ],
+      "author": "d4kmor"
+    },
+    {
+      "name": "react-paginating",
+      "descriptions": "Simple, lightweight, flexible pagination component",
+      "keyword": [
+        "accessibility",
+        "WAI-ARIA",
+        "react",
+        "react-component",
+        "pagination",
+        "paginate",
+        "paginator",
+        "pagination-components"
+      ],
+      "author": "dzungnguyen179"
+    },
+    {
+      "name": "@hint/configuration-accessibility",
+      "descriptions": "Webhint's axe-based accessibility configuration for WCAG 2.1 Level A and Level AA requirements",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "webhint",
+        "webhint-configuration"
+      ],
+      "author": "molant"
+    },
+    {
+      "name": "gulp-arialinter",
+      "descriptions": "Gulp plugin for the accessibility tool AriaLinter",
+      "keyword": [
+        "gulp",
+        "gulpplugin",
+        "arialinter",
+        "aria",
+        "accessibility"
+      ],
+      "author": "charca"
+    },
+    {
+      "name": "a11y-announcer",
+      "descriptions": "An accessible ember route change announcer",
+      "keyword": [
+        "ember-addon",
+        "ember accessibility",
+        "ember router",
+        "a11y-announcer",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "robdel12"
+    },
+    {
+      "name": "starability",
+      "descriptions": "Starability.css is an accessible rating system with cute animations on top. No JavaScript included.",
+      "keyword": [
+        "rating",
+        "accessibility",
+        "css",
+        "sass",
+        "scss",
+        "animations"
+      ],
+      "author": "lunarlogic"
+    },
+    {
+      "name": "a11y-focus-scope",
+      "descriptions": "Accessibility util for scoping focus to an element.",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "focus",
+        "focusin",
+        "store",
+        "restore",
+        "aria"
+      ],
+      "author": "thejameskyle"
+    },
+    {
+      "name": "react-aria-tooltip",
+      "descriptions": "ReactJS ARIA tooltip component",
+      "keyword": [
+        "react",
+        "reactjs",
+        "component",
+        "aria",
+        "tooltip",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "egoens"
+    },
+    {
+      "name": "@a11y/focus-trap",
+      "descriptions": "A lightweight web component that traps focus within a DOM node",
+      "keyword": [
+        "custom",
+        "elements",
+        "web",
+        "component",
+        "custom element",
+        "web component",
+        "focus",
+        "accessibility",
+        "dialog",
+        "focus trap",
+        "trap"
+      ],
+      "author": "explore"
+    },
+    {
+      "name": "@bbc/psammead-visually-hidden-text",
+      "descriptions": "React styled component for visually hidden text (for screen readers)",
+      "keyword": [
+        "bbc",
+        "accessibility",
+        "a11y",
+        "screen readers",
+        "off-screen"
+      ],
+      "author": "bbc-online"
+    },
+    {
+      "name": "grunt-accessibility",
+      "descriptions": "Grade your site's accessibility and generate a report from different WCAG levels",
+      "keyword": [
+        "gruntplugin",
+        "accessibility",
+        "a11y",
+        "analysis",
+        "report",
+        "WCAG"
+      ],
+      "author": "yargalot"
+    },
+    {
+      "name": "@bbc/psammead-timestamp",
+      "descriptions": "React styled component for displaying a timestamp with a suitable semantic markup",
+      "keyword": [
+        "bbc",
+        "accessibility",
+        "a11y",
+        "screen readers",
+        "off-screen"
+      ],
+      "author": "bbc-online"
+    },
+    {
+      "name": "react-aria-tabpanel",
+      "descriptions": "A style- and markup-agnostic, React-powered Tab Panel component that fulfills the WAI-ARIA Design Pattern",
+      "keyword": [
+        "react",
+        "reactjs",
+        "react-component",
+        "aria",
+        "accessibility",
+        "tabs",
+        "tab-panel",
+        "widget"
+      ],
+      "author": "davidtheclark"
+    },
+    {
+      "name": "a11y.css",
+      "descriptions": "This file aims to warn front-end devs about mistakes and potential accessibility failures - but it also helps to rate client-side code and to spot its weaknesses.",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "accessibility-checker",
+        "testing",
+        "css",
+        "sass",
+        "scss"
+      ],
+      "author": "ffoodd"
+    },
+    {
+      "name": "ng-a11y",
+      "descriptions": "Angular.js Accessibility Module",
+      "keyword": [
+        "Angular",
+        "Angulr.js",
+        "Accessibility",
+        "a11y"
+      ],
+      "author": "marcysutton"
+    },
+    {
+      "name": "@trevoreyre/autocomplete-vue",
+      "descriptions": "Simple autocomplete component in vanilla JS and Vue",
+      "keyword": [
+        "autocomplete",
+        "combobox",
+        "typeahead",
+        "select",
+        "search",
+        "accessibility",
+        "a11y",
+        "WAI-ARIA",
+        "vue"
+      ],
+      "author": "trevoreyre"
+    },
+    {
+      "name": "wcag",
+      "descriptions": "Test a site for WCAG or Section 508 compliancy.",
+      "keyword": [
+        "accessibility",
+        "wcag",
+        "508",
+        "section 508",
+        "cli",
+        "command line"
+      ],
+      "author": "contolini"
+    },
+    {
+      "name": "@react-md/states",
+      "descriptions": "A package for adding the different focus, hover, selected, active, etc states to elements",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "keyboard",
+        "focus",
+        "selection"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "gatsby-plugin-accessibilityjs",
+      "descriptions": "Adds accessibility.js snippet to all renderered pages",
+      "keyword": [
+        "gatsby",
+        "gatsby-plugin",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "alampros"
+    },
+    {
+      "name": "postcss-pseudo-class-enter",
+      "descriptions": "Use the :enter pseudo-class in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "hover",
+        "focus",
+        "pseudo",
+        "element",
+        "keyboard",
+        "mouse",
+        "mice",
+        "finger",
+        "touch",
+        "pointer",
+        "accessibility"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "@wordpress/jest-puppeteer-axe",
+      "descriptions": "Axe API integration with Jest and Puppeteer.",
+      "keyword": [
+        "wordpress",
+        "jest",
+        "puppeteer",
+        "axe",
+        "accessibility"
+      ],
+      "author": "gziolo"
+    },
+    {
+      "name": "axe-testcafe",
+      "descriptions": "The TestCafe module that allows you to use the aXe accessibility engine in TestCafe tests",
+      "keyword": [
+        "axe",
+        "testcafe",
+        "test",
+        "accessibility"
+      ],
+      "author": "belym.a.2105"
+    },
+    {
+      "name": "input-range-scss",
+      "descriptions": "Sass component for customizing the input range using the native properties of each browser.",
+      "keyword": [
+        "sass",
+        "scss",
+        "input",
+        "range",
+        "custom",
+        "design",
+        "visual",
+        "cross",
+        "browser",
+        "accessibility"
+      ],
+      "author": "darlanrod"
+    },
+    {
+      "name": "get-contrast-ratio",
+      "descriptions": "Calculate contrast ratio between two CSS color strings.",
+      "keyword": [
+        "luminance",
+        "relative-luminance",
+        "contrast",
+        "contrast-ratio",
+        "wcag",
+        "accessibility",
+        "a11y",
+        "color",
+        "color-contrast"
+      ],
+      "author": "misund"
+    },
+    {
+      "name": "@magica11y/cauldron",
+      "descriptions": "The shared core and build system behind Magica11y",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "css",
+        "media-query",
+        "level-5",
+        "matchmedia",
+        "prefers-reduced-motion",
+        "light-level",
+        "environment-blending",
+        "inverted-colors",
+        "prefers-reduced-transparency",
+        "prefers-contrast",
+        "prefers-color-scheme",
+        "forced-colors"
+      ],
+      "author": "rishabhsrao"
+    },
+    {
+      "name": "makeup-exit-emitter",
+      "descriptions": "Emits custom 'focusExit' event when keyboard focus has exited an element and all of it's descendants",
+      "keyword": [
+        "makeup",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "makeup-next-id",
+      "descriptions": "Assign the next id in sequence to an element, if an id property does not already exist.",
+      "keyword": [
+        "makeup",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "@qualweb/util",
+      "descriptions": "Utilities module for qualweb",
+      "keyword": [
+        "qualweb",
+        "accessibility",
+        "util",
+        "lib"
+      ],
+      "author": "joao-vicente"
+    },
+    {
+      "name": "a11y-react-emoji",
+      "descriptions": "An accessible Emoji component for React applications",
+      "keyword": [
+        "react",
+        "emoji",
+        "a11y",
+        "accessibility",
+        "accessible"
+      ],
+      "author": "seanmcp"
+    },
+    {
+      "name": "dom-slider",
+      "descriptions": "Plain JavaScript version of jQuery's slideToggle(), slideDown(), & slideUp(), but does not use display: none.",
+      "keyword": [
+        "jQuery",
+        "accessibility",
+        "animation",
+        "slideDown",
+        "slideUp",
+        "slideToggle",
+        "vanilla-js"
+      ],
+      "author": "brenton-cozby"
+    },
+    {
+      "name": "accessibility",
+      "descriptions": "Add accessibility to your website",
+      "keyword": [
+        "accessibility",
+        "website",
+        "increase text size",
+        "underline links",
+        "text to speech",
+        "invert colors"
+      ],
+      "author": "ranbuch"
+    },
+    {
+      "name": "tinymce-a11y-checker",
+      "descriptions": "An accessibility checker plugin for TinyMCE.",
+      "keyword": [
+        "tinymce",
+        "accessibility",
+        "plugin",
+        "a11y"
+      ],
+      "author": "claydiffrient"
+    },
+    {
+      "name": "get-best-contrast-color",
+      "descriptions": "Calculate the color in an array of colors that gives the highest contrast to another color.",
+      "keyword": [
+        "color",
+        "contrast",
+        "contrast-ratio",
+        "accessibility",
+        "a11y",
+        "luminance",
+        "relative-luminance",
+        "text-legibility"
+      ],
+      "author": "misund"
+    },
+    {
+      "name": "vue-axe",
+      "descriptions": "Dynamic accessibility analysis for Vue.js using axe-core",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "vue.js",
+        "test",
+        "auditing"
+      ],
+      "author": "ktquez"
+    },
+    {
+      "name": "vue-announcer",
+      "descriptions": "A simple way with Vue to announce any information to the screen readers.",
+      "keyword": [
+        "announcer",
+        "Vue.js",
+        "Vue",
+        "accessibility",
+        "a11y",
+        "screen",
+        "readers",
+        "Vision",
+        "Disability",
+        "JAWS",
+        "ChromeVox",
+        "NVDA"
+      ],
+      "author": "ktquez"
+    },
+    {
+      "name": "mathjax-node-sre",
+      "descriptions": "Extend mathjax-node using speechruleengine",
+      "keyword": [
+        "mathjax",
+        "math",
+        "tex",
+        "mathml",
+        "html",
+        "accessibility",
+        "screenreader"
+      ],
+      "author": "pkra"
+    },
+    {
+      "name": "ember-a11y",
+      "descriptions": "A collection of tools to build accessible Ember applications.",
+      "keyword": [
+        "ember-addon",
+        "a11y",
+        "accessibility",
+        "ember"
+      ],
+      "author": "nathanhammond"
+    },
+    {
+      "name": "gulp-pa11y",
+      "descriptions": "Accessibility audit of your site using Gulp based on pa11y",
+      "keyword": [
+        "pa11y",
+        "report",
+        "website",
+        "web",
+        "developer",
+        "wai",
+        "accessibility",
+        "dev",
+        "tool",
+        "aria",
+        "test",
+        "audit",
+        "cli-app",
+        "gulpplugin"
+      ],
+      "author": "dreamzmaster"
+    },
+    {
+      "name": "remove-focus-outline",
+      "descriptions": "Removes CSS outlines in an accessible manner",
+      "keyword": [
+        "focus",
+        "outline",
+        "css",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "lindsayevans"
+    },
+    {
+      "name": "@react-md/button",
+      "descriptions": "This package is used to create buttons with the material design spec. There is built-in support to be able to render accessible clickable divs that look like buttons, or even apply button styles to any element.",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "material design",
+        "react",
+        "button",
+        "component",
+        "components"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "@ebay/skin",
+      "descriptions": "Skin - CSS modules that represent the brand eBay",
+      "keyword": [
+        "eBay",
+        "CSS",
+        "BEM",
+        "LassoJS",
+        "accessibility",
+        "WAI-ARIA",
+        "eBay MIND Patterns"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "@gov.au/skip-link",
+      "descriptions": "Provide skip links to navigation and content.",
+      "keyword": [
+        "auds",
+        "pancake",
+        "pancake-module",
+        "sass",
+        "scss",
+        "css",
+        "gov.au",
+        "Commonwealth of Australia",
+        "design guide",
+        "design system",
+        "tab links",
+        "skip links",
+        "skip-to",
+        "accessibility"
+      ],
+      "author": "rajghuman"
+    },
+    {
+      "name": "@festicket/react-aria-tooltip",
+      "descriptions": "ReactJS ARIA tooltip component",
+      "keyword": [
+        "react",
+        "reactjs",
+        "component",
+        "aria",
+        "tooltip",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "nupurgrover"
+    },
+    {
+      "name": "focus-trap-vue",
+      "descriptions": "Vue component to trap the focus within a DOM element",
+      "keyword": [
+        "focus",
+        "trap",
+        "a11y",
+        "accessibility",
+        "modal",
+        "component",
+        "block",
+        "lock",
+        "vue"
+      ],
+      "author": "posva"
+    },
+    {
+      "name": "wcag-element-contrast",
+      "descriptions": "WCAG 2.0 AA contrast checker for DOM elements",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "color",
+        "contrast",
+        "wcag",
+        "ratio",
+        "dom"
+      ],
+      "author": "brentburgoyne"
+    },
+    {
+      "name": "@nota/nativescript-accessibility-ext",
+      "descriptions": "Add support for 'VoiceOver' and 'TalkBack' in NativeScript",
+      "keyword": [
+        "NativeScript",
+        "JavaScript",
+        "Accessibility",
+        "angular",
+        "Android",
+        "TalkBack",
+        "VoiceOver",
+        "iOS"
+      ],
+      "author": "m_abs"
+    },
+    {
+      "name": "@react-md/list",
+      "descriptions": "This package is used to create lists with the material design specs.",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "material design",
+        "react",
+        "list",
+        "list item",
+        "component",
+        "components"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "makeup-screenreader-trap",
+      "descriptions": "Restricts screen reader virtual cursor to a single subtree in the DOM",
+      "keyword": [
+        "makeup",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "makeup-focusables",
+      "descriptions": "Returns an array of all focusable descendants of the given element",
+      "keyword": [
+        "makeup",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "@limetech/mdc-touch-target",
+      "descriptions": "Touch target mixins and variables for Material Components for the web",
+      "keyword": [
+        "material components",
+        "material design",
+        "accessibility",
+        "touch target"
+      ],
+      "author": "specularrain"
+    },
+    {
+      "name": "axe-sarif-converter",
+      "descriptions": "Convert axe-core accessibility scan results to the SARIF format",
+      "keyword": [
+        "MIT",
+        "axe-core",
+        "axe",
+        "sarif",
+        "reporter",
+        "coverter",
+        "accessibility"
+      ],
+      "author": "accessibility-insights-team"
+    },
+    {
+      "name": "accessibility-buttons",
+      "descriptions": "Buttons to add/remove contrast and increase/decrease font size.",
+      "keyword": [
+        "accessibility",
+        "button",
+        "contrast",
+        "font size",
+        "increase font",
+        "decrease font"
+      ],
+      "author": "tiagoporto"
+    },
+    {
+      "name": "react-a11y-dialog",
+      "descriptions": "A React component wrapper around a11y-dialog.",
+      "keyword": [
+        "modal",
+        "dialog",
+        "accessibility",
+        "a11y",
+        "focus",
+        "react",
+        "component"
+      ],
+      "author": "hugogiraudel"
+    },
+    {
+      "name": "tailwindcss-accessibility",
+      "descriptions": "A Tailwind CSS plugin that adds additional functionality to help improve accessibility.",
+      "keyword": [
+        "tailwind",
+        "tailwindcss",
+        "accessibility",
+        "a11y",
+        "plugin"
+      ],
+      "author": "jack-pallot"
+    },
+    {
+      "name": "ember-component-focus",
+      "descriptions": "An Ember addon for managing focus within components.",
+      "keyword": [
+        "accessibility",
+        "component",
+        "ember-addon",
+        "focus",
+        "tabindex"
+      ],
+      "author": "sarenji"
+    },
+    {
+      "name": "gulp-axe-webdriver",
+      "descriptions": "Gulp plugin for aXe utilizing WebDriverJS",
+      "keyword": [
+        "gulp",
+        "gulpplugin",
+        "a11y",
+        "unit",
+        "testing",
+        "aXe",
+        "accessibility"
+      ],
+      "author": "felixzapata"
+    },
+    {
+      "name": "happy-focus",
+      "descriptions": "Make browsers responsibly lose focus when the user is clicking inputs",
+      "keyword": [
+        "focus",
+        "click",
+        "happy",
+        "blur",
+        "outline",
+        "css",
+        "accessibility"
+      ],
+      "author": "jelmer"
+    },
+    {
+      "name": "aatt",
+      "descriptions": "Automated Accessibility Testing Tool",
+      "keyword": [
+        "Selenium",
+        "NodeJS",
+        "accessibility",
+        "testing"
+      ],
+      "author": "mpnkhan"
+    },
+    {
+      "name": "gulp-tenon-client",
+      "descriptions": "Gulp Plugin for Tenon Accessibility Testing API",
+      "keyword": [
+        "tenon",
+        "accessibility",
+        "testing",
+        "a11y",
+        "gulp"
+      ],
+      "author": "egauci"
+    },
+    {
+      "name": "jquery-keyboard-trap",
+      "descriptions": "Traps keyboard focus cycle within element's interactive children.",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebayui",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "tabtrap",
+      "descriptions": "A plugin for trapping focus inside an object",
+      "keyword": [
+        "jquery-plugin",
+        "accessibility",
+        "a11y",
+        "tab",
+        "focus"
+      ],
+      "author": "sh0ji"
+    },
+    {
+      "name": "makeup-keyboard-trap",
+      "descriptions": "Restricts keyboard tabindex to a single subtree in the DOM",
+      "keyword": [
+        "makeup",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "@qualweb/core",
+      "descriptions": "QualWeb evaluator core engine",
+      "keyword": [
+        "qualweb",
+        "evaluator",
+        "web",
+        "accessibility"
+      ],
+      "author": "joao-vicente"
+    },
+    {
+      "name": "react-aria",
+      "descriptions": "Utilities to help create React ARIA components.",
+      "keyword": [
+        "react",
+        "reactjs",
+        "react-component",
+        "aria",
+        "accessibility",
+        "accessible",
+        "accordion",
+        "dialog",
+        "dropdown",
+        "modal",
+        "menu",
+        "popover",
+        "tabs",
+        "tab-panel"
+      ],
+      "author": "souporserious"
+    },
+    {
+      "name": "hck2-dev",
+      "descriptions": "Development Tools For HCK2",
+      "keyword": [
+        "gulp",
+        "browser sync",
+        "accessibility",
+        "babel",
+        "spritesmith",
+        "javascript transpiler",
+        "sass",
+        "sass compiler",
+        "babel minify",
+        "eslint",
+        "website stress test",
+        "loadtest",
+        "stress test",
+        "live reload",
+        "View more"
+      ],
+      "author": "hck2-dev"
+    },
+    {
+      "name": "react-button-a11y",
+      "descriptions": "Make non-button elements accessible in React",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react",
+        "react-component"
+      ],
+      "author": "rpearce"
+    },
+    {
+      "name": "react-fluid-container",
+      "descriptions": "Graceful dynamic/variable height animation.",
+      "keyword": [
+        "react",
+        "reactjs",
+        "react-component",
+        "aria",
+        "accessibility",
+        "accessible",
+        "accordion",
+        "dialog",
+        "dropdown",
+        "modal",
+        "menu",
+        "popover",
+        "tabs",
+        "tab-panel"
+      ],
+      "author": "souporserious"
+    },
+    {
+      "name": "react-clickable",
+      "descriptions": "Clickable component that enables nesting other button and anchor elements. a11y compliant.",
+      "keyword": [
+        "react",
+        "clickable",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "mirodojkic"
+    },
+    {
+      "name": "vue-a11y-dialog",
+      "descriptions": "Vue.js component wrapping for a11y-dialog",
+      "keyword": [
+        "modal",
+        "dialog",
+        "accessibility",
+        "a11y",
+        "focus",
+        "vue",
+        "component"
+      ],
+      "author": "morkro"
+    },
+    {
+      "name": "@react-md/wia-aria",
+      "descriptions": "A package for determining which element on the page is the current keyboard focus/selection.",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "keyboard",
+        "focus",
+        "selection"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "jquery-accessible-tabpanel-aria",
+      "descriptions": "A simple jQuery code to provide accessible tabs (tab panels) starting from a simple source, using ARIA",
+      "keyword": [
+        "Accessibility",
+        "ARIA",
+        "Tabs",
+        "Tab panel",
+        "a11y"
+      ],
+      "author": "nico3333fr"
+    },
+    {
+      "name": "axe_html_report",
+      "descriptions": "An html reports generator for AXE",
+      "keyword": [
+        "axe",
+        "report",
+        "accessibility",
+        "html"
+      ],
+      "author": "cuginoale"
+    },
+    {
+      "name": "the-a11y-machine",
+      "descriptions": "The A11y Machine is an automated accessibility testing tool which crawls and tests all pages of any website.",
+      "keyword": [
+        "accessibility",
+        "test",
+        "wcag",
+        "crawl"
+      ],
+      "author": "hywan"
+    },
+    {
+      "name": "selectize-plugin-a11y",
+      "descriptions": "Make Selectize.js accessibile",
+      "keyword": [
+        "selectize",
+        "selectize.js",
+        "a11y",
+        "accessibility",
+        "voiceover"
+      ],
+      "author": "slmnbj"
+    },
+    {
+      "name": "tenon-node",
+      "descriptions": "Node.js wrapper for the Tenon.io API",
+      "keyword": [
+        "tenon-node",
+        "tenon",
+        "accessibility",
+        "a11y",
+        "testing"
+      ],
+      "author": "poorgeek"
+    },
+    {
+      "name": "@limetech/mdc-p2-touch-target",
+      "descriptions": "Touch target mixins and variables for Material Components for the web",
+      "keyword": [
+        "material components",
+        "material design",
+        "accessibility",
+        "touch target"
+      ],
+      "author": "specularrain"
+    },
+    {
+      "name": "skip-link-focus",
+      "descriptions": "Make 'skip to content' links more accessible.",
+      "keyword": [
+        "accessibility"
+      ],
+      "author": "bradyvercher"
+    },
+    {
+      "name": "javascript-debounce",
+      "descriptions": "A lightweight, dependency-free JavaScript module for debouncing functions based on David Walsh's debounce function.",
+      "keyword": [
+        "accessibility",
+        "aria",
+        "javascript"
+      ],
+      "author": "jgarber"
+    },
+    {
+      "name": "@qualweb/act-rules",
+      "descriptions": "ACT-R module for qualweb accessibility evaluator",
+      "keyword": [
+        "a11y",
+        "act",
+        "accessibility",
+        "qualweb",
+        "evaluator",
+        "rule"
+      ],
+      "author": "joao-vicente"
+    },
+    {
+      "name": "makeup-navigation-emitter",
+      "descriptions": "Emits custom events based on keyboard navigation of one or two dimensional model",
+      "keyword": [
+        "makeup",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "nightwatch-accessibility",
+      "descriptions": "Nightwatch.js utility assertion for accessibility testing with aXe",
+      "keyword": [
+        "nightwatch",
+        "accessibility",
+        "axe"
+      ],
+      "author": "ahmadnassri"
+    },
+    {
+      "name": "aria-listbox",
+      "descriptions": "Make your listbox compliant with aria-listbox with keyboard and mouse support.",
+      "keyword": [
+        "aria",
+        "listbox",
+        "aria-listbox",
+        "keyboard",
+        "key-bindings",
+        "web-component",
+        "accessibility",
+        "select",
+        "vanilla"
+      ],
+      "author": "nathanboktae"
+    },
+    {
+      "name": "allietabs",
+      "descriptions": "WCAG 2.0 compliant tab component",
+      "keyword": [
+        "A11y",
+        "Accessibility",
+        "WCAG",
+        "WCAG2.0",
+        "WCAG2.1",
+        "Tabs",
+        "Tab",
+        "Tablist",
+        "Aria",
+        "Inclusive"
+      ],
+      "author": "bartdelrue"
+    },
+    {
+      "name": "react-a11y-alt",
+      "descriptions": "Warns about potential accessibility issues with your React elements.",
+      "keyword": [
+        "accessibility",
+        "react",
+        "a11y"
+      ],
+      "author": "erin-doyle"
+    },
+    {
+      "name": "@accede-web/tablist",
+      "descriptions": "WAI-ARIA tablist plugin based on AcceDe Web accessibility guidelines",
+      "keyword": [
+        "accessibility",
+        "tablist",
+        "tabs",
+        "accordion",
+        "javascript",
+        "vanilla",
+        "a11y"
+      ],
+      "author": "enwin"
+    },
+    {
+      "name": "aria-label-prop-type",
+      "descriptions": "A prop type for aria-label and accessibilityLabel that accepts either a string, or a string child somewhere in children",
+      "keyword": [
+        "react",
+        "accessibility",
+        "aria",
+        "label",
+        "proptypes"
+      ],
+      "author": "ariabuckles"
+    },
+    {
+      "name": "accessible-html-content-patterns",
+      "descriptions": "A collection of the full HTML5 Doctor Element Index as well as common markup patterns for quick reference.",
+      "keyword": [
+        "html",
+        "accessibility",
+        "content",
+        "semantics",
+        "aria"
+      ],
+      "author": "ericwbailey"
+    },
+    {
+      "name": "grunt-accessibility-html-reporter",
+      "descriptions": "Formats JSON report of the grunt-accessibility task to HTML.",
+      "keyword": [
+        "grunt-tasks",
+        "grunt-accessibility",
+        "html",
+        "reporter",
+        "accessibility"
+      ],
+      "author": "prantlf"
+    },
+    {
+      "name": "tenon-reporters",
+      "descriptions": "Display results from Tenon.io using a custom test reporter.",
+      "keyword": [
+        "tenon",
+        "accessibility",
+        "a11y",
+        "testing"
+      ],
+      "author": "poorgeek"
+    },
+    {
+      "name": "inline-svg-react",
+      "descriptions": "Inline your raw svg files with react with a little bit of accessibility",
+      "keyword": [
+        "svg",
+        "react",
+        "inline",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "madiodio"
+    },
+    {
+      "name": "access-sniff-ext",
+      "descriptions": "A node/iojs library & CLI for HTML_Codesniffer",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "analysis",
+        "report",
+        "WCAG"
+      ],
+      "author": "prantlf"
+    },
+    {
+      "name": "chai-a11y",
+      "descriptions": "Accessibility plugin for chai",
+      "keyword": [
+        "chai",
+        "chai plugins",
+        "testing",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "jhapranav"
+    },
+    {
+      "name": "makeup-key-emitter",
+      "descriptions": "Emits custom events for common accessibility keys (arrowRightKeyDown, escKeyDown, etc)",
+      "keyword": [
+        "makeup",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "van11y-accessible-tab-panel-aria",
+      "descriptions": "ES2015 accessible tabs panel system, using ARIA (compatible IE9+ when transpiled)",
+      "keyword": [
+        "Accessibility",
+        "ARIA",
+        "tab panel",
+        "a11y",
+        "ES6",
+        "ES2015",
+        "Vanilla Javascript Plugin"
+      ],
+      "author": "nico3333fr"
+    },
+    {
+      "name": "react-aria-button",
+      "descriptions": "Complete ARIA button built in React",
+      "keyword": [
+        "react",
+        "aria",
+        "button",
+        "role",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "chrisnager"
+    },
+    {
+      "name": "attest",
+      "descriptions": "Accessibility testing library",
+      "keyword": [
+        "Accessibility",
+        "JavaScript",
+        "Unit",
+        "Testing",
+        "aXe",
+        "Deque"
+      ],
+      "author": "dylanb"
+    },
+    {
+      "name": "ft-react",
+      "descriptions": "A React component that traps focus.",
+      "keyword": [
+        "react",
+        "reactjs",
+        "react-component",
+        "aria",
+        "accessibility",
+        "modal",
+        "dialog",
+        "focus",
+        "keyboard"
+      ],
+      "author": "hshockley"
+    },
+    {
+      "name": "fix-outline",
+      "descriptions": "`*:focus { outline: none }` done right",
+      "keyword": [
+        "outline",
+        "none",
+        "css",
+        "keyboard",
+        "accessibility",
+        "shortcut",
+        "navigatio"
+      ],
+      "author": "kimmobrunfeldt"
+    },
+    {
+      "name": "scrutinize",
+      "descriptions": "Scrutinize a url by analyzing CSS, HTML, accessibility, images, pagespeed, etc.",
+      "keyword": [
+        "scrutinize",
+        "css",
+        "html",
+        "page-speed",
+        "images",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "johno"
+    },
+    {
+      "name": "@lighting-beetle/accessible-autocomplete",
+      "descriptions": "An autocomplete component, built to be accessible.",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "autocomplete",
+        "component",
+        "plugin",
+        "typeahead",
+        "widget"
+      ],
+      "author": "benjamin.stary"
+    },
+    {
+      "name": "check-browsers",
+      "descriptions": "Check your desktop browser and version(Internet Explorer)",
+      "keyword": [
+        "check",
+        "cross",
+        "browsing",
+        "markup",
+        "HTML",
+        "CSS",
+        "WEB",
+        "standard",
+        "accessibility",
+        "IE",
+        "Chrome",
+        "Firefox",
+        "Safari",
+        "Opera"
+      ],
+      "author": "perfectacle"
+    },
+    {
+      "name": "access_lint-js",
+      "descriptions": "PhantomJS accessibility auditor",
+      "keyword": [
+        "accessibility",
+        "crawler"
+      ],
+      "author": "ckundo"
+    },
+    {
+      "name": "postcss-colorblind",
+      "descriptions": "A PostCSS plugin to help you see your site as a colorblind person would.",
+      "keyword": [
+        "postcss-plugin",
+        "postcss",
+        "accessibility",
+        "a11y",
+        "color",
+        "colorblind"
+      ],
+      "author": "beneb"
+    },
+    {
+      "name": "focusable",
+      "descriptions": "Returns a string of focusable HTML elements",
+      "keyword": [
+        "focus",
+        "html",
+        "accessibility",
+        "focusable"
+      ],
+      "author": "jkup"
+    },
+    {
+      "name": "lifetracker",
+      "descriptions": "Keep track of events and trends in your life.",
+      "keyword": [
+        "accessibility",
+        "productivity",
+        "statistics",
+        "data",
+        "health",
+        "disability"
+      ],
+      "author": "cranndarach"
+    },
+    {
+      "name": "jquery-focusable",
+      "descriptions": "Gets all focusable descendant elements for the first element in the set of matched elements",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "ember-aria-slider",
+      "descriptions": "An accessible slider component in Ember based on WAI-ARIA practices",
+      "keyword": [
+        "ember-addon",
+        "slider",
+        "aria",
+        "slider-component",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "rajasegar"
+    },
+    {
+      "name": "makeup-roving-tabindex",
+      "descriptions": "Implements a roving tab index on given collection of elements",
+      "keyword": [
+        "makeup",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "grunt-tenon-client",
+      "descriptions": "Grunt Plugin for Tenon Accessibility Testing API",
+      "keyword": [
+        "tenon",
+        "accessibility",
+        "testing",
+        "a11y",
+        "grunt"
+      ],
+      "author": "egauci"
+    },
+    {
+      "name": "accessible-modal-dialog",
+      "descriptions": "A tiny script to make modal dialogs accessible to assistive technology users.",
+      "keyword": [
+        "modal",
+        "dialog",
+        "accessibility",
+        "a11y",
+        "focus"
+      ],
+      "author": "hugogiraudel"
+    },
+    {
+      "name": "grunt-tenon",
+      "descriptions": "Grunt tenon accesibility test plugin",
+      "keyword": [
+        "wcag",
+        "sec508",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "babaskate"
+    },
+    {
+      "name": "@qualweb/best-practices",
+      "descriptions": "QualWeb best practices",
+      "keyword": [
+        "qualweb",
+        "best-practices",
+        "a11y",
+        "evaluation",
+        "accessibility"
+      ],
+      "author": "joao-vicente"
+    },
+    {
+      "name": "fractal-tenon",
+      "descriptions": "Fractal component library tool (http://fractal.build) plugin for accessibility testing against Tenon (http://tenon.io)",
+      "keyword": [
+        "fractal",
+        "tenon",
+        "a11y",
+        "accessibility",
+        "component",
+        "test",
+        "testing"
+      ],
+      "author": "jkphl"
+    },
+    {
+      "name": "jquery-dialog",
+      "descriptions": "JQuery plugin that creates the basic interactivity for an ARIA dialog widget.",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "accessibility",
+        "a11y",
+        "wai-aria",
+        "dialog"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "posthtml-alt-always",
+      "descriptions": "Always add alt attribute for images that don't have it (accessibility reasons)",
+      "keyword": [
+        "posthtml",
+        "html",
+        "posthtml-plugin",
+        "alt",
+        "images",
+        "accessibility",
+        "alternative text"
+      ],
+      "author": "ismamz"
+    },
+    {
+      "name": "jquery-tabs",
+      "descriptions": "JQuery plugin that creates the basic interactivity for an ARIA tabs widget.",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "accessibility",
+        "a11y",
+        "wai-aria"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "lighthouse-automatic",
+      "descriptions": "Run & Report Google lighthouse (performance, accessibility, pwa tests) metrics against your own websites/applications, lighthouse-automatic enables you the developer to ensure you're websites are performing as expected continuosly",
+      "keyword": [
+        "google",
+        "lighthouse",
+        "automatic",
+        "performance",
+        "accessibility",
+        "pwa",
+        "tests",
+        "service",
+        "node",
+        "backend"
+      ],
+      "author": "dj10dj100"
+    },
+    {
+      "name": "xhtml-images",
+      "descriptions": "Xhtml-images makes use of `<noscript>` and `<object>` tags to provide a picture given the dimensions of its container",
+      "keyword": [
+        "jquery-plugin",
+        "progressive",
+        "xhtml",
+        "accessibility",
+        "responsive"
+      ],
+      "author": "charlycoste"
+    },
+    {
+      "name": "makeup-active-descendant",
+      "descriptions": "Implements ARIA active descendant keyboard navigation",
+      "keyword": [
+        "makeup",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "jquery-arrow-navigate",
+      "descriptions": "Jquery plugin for arrow navigation between html form fields",
+      "keyword": [
+        "jquery",
+        "accessibility",
+        "html"
+      ],
+      "author": "vanderleisilva"
+    },
+    {
+      "name": "ember-axe",
+      "descriptions": "The future of accessibility testing in Ember",
+      "keyword": [
+        "ember-addon",
+        "accessibility",
+        "ember",
+        "a11y",
+        "testing"
+      ],
+      "author": "trentmwillis"
+    },
+    {
+      "name": "jquery-tooltip",
+      "descriptions": "JQuery plugin that creates the basic interactivity for an ARIA tooltip widget",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "accessibility",
+        "a11y",
+        "wai-aria",
+        "tooltip"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "reactinmodal",
+      "descriptions": "React In Modal. Accessibility friendly with tab trap accepts action to close the modal along with custom styling",
+      "keyword": [
+        "react-component",
+        "react",
+        "react-createportal",
+        "accessibility"
+      ],
+      "author": "vageez"
+    },
+    {
+      "name": "@ui-grid/cell-nav",
+      "descriptions": "This module provides cell navigation functionality to UI-Grid",
+      "keyword": [
+        "angular",
+        "ng-grid",
+        "nggrid",
+        "grid",
+        "angularjs",
+        "slickgrid",
+        "kogrid",
+        "ui-grid",
+        "ui grid",
+        "data grid",
+        "ui-grid/cell-nav",
+        "ui-grid/cellnav",
+        "a11y",
+        "accessibility",
+        "View more"
+      ],
+      "author": "mportuga"
+    },
+    {
+      "name": "tenon-api-client",
+      "descriptions": "Tenon Accessibility Testing API Client Module",
+      "keyword": [
+        "tenon",
+        "accessibility",
+        "testing",
+        "a11y"
+      ],
+      "author": "egauci"
+    },
+    {
+      "name": "@react-md/dialog",
+      "descriptions": "This package is used to create accessible dialogs and modals.",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "material design",
+        "react",
+        "dialog",
+        "modal",
+        "component",
+        "components"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "scrux",
+      "descriptions": "Screen reader terminal multiplexer",
+      "keyword": [
+        "screen",
+        "reader",
+        "blind",
+        "accessibility",
+        "shell",
+        "terminal"
+      ],
+      "author": "substack"
+    },
+    {
+      "name": "react-accessible-tooltip",
+      "descriptions": "React utility component for building accessible tooltips.",
+      "keyword": [
+        "tooltip",
+        "react",
+        "component",
+        "accessibility",
+        "aria"
+      ],
+      "author": "ryami333"
+    },
+    {
+      "name": "jquery-focus-exit",
+      "descriptions": "Triggers 'focusexit' event when keyboard focus has completely left the element. This type of behaviour is especially desirable for non-modal overlays.",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "gpii-universal",
+      "descriptions": "Cross platform, core components of the GPII personalization infrastructure.",
+      "keyword": [
+        "gpii",
+        "accessibility",
+        "settings",
+        "fluid",
+        "IoC",
+        "Inversion of Control",
+        "configuration",
+        "evented"
+      ],
+      "author": "amb26"
+    },
+    {
+      "name": "pa11y-ci-reporter-html",
+      "descriptions": "Generates an HTML report from pa11y-ci JSON output",
+      "keyword": [
+        "pa11y",
+        "pa11y-ci",
+        "a11y",
+        "accessibility",
+        "ci",
+        "testing"
+      ],
+      "author": "aarongoldenthal"
+    },
+    {
+      "name": "gpii-windows",
+      "descriptions": "Components of the GPII personalization infrastructure for use on Microsoft's \"Windows\" ™",
+      "keyword": [
+        "gpii",
+        "accessibility",
+        "settings",
+        "fluid",
+        "IoC",
+        "Inversion of Control",
+        "configuration",
+        "evented"
+      ],
+      "author": "amb26"
+    },
+    {
+      "name": "web-reader",
+      "descriptions": "A screen reader for everyone, everywhere",
+      "keyword": [
+        "screen-reader",
+        "accessibility",
+        "a11y",
+        "javascript",
+        "library"
+      ],
+      "author": "digital-detox"
+    },
+    {
+      "name": "@react-md/link",
+      "descriptions": "The base package for including a theme for react-md. This is required by most other packages.",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "material design",
+        "react",
+        "link",
+        "component",
+        "components"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "makeup-expander",
+      "descriptions": "Creates the basic interactivity for an element that expands and collapses another element.",
+      "keyword": [
+        "makeup",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "jquery-mouse-exit",
+      "descriptions": "Triggers 'mouseexit' event when mouse focus has completely left the element. This type of behaviour is especially desirable for non-modal overlays.",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebayui",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "@asterics/are-rest",
+      "descriptions": "AsTeRICS REST Client",
+      "keyword": [
+        "AsTeRICS",
+        "REST",
+        "ARE",
+        "Accessibility"
+      ],
+      "author": "alija"
+    },
+    {
+      "name": "skipto",
+      "descriptions": "This plugin provides a dynamically-generated drop-down menu that allows keyboard and screen reader users to quickly skip to the most important places on the webpage.",
+      "keyword": [
+        "accessibility",
+        "Navigation",
+        "Skip to"
+      ],
+      "author": "mpnkhan"
+    },
+    {
+      "name": "@snowcoders/react-unstyled-button",
+      "descriptions": "React HTMLButton with all default browser styling removed",
+      "keyword": [
+        "Unstyled",
+        "Button",
+        "Accessibility"
+      ],
+      "author": "k2snowman69"
+    },
+    {
+      "name": "makeup-floating-label",
+      "descriptions": "Module for creating an accessible, progressively enhanced floating label",
+      "keyword": [
+        "makeup",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "makeup-prevent-scroll-keys",
+      "descriptions": "Prevents default scroll event when pressing down arrow, page down, spacebar, etc.",
+      "keyword": [
+        "makeup",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "@qualweb/wappalyzer",
+      "descriptions": "Wappalyzer module for qualweb accessibility evaluator",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "wappalyzer",
+        "qualweb",
+        "evaluator"
+      ],
+      "author": "joao-vicente"
+    },
+    {
+      "name": "@trend/focustrap",
+      "descriptions": "A React component that traps focus.",
+      "keyword": [
+        "trend-components",
+        "react",
+        "reactjs",
+        "aria",
+        "accessibility"
+      ],
+      "author": "defo550"
+    },
+    {
+      "name": "webaim-wave",
+      "descriptions": "CLI for WebAIM Wave accessibility tool",
+      "keyword": [
+        "accessibility",
+        "webaim",
+        "wave",
+        "cli"
+      ],
+      "author": "acjanus"
+    },
+    {
+      "name": "@qualweb/crawler",
+      "descriptions": "Webpage crawler for qualweb",
+      "keyword": [
+        "ally",
+        "qualweb",
+        "crawler",
+        "webpage",
+        "accessibility"
+      ],
+      "author": "joao-vicente"
+    },
+    {
+      "name": "@accessible/visually-hidden",
+      "descriptions": "A React component for adding visually hidden styles to elements",
+      "keyword": [
+        "react",
+        "react component",
+        "a11y",
+        "aria",
+        "accessibility",
+        "accessible",
+        "visually hidden",
+        "visually hidden component"
+      ],
+      "author": "jaredlunde"
+    },
+    {
+      "name": "better-cypress-axe",
+      "descriptions": "Commands to help with Cypress-Axe",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "axe",
+        "axe-core",
+        "cypress",
+        "cypress-axe"
+      ],
+      "author": "olmesm"
+    },
+    {
+      "name": "@snowcoders/react-popover",
+      "descriptions": "Wrapper around react-popper that handles ~95% of popper scenarios",
+      "keyword": [
+        "Popper",
+        "popper.js",
+        "Popover",
+        "Popup",
+        "Hover",
+        "Menu",
+        "Dropdown",
+        "Tooltip",
+        "Select",
+        "Accessibility"
+      ],
+      "author": "k2snowman69"
+    },
+    {
+      "name": "arrow-key-navigation",
+      "descriptions": "Add left/right key navigation to a KaiOS app or web app",
+      "keyword": [
+        "kaios",
+        "navigation",
+        "accessibility",
+        "a11y",
+        "focus",
+        "dpad",
+        "d-pad",
+        "arrow",
+        "key"
+      ],
+      "author": "nolanlawson"
+    },
+    {
+      "name": "agnostic-axe",
+      "descriptions": "Framework agnostic accessibility auditing with axe-core",
+      "keyword": [
+        "axe",
+        "accessibility",
+        "axe-core",
+        "audit",
+        "reporter"
+      ],
+      "author": "juliettepretot"
+    },
+    {
+      "name": "@a11ygato/audit-engine",
+      "descriptions": "@A11ygato/audit-engine is a node API to create accessibility reports using the axe-core engine into a Chrome container",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "pa11y",
+        "pally",
+        "engine",
+        "audit",
+        "axe",
+        "analysis",
+        "report"
+      ],
+      "author": "a11ygato-user"
+    },
+    {
+      "name": "@daniel.husar/a11y-report",
+      "descriptions": "Print accessibility report via axe-core",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "report",
+        "ci",
+        "axe",
+        "axe-core"
+      ],
+      "author": "efrafa"
+    },
+    {
+      "name": "jquery-menu",
+      "descriptions": "JQuery plugin that creates the basic interactivity for an ARIA menu widget.",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "accessibility",
+        "a11y",
+        "wai-aria"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "inclusive-menu-button",
+      "descriptions": "A menu button module that implements the correct ARIA semantics and keyboard behavior.",
+      "keyword": [
+        "menu",
+        "button",
+        "ARIA",
+        "accessibility",
+        "dropdown"
+      ],
+      "author": "heydon"
+    },
+    {
+      "name": "jquery-screenreader-trap",
+      "descriptions": "Prevents screen reader's virtual cursor from leaving the confines of an element",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "protractor-axe-html-report-plugin",
+      "descriptions": "A protractor plugin that generates an HTML aXe accessibility report",
+      "keyword": [
+        "angular",
+        "test",
+        "testing",
+        "webdriver",
+        "webdriverjs",
+        "protractor",
+        "protractor-plugin",
+        "accessibility"
+      ],
+      "author": "gearsandcode"
+    },
+    {
+      "name": "jquery-linear-navigation",
+      "descriptions": "JQuery collection plugin that implements the events & model for one-dimensional keyboard navigation",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "chartist-plugin-accessibility",
+      "descriptions": "Accessibility Plugin for Chartist.js",
+      "keyword": [
+        "chartist",
+        "charts",
+        "accessibility",
+        "plugin"
+      ],
+      "author": "gionkunz"
+    },
+    {
+      "name": "jquery-next-id",
+      "descriptions": "JQuery collection plugin that will assign the next ID in sequence if an ID property does not already exist.",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "jquery-common-keydown",
+      "descriptions": "JQuery collection plugin that triggers events for common accessibility keys e.g. ENTER, SPACE, ESC, ARROW KEYS.",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "@snowcoders/react-checkbox",
+      "descriptions": "[![Npm (scoped)](https://img.shields.io/npm/v/@snowcoders/react-checkbox.svg)](https://www.npmjs.com/package/@snowcoders/react-checkbox) [![CircleCI branch](https://img.shields.io/circleci/project/github/snowcoders/react-checkbox.svg)](https://circleci.c",
+      "keyword": [
+        "React",
+        "Unstyled",
+        "Base",
+        "Checkbox",
+        "Accessibility"
+      ],
+      "author": "k2snowman69"
+    },
+    {
+      "name": "jquery-active-descendant",
+      "descriptions": "JQuery collection plugin that implements one-dimensional aria-activedescendant keyboard navigation",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "color-contrast-checker",
+      "descriptions": "This is an accessibility validator based on WCAG 2.0 standard for checking the color contrast.",
+      "keyword": [
+        "wcag",
+        "wcag-aa",
+        "color",
+        "contrast",
+        "verifier",
+        "accessibility",
+        "standard"
+      ],
+      "author": "qambar"
+    },
+    {
+      "name": "me-show-transition",
+      "descriptions": "A highly customizable script to enable CSS transitions on toggle of the display property.",
+      "keyword": [
+        "transition",
+        "toggle display",
+        "show",
+        "hide",
+        "animation",
+        "accessibility",
+        "a11y",
+        "javascript"
+      ],
+      "author": "mandana"
+    },
+    {
+      "name": "jquery-focus-flyout",
+      "descriptions": "JQuery plugin that creates the basic interactivity for a flyout that opens on focus of trigger element",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebayui",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "storm-outliner",
+      "descriptions": "Hide CSS outline on mouse interactions, show on keyboard interactions",
+      "keyword": [
+        "stormid",
+        "component",
+        "outliner",
+        "accessibility",
+        "keyboard"
+      ],
+      "author": "mjbp"
+    },
+    {
+      "name": "jquery-roving-tabindex",
+      "descriptions": "JQuery collection plugin that implements one or two dimensional roving tabindex keyboard navigation",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "generator-shackstack",
+      "descriptions": "Accessible scaffolding for developing and deploying static sites.",
+      "keyword": [
+        "accessibility",
+        "backbone",
+        "browserify",
+        "browsersync",
+        "foundation",
+        "gulp",
+        "handlebars",
+        "jasmine",
+        "jquery",
+        "modernizr",
+        "karma",
+        "scss",
+        "yeoman-generator",
+        "shackstack"
+      ],
+      "author": "bshack"
+    },
+    {
+      "name": "jquery-click-flyout",
+      "descriptions": "JQuery plugin that creates the basic interactivity for a flyout that opens on click of trigger element",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebayui",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "jquery-grid-navigation",
+      "descriptions": "JQuery collection plugin that implements the input & model for two-dimensional keyboard navigation",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "me-trap-focus",
+      "descriptions": "A small utility script to trap the focus within a container element",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "trap focus",
+        "tab",
+        "back-tab",
+        "focus",
+        "modal",
+        "dialog",
+        "javascript"
+      ],
+      "author": "mandana"
+    },
+    {
+      "name": "storm-skip",
+      "descriptions": "Fixes skip to content links focus problem",
+      "keyword": [
+        "stormid",
+        "accessibility",
+        "keyboard",
+        "component"
+      ],
+      "author": "mjbp"
+    },
+    {
+      "name": "jquery-hover-flyout",
+      "descriptions": "JQuery plugin that creates the basic interactivity for a flyout that opens on focus",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebayui",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "aria-patterns",
+      "descriptions": "Common patterns of elements with ARIA attributes.",
+      "keyword": [
+        "aria",
+        "a11y",
+        "accessibility",
+        "components"
+      ],
+      "author": "chharvey"
+    },
+    {
+      "name": "lrtiste",
+      "descriptions": "Accessible widgets library",
+      "keyword": [
+        "ui",
+        "browser",
+        "ux",
+        "widget",
+        "component",
+        "a11y",
+        "accessibility",
+        "accessible"
+      ],
+      "author": "lorenzofox3"
+    },
+    {
+      "name": "axe-webdriverio",
+      "descriptions": "Provides a method to integrate axe with webdriverio to inject and analyze web pages using aXe",
+      "keyword": [
+        "a11y",
+        "unit",
+        "testing",
+        "tdd",
+        "bdd",
+        "accessibility",
+        "aXe",
+        "selenium",
+        "webdriver",
+        "webdriverio"
+      ],
+      "author": "wilcofiers"
+    },
+    {
+      "name": "smart-outline",
+      "descriptions": "Disabling focus outline without breaking accessibility",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "css",
+        "ux"
+      ],
+      "author": "sitebase"
+    },
+    {
+      "name": "jquery-prevent-scroll-keys",
+      "descriptions": "Prevent scrolling when pressing any scroll key (e.g. down arrow, spacebar) when on a widget",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "@knod/string-time",
+      "descriptions": "Calculates how long a string should stay visible using the characteristics of that string, corresponding millisecond values, and other data",
+      "keyword": [
+        "accessibility",
+        "readerly",
+        "rsvp",
+        "timer",
+        "delay",
+        "timeout",
+        "string",
+        "text"
+      ],
+      "author": "knod"
+    },
+    {
+      "name": "a11y-toggle",
+      "descriptions": "A tiny script to make accessible content toggles.",
+      "keyword": [
+        "toggle",
+        "control",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "hugogiraudel"
+    },
+    {
+      "name": "a11y-dropdown-component",
+      "descriptions": "Accessible Dropdown Component in Vanilla JS",
+      "keyword": [
+        "dropdown",
+        "listbox",
+        "a11y",
+        "accessibility",
+        "aria",
+        "es6",
+        "es2015",
+        "vanilla js"
+      ],
+      "author": "jonathanlevaillant"
+    },
+    {
+      "name": "@ictu/axe-reports",
+      "descriptions": "Create human readable reports from the results object created by the aXe analyze function.",
+      "keyword": [
+        "accessibility",
+        "aXe",
+        "automation",
+        "testing",
+        "report",
+        "tsv",
+        "csv"
+      ],
+      "author": "milenk"
+    },
+    {
+      "name": "@trend/icon",
+      "descriptions": "TREND Components icons.",
+      "keyword": [
+        "trend-components",
+        "react",
+        "reactjs",
+        "aria",
+        "accessibility",
+        "icons"
+      ],
+      "author": "defo550"
+    },
+    {
+      "name": "a11ytrap",
+      "descriptions": "A proper accessible focus management for components.",
+      "keyword": [
+        "a11ytrap",
+        "a11y",
+        "accessible",
+        "accessibility",
+        "keyboard",
+        "navigation",
+        "focus management"
+      ],
+      "author": "azinasili"
+    },
+    {
+      "name": "react-faux-button",
+      "descriptions": "An accessible, configurable React Button usurper.",
+      "keyword": [
+        "react",
+        "a11y",
+        "accessibility",
+        "button",
+        "aria"
+      ],
+      "author": "fpapado"
+    },
+    {
+      "name": "@daisy/ace",
+      "descriptions": "Ace by DAISY, an Accessibility Checker for EPUB",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "ace",
+        "checker",
+        "daisy",
+        "epub",
+        "validator",
+        "wcag"
+      ],
+      "author": "rdeltour"
+    },
+    {
+      "name": "roving-tabindex-element-list",
+      "descriptions": "Library that keeps a list of Elements that can be navigated using tab",
+      "keyword": [
+        "tabindex",
+        "keyboard",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "tajakobsen"
+    },
+    {
+      "name": "jquery-skip-to",
+      "descriptions": "JQuery collection plugin that enhances a skip to link for screen reader navigation.",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebay",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "jquery-hijax-button",
+      "descriptions": "JQuery collection plugin that changes anchor tag semantics and behaviour to button semantics and behaviour",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "ebayui",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "@codechecks/lighthouse-keeper",
+      "descriptions": "Keep an eye on Google Lighthouse score changes",
+      "keyword": [
+        "lighthouse",
+        "google-lighthouse",
+        "performance",
+        "accessibility",
+        "best-practices",
+        "seo",
+        "pwa",
+        "codechecks"
+      ],
+      "author": "krzkaczor"
+    },
+    {
+      "name": "edx-custom-a11y-rules",
+      "descriptions": "Custom rules for accessibility testing with aXe Core",
+      "keyword": [
+        "Accessibility",
+        "a11y",
+        "edX",
+        "testing"
+      ],
+      "author": "edx-semantic-release"
+    },
+    {
+      "name": "wdio-axe",
+      "descriptions": "Module to inject and analyze web pages in webdriverio using aXe",
+      "keyword": [
+        "wdio-axe",
+        "axe",
+        "webdriverio-axe",
+        "accessibility",
+        "wdio",
+        "a11y",
+        "unit",
+        "testing",
+        "tdd",
+        "bdd",
+        "aXe",
+        "wdio axe",
+        "axe wdio"
+      ],
+      "author": "tamil2320"
+    },
+    {
+      "name": "a11y-accordion-tabs",
+      "descriptions": "A script for an accessible accordion tabs component",
+      "keyword": [
+        "accordion",
+        "tabs",
+        "component",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "matthiasott"
+    },
+    {
+      "name": "@foo-software/lighthouse-check",
+      "descriptions": "An NPM module and CLI for automated Lighthouse audits.",
+      "keyword": [
+        "lighthouse",
+        "google",
+        "cli",
+        "performance",
+        "accessibility",
+        "seo",
+        "progressive web app",
+        "best practices",
+        "website performance monitoring",
+        "foo",
+        "foo.software"
+      ],
+      "author": "adamhenson"
+    },
+    {
+      "name": "react-ikonate",
+      "descriptions": "React version of fully customisable, accessible, well-optimised vector icons",
+      "keyword": [
+        "icons",
+        "outline",
+        "customisable",
+        "icon system",
+        "generator",
+        "accessibility"
+      ],
+      "author": "danielkov"
+    },
+    {
+      "name": "@trevoreyre/autocomplete-js",
+      "descriptions": "Simple autocomplete component in vanilla JS and Vue",
+      "keyword": [
+        "autocomplete",
+        "combobox",
+        "typeahead",
+        "select",
+        "search",
+        "accessibility",
+        "a11y",
+        "WAI-ARIA",
+        "vanilla js"
+      ],
+      "author": "trevoreyre"
+    },
+    {
+      "name": "@jcesar.co/ui",
+      "descriptions": "Interfaz de usuario para React Apps, inspirada en ios",
+      "keyword": [
+        "react",
+        "ecosystem-react",
+        "react-component",
+        "interface",
+        "bootstrap",
+        "component",
+        "library",
+        "design",
+        "system",
+        "framework",
+        "theming",
+        "templates",
+        "sticker sheets",
+        "design patterns",
+        "View more"
+      ],
+      "author": "jcesar.co"
+    },
+    {
+      "name": "@seznam/szn-select",
+      "descriptions": "Accessible HTML selectbox with customizable UI. Based on web components and easy to integrate with various frameworks like React or Angular.",
+      "keyword": [
+        "html",
+        "web",
+        "component",
+        "components",
+        "select",
+        "selectbox",
+        "szn",
+        "seznam",
+        "seznam.cz",
+        "accessible",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "jurca"
+    },
+    {
+      "name": "nav-ally",
+      "descriptions": "An automation tool for testing frontend applications against a set of web accessibility guidelines.",
+      "keyword": [
+        "wcag",
+        "test",
+        "accessibility",
+        "mocha"
+      ],
+      "author": "dervism"
+    },
+    {
+      "name": "react-popover-a11y",
+      "descriptions": "Accessible React popover component",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react",
+        "react-component"
+      ],
+      "author": "rpearce"
+    },
+    {
+      "name": "react-accessible-ellipsis",
+      "descriptions": "Visibly truncate text (single or multi-line) with an ellipsis... without causing accessibility problems!",
+      "keyword": [
+        "ellipsis",
+        "dotdotdot",
+        "dot dot dot",
+        "truncate",
+        "overflow",
+        "accessibility",
+        "a11y",
+        "react",
+        "text-overflow",
+        "ie11"
+      ],
+      "author": "holloway"
+    },
+    {
+      "name": "colorable-dominant",
+      "descriptions": "Create ARIA-compliant color themes based on a predominant color palette.",
+      "keyword": [
+        "accessibility",
+        "color",
+        "contrast",
+        "dominant",
+        "predominant",
+        "wcag"
+      ],
+      "author": "kikobeats"
+    },
+    {
+      "name": "a11y-accordion-component",
+      "descriptions": "Accessible Accordion Component in Vanilla JS",
+      "keyword": [
+        "accordion",
+        "a11y",
+        "accessibility",
+        "aria",
+        "es6",
+        "es2015",
+        "vanilla js"
+      ],
+      "author": "jonathanlevaillant"
+    },
+    {
+      "name": "vuetensils",
+      "descriptions": "A tasty toolset for Vue.js",
+      "keyword": [
+        "vue",
+        "vuejs",
+        "vue.js",
+        "vue2",
+        "web",
+        "components",
+        "ui",
+        "library",
+        "component library",
+        "accessibility",
+        "accessible",
+        "a11y",
+        "semantic",
+        "alert",
+        "View more"
+      ],
+      "author": "stegosource"
+    },
+    {
+      "name": "jquery.selectability",
+      "descriptions": "An accessible, style-friendly dropdown widget",
+      "keyword": [
+        "jquery",
+        "selectability",
+        "accessibility",
+        "dropdown"
+      ],
+      "author": "gustavderdrache"
+    },
+    {
+      "name": "@q42/tslint-react-native-a11y",
+      "descriptions": "TSLint rules to enhance accessibility in React Native apps.",
+      "keyword": [
+        "tslint",
+        "a11y",
+        "accessibility",
+        "q42",
+        "react",
+        "native"
+      ],
+      "author": "shapoc"
+    },
+    {
+      "name": "@cuginoale/paxe",
+      "descriptions": "Puppeteer & Axe ♿ testing framework",
+      "keyword": [
+        "accessibility",
+        "puppeteer",
+        "axe",
+        "automated",
+        "tests",
+        "wcga"
+      ],
+      "author": "cuginoale"
+    },
+    {
+      "name": "bootstrap-accessibility-plugin",
+      "descriptions": "A plugin that provides accessibility features for Bootstrap3 components",
+      "keyword": [
+        "bootstrap",
+        "accessibility"
+      ],
+      "author": "mpnkhan"
+    },
+    {
+      "name": "mdv",
+      "descriptions": "Markdown Validator",
+      "keyword": [
+        "markdown",
+        "validator",
+        "validation",
+        "link",
+        "links",
+        "image",
+        "images",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "mermade"
+    },
+    {
+      "name": "@allejo/react-a11y-dialog",
+      "descriptions": "A React component wrapper around a11y-dialog.",
+      "keyword": [
+        "modal",
+        "dialog",
+        "accessibility",
+        "a11y",
+        "focus",
+        "react",
+        "component"
+      ],
+      "author": "allejo"
+    },
+    {
+      "name": "a11y-css-reset",
+      "descriptions": "Global CSS rules to improve accessibility in your site and make your life easier",
+      "keyword": [
+        "a11y",
+        "css",
+        "reset",
+        "import",
+        "accessibility"
+      ],
+      "author": "beardfury"
+    },
+    {
+      "name": "grunt-accessibility-html-report-converter",
+      "descriptions": "Converts the JSON report of the grunt-accessibility task to HTML.",
+      "keyword": [
+        "gruntplugin",
+        "grunt-tasks",
+        "html",
+        "reporter",
+        "accessibility"
+      ],
+      "author": "prantlf"
+    },
+    {
+      "name": "peekaboo-toggle",
+      "descriptions": "A jQuery plugin for accessible content toggles.",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "accordion",
+        "accessibility"
+      ],
+      "author": "nadavspi"
+    },
+    {
+      "name": "react-priority-plus-nav",
+      "descriptions": "Accessible Priority Plus responsive web navigation React Component",
+      "keyword": [
+        "A11y",
+        "Accessibility",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "React",
+        "Navigation",
+        "Priority Plus",
+        "Responsive",
+        "Web",
+        "react-component"
+      ],
+      "author": "cliener"
+    },
+    {
+      "name": "a11y-checker",
+      "descriptions": "Identifies accessibility issues in your code.",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "developers",
+        "tool",
+        "testing",
+        "report"
+      ],
+      "author": "muhnad"
+    },
+    {
+      "name": "accessible-menu",
+      "descriptions": "A JavaScript library to help you generate WAI-ARIA accessible menus in the DOM.",
+      "keyword": [
+        "menu",
+        "accessible",
+        "accessibility",
+        "wai-aria",
+        "aria",
+        "a11y",
+        "nav",
+        "navigation"
+      ],
+      "author": "nickdjm"
+    },
+    {
+      "name": "keydown-from-click",
+      "descriptions": "Generate keydown handlers by replicating click ones",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "click",
+        "event",
+        "handler",
+        "hook",
+        "key",
+        "keydown",
+        "react"
+      ],
+      "author": "alcar"
+    },
+    {
+      "name": "mk-ui",
+      "descriptions": "Flexible, Accessible Web Components",
+      "keyword": [
+        "javascript",
+        "ui",
+        "accessibility",
+        "user-interface"
+      ],
+      "author": "rekabnairb"
+    },
+    {
+      "name": "ember-aria-checkbox",
+      "descriptions": "An Ember Checkbox addon widget based on the WAI-ARIA authoring practices.",
+      "keyword": [
+        "ember-addon",
+        "aria",
+        "checkbox",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "rajasegar"
+    },
+    {
+      "name": "heartthrob",
+      "descriptions": "A CSS and JS framework inspired by Fluent Design and Bootstrap for complex systems",
+      "keyword": [
+        "heartthrob",
+        "accessibility",
+        "bootstrap",
+        "css framework"
+      ],
+      "author": "vtnorton"
+    },
+    {
+      "name": "a11y-examples",
+      "descriptions": "A repo that contains examples to help devs comply with WCAG 2.0.",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "javascript",
+        "css",
+        "screenreader",
+        "keyboard",
+        "tabbing"
+      ],
+      "author": "zoltandulac"
+    },
+    {
+      "name": "@baleada/prose",
+      "descriptions": "Components that enhance prose for the Baleada toolkit",
+      "keyword": [
+        "baleada",
+        "prose",
+        "markdown",
+        "components",
+        "accessibility"
+      ],
+      "author": "alexvipond"
+    },
+    {
+      "name": "color-combos",
+      "descriptions": "Get accessibility information about colour combinations",
+      "keyword": [
+        "accessibility",
+        "color",
+        "a11y"
+      ],
+      "author": "sitaggart"
+    },
+    {
+      "name": "react-reduce-motion",
+      "descriptions": "A cross platform react hook that indicates whether a user's OS is configured to \"Reduce motion\" for accessibility purposes",
+      "keyword": [
+        "react",
+        "hooks",
+        "react-hooks",
+        "utils",
+        "a11y",
+        "accessibility",
+        "reduce motion",
+        "vestibular dysfunction"
+      ],
+      "author": "infiniteluke"
+    },
+    {
+      "name": "@eliperkins/downshift",
+      "descriptions": "⚠️ React Native WIP fork! ⚠️",
+      "keyword": [
+        "enhanced input",
+        "react",
+        "autocomplete",
+        "autosuggest",
+        "typeahead",
+        "dropdown",
+        "select",
+        "combobox",
+        "omnibox",
+        "accessibility",
+        "WAI-ARIA",
+        "multiselect",
+        "multiple selection"
+      ],
+      "author": "eliperkins"
+    },
+    {
+      "name": "wcag-color",
+      "descriptions": "Color constrast helpers to achieve the WCAG 2.0 standard",
+      "keyword": [
+        "WCAG",
+        "Color",
+        "Color contrast",
+        "Accessibility",
+        "BuckleScript",
+        "Reason",
+        "ReasonML"
+      ],
+      "author": "believer"
+    },
+    {
+      "name": "react-stable-uniqueid",
+      "descriptions": "A React component that provides a stable unique ID for accessibility, SVG effects, and other purposes",
+      "keyword": [
+        "react",
+        "reactjs",
+        "uniqueid",
+        "lodash",
+        "unique",
+        "svg",
+        "accessibility"
+      ],
+      "author": "dallonf"
+    },
+    {
+      "name": "@qualweb/cli",
+      "descriptions": "QualWeb evaluator command line interface",
+      "keyword": [
+        "qualweb",
+        "cli",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "joao-vicente"
+    },
+    {
+      "name": "@farskid/a11y",
+      "descriptions": "Automated Accessibility tests",
+      "keyword": [
+        "a11y",
+        "automated-testint",
+        "accessibility",
+        "axe",
+        "pa11y",
+        "puppeteer"
+      ],
+      "author": "farskid"
+    },
+    {
+      "name": "@trevoreyre/autocomplete",
+      "descriptions": "Simple autocomplete component in vanilla JS and Vue",
+      "keyword": [
+        "autocomplete",
+        "combobox",
+        "typeahead",
+        "select",
+        "search",
+        "accessibility",
+        "a11y",
+        "WAI-ARIA"
+      ],
+      "author": "trevoreyre"
+    },
+    {
+      "name": "aria-modal-dialog",
+      "descriptions": "ES5 script to create accessible modal dialogs",
+      "keyword": [
+        "a11y",
+        "aria",
+        "accessibility",
+        "alertdialog",
+        "javascript",
+        "es5",
+        "dialog",
+        "modal",
+        "inert"
+      ],
+      "author": "scottaohara"
+    },
+    {
+      "name": "van11y-accessible-accordion-aria",
+      "descriptions": "ES2015 accessible accordion system, using ARIA (compatible IE9+ when transpiled)",
+      "keyword": [
+        "Accessibility",
+        "ARIA",
+        "accordion",
+        "a11y",
+        "ES6",
+        "ES2015",
+        "Vanilla Javascript Plugin"
+      ],
+      "author": "nico3333fr"
+    },
+    {
+      "name": "protractor-axe-html-report-plugin-extended",
+      "descriptions": "A protractor plugin that generates an HTML aXe accessibility report",
+      "keyword": [
+        "angular",
+        "test",
+        "testing",
+        "webdriver",
+        "webdriverjs",
+        "protractor",
+        "protractor-plugin",
+        "accessibility"
+      ],
+      "author": "krithi.0503"
+    },
+    {
+      "name": "is-contrast-checker",
+      "descriptions": "Color palette combination contrast tester",
+      "keyword": [
+        "color",
+        "contrast",
+        "wcag",
+        "accessibility"
+      ],
+      "author": "jameelmoses"
+    },
+    {
+      "name": "pa11y-webservice",
+      "descriptions": "Pa11y Webservice provides scheduled accessibility reports for multiple URLs",
+      "keyword": [
+        "accessibility",
+        "analysis",
+        "report",
+        "web-service"
+      ],
+      "author": "joseluisbolos"
+    },
+    {
+      "name": "ctrly",
+      "descriptions": "Lightweight and dependency-free content toggling with a focus on accessibility.",
+      "keyword": [
+        "toggle",
+        "control",
+        "lightweight",
+        "accessible",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "jsor"
+    },
+    {
+      "name": "jquery-accessible-dialog-tooltip-aria",
+      "descriptions": "This jQuery plugin will add a shiny and accessible dialog tooltip window, using ARIA",
+      "keyword": [
+        "Accessibility",
+        "ARIA",
+        "dialog",
+        "tooltip",
+        "a11y",
+        "jQuery Plugin"
+      ],
+      "author": "nico3333fr"
+    },
+    {
+      "name": "van11y-accessible-modal-tooltip-aria",
+      "descriptions": "ES2015 accessible modal tooltip system, using ARIA (compatible IE9+ when transpiled)",
+      "keyword": [
+        "Accessibility",
+        "ARIA",
+        "modal",
+        "tooltip",
+        "a11y",
+        "ES6",
+        "ES2015",
+        "Vanilla Javascript Plugin"
+      ],
+      "author": "nico3333fr"
+    },
+    {
+      "name": "focus-overlay",
+      "descriptions": "Library for creating overlays on focused elements.",
+      "keyword": [
+        "focus",
+        "overlay",
+        "javascript",
+        "library",
+        "es6",
+        "accessibility",
+        "CSS",
+        "a11y",
+        "focusoverlay"
+      ],
+      "author": "mauricemahan"
+    },
+    {
+      "name": "@accessible/popover",
+      "descriptions": "An accessible and versatile popover component for React",
+      "keyword": [
+        "react",
+        "react component",
+        "react popover",
+        "popover",
+        "popover component",
+        "accessibility",
+        "accessible popover",
+        "a11y",
+        "a11y popover",
+        "tooltip",
+        "react tooltip",
+        "tooltip component",
+        "a11y tooltip",
+        "accessible tooltip"
+      ],
+      "author": "jaredlunde"
+    },
+    {
+      "name": "mt-a11y-dialog",
+      "descriptions": "A tiny script to make dialog windows accessible to assistive technology users. Forked by Modern Tribe",
+      "keyword": [
+        "modal",
+        "dialog",
+        "accessibility",
+        "a11y",
+        "focus"
+      ],
+      "author": "faction23"
+    },
+    {
+      "name": "shortkey",
+      "descriptions": "A small library to handle keyboard events in a more declarative way",
+      "keyword": [
+        "keydown",
+        "keyup",
+        "addEventListener",
+        "removeEventListener",
+        "react",
+        "a11y",
+        "accessibility",
+        "keyboard",
+        "event",
+        "handler"
+      ],
+      "author": "stevenbenisek"
+    },
+    {
+      "name": "color-contrast-calc",
+      "descriptions": "Utility that helps you choose colors with sufficient contrast, WCAG 2.0 in mind",
+      "keyword": [
+        "color-contrast",
+        "wcag",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "nico-hn"
+    },
+    {
+      "name": "auto-lighthouse",
+      "descriptions": "A CLI for crawling a domain and generating both mobile and desktop reports for each page.",
+      "keyword": [
+        "cli",
+        "lighthouse",
+        "reporting",
+        "accessibility",
+        "a11y",
+        "automation"
+      ],
+      "author": "tgiles"
+    },
+    {
+      "name": "pa11y-webservice-client-node",
+      "descriptions": "Pa11y-webservice-client-node is a Node.js client library for pa11y-webservice",
+      "keyword": [
+        "accessibility",
+        "analysis",
+        "client",
+        "report",
+        "web-service"
+      ],
+      "author": "joseluisbolos"
+    },
+    {
+      "name": "jquery-accessible-autocomplete-list-aria",
+      "descriptions": "This jQuery plugin will transform and enhance a simple text input with a datalist into a wonderful and shiny input with autocomplete, and accessible.",
+      "keyword": [
+        "Accessibility",
+        "ARIA",
+        "autocomplete",
+        "a11y",
+        "jQuery Plugin"
+      ],
+      "author": "nico3333fr"
+    },
+    {
+      "name": "a11y-backpack",
+      "descriptions": "A toolkit to help you create a more accessible website",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "toolkit"
+      ],
+      "author": "jppianta"
+    },
+    {
+      "name": "easy-toggle-state",
+      "descriptions": "A tiny JavaScript library to easily toggle the state of any HTML element in any contexts.",
+      "keyword": [
+        "toggle",
+        "event",
+        "accessibility"
+      ],
+      "author": "twikito"
+    },
+    {
+      "name": "react-treefold",
+      "descriptions": "A renderless tree component for your hierarchical React views",
+      "keyword": [
+        "react",
+        "reactjs",
+        "components",
+        "tree",
+        "treeview",
+        "hierarchy",
+        "render-props",
+        "renderless",
+        "accessibility",
+        "WAI-ARIA"
+      ],
+      "author": "gnapse"
+    },
+    {
+      "name": "@xobotyi/should-reverse-rtl-scroll",
+      "descriptions": "A tool detecting if RTL scroll value should be negative",
+      "keyword": [
+        "rtl",
+        "scroll",
+        "reverse",
+        "accessibility"
+      ],
+      "author": "xobotyi"
+    },
+    {
+      "name": "accessibility-layer",
+      "descriptions": "A tool that provides accessibility features as a separate layer from the main application markup and scripts.",
+      "keyword": [
+        "accessible",
+        "accessibility",
+        "aria",
+        "wai"
+      ],
+      "author": "jonathandewitt-dev"
+    },
+    {
+      "name": "gaad-widget",
+      "descriptions": "Display a banner-link to promote Global Accessibility Awareness Day (GAAD). Display the banner for a period before and after the day. Via unpkg CDN.",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "pa11y",
+        "campaign",
+        "browser-widget",
+        "date",
+        "datejs",
+        "icalendar",
+        "event",
+        "day",
+        "international",
+        "GAAD"
+      ],
+      "author": "nfreear"
+    },
+    {
+      "name": "@sbodi/react-modal",
+      "descriptions": "A modal created using react for react",
+      "keyword": [
+        "react",
+        "modal",
+        "dialog",
+        "hooks",
+        "accessibility"
+      ],
+      "author": "sbodi"
+    },
+    {
+      "name": "clickable-box",
+      "descriptions": "Add `onClick` to HTML elements without sacrificing accessibility.",
+      "keyword": [
+        "accessibility",
+        "react",
+        "component"
+      ],
+      "author": "danoc"
+    },
+    {
+      "name": "@accede-web/overlay",
+      "descriptions": "WAI-ARIA overlay plugin based on AcceDe Web instructions",
+      "keyword": [
+        "accessibility",
+        "modal",
+        "popin",
+        "dialog",
+        "layer",
+        "overlay",
+        "javascript",
+        "vanilla"
+      ],
+      "author": "sdussaut"
+    },
+    {
+      "name": "fela-plugin-bidi",
+      "descriptions": "Fela plugin to enable direction-independent style authoring",
+      "keyword": [
+        "fela",
+        "fela-plugin",
+        "rtl",
+        "ltr",
+        "flow-relative",
+        "logical-properties-and-values",
+        "bidi",
+        "accessibility"
+      ],
+      "author": "rofrischmann"
+    },
+    {
+      "name": "@react-md/tooltip",
+      "descriptions": "Create accessible tooltips within react-md based on the material design specifications.",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "material design",
+        "react",
+        "tooltip",
+        "magic tooltip",
+        "component",
+        "components"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "web-dialog",
+      "descriptions": "A highly accessible, customizable and lightweight dialog.",
+      "keyword": [
+        "web",
+        "accessibility",
+        "accessible",
+        "a11y",
+        "dialog",
+        "modal",
+        "focus",
+        "trap",
+        "components",
+        "custom",
+        "elements",
+        "component",
+        "element"
+      ],
+      "author": "explore"
+    },
+    {
+      "name": "a11y-slider",
+      "descriptions": "Library for accessible sliders",
+      "keyword": [
+        "accessible",
+        "slider",
+        "carousel",
+        "javascript",
+        "typescript",
+        "library",
+        "es6",
+        "js",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "mmahandev"
+    },
+    {
+      "name": "a11y_accordions",
+      "descriptions": "ES5 script to create accessible accordion interfaces",
+      "keyword": [
+        "a11y",
+        "aria",
+        "accessibility",
+        "accordion",
+        "javascript",
+        "es5"
+      ],
+      "author": "scottaohara"
+    },
+    {
+      "name": "@xotic750/colorable",
+      "descriptions": "Color palette combination contrast tester",
+      "keyword": [
+        "color",
+        "contrast",
+        "wcag",
+        "accessibility"
+      ],
+      "author": "xotic750"
+    },
+    {
+      "name": "vue-accessible-modal",
+      "descriptions": "Vue.js component for accessible modals",
+      "keyword": [
+        "accessibility",
+        "dialog",
+        "modal",
+        "vue"
+      ],
+      "author": "3vil_arthas"
+    },
+    {
+      "name": "msg-modal",
+      "descriptions": "A javascript library to create and manage highly customizable modal windows and popup messages.",
+      "keyword": [
+        "accessibility",
+        "modal",
+        "popup",
+        "toaster",
+        "dialog",
+        "html",
+        "window",
+        "javascript"
+      ],
+      "author": "madprops"
+    },
+    {
+      "name": "react-time-input-polyfill",
+      "descriptions": "A pre-built, plug-and-play, fully accessible React component that will produce an `input[type='time']` element with a built in polyfill for IE and Safari support.",
+      "keyword": [
+        "React",
+        "time",
+        "input",
+        "polyfill",
+        "IE",
+        "accessible",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "dan503"
+    },
+    {
+      "name": "vue-accessible-select",
+      "descriptions": "Vue.js component for accessible selects",
+      "keyword": [
+        "accessibility",
+        "select",
+        "vue",
+        "vue-accessible-select",
+        "vue-select"
+      ],
+      "author": "3vil_arthas"
+    },
+    {
+      "name": "grunt-achecker",
+      "descriptions": "Check HTML pages with achecker.",
+      "keyword": [
+        "gruntplugin",
+        "achecker",
+        "accessibility",
+        "wcag"
+      ],
+      "author": "gregvanbrug"
+    },
+    {
+      "name": "ikonate",
+      "descriptions": "Fully customisable, accessible, well-optimised vector icons",
+      "keyword": [
+        "icons",
+        "outline",
+        "customisable",
+        "icon system",
+        "generator",
+        "accessibility"
+      ],
+      "author": "eucalyptuss"
+    },
+    {
+      "name": "@react-md/layout",
+      "descriptions": "This package is used to configure most of react-md as well as create some pre-defined layouts",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "material design",
+        "react",
+        "layout",
+        "configuration",
+        "context providers",
+        "setup",
+        "component",
+        "components"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "@chimericdream/eslint-config-jsx-a11y",
+      "descriptions": "My personal opinionated ESLint rules for the jsx-a11y plugin",
+      "keyword": [
+        "eslint",
+        "eslintconfig",
+        "jsx",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "chimericdream"
+    },
+    {
+      "name": "track-focus",
+      "descriptions": "Tracks the focus event for better accessibility styling.",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "input",
+        "javascript"
+      ],
+      "author": "ten1seven"
+    },
+    {
+      "name": "react-a11y-label",
+      "descriptions": "A simple packages that makes your project accessible across browsers",
+      "keyword": [
+        "accessibility",
+        "screenreader"
+      ],
+      "author": "corinagum"
+    },
+    {
+      "name": "jk-a11y-dialog",
+      "descriptions": "A tiny script to make dialog windows accessible to assistive technology users. Forked from edenspiekermann https://github.com/edenspiekermann/a11y-dialog",
+      "keyword": [
+        "modal",
+        "dialog",
+        "accessibility",
+        "a11y",
+        "focus"
+      ],
+      "author": "jurajk"
+    },
+    {
+      "name": "react-a11y-modal",
+      "descriptions": "An accessible & customizable modal dialog for React built with Hooks under the hood.",
+      "keyword": [
+        "react",
+        "modal",
+        "dialog",
+        "a11y",
+        "accessibility",
+        "hooks"
+      ],
+      "author": "pixelmanya"
+    },
+    {
+      "name": "@asterics/web-app-utils",
+      "descriptions": "AsTeRICS Web App Utilities",
+      "keyword": [
+        "AsTeRICS",
+        "Accessibility"
+      ],
+      "author": "alija"
+    },
+    {
+      "name": "jquery-accessible-accordion-aria",
+      "descriptions": "This jQuery plugin will provide you an accessible Accordion System, using ARIA",
+      "keyword": [
+        "Accessibility",
+        "ARIA",
+        "accordion",
+        "a11y",
+        "jQuery Plugin"
+      ],
+      "author": "nico3333fr"
+    },
+    {
+      "name": "@accede-web/accordion",
+      "descriptions": "WAI-ARIA accordion plugin based on AcceDe Web accessibility guidelines",
+      "keyword": [
+        "accessibility",
+        "accordion",
+        "javascript",
+        "vanilla",
+        "a11y"
+      ],
+      "author": "enwin"
+    },
+    {
+      "name": "a11y-focus-trap",
+      "descriptions": "A simple module to trap the tab navigation inside a container very useful for modal and dialog.",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "focus",
+        "trap"
+      ],
+      "author": "davidgagnedesign"
+    },
+    {
+      "name": "jquery-stick",
+      "descriptions": "JQuery plugin that will stick an absolutely positioned or fixed positioned elements relatively to ancestor or viewport respectively",
+      "keyword": [
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "accessibility",
+        "a11y",
+        "wai-aria"
+      ],
+      "author": "ianmcburnie"
+    },
+    {
+      "name": "photoswiper",
+      "descriptions": "A plugin for easy and accessible PhotoSwipe initialization",
+      "keyword": [
+        "photoswipe",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "sh0ji"
+    },
+    {
+      "name": "vue-skip-to",
+      "descriptions": "It helps people who only use the keyboard to jump to what matters most.",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "skip to main content",
+        "vue.js",
+        "keyboard"
+      ],
+      "author": "ktquez"
+    },
+    {
+      "name": "a11y-hooks",
+      "descriptions": "A set of react hooks to easily implement a11y patterns",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react",
+        "react-hooks"
+      ],
+      "author": "jescowuester"
+    },
+    {
+      "name": "@sassquatch/theme",
+      "descriptions": "An in development sass based component library.",
+      "keyword": [
+        "sass",
+        "accessibility"
+      ],
+      "author": "kandrews"
+    },
+    {
+      "name": "react-sanfona-keona",
+      "descriptions": "React accessible accordion component",
+      "keyword": [
+        "react",
+        "reactjs",
+        "react-component",
+        "accordion",
+        "accessibility",
+        "aria",
+        "widget"
+      ],
+      "author": "elderin"
+    },
+    {
+      "name": "@magica11y/prefers-reduced-motion",
+      "descriptions": "Detects user’s preferences for reduced motion using the 'prefers-reduce-motion' CSS3 level 5 media query.",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "css",
+        "media-query",
+        "level-5",
+        "matchmedia",
+        "prefers-reduced-motion",
+        "light-level",
+        "environment-blending",
+        "inverted-colors",
+        "prefers-reduced-transparency",
+        "prefers-contrast",
+        "prefers-color-scheme",
+        "forced-colors"
+      ],
+      "author": "rishabhsrao"
+    },
+    {
+      "name": "nemo-accessibility",
+      "descriptions": "Nemo-accessibility is a nemo plugin aimed to run accessibility scans during nemo tests. nemo-accessibility plugin uses axe-core, htmlcode smiffer and chrome engines to run accessibility scans on a given page or on a given element on a page.",
+      "keyword": [
+        "nemo",
+        "accessibility",
+        "plugins",
+        "paet"
+      ],
+      "author": "mpnkhan"
+    },
+    {
+      "name": "angular-datatable-ms",
+      "descriptions": "An accessible Angular 5 data table, with pagination, sorting, expandable rows etc.",
+      "keyword": [
+        "angular",
+        "angular5",
+        "Angular 5",
+        "ng2",
+        "datatable",
+        "data-table",
+        "data table",
+        "pagination",
+        "sorting",
+        "accessibility"
+      ],
+      "author": "evandrofuhr"
+    },
+    {
+      "name": "vanilla-abide",
+      "descriptions": "A VanillaJS translation for Foundation Abide Form Validation",
+      "keyword": [
+        "vanillajs",
+        "form",
+        "validation",
+        "abide",
+        "foundation",
+        "form-validation",
+        "vanilla",
+        "accessibility",
+        "validation-library",
+        "wcag",
+        "foundation 6"
+      ],
+      "author": "frappacchio"
+    },
+    {
+      "name": "db-interchanges",
+      "descriptions": "Retrieve accessibility information for interchanges between specific platforms at Deutsche Bahn (DB) stations.",
+      "keyword": [
+        "accessibility",
+        "bahn",
+        "change",
+        "db",
+        "deutsche",
+        "elevator",
+        "german",
+        "germany",
+        "interchange",
+        "railway",
+        "wheelchair"
+      ],
+      "author": "juliuste"
+    },
+    {
+      "name": "@react-md/table",
+      "descriptions": "Create responsive data tables and accessible fixed tables",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "material design",
+        "react",
+        "table",
+        "component",
+        "components"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "jquery-keyboard-focus",
+      "descriptions": "Adds the provided classes to an element when it is focused by keyboard interactions (and not mouse interactions).",
+      "keyword": [
+        "jQuery",
+        "keyboard",
+        "interaction",
+        "focus",
+        "accessibility"
+      ],
+      "author": "michelle"
+    },
+    {
+      "name": "recal",
+      "descriptions": "A minimal, accessible React calendar component using modern CSS.",
+      "keyword": [
+        "react",
+        "calendar",
+        "dates",
+        "datepicker",
+        "daterangepicker",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "rubencodes"
+    },
+    {
+      "name": "grunt-accessibility-ext",
+      "descriptions": "Grade your site's accessibility and generate a report from different WCAG levels",
+      "keyword": [
+        "gruntplugin",
+        "accessibility",
+        "a11y",
+        "analysis",
+        "report",
+        "WCAG"
+      ],
+      "author": "prantlf"
+    },
+    {
+      "name": "jquery-accessible-modal-window-aria",
+      "descriptions": "This jQuery plugin will add a shiny and accessible modal window, using ARIA",
+      "keyword": [
+        "Accessibility",
+        "ARIA",
+        "modal",
+        "modal window",
+        "a11y"
+      ],
+      "author": "nico3333fr"
+    },
+    {
+      "name": "jquery-accessible-hide-show-aria",
+      "descriptions": "This jQuery plugin will provide a shiny and accessible hide/show system (collapsible region), using ARIA.",
+      "keyword": [
+        "Accessibility",
+        "ARIA",
+        "hide/show",
+        "collapsible regions",
+        "a11y"
+      ],
+      "author": "nico3333fr"
+    },
+    {
+      "name": "@viafoura/vue-focus-trap",
+      "descriptions": "A Vue component that traps focus",
+      "keyword": [
+        "vue",
+        "component",
+        "accessibility",
+        "a11y",
+        "focus",
+        "focus management",
+        "focus trap"
+      ],
+      "author": "dougalg"
+    },
+    {
+      "name": "boilerplate.js",
+      "descriptions": "Development Tools",
+      "keyword": [
+        "gulp",
+        "browser sync",
+        "accessibility",
+        "babel",
+        "spritesmith",
+        "javascript transpiler",
+        "sass",
+        "sass compiler",
+        "babel minify",
+        "eslint",
+        "website stress test",
+        "loadtest",
+        "stress test",
+        "live reload",
+        "View more"
+      ],
+      "author": "akasmani"
+    },
+    {
+      "name": "accessible-react-toolbox",
+      "descriptions": "Built upon React Toolbox with accessibility in mind, a set of React components implementing Google's Material Design specification with the power of CSS Modules.",
+      "keyword": [
+        "accessibility",
+        "components",
+        "material design",
+        "react",
+        "react-component",
+        "toolkit"
+      ],
+      "author": "allinallin"
+    },
+    {
+      "name": "accessible-cli",
+      "descriptions": "Welcome to an attempt to make the web more inclusive. Accessible is a CLI aiming to make the web more accessible and performant. The goal: Use prominent accessibility and performance standards tooling in builds, failing when the set goals are not met. Let",
+      "keyword": [
+        "cli",
+        "accessible",
+        "accessibility",
+        "performance",
+        "optimize",
+        "optimization",
+        "help",
+        "best"
+      ],
+      "author": "acjanus"
+    },
+    {
+      "name": "focus-rover",
+      "descriptions": "Set a roving focus on a group of elements.",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "focus",
+        "roving",
+        "tabindex"
+      ],
+      "author": "sh0ji"
+    },
+    {
+      "name": "@react-md/menu",
+      "descriptions": "Create menus that auto-position themselves within the viewport and adhere to the accessibility guidelines",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "material design",
+        "react",
+        "menu",
+        "dropdown",
+        "component",
+        "components"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "@a11y/skip-navigation",
+      "descriptions": "Web component friendly skip navigation functionality.",
+      "keyword": [
+        "web",
+        "accessibility",
+        "accessible",
+        "a11y",
+        "skip",
+        "navigation",
+        "focus",
+        "components",
+        "custom",
+        "elements",
+        "component",
+        "element"
+      ],
+      "author": "explore"
+    },
+    {
+      "name": "protractor-axe-report-plugin",
+      "descriptions": "A protractor plugin that generates an aXe accessibility report",
+      "keyword": [
+        "angular",
+        "test",
+        "testing",
+        "webdriver",
+        "webdriverjs",
+        "protractor",
+        "protractor-plugin",
+        "accessibility"
+      ],
+      "author": "sachams"
+    },
+    {
+      "name": "react-accessible-treeview",
+      "descriptions": "A react component that implements the treeview pattern as described by the WAI-ARIA Authoring Practices.",
+      "keyword": [
+        "react",
+        "treeview",
+        "a11y",
+        "accessibility",
+        "react-component",
+        "tree"
+      ],
+      "author": "lissitz"
+    },
+    {
+      "name": "our-journey",
+      "descriptions": "Our Journey interactive student journey creator. | © 2018 The Open University (IET-OU).",
+      "keyword": [
+        "accessibility",
+        "education",
+        "learning-journey",
+        "student-experience"
+      ],
+      "author": "timcoughlan"
+    },
+    {
+      "name": "@foo-software/lighthouse-trigger",
+      "descriptions": "An NPM module to trigger Lighthouse audits to be saved in the cloud.",
+      "keyword": [
+        "lighthouse",
+        "google",
+        "performance",
+        "accessibility",
+        "seo",
+        "progressive web app",
+        "best practices",
+        "website performance monitoring",
+        "foo",
+        "foo.software"
+      ],
+      "author": "adamhenson"
+    },
+    {
+      "name": "accessible-js",
+      "descriptions": "Accessible-js is a node module that allows developers to easily make their website accessible!",
+      "keyword": [
+        "accessibility"
+      ],
+      "author": "faizchishtie"
+    },
+    {
+      "name": "@hiswe/focus-ring",
+      "descriptions": "Remove the focus-ring while staying accessible",
+      "keyword": [
+        "css",
+        "focus ring",
+        "accessibility"
+      ],
+      "author": "hiswe"
+    },
+    {
+      "name": "gulp-axe-cli",
+      "descriptions": "Gulp plugin to test static pages with aXe as pre-commit hook or in CI environment.",
+      "keyword": [
+        "gulpplugin",
+        "gulp",
+        "plugin",
+        "axe",
+        "a11y",
+        "accessibility",
+        "testing",
+        "automation",
+        "semantic",
+        "html",
+        "wcag",
+        "wcag2a",
+        "wcag2aa",
+        "wai"
+      ],
+      "author": "samueleishion"
+    },
+    {
+      "name": "html-lint",
+      "descriptions": "A code quality bookmarklet and command-line tool.",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "audit",
+        "html",
+        "lint",
+        "linter",
+        "markup",
+        "report",
+        "tool"
+      ],
+      "author": "curtisj44"
+    },
+    {
+      "name": "cg-dnd",
+      "descriptions": "Accessible DnD Component",
+      "keyword": [
+        "drag",
+        "drag-and-drop",
+        "dnd",
+        "a11y",
+        "accessibility"
+      ],
+      "author": "abdulnasyrova"
+    },
+    {
+      "name": "grunt-axe-webdriver",
+      "descriptions": "Grunt plugin for aXe utilizing WebDriverJS",
+      "keyword": [
+        "a11y",
+        "unit",
+        "testing",
+        "tdd",
+        "bdd",
+        "accessibility",
+        "aXe",
+        "gruntplugin"
+      ],
+      "author": "wilcofiers"
+    },
+    {
+      "name": "@react-md/card",
+      "descriptions": "Create interactable cards from the material design specifications.",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "material design",
+        "react",
+        "card",
+        "component",
+        "components"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "jsonresume-theme-a11y",
+      "descriptions": "Theme for JSON Resume addressing WCAG 2.1 and ARIA accessibility (a11y) standards",
+      "keyword": [
+        "résumé",
+        "resume",
+        "curriculum vitae",
+        "CV",
+        "jsonresume",
+        "jsonresume-theme",
+        "accessibility",
+        "a11y",
+        "WCAG",
+        "ARIA",
+        "disability",
+        "assistive technology"
+      ],
+      "author": "jrpool"
+    },
+    {
+      "name": "langutil",
+      "descriptions": "Localization for JavaScript made simple",
+      "keyword": [
+        "accessibility",
+        "language",
+        "localization",
+        "translation"
+      ],
+      "author": "chin98edwin"
+    },
+    {
+      "name": "screen-reader-route-manager",
+      "descriptions": "Route management for making sure screen readers announce new pages when changing the URL without a page load",
+      "keyword": [
+        "accessibility",
+        "routing",
+        "spa"
+      ],
+      "author": "kenneth-gray"
+    },
+    {
+      "name": "vue-accessible-multiselect",
+      "descriptions": "Vue.js component for accessible multiselects",
+      "keyword": [
+        "accessibility",
+        "multiselect",
+        "select",
+        "vue",
+        "vue-accessible-multiselect",
+        "vue-multiselect",
+        "vue-select"
+      ],
+      "author": "3vil_arthas"
+    },
+    {
+      "name": "van11y-accessible-modal-window-aria",
+      "descriptions": "ES2015 accessible modal window system, using ARIA (compatible IE9+ when transpiled)",
+      "keyword": [
+        "Accessibility",
+        "ARIA",
+        "modal",
+        "a11y",
+        "ES6",
+        "ES2015",
+        "Vanilla Javascript Plugin"
+      ],
+      "author": "nico3333fr"
+    },
+    {
+      "name": "accesslint-cli",
+      "descriptions": "Command line accessibility scanner",
+      "keyword": [
+        "accessibility",
+        "phantomjs",
+        "accesslint",
+        "axe"
+      ],
+      "author": "accesslint-owner"
+    },
+    {
+      "name": "enabler",
+      "descriptions": "Accessibility analyzer for your frontend",
+      "keyword": [
+        "wai-aria",
+        "wcag",
+        "screen-reader",
+        "enabler",
+        "ngx-a11y",
+        "vue-a11y",
+        "accessibility",
+        "semantic",
+        "WCAG",
+        "WAI",
+        "ADA Compliance"
+      ],
+      "author": "yuriymusienko"
+    },
+    {
+      "name": "van11y-accessible-accordion-aria-possible",
+      "descriptions": "ES2015 accessible accordion system, using ARIA (compatible IE9+ when transpiled)",
+      "keyword": [
+        "Accessibility",
+        "ARIA",
+        "accordion",
+        "a11y",
+        "ES6",
+        "ES2015",
+        "Vanilla Javascript Plugin"
+      ],
+      "author": "possible-bud"
+    },
+    {
+      "name": "@10up/react-focus-trap-hoc",
+      "descriptions": "Higher order component used to trap keyboard focus within a wrapped component.",
+      "keyword": [
+        "react",
+        "focus",
+        "trap",
+        "modal",
+        "accessibility",
+        "a11y"
+      ],
+      "author": "magnificode"
+    },
+    {
+      "name": "media-transcript",
+      "descriptions": "A web component for an interactive transcript built from WebVTT cues.",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "captions",
+        "cue",
+        "custom element",
+        "shadow dom",
+        "texttrack",
+        "transcript",
+        "vtt",
+        "web component",
+        "webvtt"
+      ],
+      "author": "sh0ji"
+    },
+    {
+      "name": "facepointer",
+      "descriptions": "Use head tracking and face gestures to move a \"mouse\" pointer from up to 3m (10ft) away 👋",
+      "keyword": [
+        "computer-vision",
+        "accessibility",
+        "a11y",
+        "handsfree"
+      ],
+      "author": "browsehandsfree"
+    },
+    {
+      "name": "a11y-menu",
+      "descriptions": "Assets to build an accessible navigation menu",
+      "keyword": [
+        "a11y",
+        "accessibility",
+        "menu",
+        "navigation"
+      ],
+      "author": "ajberkow"
+    },
+    {
+      "name": "headman",
+      "descriptions": "Headman is a component development tool.",
+      "keyword": [
+        "components",
+        "pattern",
+        "library",
+        "html",
+        "accessibility",
+        "validation",
+        "frontend"
+      ],
+      "author": "mgrsskls"
+    },
+    {
+      "name": "@react-md/chip",
+      "descriptions": "Module to add accessibility support to createjs",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "material design",
+        "react",
+        "chip",
+        "component",
+        "components"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "@curriculumassociates/createjs-accessibility",
+      "descriptions": "VanillaJS implementation of the JQuery fade methods.",
+      "keyword": [
+        "createjs",
+        "accessibility",
+        "508",
+        "wcag",
+        "aria"
+      ],
+      "author": "cainc-ops"
+    },
+    {
+      "name": "vanilla-fade",
+      "descriptions": "Owl Carousel v2 accessibility layer",
+      "keyword": [
+        "fade",
+        "fadeIn",
+        "fadeOut",
+        "fadeTo",
+        "fadeToggle",
+        "animation",
+        "performance",
+        "prefers-reduce-motion",
+        "accessibility",
+        "60-fps",
+        "no-jquery",
+        "vanilla",
+        "vanilla-js"
+      ],
+      "author": "matteobad"
+    },
+    {
+      "name": "owl-aria",
+      "descriptions": "A highly configurable website crawler for automatically testing a website for accessibility issues using the axe-core library. Uses selenium and headless Chrome to load pages, inject axe-core, and run tests. Generates an html summary report in addition",
+      "keyword": [
+        "owl",
+        "carousel",
+        "aria",
+        "a11y",
+        "accessibility",
+        "owl.carousel",
+        "layer"
+      ],
+      "author": "mrfischer"
+    },
+    {
+      "name": "axe-crawler",
+      "descriptions": "Accessible dropdown menu",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "testing",
+        "tdd",
+        "integration testing",
+        "crawler",
+        "scraping",
+        "random sampling"
+      ],
+      "author": "tjscollins"
+    },
+    {
+      "name": "@tournant/dropdown",
+      "descriptions": "An accessible implementation for text-like HTML input elements.",
+      "keyword": [
+        "Vue",
+        "components",
+        "a11y",
+        "accessibility",
+        "dropdown",
+        "menu",
+        "ui"
+      ],
+      "author": "ovl"
+    },
+    {
+      "name": "@tournant/input",
+      "descriptions": "Create a badge that is fixed to another element. This is generally used for notification counts.",
+      "keyword": [
+        "vue",
+        "component",
+        "accessibility",
+        "ui",
+        "a11y",
+        "aria"
+      ],
+      "author": "ovl"
+    },
+    {
+      "name": "@react-md/badge",
+      "descriptions": "Things that still need to be done:",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "material design",
+        "react",
+        "badge",
+        "component",
+        "components"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "@react-md/autocomplete",
+      "descriptions": "BootstrapVue, with over 40 plugins and more than 80 custom components, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "react-md",
+        "material design",
+        "react",
+        "autocomplete",
+        "typeahead",
+        "component",
+        "components"
+      ],
+      "author": "mlaursen"
+    },
+    {
+      "name": "@crouton/bootstrap-vue",
+      "descriptions": "Launchy! – An Accessible Modal Window",
+      "keyword": [
+        "Bootstrap",
+        "Bootstrap v4",
+        "Bootstrap for Vue",
+        "SSR",
+        "Web",
+        "Components",
+        "Directives",
+        "ARIA",
+        "Accessibility",
+        "Polymer",
+        "Vue",
+        "VueJS",
+        "Vue2",
+        "WebComponents",
+        "View more"
+      ],
+      "author": "crouton"
+    },
+    {
+      "name": "launchy-modal-window",
+      "descriptions": "This jQuery plugin will provide you an accessible and simple non-modal tooltip, using ARIA.",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "modal",
+        "dialog",
+        "html",
+        "javascript"
+      ],
+      "author": "svinkle"
+    },
+    {
+      "name": "jquery-accessible-simple-tooltip-aria",
+      "descriptions": "Accessible focus management made easy",
+      "keyword": [
+        "Accessibility",
+        "ARIA",
+        "tooltip",
+        "jQueryPlugin",
+        "a11y"
+      ],
+      "author": "nico3333fr"
+    },
+    {
+      "name": "focus-manager",
+      "descriptions": "Accessible Combobox component for Vue.js",
+      "keyword": [
+        "accessibility",
+        "a11y",
+        "dialog",
+        "modal",
+        "focus"
+      ],
+      "author": "isaac-andela"
+    },
+    {
+      "name": "@tournant/combobox",
+      "descriptions": "React accessibility plugin for react-chartist",
+      "keyword": [
+        "Vue",
+        "components",
+        "a11y",
+        "accessibility",
+        "combobox",
+        "ui"
+      ],
+      "author": "ovl"
+    },
+    {
+      "name": "react-chartist-plugin-accessibility",
+      "descriptions": "JavaScript classes to aid in accessible web development.",
+      "keyword": [
+        "react",
+        "component",
+        "chartist",
+        "graph",
+        "accessibility",
+        "react-chartist"
+      ],
+      "author": "passbyval"
+    },
+    {
+      "name": "aria-components",
+      "descriptions": "ES2015 accessible carrousel system, using ARIA (compatible IE9+ when transpiled)",
+      "keyword": [
+        "a11y",
+        "accessibility"
+      ],
+      "author": "goodguyry"
+    },
+    {
+      "name": "van11y-accessible-carrousel-aria",
+      "keyword": [
+        "Accessibility",
+        "ARIA",
+        "carrousel",
+        "a11y",
+        "ES6",
+        "ES2015",
+        "Vanilla Javascript Plugin"
+      ],
+      "author": "nico3333fr"
+    }
+  ]
+}

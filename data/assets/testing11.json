@@ -1,0 +1,15 @@
+{
+    "packages": [
+      "mocha",
+      "jasmine",
+      "ava",
+      "jest",
+      "karma",
+      "tape",
+      "cypress",
+      "chai",
+      "qunit",
+      "puppeteer",
+      "sinon"
+    ]
+}

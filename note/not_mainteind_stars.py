@@ -72,7 +72,7 @@ for name in repos['not_maintained_repository']:
 f.close()
 
 #%%
-plotStars('allmarkedup/purl')
+plotStars('yarnpkg/yarn')
 
 
 #%%

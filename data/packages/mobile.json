@@ -245,6 +245,21 @@
       "author": "nolimits4web"
     },
     {
+      "name": "rc-hammerjs",
+      "descriptions": "ReactJS / HammerJS integration. Support touch events in your React app.",
+      "keyword": [
+        "react",
+        "react-component",
+        "tap",
+        "tappable",
+        "touch",
+        "hammer",
+        "hammerjs",
+        "mobile"
+      ],
+      "author": "paranoidjk"
+    },
+    {
       "name": "is-mobile",
       "descriptions": "Check if mobile browser.",
       "keyword": [
@@ -272,19 +287,18 @@
       "author": "jackocnr"
     },
     {
-      "name": "rc-hammerjs",
-      "descriptions": "ReactJS / HammerJS integration. Support touch events in your React app.",
+      "name": "css-mediaquery",
+      "descriptions": "Parses and determines if a given CSS Media Query matches a set of values.",
       "keyword": [
-        "react",
-        "react-component",
-        "tap",
-        "tappable",
-        "touch",
-        "hammer",
-        "hammerjs",
-        "mobile"
+        "css",
+        "media",
+        "query",
+        "mediaquery",
+        "mobile",
+        "parse",
+        "match"
       ],
-      "author": "paranoidjk"
+      "author": "ericf"
     },
     {
       "name": "react-device-detect",
@@ -306,20 +320,6 @@
       "author": "duskload"
     },
     {
-      "name": "css-mediaquery",
-      "descriptions": "Parses and determines if a given CSS Media Query matches a set of values.",
-      "keyword": [
-        "css",
-        "media",
-        "query",
-        "mediaquery",
-        "mobile",
-        "parse",
-        "match"
-      ],
-      "author": "ericf"
-    },
-    {
       "name": "antd-mobile",
       "descriptions": "基于 React 的移动设计规范实现",
       "keyword": [
@@ -335,6 +335,20 @@
         "mobile"
       ],
       "author": "yuanfei.gyf"
+    },
+    {
+      "name": "iscroll",
+      "descriptions": "Smooth scrolling for the web",
+      "keyword": [
+        "scrolling",
+        "carousel",
+        "zoom",
+        "iphone",
+        "android",
+        "mobile",
+        "desktop"
+      ],
+      "author": "cubiq"
     },
     {
       "name": "react-native-collapsible",
@@ -354,20 +368,6 @@
         "accordion"
       ],
       "author": "oblador"
-    },
-    {
-      "name": "iscroll",
-      "descriptions": "Smooth scrolling for the web",
-      "keyword": [
-        "scrolling",
-        "carousel",
-        "zoom",
-        "iphone",
-        "android",
-        "mobile",
-        "desktop"
-      ],
-      "author": "cubiq"
     },
     {
       "name": "react-easy-swipe",
@@ -402,7 +402,7 @@
         "progressive web app",
         "pwa"
       ],
-      "author": "liamdebeasi"
+      "author": "elylucas"
     },
     {
       "name": "react-native-progress",
@@ -447,19 +447,6 @@
       "author": "dimsemenov"
     },
     {
-      "name": "appium-android-driver",
-      "descriptions": "Android UiAutomator and Chrome support for Appium",
-      "keyword": [
-        "appium",
-        "android",
-        "testing",
-        "automation",
-        "mobile",
-        "mobile testing"
-      ],
-      "author": "nick.mokhnach"
-    },
-    {
       "name": "react-hammerjs",
       "descriptions": "ReactJS / HammerJS integration. Support touch events in your React app.",
       "keyword": [
@@ -475,14 +462,17 @@
       "author": "jedwatson"
     },
     {
-      "name": "vconsole",
-      "descriptions": "A lightweight, extendable front-end developer tool for mobile web page.",
+      "name": "appium-android-driver",
+      "descriptions": "Android UiAutomator and Chrome support for Appium",
       "keyword": [
-        "console",
-        "debug",
-        "mobile"
+        "appium",
+        "android",
+        "testing",
+        "automation",
+        "mobile",
+        "mobile testing"
       ],
-      "author": "maiz"
+      "author": "nick.mokhnach"
     },
     {
       "name": "express-device",
@@ -507,21 +497,14 @@
       "author": "rguerreiro"
     },
     {
-      "name": "@ionic/angular",
-      "descriptions": "Angular specific wrappers for @ionic/core",
+      "name": "vconsole",
+      "descriptions": "A lightweight, extendable front-end developer tool for mobile web page.",
       "keyword": [
-        "ionic",
-        "framework",
-        "angular",
-        "mobile",
-        "app",
-        "webapp",
-        "capacitor",
-        "cordova",
-        "progressive web app",
-        "pwa"
+        "console",
+        "debug",
+        "mobile"
       ],
-      "author": "liamdebeasi"
+      "author": "maiz"
     },
     {
       "name": "react-native-lightbox",
@@ -542,15 +525,21 @@
       "author": "oblador"
     },
     {
-      "name": "mint-ui",
-      "descriptions": "Mobile UI elements for vue.js",
+      "name": "@ionic/angular",
+      "descriptions": "Angular specific wrappers for @ionic/core",
       "keyword": [
-        "component",
-        "vue",
+        "ionic",
+        "framework",
+        "angular",
         "mobile",
-        "eleme"
+        "app",
+        "webapp",
+        "capacitor",
+        "cordova",
+        "progressive web app",
+        "pwa"
       ],
-      "author": "marchen"
+      "author": "elylucas"
     },
     {
       "name": "device",
@@ -573,18 +562,15 @@
       "author": "rguerreiro"
     },
     {
-      "name": "react-native-extended-stylesheet",
-      "descriptions": "Extended StyleSheets for React Native",
+      "name": "mint-ui",
+      "descriptions": "Mobile UI elements for vue.js",
       "keyword": [
-        "react",
-        "react-native",
-        "react-component",
-        "react-native-component",
+        "component",
+        "vue",
         "mobile",
-        "ios",
-        "android"
+        "eleme"
       ],
-      "author": "vitalets"
+      "author": "marchen"
     },
     {
       "name": "react-native-htmlview",
@@ -601,6 +587,34 @@
       "author": "jsdf"
     },
     {
+      "name": "react-native-extended-stylesheet",
+      "descriptions": "Extended StyleSheets for React Native",
+      "keyword": [
+        "react",
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "mobile",
+        "ios",
+        "android"
+      ],
+      "author": "vitalets"
+    },
+    {
+      "name": "ember-hammertime",
+      "descriptions": "TouchAction Support for Ember Applications.",
+      "keyword": [
+        "ember-addon",
+        "fastclick",
+        "hammerjs",
+        "hammer-time",
+        "touch-action",
+        "mobile",
+        "click delay"
+      ],
+      "author": "rwwagner90"
+    },
+    {
       "name": "weui",
       "descriptions": "A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.",
       "keyword": [
@@ -612,16 +626,6 @@
         "mobile"
       ],
       "author": "weui"
-    },
-    {
-      "name": "nativescript",
-      "descriptions": "Command-line interface for building NativeScript projects",
-      "keyword": [
-        "nativescript",
-        "telerik",
-        "mobile"
-      ],
-      "author": "tns-bot"
     },
     {
       "name": "ember-gestures",
@@ -640,6 +644,77 @@
       "author": "eriktrom"
     },
     {
+      "name": "nativescript",
+      "descriptions": "Command-line interface for building NativeScript projects",
+      "keyword": [
+        "nativescript",
+        "telerik",
+        "mobile"
+      ],
+      "author": "tns-bot"
+    },
+    {
+      "name": "onsenui",
+      "descriptions": "HTML5 Mobile Framework & UI Components",
+      "keyword": [
+        "phonegap",
+        "cordova",
+        "web-components",
+        "react",
+        "components",
+        "angular",
+        "vue",
+        "hybrid",
+        "app",
+        "ui",
+        "mobile",
+        "onsen",
+        "onsenui"
+      ],
+      "author": "emccorson"
+    },
+    {
+      "name": "react-fastclick",
+      "descriptions": "Fast Touch Events for React",
+      "keyword": [
+        "react",
+        "fastclick",
+        "fast",
+        "click",
+        "touch",
+        "events",
+        "event",
+        "mobile"
+      ],
+      "author": "jakesidsmith"
+    },
+    {
+      "name": "appium-tizen-driver",
+      "descriptions": "Tizen support for Appium",
+      "keyword": [
+        "appium",
+        "tizen",
+        "testing",
+        "automation",
+        "mobile",
+        "mobile testing"
+      ],
+      "author": "flyofsky"
+    },
+    {
+      "name": "react-tappable",
+      "descriptions": "Touch / Tappable Event Handling Component for React",
+      "keyword": [
+        "react",
+        "react-component",
+        "tap",
+        "tappable",
+        "touch",
+        "mobile"
+      ],
+      "author": "dcousens"
+    },
+    {
       "name": "lory.js",
       "descriptions": "Touch enabled minimalistic slider written in vanilla JavaScript.",
       "keyword": [
@@ -654,6 +729,5498 @@
         "mobile"
       ],
       "author": "meandmax"
+    },
+    {
+      "name": "emoji-js",
+      "descriptions": "A JS Emoji conversion library",
+      "keyword": [
+        "emoji",
+        "emoticon",
+        "mobile",
+        "browser"
+      ],
+      "author": "iamcal"
+    },
+    {
+      "name": "react-native-keychain",
+      "descriptions": "Keychain Access for React Native",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "keychain"
+      ],
+      "author": "oblador"
+    },
+    {
+      "name": "milligram",
+      "descriptions": "A minimalist CSS framework.",
+      "keyword": [
+        "bootstrap",
+        "css",
+        "css3",
+        "flexbox",
+        "front-end",
+        "framework",
+        "html",
+        "html5",
+        "kickstarter",
+        "less",
+        "responsive",
+        "mobile",
+        "mobile-first",
+        "postcss",
+        "View more"
+      ],
+      "author": "cjpatoilo"
+    },
+    {
+      "name": "blueimp-gallery",
+      "descriptions": "Blueimp Gallery is a touch-enabled, responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. It features swipe, mouse and keyboard navigation, transition effects, slideshow functionali",
+      "keyword": [
+        "image",
+        "video",
+        "gallery",
+        "carousel",
+        "lightbox",
+        "mobile",
+        "desktop",
+        "touch",
+        "responsive",
+        "swipe",
+        "mouse",
+        "keyboard",
+        "navigation",
+        "transition",
+        "View more"
+      ],
+      "author": "blueimp"
+    },
+    {
+      "name": "react-native-image-progress",
+      "descriptions": "Progress indicator for networked images, supports progress bar and spinner",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "ui",
+        "image",
+        "progress",
+        "bar",
+        "progressbar",
+        "spinner",
+        "activityindicator",
+        "loading"
+      ],
+      "author": "oblador"
+    },
+    {
+      "name": "react-native-touch-id",
+      "descriptions": "React Native authentication with the native Touch ID popup.",
+      "keyword": [
+        "react-native",
+        "react",
+        "native",
+        "touch-id",
+        "react-component",
+        "react-native-component",
+        "authentication",
+        "auth",
+        "authenticate",
+        "mobile"
+      ],
+      "author": "zibs"
+    },
+    {
+      "name": "react-native-icons",
+      "descriptions": "Use 1000's of icon fonts easily in your React Native apps.",
+      "keyword": [
+        "react",
+        "icons",
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "mobile",
+        "ui",
+        "react native icons",
+        "font",
+        "tab bar",
+        "ios",
+        "android",
+        "icon",
+        "fonts"
+      ],
+      "author": "corymsmith"
+    },
+    {
+      "name": "teeny-tap",
+      "descriptions": "Listen for both clicks and click-like touches (not scrolls or drags)",
+      "keyword": [
+        "tap",
+        "click",
+        "mobile",
+        "touch",
+        "event",
+        "listener"
+      ],
+      "author": "davidtheclark"
+    },
+    {
+      "name": "eruda",
+      "descriptions": "Console for Mobile Browsers",
+      "keyword": [
+        "console",
+        "mobile",
+        "debug"
+      ],
+      "author": "surunzi"
+    },
+    {
+      "name": "inliner",
+      "descriptions": "Utility to inline images, CSS and JavaScript for a web page - useful for mobile sites",
+      "keyword": [
+        "mobile",
+        "inline",
+        "production",
+        "build",
+        "minify"
+      ],
+      "author": "remy"
+    },
+    {
+      "name": "react-native-photo-view",
+      "descriptions": "Displaying photos with pinch-to-zoom",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "gallery",
+        "lightbox",
+        "pinch",
+        "pinch-to-zoom",
+        "mobile"
+      ],
+      "author": "alwx"
+    },
+    {
+      "name": "@antv/f2",
+      "descriptions": "Charts for mobile visualization.",
+      "keyword": [
+        "f2",
+        "charts",
+        "mobile",
+        "visualization",
+        "data visualization",
+        "canvas",
+        "2d draw",
+        "mobile visualization",
+        "interactive"
+      ],
+      "author": "zengyue"
+    },
+    {
+      "name": "shufflejs",
+      "descriptions": "Categorize, sort, and filter a responsive grid of items",
+      "keyword": [
+        "gallery",
+        "shuffle",
+        "layout",
+        "masonry",
+        "filter",
+        "sort",
+        "responsive",
+        "grid",
+        "mobile",
+        "tiles"
+      ],
+      "author": "vestride"
+    },
+    {
+      "name": "ionic-framework",
+      "descriptions": "An advanced HTML5 mobile app framework built on Angular2",
+      "keyword": [
+        "ionic",
+        "framework",
+        "mobile",
+        "app",
+        "hybrid",
+        "webapp",
+        "cordova"
+      ],
+      "author": "brandyscarney"
+    },
+    {
+      "name": "ionic-plugin-deeplinks",
+      "descriptions": "Ionic Deeplinks Plugin",
+      "keyword": [
+        "ionic",
+        "cordova",
+        "deeplink",
+        "deeplinks",
+        "mobile",
+        "hybrid",
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios"
+      ],
+      "author": "chrisweight"
+    },
+    {
+      "name": "react-native-switch",
+      "descriptions": "Customisable switch component for RN",
+      "keyword": [
+        "react-native",
+        "react",
+        "shapes",
+        "android",
+        "ios",
+        "mobile",
+        "switch",
+        "customisable"
+      ],
+      "author": "shahen"
+    },
+    {
+      "name": "uploadcare-widget",
+      "descriptions": "Uploadcare Widget: file uploader.",
+      "keyword": [
+        "uploadcare",
+        "file",
+        "uploader",
+        "preview",
+        "chunk",
+        "drag",
+        "drop",
+        "image",
+        "image-edit",
+        "widget",
+        "mobile",
+        "dialog",
+        "upload",
+        "store",
+        "View more"
+      ],
+      "author": "jeetiss"
+    },
+    {
+      "name": "framework7",
+      "descriptions": "Full featured mobile HTML framework for building iOS & Android apps",
+      "keyword": [
+        "mobile",
+        "framework",
+        "framework7",
+        "cordova",
+        "ios",
+        "iphone",
+        "ipad",
+        "apple",
+        "phonegap",
+        "native",
+        "touch",
+        "appstore",
+        "app",
+        "f7",
+        "View more"
+      ],
+      "author": "nolimits4web"
+    },
+    {
+      "name": "jquery.nicescroll",
+      "descriptions": "Nicescroll is a jquery plugin, for nice customizabled scrollbars with a very similar ios/mobile style. It supports DIVs, IFrames and document page (body) scrollbars. Compatible with modern browsers Chrome/Firefox/Edge/Safari/Opera for smartphone ios/andro",
+      "keyword": [
+        "nicescroll",
+        "jquery",
+        "jquery-plugin",
+        "ecosystem:jquery",
+        "interface",
+        "window",
+        "dom",
+        "div",
+        "scroll",
+        "ios",
+        "mobile",
+        "desktop",
+        "scrollbar",
+        "touch",
+        "View more"
+      ],
+      "author": "inuyaksa"
+    },
+    {
+      "name": "react-mobile-datepicker",
+      "descriptions": "一个移动端时间选择器react组件",
+      "keyword": [
+        "react-component",
+        "react-datepicker",
+        "date",
+        "datepicker",
+        "react",
+        "mobile",
+        "calendar"
+      ],
+      "author": "chenyutian0510"
+    },
+    {
+      "name": "amfe-flexible",
+      "descriptions": "Build flexible page on mobile platform",
+      "keyword": [
+        "lib",
+        "amfe",
+        "flexible",
+        "mobile",
+        "css",
+        "rem",
+        "vw"
+      ],
+      "author": "mingelz"
+    },
+    {
+      "name": "react-native-fabric",
+      "descriptions": "A React Native library for Fabric, Crashlytics and Answers",
+      "keyword": [
+        "android",
+        "answers",
+        "crashlytics",
+        "fabric",
+        "ios",
+        "mobile",
+        "react",
+        "react-component",
+        "react-native",
+        "react-native-component"
+      ],
+      "author": "sibelius"
+    },
+    {
+      "name": "tocca",
+      "descriptions": "Super lightweight script (1kb) to detect via Javascript events like 'tap' 'dbltap' 'swipeup' 'swipedown' 'swipeleft' 'swiperight' on any kind of device.",
+      "keyword": [
+        "touch",
+        "events",
+        "mobile"
+      ],
+      "author": "gianlucaguarini"
+    },
+    {
+      "name": "vue-gallery",
+      "descriptions": "VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers.",
+      "keyword": [
+        "vue-gallery",
+        "vuejs-gallery",
+        "vue",
+        "vuejs",
+        "gallery",
+        "images",
+        "pictures",
+        "carousel",
+        "slider",
+        "mobile",
+        "touch",
+        "vue-plugin",
+        "vue-component"
+      ],
+      "author": "robinck"
+    },
+    {
+      "name": "@enact/core",
+      "descriptions": "Enact is an open source JavaScript framework containing everything you need to create a fast, scalable mobile or web application.",
+      "keyword": [
+        "framework",
+        "toolkit",
+        "components",
+        "mobile",
+        "webOS"
+      ],
+      "author": "enact"
+    },
+    {
+      "name": "ember-useragent",
+      "descriptions": "An Ember addon for Fastboot-enabled userAgent parsing via UAParser.js.",
+      "keyword": [
+        "ember-addon",
+        "ember-cli-fastboot",
+        "browser",
+        "browser-detection",
+        "device",
+        "device-detector",
+        "device-recognition",
+        "mobile",
+        "mobile-detection",
+        "os",
+        "ua-parser-js",
+        "useragent",
+        "user-agent"
+      ],
+      "author": "willviles"
+    },
+    {
+      "name": "react-native-svg-charts",
+      "descriptions": "Customizable charts (Line, Bar, Area, Pie, Circle, Progress) for React Native",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "vector",
+        "charts",
+        "chart",
+        "d3"
+      ],
+      "author": "lekland"
+    },
+    {
+      "name": "template7",
+      "descriptions": "Mobile-first HTML template engine",
+      "keyword": [
+        "mobile",
+        "template",
+        "javascript",
+        "ios7",
+        "ios8",
+        "ios 8",
+        "iphone",
+        "ipad",
+        "phonegap",
+        "framework7",
+        "handlebars",
+        "mustache"
+      ],
+      "author": "nolimits4web"
+    },
+    {
+      "name": "alloy",
+      "descriptions": "Appcelerator Titanium MVC Framework",
+      "keyword": [
+        "appcelerator",
+        "titanium",
+        "alloy",
+        "mobile",
+        "ios",
+        "iphone",
+        "android",
+        "html5",
+        "appc-client"
+      ],
+      "author": "appcelerator"
+    },
+    {
+      "name": "react-weui",
+      "descriptions": "Weui for react",
+      "keyword": [
+        "mobile",
+        "ui",
+        "framework",
+        "weui",
+        "react",
+        "wechat"
+      ],
+      "author": "2014"
+    },
+    {
+      "name": "basiclightbox",
+      "descriptions": "The lightest lightbox ever made",
+      "keyword": [
+        "lightbox",
+        "popup",
+        "modal",
+        "window",
+        "dialog",
+        "gallery",
+        "photo",
+        "responsive",
+        "mobile"
+      ],
+      "author": "electerious"
+    },
+    {
+      "name": "strongloop",
+      "descriptions": "StrongLoop Command Line Tools",
+      "keyword": [
+        "Backend",
+        "LoopBack",
+        "Mobile",
+        "Platform",
+        "StrongLoop",
+        "alerts",
+        "analytics",
+        "agent",
+        "apm",
+        "build",
+        "bundle",
+        "cluster",
+        "config",
+        "dependencies",
+        "View more"
+      ],
+      "author": "superkhau"
+    },
+    {
+      "name": "ng2-responsive",
+      "descriptions": "Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 2",
+      "keyword": [
+        "angular",
+        "angular2",
+        "angular4",
+        "ng",
+        "ng2",
+        "ng4",
+        "aot",
+        "ng2-",
+        "ng-",
+        "responsive",
+        "bootstrap",
+        "detect",
+        "mobile",
+        "tablet",
+        "View more"
+      ],
+      "author": "manucutillas"
+    },
+    {
+      "name": "mcc-mnc-list",
+      "descriptions": "List of MCC and MNC codes from up-to-date Wikipedia page",
+      "keyword": [
+        "mcc",
+        "mnc",
+        "mccmnc",
+        "mobile",
+        "network",
+        "list"
+      ],
+      "author": "pbakondy"
+    },
+    {
+      "name": "framework7-vue",
+      "descriptions": "Build full featured iOS & Android apps using Framework7 & Vue",
+      "keyword": [
+        "vue",
+        "vuejs",
+        "mobile",
+        "framework",
+        "framework7",
+        "cordova",
+        "ios",
+        "iphone",
+        "ipad",
+        "apple",
+        "phonegap",
+        "native",
+        "touch",
+        "appstore",
+        "View more"
+      ],
+      "author": "nolimits4web"
+    },
+    {
+      "name": "ripple-emulator",
+      "descriptions": "A browser based html5 mobile application development and testing tool",
+      "keyword": [
+        "cordova",
+        "phonegap",
+        "ripple",
+        "mobile",
+        "testing",
+        "test",
+        "emulator"
+      ],
+      "author": "vsmobile"
+    },
+    {
+      "name": "vue-croppa",
+      "descriptions": "A simple straightforward customizable lightweight mobile-friendly image cropper for Vue 2.0.",
+      "keyword": [
+        "cropper",
+        "vue",
+        "image",
+        "crop",
+        "upload",
+        "vue-cropper",
+        "vue cropper",
+        "image cropper",
+        "vue plugin",
+        "move",
+        "zoom",
+        "javascript",
+        "web",
+        "front-end",
+        "View more"
+      ],
+      "author": "zhanziyang"
+    },
+    {
+      "name": "appboy-web-sdk",
+      "descriptions": "Braze SDK for web sites and other JS platforms.",
+      "keyword": [
+        "Appboy",
+        "Braze",
+        "Mobile",
+        "Marketing",
+        "Automation"
+      ],
+      "author": "appboy"
+    },
+    {
+      "name": "@quasar/fastclick",
+      "descriptions": "Polyfill used by Quasar Framework to remove click delays on browsers with touch UIs",
+      "keyword": [
+        "quasar",
+        "quasarframework",
+        "fastclick",
+        "mobile",
+        "touch",
+        "tap",
+        "click",
+        "delay"
+      ],
+      "author": "rstoenescu"
+    },
+    {
+      "name": "titanium",
+      "descriptions": "Appcelerator Titanium Command line",
+      "keyword": [
+        "appcelerator",
+        "titanium",
+        "mobile",
+        "ios",
+        "iphone",
+        "android",
+        "blackberry",
+        "html5",
+        "mobileweb",
+        "mobile web",
+        "appc-client"
+      ],
+      "author": "appcelerator"
+    },
+    {
+      "name": "detectizr",
+      "descriptions": "Detectizr is a Modernizr extension to detect device, browser, operating system and screen.",
+      "keyword": [
+        "detect",
+        "determine",
+        "browser",
+        "device",
+        "mobile",
+        "desktop",
+        "tablet",
+        "os",
+        "modernizr",
+        "javascript",
+        "js"
+      ],
+      "author": "biquetto"
+    },
+    {
+      "name": "mobile-drag-drop",
+      "descriptions": "Polyfill for making HTML5 drag and drop possible in all browsers.",
+      "keyword": [
+        "dragdrop",
+        "drag-drop",
+        "html5",
+        "shim",
+        "mobile",
+        "polyfill"
+      ],
+      "author": "reppners"
+    },
+    {
+      "name": "@enact/webos",
+      "descriptions": "WebOS support library",
+      "keyword": [
+        "framework",
+        "toolkit",
+        "components",
+        "mobile",
+        "webOS"
+      ],
+      "author": "enact"
+    },
+    {
+      "name": "react-native-store-review",
+      "descriptions": "Rate on App Store directly in your React Native app",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "app-store",
+        "review",
+        "rating",
+        "rate"
+      ],
+      "author": "oblador"
+    },
+    {
+      "name": "@ionic/react",
+      "descriptions": "React specific wrapper for @ionic/core",
+      "keyword": [
+        "ionic",
+        "framework",
+        "react",
+        "mobile",
+        "app",
+        "hybrid",
+        "webapp",
+        "cordova",
+        "progressive web app",
+        "pwa"
+      ],
+      "author": "elylucas"
+    },
+    {
+      "name": "is-webview",
+      "descriptions": "JavaScript library to indicate if we are dealing with a WebView or a Web page.",
+      "keyword": [
+        "dom",
+        "webview",
+        "webapp",
+        "sniffing",
+        "detection",
+        "mobile"
+      ],
+      "author": "oncletom"
+    },
+    {
+      "name": "is-ua-webview",
+      "descriptions": "Useragent parsing for webview detection",
+      "keyword": [
+        "webview",
+        "mobile",
+        "detection",
+        "parsing",
+        "is-ua-webview",
+        "is-webview",
+        "user-agent"
+      ],
+      "author": "antic"
+    },
+    {
+      "name": "cordova-plugin-ionic",
+      "descriptions": "Ionic Cordova SDK",
+      "keyword": [
+        "ionic",
+        "cordova",
+        "deploy",
+        "liveupdates",
+        "mobile",
+        "hybrid",
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios"
+      ],
+      "author": "jcesarmobile"
+    },
+    {
+      "name": "infamous",
+      "descriptions": "A CSS3D/WebGL UI library.",
+      "keyword": [
+        "infamous",
+        "gui",
+        "graphical user interface",
+        "graphical-user-interface",
+        "interface",
+        "interface library",
+        "interface-library",
+        "ui",
+        "user interface",
+        "user-interface",
+        "widgets",
+        "ui widgets",
+        "ui-widgets",
+        "components",
+        "View more"
+      ],
+      "author": "trusktr"
+    },
+    {
+      "name": "react-native-file-viewer",
+      "descriptions": "Native file viewer for react-native",
+      "keyword": [
+        "react-native",
+        "mobile",
+        "ios",
+        "android",
+        "windows",
+        "file",
+        "viewer",
+        "preview",
+        "quicklook",
+        "pdf",
+        "doc"
+      ],
+      "author": "vinzscam"
+    },
+    {
+      "name": "cordova-hot-code-push-plugin",
+      "descriptions": "Cordova plugin to perform code updates on the fly",
+      "keyword": [
+        "cordova",
+        "nordnet",
+        "mobile",
+        "code",
+        "update",
+        "push",
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios"
+      ],
+      "author": "nikdem"
+    },
+    {
+      "name": "loki",
+      "descriptions": "Visual Regression Testing for react-storybook",
+      "keyword": [
+        "storybook",
+        "react-storybook",
+        "testing",
+        "visual testing",
+        "react-native",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "web"
+      ],
+      "author": "oblador"
+    },
+    {
+      "name": "cordova-res",
+      "descriptions": "This tool will crop and resize PNG source images into appropriate sizes for modern iOS and Android devices.",
+      "keyword": [
+        "ionic",
+        "cordova",
+        "phonegap",
+        "resources",
+        "mobile",
+        "native",
+        "icon",
+        "splash screen"
+      ],
+      "author": "dwieeb"
+    },
+    {
+      "name": "smartmenus",
+      "descriptions": "Advanced jQuery website menu plugin. Mobile first, responsive and accessible list-based website menus that work on all devices.",
+      "keyword": [
+        "menu",
+        "navigation",
+        "accessible",
+        "responsive",
+        "mobile",
+        "ui",
+        "jquery-plugin",
+        "bootstrap",
+        "ecosystem:jquery"
+      ],
+      "author": "vadikom"
+    },
+    {
+      "name": "vue-onsenui",
+      "descriptions": "Vue.js bindings for Onsen UI",
+      "keyword": [
+        "phonegap",
+        "cordova",
+        "vue.js",
+        "components",
+        "hybrid",
+        "app",
+        "ui",
+        "mobile",
+        "onsen",
+        "onsenui"
+      ],
+      "author": "emccorson"
+    },
+    {
+      "name": "telegram-mtproto",
+      "descriptions": "Telegram MTProto library",
+      "keyword": [
+        "telegram",
+        "mt",
+        "mtproto",
+        "mobile",
+        "protocol",
+        "library"
+      ],
+      "author": "drelliot"
+    },
+    {
+      "name": "node-ios-device",
+      "descriptions": "Simple library for detecting and installing apps on iOS devices",
+      "keyword": [
+        "appcelerator",
+        "ios",
+        "iphone",
+        "ipad",
+        "install",
+        "mobiledevice",
+        "mobile",
+        "device",
+        "devices"
+      ],
+      "author": "cb1kenobi"
+    },
+    {
+      "name": "react-native-sms",
+      "descriptions": "A React Native library for Sending an SMS with Callback",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "sms",
+        "callback",
+        "completed",
+        "cool"
+      ],
+      "author": "tkporter"
+    },
+    {
+      "name": "device-detector-js",
+      "descriptions": "A javascript port of Matomo device-detector",
+      "keyword": [
+        "user-agent",
+        "parsing",
+        "parser",
+        "device",
+        "mobile",
+        "tablet",
+        "phone",
+        "desktop",
+        "os",
+        "bot",
+        "browser",
+        "detector"
+      ],
+      "author": "etiennemartin"
+    },
+    {
+      "name": "res",
+      "descriptions": "Device resolution detection module",
+      "keyword": [
+        "device",
+        "screen",
+        "browser",
+        "resolution",
+        "detection",
+        "responsive",
+        "retina",
+        "device-pixel-ratio",
+        "ender",
+        "mobile",
+        "detect",
+        "dpr"
+      ],
+      "author": "ryanve"
+    },
+    {
+      "name": "leaflet-gesture-handling",
+      "descriptions": "Prompt mobile user to use 2 fingers to move the map. Prompt desktop users to use Ctrl+Mouse Wheel to zoom. Brings Google Maps gesture handling into Leaflet.",
+      "keyword": [
+        "Leaflet",
+        "Maps",
+        "Gesture",
+        "Handling",
+        "two",
+        "fingers",
+        "mobile",
+        "scroll"
+      ],
+      "author": "elmarquis"
+    },
+    {
+      "name": "react-native-shimmer",
+      "descriptions": "Simple shimmering effect in React Native",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "ui",
+        "shimmer",
+        "activityindicator",
+        "indeterminate",
+        "spinner",
+        "animation"
+      ],
+      "author": "oblador"
+    },
+    {
+      "name": "weex-ui",
+      "descriptions": "A rich interaction, lightweight, high performance UI library based on Weex",
+      "keyword": [
+        "Weex Ui",
+        "Weex",
+        "Vue",
+        "Mobile",
+        "Ul Components",
+        "UI library"
+      ],
+      "author": "tw93"
+    },
+    {
+      "name": "react-native-parallax",
+      "descriptions": "Parallax effects for React Native using Animated API",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "parallax",
+        "image"
+      ],
+      "author": "oblador"
+    },
+    {
+      "name": "vue-directive-touch",
+      "descriptions": "Touch directive of vue 2.0",
+      "keyword": [
+        "vue",
+        "2.0",
+        "touch",
+        "mobile",
+        "v-touch"
+      ],
+      "author": "dubaoxing"
+    },
+    {
+      "name": "react-native-style-tachyons",
+      "descriptions": "Functional, maintainable styling for react-native",
+      "keyword": [
+        "react",
+        "react-native",
+        "android",
+        "ios",
+        "StyleSheet",
+        "style",
+        "responsive",
+        "mobile",
+        "performance",
+        "design",
+        "css"
+      ],
+      "author": "cel1ne"
+    },
+    {
+      "name": "vh-check",
+      "descriptions": "Vh unit buggyfill",
+      "keyword": [
+        "ios",
+        "mobile",
+        "css",
+        "vh",
+        "vertical-height",
+        "buggyfill"
+      ],
+      "author": "hiswe"
+    },
+    {
+      "name": "mongodb-stitch-core-sdk",
+      "descriptions": "MongoDB Stitch JavaScript SDK - Core SDK",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "corber",
+      "descriptions": "Tooling for cordova and crosswalk hybrid applications built with Ember",
+      "keyword": [
+        "ember-addon",
+        "cordova",
+        "ember-cli-cordova",
+        "ember",
+        "tooling",
+        "phonegap",
+        "crosswalk",
+        "hybrid",
+        "mobile"
+      ],
+      "author": "alexblom"
+    },
+    {
+      "name": "material-ui-fullscreen-dialog",
+      "descriptions": "A fullscreen dialog for Material-UI.",
+      "keyword": [
+        "react",
+        "material",
+        "dialog",
+        "fullscreen",
+        "mobile"
+      ],
+      "author": "lemaik"
+    },
+    {
+      "name": "react-responsive-select",
+      "descriptions": "A React customisable, touchable, single-select / multi-select form component. Built with keyboard and screen reader accessibility in mind.",
+      "keyword": [
+        "select",
+        "react select",
+        "react dropdown",
+        "accessible react select",
+        "component",
+        "responsive",
+        "mobile",
+        "touch",
+        "dropdown",
+        "accessible",
+        "multiselect"
+      ],
+      "author": "benbowes"
+    },
+    {
+      "name": "smartbanner.js",
+      "descriptions": "Customisable smart app banner for iOS and Android",
+      "keyword": [
+        "javascript",
+        "mobile",
+        "ios",
+        "android",
+        "banner"
+      ],
+      "author": "ain"
+    },
+    {
+      "name": "numeric-pattern",
+      "descriptions": "The numeric pattern (triggers the numpad on mobile)",
+      "keyword": [
+        "input",
+        "numeric",
+        "pattern",
+        "numpad",
+        "number",
+        "mobile",
+        "html"
+      ],
+      "author": "bendrucker"
+    },
+    {
+      "name": "mobile-device-detect",
+      "descriptions": "Helpers for handling mobile devices",
+      "keyword": [
+        "useragent",
+        "mobile",
+        "phone",
+        "tablet",
+        "detect",
+        "device",
+        "browser",
+        "smart-tv",
+        "smarttv",
+        "version",
+        "model",
+        "console"
+      ],
+      "author": "duskload"
+    },
+    {
+      "name": "jquery-weui",
+      "descriptions": "为微信 Web 服务量身设计",
+      "keyword": [
+        "jQuery WeUI",
+        "weui",
+        "wechat",
+        "weixin",
+        "css",
+        "less",
+        "mobile",
+        "jQuery",
+        "Zepto"
+      ],
+      "author": "lihongxun945"
+    },
+    {
+      "name": "scroll-lock",
+      "descriptions": "Cross-browser JavaScript library to disable scrolling page.",
+      "keyword": [
+        "scroll",
+        "scrollbar",
+        "ios",
+        "lock scroll",
+        "disable scroll",
+        "modal",
+        "mobile",
+        "overflow"
+      ],
+      "author": "fl3nkey"
+    },
+    {
+      "name": "detect-mobile-browser",
+      "descriptions": "It is a very simple & small javascript plugin to detect all major modern mobile browsers.",
+      "keyword": [
+        "mobile",
+        "browser",
+        "smartphone",
+        "tablet",
+        "phone",
+        "useragent"
+      ],
+      "author": "smali.kazmi"
+    },
+    {
+      "name": "ngx-responsive",
+      "descriptions": "Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 8",
+      "keyword": [
+        "angular",
+        "angular2",
+        "angular4",
+        "angular5",
+        "angular6",
+        "angular7",
+        "angular8",
+        "ng2",
+        "ng",
+        "ngx",
+        "responsive",
+        "bootstrap",
+        "detect",
+        "mobile",
+        "View more"
+      ],
+      "author": "manucutillas"
+    },
+    {
+      "name": "epub2",
+      "descriptions": "Parse ePub electronic book files with Node.JS",
+      "keyword": [
+        "archive",
+        "async",
+        "book",
+        "books",
+        "chapter",
+        "comic",
+        "epub",
+        "epub-maker",
+        "epub-maker2",
+        "extract",
+        "file",
+        "image",
+        "manifest",
+        "metadata",
+        "View more"
+      ],
+      "author": "bluelovers"
+    },
+    {
+      "name": "pulling",
+      "descriptions": "Flexible slideout menu for mobile webapps",
+      "keyword": [
+        "pull",
+        "out",
+        "slide",
+        "menu",
+        "mobile"
+      ],
+      "author": "pitaj"
+    },
+    {
+      "name": "mongodb-stitch-server-core",
+      "descriptions": "MongoDB Stitch JavaScript SDK - Server Core",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "jquery-touch-events",
+      "descriptions": "A mobile events plugin for jQuery",
+      "keyword": [
+        "jquery",
+        "zepto",
+        "touch",
+        "gestures",
+        "mobile",
+        "multitouch"
+      ],
+      "author": "samdelgado"
+    },
+    {
+      "name": "tipso",
+      "descriptions": "A Lightweight Responsive jQuery Tooltip Plugin",
+      "keyword": [
+        "tipso",
+        "jquery-plugin",
+        "tooltip",
+        "responsive",
+        "mobile",
+        "lightweight"
+      ],
+      "author": "object505"
+    },
+    {
+      "name": "backendless",
+      "descriptions": "Backendless JavaScript SDK for Node.js and the browser",
+      "keyword": [
+        "cloud",
+        "mobile",
+        "api",
+        "baas",
+        "backendless.com"
+      ],
+      "author": "stanislaw.grin"
+    },
+    {
+      "name": "grunt-stripmq",
+      "descriptions": "Create a desktop version of your mobile-first CSS",
+      "keyword": [
+        "gruntplugin",
+        "mediaquery",
+        "mobile",
+        "css"
+      ],
+      "author": "jtangelder"
+    },
+    {
+      "name": "react-onsenui",
+      "descriptions": "Onsen UI - React Components for Hybrid Cordova/PhoneGap Apps with Material Design and iOS UI components",
+      "keyword": [
+        "react",
+        "react-component",
+        "phonegap",
+        "cordova",
+        "hybrid",
+        "app",
+        "mobile",
+        "ui",
+        "onsen",
+        "onsenui"
+      ],
+      "author": "emccorson"
+    },
+    {
+      "name": "@lykmapipo/phone",
+      "descriptions": "Helper utilities for parsing and validate phone numbers",
+      "keyword": [
+        "lykmapipo",
+        "phone",
+        "mobile",
+        "number",
+        "telephone",
+        "e164",
+        "national",
+        "international",
+        "rfc3966",
+        "libphonenumber",
+        "parse",
+        "validate"
+      ],
+      "author": "lykmapipo"
+    },
+    {
+      "name": "ionic-app-lib",
+      "descriptions": "A library for creating and developing Ionic Framework mobile apps.",
+      "keyword": [
+        "ionic",
+        "ionic framework",
+        "ionicframework",
+        "mobile",
+        "app",
+        "hybrid",
+        "cordova",
+        "phonegap"
+      ],
+      "author": "jthoms1"
+    },
+    {
+      "name": "mongodb-stitch-core-services-mongodb-remote",
+      "descriptions": "MongoDB Stitch JavaScript SDK - Core Remote MongoDB Service",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "ftscroller",
+      "descriptions": "FTScroller is a cross-browser Javascript/CSS library to allow touch, mouse or scrollwheel scrolling within specified elements, with pagination, snapping and bouncing support.",
+      "keyword": [
+        "scroller",
+        "scrolling",
+        "touch",
+        "mobile"
+      ],
+      "author": "rowan"
+    },
+    {
+      "name": "cca",
+      "descriptions": "Run Chrome Apps on mobile using Apache Cordova",
+      "keyword": [
+        "cordova",
+        "chrome",
+        "mobile",
+        "apps"
+      ],
+      "author": "agrieve"
+    },
+    {
+      "name": "dotnetify",
+      "descriptions": "Simple, lightweight, yet powerful way to build realtime .NET web apps.",
+      "keyword": [
+        "dotnetify",
+        "signalr",
+        "react",
+        "react-native",
+        "vue",
+        "knockout",
+        "mvvm",
+        "web",
+        "mobile",
+        "realtime",
+        "microfrontend"
+      ],
+      "author": "dsuryd"
+    },
+    {
+      "name": "@onsenui/fastclick",
+      "descriptions": "Polyfill to remove click delays on browsers with touch UIs.",
+      "keyword": [
+        "fastclick",
+        "mobile",
+        "touch",
+        "tap",
+        "click",
+        "delay"
+      ],
+      "author": "frankdiox"
+    },
+    {
+      "name": "tinyscrollbar",
+      "descriptions": "A lightweight cross browser jQuery based scrollbar.",
+      "keyword": [
+        "UI",
+        "jQuery",
+        "Mobile",
+        "scrollbar",
+        "javascript"
+      ],
+      "author": "wieringen"
+    },
+    {
+      "name": "generator-mobile",
+      "descriptions": "Yeoman generator for mobile based on Web Starter Kit",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "mobile",
+        "wsk",
+        "web-starter-kit"
+      ],
+      "author": "crhym3"
+    },
+    {
+      "name": "tabris",
+      "descriptions": "Mobile apps with native UIs in JavaScript",
+      "keyword": [
+        "native",
+        "mobile",
+        "ios",
+        "android"
+      ],
+      "author": "eclipsesource"
+    },
+    {
+      "name": "swiftclick",
+      "descriptions": "Eliminates the 300ms click event delay on touch devices that support orientation change",
+      "keyword": [
+        "swiftclick",
+        "fastclick",
+        "mobile",
+        "tap",
+        "touch",
+        "click",
+        "delay"
+      ],
+      "author": "munkychop"
+    },
+    {
+      "name": "topcoat",
+      "descriptions": "CSS for clean and fast web apps",
+      "keyword": [
+        "css",
+        "ui",
+        "ux",
+        "pattern",
+        "library",
+        "mobile",
+        "desktop",
+        "native",
+        "application",
+        "web",
+        "standards"
+      ],
+      "author": "garthdb"
+    },
+    {
+      "name": "lumbar",
+      "descriptions": "Supporting your backbone since 2011, Lumbar is a module build system that allows for generation of platform specific javascript modules.",
+      "keyword": [
+        "build",
+        "module",
+        "mobile",
+        "backbone"
+      ],
+      "author": "kpdecker"
+    },
+    {
+      "name": "@ant-design/react-native",
+      "descriptions": "基于蚂蚁金服移动设计规范的 React Native 组件库",
+      "keyword": [
+        "ant",
+        "design",
+        "react",
+        "react-component",
+        "component",
+        "components",
+        "ui",
+        "framework",
+        "frontend",
+        "mobile",
+        "react native"
+      ],
+      "author": "bang88"
+    },
+    {
+      "name": "mongodb-stitch-browser-core",
+      "descriptions": "MongoDB Stitch JavaScript SDK - Browser Core",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "native-run",
+      "descriptions": "A CLI for running apps on iOS/Android devices and simulators/emulators",
+      "keyword": [
+        "android",
+        "ios",
+        "cli",
+        "mobile",
+        "app",
+        "hybrid",
+        "native"
+      ],
+      "author": "ionicjs"
+    },
+    {
+      "name": "connect-mobile-detection",
+      "descriptions": "Connect middleware to check useragent for mobile or tablet devices.",
+      "keyword": [
+        "connect",
+        "middleware",
+        "useragent",
+        "mobile",
+        "tablet"
+      ],
+      "author": "sprice"
+    },
+    {
+      "name": "react-native-refreshable-listview",
+      "descriptions": "A pull-to-refresh ListView which shows a loading spinner while your data reloads",
+      "keyword": [
+        "react",
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "mobile",
+        "ui"
+      ],
+      "author": "jsdf"
+    },
+    {
+      "name": "slicknav",
+      "descriptions": "[![Join the chat at https://gitter.im/ComputerWolf/SlickNav](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ComputerWolf/SlickNav?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)",
+      "keyword": [
+        "slicknav",
+        "menu",
+        "css",
+        "sass",
+        "scss",
+        "jquery",
+        "javascript",
+        "component",
+        "responsive",
+        "mobile"
+      ],
+      "author": "computerwolf"
+    },
+    {
+      "name": "add-to-homescreen",
+      "descriptions": "Add to homescreen call out for iOS and Android",
+      "keyword": [
+        "iPhone",
+        "iPod",
+        "iPad",
+        "iOS6",
+        "iOS7",
+        "android",
+        "mobile"
+      ],
+      "author": "mda"
+    },
+    {
+      "name": "clearblade",
+      "descriptions": "ClearBlade NOVI SDK for Node.js.",
+      "keyword": [
+        "iot",
+        "clearblade",
+        "mobile",
+        "NOVI"
+      ],
+      "author": "aalcott14"
+    },
+    {
+      "name": "observ-mobile",
+      "descriptions": "Observable mobile viewport state",
+      "keyword": [
+        "observable",
+        "mobile",
+        "viewport"
+      ],
+      "author": "bendrucker"
+    },
+    {
+      "name": "@enact/ui",
+      "descriptions": "A collection of simplified unstyled cross-platform UI components for Enact",
+      "keyword": [
+        "framework",
+        "toolkit",
+        "components",
+        "mobile",
+        "webOS"
+      ],
+      "author": "enact"
+    },
+    {
+      "name": "planck-js",
+      "descriptions": "2D JavaScript physics engine for cross-platform HTML5 game development",
+      "keyword": [
+        "box2d",
+        "html5",
+        "javascript",
+        "game",
+        "physics",
+        "engine",
+        "2d",
+        "mobile"
+      ],
+      "author": "shakiba"
+    },
+    {
+      "name": "framework7-react",
+      "descriptions": "Build full featured iOS & Android apps using Framework7 & React",
+      "keyword": [
+        "react",
+        "reactjs",
+        "mobile",
+        "framework",
+        "framework7",
+        "cordova",
+        "ios",
+        "iphone",
+        "ipad",
+        "apple",
+        "phonegap",
+        "native",
+        "touch",
+        "appstore",
+        "View more"
+      ],
+      "author": "nolimits4web"
+    },
+    {
+      "name": "simple-breakpoints",
+      "descriptions": "A simple js plugin to define conditionally check defined breakpoints",
+      "keyword": [
+        "breakpoints",
+        "js",
+        "mobile",
+        "vue"
+      ],
+      "author": "drewjbartlett"
+    },
+    {
+      "name": "@ks89/angular-modal-gallery",
+      "descriptions": "Modal image gallery for Angular >=2",
+      "keyword": [
+        "angular-modal-gallery",
+        "ngx-gallery",
+        "angular2-gallery",
+        "angular2-modal-gallery",
+        "angular2-modal",
+        "angular-gallery",
+        "modal-gallery",
+        "angular-modal",
+        "ngx-modal-gallery",
+        "popup",
+        "plain",
+        "plain-gallery",
+        "gallery",
+        "carousel",
+        "View more"
+      ],
+      "author": "ks89"
+    },
+    {
+      "name": "react-native-countdown-component",
+      "descriptions": "React Native CountDown Component",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "counter",
+        "countdown"
+      ],
+      "author": "talalmajali"
+    },
+    {
+      "name": "mobilerunner",
+      "descriptions": "CATJS runner is a command line tool that helps you run your web application on multiple devices including, Android, iOS, and PC browsers. This tool is very useful when combined with mobile web automation frameworks like [catjs](https://www.npmjs.org/pack",
+      "keyword": [
+        "mobile",
+        "runner"
+      ],
+      "author": "lastboy"
+    },
+    {
+      "name": "vue-simple-breakpoints",
+      "descriptions": "A wrapper for simple-breakpoints",
+      "keyword": [
+        "vue",
+        "breakpoints",
+        "js",
+        "mobile"
+      ],
+      "author": "drewjbartlett"
+    },
+    {
+      "name": "browser-ui-state",
+      "descriptions": "Library which allows to determine current browser UI state (address bar visibility, on-screen keyboard, etc)",
+      "keyword": [
+        "mobile",
+        "browser"
+      ],
+      "author": "thebit"
+    },
+    {
+      "name": "telegram-mt-node",
+      "descriptions": "Telegram MTProto library",
+      "keyword": [
+        "telegram",
+        "mt",
+        "mtproto",
+        "mobile",
+        "protocol",
+        "library"
+      ],
+      "author": "enricostara"
+    },
+    {
+      "name": "unsemantic",
+      "descriptions": "Fluid grid for mobile, tablet, and desktop.",
+      "keyword": [
+        "css",
+        "fluid",
+        "layout",
+        "desktop",
+        "tablet",
+        "mobile",
+        "sass"
+      ],
+      "author": "nathansmith"
+    },
+    {
+      "name": "vue-ydui",
+      "descriptions": "A mobile components Library with Vue2.js.",
+      "keyword": [
+        "YDUI Touch",
+        "ui",
+        "ydui",
+        "vue",
+        "vue.js",
+        "vue2.js",
+        "component",
+        "components",
+        "framework",
+        "vue2 ui",
+        "vue2 components",
+        "mobile",
+        "mobile ui"
+      ],
+      "author": "ydcss"
+    },
+    {
+      "name": "react-native-passcode-auth",
+      "descriptions": "React Native authentication with iOS Passcode.",
+      "keyword": [
+        "react-native",
+        "react",
+        "native",
+        "passcode-auth",
+        "react-component",
+        "react-native-component",
+        "authentication",
+        "auth",
+        "authenticate",
+        "mobile"
+      ],
+      "author": "naoufal"
+    },
+    {
+      "name": "ember-cli-fastclick",
+      "descriptions": "Drop-in FastClick support for Ember CLI apps",
+      "keyword": [
+        "ember-addon",
+        "ember",
+        "fast",
+        "click",
+        "fastclick",
+        "mobile",
+        "touch",
+        "delay"
+      ],
+      "author": "lawitschka"
+    },
+    {
+      "name": "azir-theme",
+      "descriptions": "A powerfull tool to customize React native app theme, components,style,....",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "react native",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "expo",
+        "blue eye",
+        "Theme",
+        "framework",
+        "advance theme",
+        "View more"
+      ],
+      "author": "lockcommerce"
+    },
+    {
+      "name": "natjs",
+      "descriptions": "Next generation mobile framework for building native / hybrid apps.",
+      "keyword": [
+        "nat",
+        "natjs",
+        "nat.js",
+        "native",
+        "vue",
+        "weex",
+        "weex-nat",
+        "hybrid",
+        "app",
+        "mobile",
+        "bridge"
+      ],
+      "author": "natjs"
+    },
+    {
+      "name": "generator-ionic",
+      "descriptions": "A generator for the Ionic Framework",
+      "keyword": [
+        "yeoman-generator",
+        "ionic",
+        "framework",
+        "ionicframework",
+        "angularjs",
+        "hybrid",
+        "mobile",
+        "app"
+      ],
+      "author": "diegonetto"
+    },
+    {
+      "name": "@feizheng/next-js-core2",
+      "descriptions": "A javascript OOP toolkit for mobile.",
+      "keyword": [
+        "oop",
+        "next",
+        "mobile"
+      ],
+      "author": "afeiship"
+    },
+    {
+      "name": "easy-web-app",
+      "descriptions": "Create web applications easily.",
+      "keyword": [
+        "GUI",
+        "web",
+        "app",
+        "browser",
+        "AJAX",
+        "easy",
+        "portal",
+        "REST",
+        "RESTful",
+        "service",
+        "form",
+        "table",
+        "I/O",
+        "content",
+        "View more"
+      ],
+      "author": "ma-ha"
+    },
+    {
+      "name": "cordova-hot-code-push-cli",
+      "descriptions": "Cordova Hot Code Push CLI",
+      "keyword": [
+        "cordova",
+        "nordnet",
+        "mobile",
+        "cordova-hot-code-push-plugin",
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios"
+      ],
+      "author": "nikdem"
+    },
+    {
+      "name": "antd-mobile-rn",
+      "descriptions": "基于蚂蚁金服移动设计规范的 React Native 组件库",
+      "keyword": [
+        "ant",
+        "design",
+        "react",
+        "react-component",
+        "component",
+        "components",
+        "ui",
+        "framework",
+        "frontend",
+        "mobile",
+        "react native"
+      ],
+      "author": "bang88"
+    },
+    {
+      "name": "ti-i18n",
+      "descriptions": "CLI to manage internationalizing your Titanium app",
+      "keyword": [
+        "appcelerator",
+        "titanium",
+        "mobile",
+        "ios",
+        "iphone",
+        "android",
+        "alloy",
+        "cli",
+        "i18n",
+        "internationalization"
+      ],
+      "author": "fokkezb"
+    },
+    {
+      "name": "react-reorder",
+      "descriptions": "Drag & drop, touch enabled, reorderable / sortable list, React component",
+      "keyword": [
+        "react",
+        "facebook",
+        "reorder",
+        "sort",
+        "reorderable",
+        "sortable",
+        "drag and drop",
+        "mobile",
+        "touch"
+      ],
+      "author": "jakesidsmith"
+    },
+    {
+      "name": "titaniumifier",
+      "descriptions": "Get a Titanium SDK CommonJS module out of a Node package!",
+      "keyword": [
+        "titanium",
+        "mobile",
+        "browserify",
+        "static",
+        "analysis"
+      ],
+      "author": "yuchi"
+    },
+    {
+      "name": "itemslide",
+      "descriptions": "A simple and beautiful JavaScript touch carousel",
+      "keyword": [
+        "jquery-plugin",
+        "carousel",
+        "touch",
+        "mobile",
+        "slide",
+        "swipe"
+      ],
+      "author": "nir9"
+    },
+    {
+      "name": "topcoat-variables-mobile",
+      "descriptions": "Variables for mobile theme.",
+      "keyword": [
+        "variables",
+        "mobile",
+        "topcoat"
+      ],
+      "author": "garthdb"
+    },
+    {
+      "name": "@ionic/react-router",
+      "descriptions": "React Router wrapper for @ionic/react",
+      "keyword": [
+        "ionic",
+        "framework",
+        "react",
+        "mobile",
+        "app",
+        "hybrid",
+        "webapp",
+        "cordova",
+        "progressive web app",
+        "pwa"
+      ],
+      "author": "elylucas"
+    },
+    {
+      "name": "react-native-toast",
+      "descriptions": "A android like toast for react-native support for ios and android",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "toast",
+        "position",
+        "remobile",
+        "mobile"
+      ],
+      "author": "fov42550564"
+    },
+    {
+      "name": "mobi.css",
+      "descriptions": "A lightweight, scalable, mobile-first CSS framework",
+      "keyword": [
+        "mobi-css",
+        "css-framework",
+        "css",
+        "design",
+        "mobile",
+        "mobile-first",
+        "flexbox",
+        "cssnext",
+        "postcss"
+      ],
+      "author": "xcatliu"
+    },
+    {
+      "name": "react-h5-audio-player",
+      "descriptions": "A React audio player with UI. Mobile compatible.",
+      "keyword": [
+        "react",
+        "component",
+        "music",
+        "audio",
+        "player",
+        "mobile"
+      ],
+      "author": "hanz"
+    },
+    {
+      "name": "alipay-mobile",
+      "descriptions": "[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![David Status][david-image]][david-url] <!--[![Codecov Status][codecov-image]][codecov-url]--> <!--[![NPM download][download-image]][download-url]-->",
+      "keyword": [
+        "alipay",
+        "mobile"
+      ],
+      "author": "gakiclin"
+    },
+    {
+      "name": "ember-phone-input",
+      "descriptions": "A component to input / validate / submit phone numbers",
+      "keyword": [
+        "ember-addon",
+        "intl-tel-input",
+        "international",
+        "i18n",
+        "country",
+        "dial",
+        "code",
+        "phone",
+        "telephone",
+        "mobile",
+        "input"
+      ],
+      "author": "dcyriller"
+    },
+    {
+      "name": "mongodb-stitch-server-services-mongodb-remote",
+      "descriptions": "MongoDB Stitch JavaScript SDK - Server Remote MongoDB Service",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "@ionic/vue",
+      "descriptions": "Vue specific wrappers for @ionic/core",
+      "keyword": [
+        "ionic",
+        "framework",
+        "vue",
+        "mobile",
+        "app",
+        "webapp",
+        "capacitor",
+        "cordova",
+        "progressive web app",
+        "pwa"
+      ],
+      "author": "mhartington"
+    },
+    {
+      "name": "v-dragged",
+      "descriptions": "Vue directive plugin for advanced drag event detection.",
+      "keyword": [
+        "drag",
+        "vue",
+        "event",
+        "directive",
+        "touch",
+        "moving",
+        "mouse",
+        "vue plugin",
+        "javascript",
+        "web",
+        "front-end",
+        "lightweight",
+        "mobile"
+      ],
+      "author": "zhanziyang"
+    },
+    {
+      "name": "mongoose-valid8",
+      "descriptions": "Additional mongoose schema validations",
+      "keyword": [
+        "mongoose",
+        "mongoose-plugin",
+        "validate",
+        "checkit",
+        "validator",
+        "test",
+        "ensure",
+        "valid8",
+        "valid",
+        "validr",
+        "validation",
+        "email",
+        "capitalize",
+        "startcase",
+        "View more"
+      ],
+      "author": "lykmapipo"
+    },
+    {
+      "name": "flipsnap",
+      "descriptions": "Provides UI of snap and slide",
+      "keyword": [
+        "mobile",
+        "ui",
+        "browser"
+      ],
+      "author": "hokaccha"
+    },
+    {
+      "name": "bootflat",
+      "descriptions": "BOOTFLAT is an open source Flat UI KIT based on Bootstrap 3.2.0 CSS framework. It provides a faster, easier and less repetitive way for web developers to create elegant web apps.",
+      "keyword": [
+        "mobile",
+        "html5",
+        "css3",
+        "scss",
+        "bootflat",
+        "bootstrap",
+        "flat",
+        "flat ui",
+        "ui"
+      ],
+      "author": "bootflat"
+    },
+    {
+      "name": "query-mobile-phone-area",
+      "descriptions": "查询手机号码归属地",
+      "keyword": [
+        "query",
+        "mobile",
+        "phone",
+        "area",
+        "belong"
+      ],
+      "author": "leizongmin"
+    },
+    {
+      "name": "mobileprovision",
+      "descriptions": "Import mobileprovision file to your mac os",
+      "keyword": [
+        "mobileprovision",
+        "mobile",
+        "provision"
+      ],
+      "author": "zhongyuan"
+    },
+    {
+      "name": "mongodb-stitch-react-native-core",
+      "descriptions": "MongoDB Stitch JavaScript SDK - React Native Core",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas",
+        "react-native"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "linq-collections",
+      "descriptions": "Linq-Collections (ES5): [IEnumerable, IQueryable, ...] + [List, Dictionary, Stack, ... + readonly]",
+      "keyword": [
+        "linq",
+        ".net",
+        "dotnet",
+        "c#",
+        "csharp",
+        "visualbasic",
+        "collections",
+        "enumerable",
+        "ienumerable",
+        "ts",
+        "typescript",
+        "js",
+        "javascript",
+        "dictionary",
+        "View more"
+      ],
+      "author": "ivansanz"
+    },
+    {
+      "name": "postcss-amp",
+      "descriptions": "PostCSS plugin to convert CSS according Accelerated Mobile Pages requirements",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "amp",
+        "accelerated-mobile-page",
+        "mobile"
+      ],
+      "author": "tinovyatkin"
+    },
+    {
+      "name": "google-geolocation",
+      "descriptions": "Google Maps Geolocation API for Node.js (unofficial)",
+      "keyword": [
+        "accesspoints",
+        "api",
+        "bssid",
+        "carrier",
+        "cellular",
+        "geolocation",
+        "google",
+        "location",
+        "lookup",
+        "mcc",
+        "mnc",
+        "mobile",
+        "network",
+        "unlicense",
+        "View more"
+      ],
+      "author": "franklin"
+    },
+    {
+      "name": "touch-screen",
+      "descriptions": "Detects whether the browser supports touch or not.",
+      "keyword": [
+        "mobile"
+      ],
+      "author": "callumacrae"
+    },
+    {
+      "name": "drag-drop-polyfill",
+      "descriptions": "Polyfill for making HTML5 drag and drop possible in all browsers.",
+      "keyword": [
+        "dragdrop",
+        "drag-drop",
+        "html5",
+        "shim",
+        "mobile",
+        "polyfill"
+      ],
+      "author": "reppners"
+    },
+    {
+      "name": "react-native-social-share",
+      "descriptions": "Use the iOS native Twitter and Facebook share view from react native",
+      "keyword": [
+        "react",
+        "twitter",
+        "facebook",
+        "SLComposeViewController",
+        "RCTBridgeModule",
+        "Social",
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "mobile",
+        "ui",
+        "react native facebook",
+        "react native twitter"
+      ],
+      "author": "doefler"
+    },
+    {
+      "name": "tn",
+      "descriptions": "Appcelerator & Titanium CLI wrapper to save you keystrokes.",
+      "keyword": [
+        "appcelerator",
+        "titanium",
+        "mobile",
+        "ios",
+        "iphone",
+        "android",
+        "alloy",
+        "cli"
+      ],
+      "author": "fokkezb"
+    },
+    {
+      "name": "react-native-fabric-crashlytics",
+      "descriptions": "React-native-fabric-crashlytics ===============================",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "fabric",
+        "crashlytics"
+      ],
+      "author": "mikelambert"
+    },
+    {
+      "name": "loopback-component-push",
+      "descriptions": "Loopback Push Notification",
+      "keyword": [
+        "StrongLoop Labs",
+        "LoopBack",
+        "Push Notification",
+        "mobile",
+        "component"
+      ],
+      "author": "jannyhou2016"
+    },
+    {
+      "name": "@aerogear/core",
+      "descriptions": "JavaScript Core SDK for AeroGear services",
+      "keyword": [
+        "aerogear",
+        "mobile"
+      ],
+      "author": "aerogear-ci"
+    },
+    {
+      "name": "@titanium/tiapp-xml",
+      "descriptions": "Titanium tiapp.xml parsing and manipulation API - Forked from tonylukasavage",
+      "keyword": [
+        "titanium",
+        "mobile",
+        "alloy",
+        "turbo",
+        "axway",
+        "appcelerator",
+        "ios",
+        "android",
+        "iphone",
+        "ipad",
+        "tiapp",
+        "xml",
+        "brenton-house"
+      ],
+      "author": "brentonhouse"
+    },
+    {
+      "name": "gittio",
+      "descriptions": "Install Titanium modules and Alloy widgets",
+      "keyword": [
+        "appcelerator",
+        "titanium",
+        "mobile",
+        "ios",
+        "iphone",
+        "android",
+        "alloy",
+        "cli"
+      ],
+      "author": "fokkezb"
+    },
+    {
+      "name": "pinchit",
+      "descriptions": "Zoom images without dependencies",
+      "keyword": [
+        "pinch",
+        "zoom",
+        "mobile",
+        "touch",
+        "javascript",
+        "vanilla",
+        "es6"
+      ],
+      "author": "knape"
+    },
+    {
+      "name": "zarm",
+      "descriptions": "基于 React 的移动端UI库",
+      "keyword": [
+        "react",
+        "react-ui",
+        "react-component",
+        "zarm",
+        "zarm-ui",
+        "zarm-mobile",
+        "component",
+        "components",
+        "ui",
+        "framework",
+        "frontend",
+        "mobile"
+      ],
+      "author": "linji"
+    },
+    {
+      "name": "m-picker",
+      "descriptions": "M-picker 模拟ios原生select的选择器",
+      "keyword": [
+        "picker",
+        "react",
+        "mobile"
+      ],
+      "author": "mickey-"
+    },
+    {
+      "name": "vue-scrollbar-live",
+      "descriptions": "A vue scrollbar component, support SSR.",
+      "keyword": [
+        "vue",
+        "scrollbar",
+        "PC",
+        "IE/Edge",
+        "mobile",
+        "small size",
+        "SSR support"
+      ],
+      "author": "livelybone"
+    },
+    {
+      "name": "loopback-connector-twilio",
+      "descriptions": "LoopBack connector for Twilio & SendGrid",
+      "keyword": [
+        "web",
+        "restful",
+        "rest",
+        "api",
+        "expess",
+        "loopback",
+        "twilio",
+        "sendgrid",
+        "StrongLoop",
+        "IBM",
+        "framework",
+        "mobile",
+        "mBaaS"
+      ],
+      "author": "dennis.ashby"
+    },
+    {
+      "name": "@dudigital/react-native-zoomable-view",
+      "descriptions": "A view component for react-native with pinch to zoom, tap to move and double tap to zoom capability.",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "pinch-to-zoom",
+        "pinch",
+        "mobile",
+        "native",
+        "component",
+        "view",
+        "zoom",
+        "zoomable",
+        "double",
+        "tap"
+      ],
+      "author": "simonerich"
+    },
+    {
+      "name": "azir-icon",
+      "descriptions": "A great component that give you the ability you to create your own custom icons",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "react native",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "expo",
+        "icon",
+        "advance icon",
+        "native icon",
+        "blue eye icon",
+        "View more"
+      ],
+      "author": "lockcommerce"
+    },
+    {
+      "name": "grunt-titaniumifier",
+      "descriptions": "Get a Titanium CommonJS Module out of your Node.js package using Grunt!",
+      "keyword": [
+        "browserify",
+        "grunt",
+        "mobile",
+        "titanium",
+        "titaniumifier"
+      ],
+      "author": "yuchi"
+    },
+    {
+      "name": "gitana",
+      "descriptions": "Cloud CMS Gitana Driver for Node JS",
+      "keyword": [
+        "gitana",
+        "cloudcms",
+        "cms",
+        "content",
+        "json",
+        "rest",
+        "mobile",
+        "content management",
+        "javascript"
+      ],
+      "author": "uzi"
+    },
+    {
+      "name": "pageui",
+      "descriptions": "Build mobile apps with simple HTML, CSS, and JS components.",
+      "keyword": [
+        "pageui",
+        "UI",
+        "webapp",
+        "css",
+        "fonts",
+        "ios",
+        "android",
+        "mobile"
+      ],
+      "author": "dsx_mdn"
+    },
+    {
+      "name": "quicktap",
+      "descriptions": "An :active replacement that doesn't delay on mobile",
+      "keyword": [
+        "quicktap",
+        "active",
+        "instant",
+        "mobile",
+        "touch",
+        "latency",
+        "tap",
+        "respond",
+        "response",
+        "click",
+        "event",
+        "performance",
+        "perf",
+        "touchstart"
+      ],
+      "author": "marcoms"
+    },
+    {
+      "name": "ember-orientation",
+      "descriptions": "Idiomatically mobile device orientation changes in Ember.js",
+      "keyword": [
+        "ember-addon",
+        "orientation",
+        "mobile",
+        "tilt",
+        "rotate"
+      ],
+      "author": "mike-north-bot"
+    },
+    {
+      "name": "lazyloadxt",
+      "descriptions": "Lazy Load XT is mobile-oriented, fast and extensible jQuery plugin for lazy loading of images, videos and other media with built-in support of jQueryMobile framework. It improves performance of website by loading visible media elements only, and elements",
+      "keyword": [
+        "jquery-plugin",
+        "effect",
+        "image",
+        "images",
+        "jquery",
+        "bootstrap",
+        "jquerymobile",
+        "lazy",
+        "lazyload",
+        "load",
+        "media",
+        "mobile",
+        "performance",
+        "responsive",
+        "View more"
+      ],
+      "author": "ressio"
+    },
+    {
+      "name": "cordova-plugin-secure-key-store",
+      "descriptions": "Cordova plugin for securely saving keys, passwords or strings on devices.",
+      "keyword": [
+        "ecosystem:cordova",
+        "ecosystem:phonegap",
+        "mobile",
+        "android",
+        "ios",
+        "android-keystore",
+        "ios-keychain",
+        "sensitive-data-security",
+        "encryption-decryption",
+        "public-private-key"
+      ],
+      "author": "pradeep1991singh"
+    },
+    {
+      "name": "@testwizard/testobjects-core",
+      "descriptions": "Build mobile applications quickly for Salesforce.com",
+      "keyword": [
+        "testwizard",
+        "mobile",
+        "phone",
+        "tablet",
+        "android",
+        "ios"
+      ],
+      "author": "edtb"
+    },
+    {
+      "name": "mobilecaddy",
+      "descriptions": "MongoDB Stitch JavaScript SDK - Browser SDK",
+      "keyword": [
+        "mobilecaddy",
+        "salesforce",
+        "mobile",
+        "ionic"
+      ],
+      "author": "toddhalfpenny"
+    },
+    {
+      "name": "mongodb-stitch-browser-sdk",
+      "descriptions": "MongoDB Stitch JavaScript SDK - Browser Remote MongoDB Service",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "mongodb-stitch-browser-services-mongodb-remote",
+      "descriptions": "UI infrastructure for Enyo applications",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "enyo-layout",
+      "descriptions": "Extract mobile stylesheet from responsive css files",
+      "keyword": [
+        "framework",
+        "toolkit",
+        "components",
+        "mobile",
+        "webOS"
+      ],
+      "author": "tjwebb"
+    },
+    {
+      "name": "mobilizer",
+      "descriptions": "Cordova/Phonegap plugin to determine if current device is a tablet.",
+      "keyword": [
+        "css",
+        "mobile",
+        "stylesheet"
+      ],
+      "author": "mcasimir"
+    },
+    {
+      "name": "uk.co.workingedge.phonegap.plugin.istablet",
+      "descriptions": "Auth0 integration for Cordova applications",
+      "keyword": [
+        "ecosystem:cordova",
+        "cordova",
+        "phonegap",
+        "ios",
+        "android",
+        "tablet",
+        "phone",
+        "mobile",
+        "cellphone",
+        "detect",
+        "screen size",
+        "display"
+      ],
+      "author": "davealden"
+    },
+    {
+      "name": "@auth0/cordova",
+      "descriptions": "Utilities for creating mobile apps based on the Salesforce Mobile SDK for iOS",
+      "keyword": [
+        "auth0",
+        "cordova",
+        "phonegap",
+        "hybrid",
+        "ionic",
+        "oauth",
+        "auth",
+        "pkce",
+        "mobile"
+      ],
+      "author": "stevehobbsdev"
+    },
+    {
+      "name": "forceios",
+      "descriptions": "Modular front-end integrated solution for mobile",
+      "keyword": [
+        "mobilesdk",
+        "ios",
+        "salesforce",
+        "mobile",
+        "sdk"
+      ],
+      "author": "wmathurin_sfdc"
+    },
+    {
+      "name": "scrat",
+      "descriptions": "(Mobile) Web Automation Framework",
+      "keyword": [
+        "scrat",
+        "webapp",
+        "framework",
+        "mobile",
+        "fis"
+      ],
+      "author": "atian25"
+    },
+    {
+      "name": "catjs",
+      "descriptions": "A react native search header component based on material design patterns.",
+      "keyword": [
+        "runner",
+        "catrunner",
+        "annotation",
+        "app",
+        "mobile",
+        "html5",
+        "test",
+        "testing",
+        "unit",
+        "automation",
+        "ui",
+        "jquery",
+        "sencha",
+        "chai"
+      ],
+      "author": "lastboy"
+    },
+    {
+      "name": "react-native-search-header",
+      "descriptions": "AngularJS directive for intl-tel-input jQuery plugin",
+      "keyword": [
+        "react-native-search-header",
+        "react-native",
+        "android",
+        "ios",
+        "search",
+        "header",
+        "mobile",
+        "material-design",
+        "component",
+        "ui",
+        "uikit"
+      ],
+      "author": "tuantle"
+    },
+    {
+      "name": "international-phone-number",
+      "descriptions": "The best javascript plugin for app look-alike on- and off-canvas menus with sliding submenus for your website and webapp.",
+      "keyword": [
+        "international",
+        "i18n",
+        "country",
+        "dial",
+        "code",
+        "telephone",
+        "mobile",
+        "input",
+        "flag",
+        "directive",
+        "angular",
+        "angularjs"
+      ],
+      "author": "mareczek"
+    },
+    {
+      "name": "mmenu-js",
+      "descriptions": "AnyPicker is a customizable jQuery Picker Library for Mobile OS. Create custom mobile pickers (Date, Time, Rating etc) for iOS, Android & Windows. Use pre-built pickers like Date Picker, Time Picker, Date Time Picker, etc",
+      "keyword": [
+        "app",
+        "list",
+        "listview",
+        "megamenu",
+        "menu",
+        "mmenu",
+        "mobile",
+        "navigation",
+        "off-canvas",
+        "on-canvas",
+        "curtain",
+        "panels",
+        "submenu"
+      ],
+      "author": "fredheusschen"
+    },
+    {
+      "name": "anypicker",
+      "descriptions": "Expanding circle transition using react-native Modal and Animated API",
+      "keyword": [
+        "Picker",
+        "Date Picker",
+        "Time Picker",
+        "DateTime Picker",
+        "Date",
+        "Time",
+        "Date Time Picker",
+        "Bootstrap",
+        "Mobile",
+        "Android",
+        "iOS",
+        "Windows",
+        "Rating"
+      ],
+      "author": "nehakadam"
+    },
+    {
+      "name": "react-native-expanding-circle-transition",
+      "descriptions": "支持移动端的UI组件-工具",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "ui",
+        "animation",
+        "transition",
+        "circle",
+        "expanding circle"
+      ],
+      "author": "alexbrillant"
+    },
+    {
+      "name": "@ctmobile/ui-util",
+      "descriptions": "A secure AsyncStorage partial implementation",
+      "keyword": [
+        "util",
+        "CtMobile",
+        "CTMibole-UI",
+        "mobile",
+        "webapp",
+        "SPA",
+        "Hybrid",
+        "Cordova",
+        "Android",
+        "iOS",
+        "Material",
+        "playerljc",
+        "WebFramework"
+      ],
+      "author": "playerljc"
+    },
+    {
+      "name": "react-native-secure-storage",
+      "descriptions": "React组件库",
+      "keyword": [
+        "react-native",
+        "react-native-component",
+        "mobile",
+        "ios",
+        "android",
+        "keychain",
+        "secure"
+      ],
+      "author": "oyyq99999"
+    },
+    {
+      "name": "@molejs/mole-components-web",
+      "descriptions": "Easy to use declarative transitions and animations for React Native",
+      "keyword": [
+        "react",
+        "react-component",
+        "component",
+        "components",
+        "ui",
+        "framework",
+        "frontend",
+        "mobile"
+      ],
+      "author": "liugenpeng"
+    },
+    {
+      "name": "react-native-animatable-promise",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "fade",
+        "bounce",
+        "slide",
+        "animatable",
+        "transition",
+        "animation"
+      ],
+      "author": "vramosx"
+    },
+    {
+      "name": "weaver-mobile",
+      "descriptions": "泛微移动端组件库",
+      "keyword": [
+        "weaver",
+        "react",
+        "react-component",
+        "component",
+        "components",
+        "ui",
+        "framework",
+        "frontend",
+        "mobile"
+      ],
+      "author": "chenjm00"
+    },
+    {
+      "name": "generator-m-ionic",
+      "descriptions": "Advanced workflows for building rock-solid Ionic apps: develop, prototype, test, build and deliver high quality apps with Yeoman, Gulp, Bower, Angular, Cordova and of course Ionic. All in one sexy generator.",
+      "keyword": [
+        "angular",
+        "angularjs",
+        "cordova",
+        "phonegap",
+        "mobile",
+        "app",
+        "hybrid",
+        "gulp",
+        "bower",
+        "ionic",
+        "ionic framework",
+        "ionicframework",
+        "sass",
+        "protractor",
+        "View more"
+      ],
+      "author": "gruppjo"
+    },
+    {
+      "name": "generator-adaptiveme",
+      "descriptions": "Adaptive App Generator - Yeoman Generator for Adaptive Runtime Platform.",
+      "keyword": [
+        "yeoman-generator",
+        "adaptive",
+        "hybrid",
+        "html5",
+        "mobile",
+        "desktop",
+        "framework"
+      ],
+      "author": "carloslozano"
+    },
+    {
+      "name": "@testwizard/commands-mobile",
+      "descriptions": "Cloud CMS Application Server Module",
+      "keyword": [
+        "testwizard",
+        "commands",
+        "mobile"
+      ],
+      "author": "edtb"
+    },
+    {
+      "name": "cloudcms-server",
+      "descriptions": "React Ionic Library. Use Ionic to build hybrid mobile apps with React. No Angular needed.",
+      "keyword": [
+        "wcm",
+        "web",
+        "cloudcms",
+        "cms",
+        "content",
+        "json",
+        "rest",
+        "mobile",
+        "content management",
+        "javascript",
+        "nodejs",
+        "api",
+        "jsoncms",
+        "baas",
+        "View more"
+      ],
+      "author": "uzi"
+    },
+    {
+      "name": "reactionic",
+      "descriptions": "UI component library for Vue.js 2x based on Google Material and Bootstrap",
+      "keyword": [
+        "React",
+        "Ionic",
+        "Hybrid",
+        "Mobile",
+        "Cordova",
+        "Phonegap",
+        "Meteor",
+        "react-component"
+      ],
+      "author": "pors"
+    },
+    {
+      "name": "vuecidity",
+      "descriptions": "A free jQuery Plug-in to select the time with a clock inspired by the Android time picker. This plugin works on Desktop and Mobile phones.",
+      "keyword": [
+        "vue",
+        "vuejs",
+        "vue.js",
+        "material design",
+        "bootstrap",
+        "mobile",
+        "phone",
+        "library",
+        "components"
+      ],
+      "author": "martin.ivanov"
+    },
+    {
+      "name": "jquery-clock-timepicker",
+      "descriptions": "Browser & OS / platform detection plugin for jQuery and Zepto",
+      "keyword": [
+        "clock",
+        "time",
+        "picker",
+        "jquery",
+        "android",
+        "responsive",
+        "mobile"
+      ],
+      "author": "loebi-ch"
+    },
+    {
+      "name": "pgwbrowser",
+      "descriptions": "Beisencloud mobile business react components based on chaosui",
+      "keyword": [
+        "browser",
+        "os",
+        "platform",
+        "detection",
+        "support",
+        "mobile",
+        "jquery",
+        "jquery-plugin",
+        "zepto"
+      ],
+      "author": "pagawa"
+    },
+    {
+      "name": "@beisen/beisencloud-mobile",
+      "descriptions": "React组件库",
+      "keyword": [
+        "beisencloud",
+        "react-component",
+        "es6",
+        "mobile"
+      ],
+      "author": "beisencorp"
+    },
+    {
+      "name": "@beisen/bsapp-mobile-ui",
+      "descriptions": "A pure js ActionSheet like ios ActionSheet, support ios and android",
+      "keyword": [
+        "react",
+        "react-component",
+        "component",
+        "components",
+        "ui",
+        "framework",
+        "frontend",
+        "mobile"
+      ],
+      "author": "beisencorp"
+    },
+    {
+      "name": "@remobile/react-native-action-sheet",
+      "descriptions": "A Mobile App Framework built with ReactJS",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "action sheet",
+        "ActionSheet",
+        "animation",
+        "remobile",
+        "mobile"
+      ],
+      "author": "remobile"
+    },
+    {
+      "name": "touchstonejs",
+      "descriptions": "A wrapper for the Calabash testing framework for use with Titanium Mobile",
+      "keyword": [
+        "react",
+        "react-component",
+        "ui",
+        "mobile",
+        "hybrid"
+      ],
+      "author": "jedwatson"
+    },
+    {
+      "name": "ticalabash",
+      "descriptions": "🔐Body scroll locking that just works with everything",
+      "keyword": [
+        "calabash",
+        "titanium",
+        "mobile",
+        "ios",
+        "android"
+      ],
+      "author": "codexlabs"
+    },
+    {
+      "name": "tua-body-scroll-lock",
+      "descriptions": "A module for creating Web apps with ChocolateChip-UI",
+      "keyword": [
+        "body scroll",
+        "body scroll lock",
+        "react scroll lock",
+        "react scroll",
+        "scroll",
+        "lock",
+        "freeze",
+        "toggle",
+        "disable",
+        "overflow",
+        "modal",
+        "lightbox",
+        "react",
+        "vanilla-js",
+        "View more"
+      ],
+      "author": "mahongjian"
+    },
+    {
+      "name": "chui",
+      "descriptions": "Orbit React Native Components are a component library which provide developers with the easiest possible way of building Kiwi.com’s products.",
+      "keyword": [
+        "JavaScript",
+        "ChocolateChip-UI",
+        "Hybrid App",
+        "Mobile",
+        "Web App",
+        "iOS",
+        "Android"
+      ],
+      "author": "wobba"
+    },
+    {
+      "name": "@kiwicom/orbit-react-native",
+      "descriptions": "Contain features MVC for web, Desktop and Mobile Apps to use with JSComet.",
+      "keyword": [
+        "orbit",
+        "components",
+        "ui",
+        "library",
+        "component",
+        "react-native",
+        "react-native-web",
+        "cross-platform",
+        "multi-platform",
+        "kiwi",
+        "mobile",
+        "tablet",
+        "desktop"
+      ],
+      "author": "martin.zlamal"
+    },
+    {
+      "name": "jscomet.core",
+      "descriptions": "Rotate images from your react-native JavaScript code",
+      "keyword": [
+        "private",
+        "project",
+        "oop",
+        "oo",
+        "es2015",
+        "es2016",
+        "es7",
+        "6to5",
+        "jscomet",
+        "classes",
+        "es6",
+        "modules",
+        "var",
+        "compiler",
+        "View more"
+      ],
+      "author": "ciro.spaciari"
+    },
+    {
+      "name": "react-native-image-rotate",
+      "descriptions": "Extensible Angular 8+ enterprise-grade project generator based on angular-cli with best practices from the community. Includes PWA/Cordova/Electron support, coding guides and more!",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "image",
+        "rotate"
+      ],
+      "author": "dgl"
+    },
+    {
+      "name": "generator-ngx-rocket",
+      "keyword": [
+        "yeoman-generator",
+        "ngx",
+        "rocket",
+        "app",
+        "addon",
+        "generator",
+        "angular",
+        "angular-cli",
+        "bootstrap",
+        "ionic",
+        "material",
+        "scalable",
+        "enterprise",
+        "scaffold",
+        "View more"
+      ],
+      "author": "sinedied"
+    },
+    {
+      "name": "powercss",
+      "descriptions": "Unleash PowerCSS to create custom styling for every user of your web application. PowerCSS uses merging, caching, compression, and double-buffering to exceed the speed and flexibility of static CSS. https://www.youtube.com/watch?v=rnkMjzhxw4s",
+      "keyword": [
+        "alive-css",
+        "css",
+        "css-alive",
+        "css-js",
+        "css-live",
+        "css-power",
+        "cssjs",
+        "desktop and mobile",
+        "desktop and touch",
+        "desktop",
+        "js-css",
+        "jscss",
+        "live-css",
+        "mobile",
+        "View more"
+      ],
+      "author": "mikem"
+    },
+    {
+      "name": "react-gestures",
+      "descriptions": "React gesture recognizers",
+      "keyword": [
+        "react",
+        "gestures",
+        "events",
+        "touch",
+        "ios",
+        "android",
+        "mobile"
+      ],
+      "author": "euforic"
+    },
+    {
+      "name": "react-page-transitions",
+      "descriptions": "Page tranistions for ReactJS based on VelocityJS library. Mobile friendly. High performance.",
+      "keyword": [
+        "reactjs",
+        "velocityjs",
+        "animations",
+        "transitions",
+        "mobile"
+      ],
+      "author": "navvn"
+    },
+    {
+      "name": "cordova-template-framework7-vue-webpack",
+      "descriptions": "Cordova template with framework7, vue 2 and webpack 2.",
+      "keyword": [
+        "ecosystem:phonegap",
+        "ecosystem:cordova",
+        "cordova:template",
+        "phonegap:template",
+        "cordova-template",
+        "template",
+        "webpack",
+        "vue.js",
+        "vue",
+        "mobile",
+        "framework",
+        "framework7",
+        "ios",
+        "iphone",
+        "View more"
+      ],
+      "author": "caiobiodere"
+    },
+    {
+      "name": "@enact/cli",
+      "descriptions": "Full-featured build environment tool for Enact applications.",
+      "keyword": [
+        "enact",
+        "toolkit",
+        "react",
+        "mobile",
+        "TV",
+        "LG",
+        "webOS",
+        "upupdowndownleftrightleftrightbastart"
+      ],
+      "author": "enact"
+    },
+    {
+      "name": "titanium-jsduck",
+      "descriptions": "Simple package that will automate JSDuck Documentation for a Titanium Alloy Mobile Project",
+      "keyword": [
+        "appcelerator",
+        "titanium",
+        "mobile",
+        "jsduck",
+        "sencha",
+        "ios",
+        "iphone",
+        "android",
+        "blackberry",
+        "html5",
+        "mobileweb",
+        "mobile web"
+      ],
+      "author": "jamilhassanspain"
+    },
+    {
+      "name": "generator-angular-mobile",
+      "descriptions": "Yeoman generator",
+      "keyword": [
+        "yeoman-generator",
+        "generator-angular-mobile",
+        "mobile",
+        "angular",
+        "cordova",
+        "ngCordova",
+        "e2e test mobile",
+        "ngCordovaMocks"
+      ],
+      "author": "mranosa"
+    },
+    {
+      "name": "prophet-xcss",
+      "descriptions": "A simple css parser for desktop and mobile using express",
+      "keyword": [
+        "css",
+        "node",
+        "express",
+        "mobile"
+      ],
+      "author": "innf107"
+    },
+    {
+      "name": "angular-ismobile",
+      "descriptions": "A Angular wrapper provider-service for isMobile (https://github.com/kaimallea/isMobile)",
+      "keyword": [
+        "angular",
+        "angularjs",
+        "mobile",
+        "device",
+        "useragent",
+        "ismobile"
+      ],
+      "author": "ronnyhaase"
+    },
+    {
+      "name": "@nec-baas/jssdk",
+      "descriptions": "NEC Mobile Backend Platform JavaScript SDK",
+      "keyword": [
+        "nec",
+        "baas",
+        "iot",
+        "mobile",
+        "internet of things",
+        "backend",
+        "api gateway",
+        "serverless",
+        "mongodb"
+      ],
+      "author": "y-okamoto"
+    },
+    {
+      "name": "front-js-emoji",
+      "descriptions": "A JS Emoji conversion library",
+      "keyword": [
+        "emoji",
+        "emoticon",
+        "mobile",
+        "browser"
+      ],
+      "author": "frontapp"
+    },
+    {
+      "name": "get-prefixed-style",
+      "descriptions": "A super simple method to grab the correct (prefixed or not) style property name for your browser.",
+      "keyword": [
+        "cross-browser",
+        "resize",
+        "event",
+        "window",
+        "callback",
+        "mobile",
+        "adaptive"
+      ],
+      "author": "christinecha"
+    },
+    {
+      "name": "ly-tab",
+      "descriptions": "A better mobile touch-swappable reusable component for vue2.*",
+      "keyword": [
+        "Vue",
+        "component",
+        "mobile",
+        "swap",
+        "reusable"
+      ],
+      "author": "peanuty"
+    },
+    {
+      "name": "blueimp-bootstrap-image-gallery",
+      "descriptions": "Bootstrap Image Gallery is an extension to blueimp Gallery, a touch-enabled, responsive and customizable image and video gallery. It displays images and videos in the modal dialog of the Bootstrap framework, features swipe, mouse and keyboard navigation,",
+      "keyword": [
+        "image",
+        "video",
+        "gallery",
+        "modal",
+        "dialog",
+        "lightbox",
+        "mobile",
+        "desktop",
+        "touch",
+        "responsive",
+        "swipe",
+        "mouse",
+        "keyboard",
+        "navigation",
+        "View more"
+      ],
+      "author": "blueimp"
+    },
+    {
+      "name": "use-mobile-detect-hook",
+      "descriptions": "The React hook to detect if the device is mobile or desktop.",
+      "keyword": [
+        "React",
+        "hook",
+        "javascript",
+        "mobile",
+        "detect",
+        "device",
+        "type"
+      ],
+      "author": "haldarmahesh"
+    },
+    {
+      "name": "rongcloud-sdk",
+      "descriptions": "The Server SDK of RongCloud",
+      "keyword": [
+        "mobile",
+        "im",
+        "server",
+        "sdk"
+      ],
+      "author": "yuhongda"
+    },
+    {
+      "name": "node-deeplink",
+      "descriptions": "Easily create an endpoint in your web server that redirects deep links to mobile apps",
+      "keyword": [
+        "deep-link",
+        "deeplink",
+        "express",
+        "mobile"
+      ],
+      "author": "mderazon"
+    },
+    {
+      "name": "@remobile/react-native-toast",
+      "descriptions": "A android like toast for react-native support for ios and android",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "toast",
+        "position",
+        "remobile",
+        "mobile"
+      ],
+      "author": "remobile"
+    },
+    {
+      "name": "react-native-custom-qr-codes",
+      "descriptions": "A customisable QR code component for React Native applications.",
+      "keyword": [
+        "react-native",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "qr-code",
+        "custom-qr-code"
+      ],
+      "author": "nating"
+    },
+    {
+      "name": "nodejs-mobile-react-native",
+      "descriptions": "Node.js for Mobile Apps React Native plugin",
+      "keyword": [
+        "react-native",
+        "mobile",
+        "nodejs",
+        "node.js",
+        "nodejs-mobile"
+      ],
+      "author": "janeasystems"
+    },
+    {
+      "name": "mongodb-stitch-core-services-aws",
+      "descriptions": "MongoDB Stitch JavaScript SDK - Core AWS Service",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "chimee-plugin-gesture",
+      "descriptions": "Gestrue plugin for chimee.",
+      "keyword": [
+        "chimee",
+        "mobile",
+        "gesture"
+      ],
+      "author": "yandeqiang"
+    },
+    {
+      "name": "react-native-web-vector-icons",
+      "descriptions": "Customizable Icons for React Native Web with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "osx",
+        "windows",
+        "macos",
+        "ui",
+        "icon",
+        "icons",
+        "vector",
+        "View more"
+      ],
+      "author": "davidkwan95"
+    },
+    {
+      "name": "cordova-jquery",
+      "descriptions": "This npm module will configure an existing apache cordova application to use the latest jquery-mobile as well as allow users to choose from a number of jquery mobile templates to apply to their projects.",
+      "keyword": [
+        "jquery",
+        "cordova",
+        "skeleton",
+        "template",
+        "jquery-mobile",
+        "mobile",
+        "framework",
+        "javascript",
+        "jQM"
+      ],
+      "author": "hazems"
+    },
+    {
+      "name": "ionic2-custom-icons",
+      "descriptions": "A npm-script for creating custom icon fonts and Angular 4 directives to render the icons in your Ionic 3 app.",
+      "keyword": [
+        "ionic",
+        "ionic2",
+        "angular",
+        "angular2",
+        "mobile",
+        "app",
+        "hybrid",
+        "cordova",
+        "icons",
+        "custom",
+        "font"
+      ],
+      "author": "gerriterpenstein"
+    },
+    {
+      "name": "titaniumlib",
+      "descriptions": "Titanium SDK Library",
+      "keyword": [
+        "axway",
+        "appcelerator",
+        "titanium",
+        "mobile"
+      ],
+      "author": "cb1kenobi"
+    },
+    {
+      "name": "@cedx/free-mobile",
+      "descriptions": "Send SMS messages to your Free Mobile device. A simple and free way to monitor your applications using a Free Mobile account.",
+      "keyword": [
+        "api",
+        "client",
+        "esm",
+        "free",
+        "mobile",
+        "sdk",
+        "sms"
+      ],
+      "author": "cedx"
+    },
+    {
+      "name": "bootstrap-fs-modal",
+      "descriptions": "A simple way to improve Bootstrap modals UX on mobile phones",
+      "keyword": [
+        "twitter",
+        "bootstrap",
+        "modal",
+        "responsive",
+        "mobile",
+        "javascript",
+        "jquery",
+        "jquery-plugin"
+      ],
+      "author": "keaukraine"
+    },
+    {
+      "name": "mobiscroll",
+      "descriptions": "A wheel scroller control optimized for touchscreens to easily enter date/time. It can easily be customized to support any custom values.",
+      "keyword": [
+        "ui",
+        "input",
+        "form",
+        "html5",
+        "mobile",
+        "list",
+        "hierarchy",
+        "scroller",
+        "clickpick"
+      ],
+      "author": "danielkalen"
+    },
+    {
+      "name": "liveapicreator-admin-cli",
+      "descriptions": "The NodeJS command line utility for 'CA Live API Creator' DevOps Administration from CA Technologies",
+      "keyword": [
+        "caliveapicreator",
+        "liveapicreator",
+        "liveapicreatoradmin",
+        "apicreatorsdk",
+        "logic",
+        "command",
+        "line",
+        "REST",
+        "JSON",
+        "XML",
+        "SQL",
+        "database",
+        "mysql",
+        "oracle",
+        "View more"
+      ],
+      "author": "tylerm007"
+    },
+    {
+      "name": "mongodb-stitch-core-services-http",
+      "descriptions": "MongoDB Stitch JavaScript SDK - Core HTTP Service",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "@mobile/bluebird",
+      "descriptions": "Repackaged version of bluebird Promises/A+ implementation for mobile",
+      "keyword": [
+        "promise",
+        "performance",
+        "promises",
+        "promises-a",
+        "promises-aplus",
+        "async",
+        "await",
+        "deferred",
+        "deferreds",
+        "future",
+        "flow control",
+        "dsl",
+        "fluent interface",
+        "mobile"
+      ],
+      "author": "brentonhouse"
+    },
+    {
+      "name": "pgwslider",
+      "descriptions": "Responsive and lightweight Slider plugin for jQuery / Zepto",
+      "keyword": [
+        "slider",
+        "slideshow",
+        "gallery",
+        "responsive",
+        "mobile",
+        "image",
+        "animation",
+        "ui",
+        "jquery",
+        "jquery-plugin",
+        "zepto"
+      ],
+      "author": "pagawa"
+    },
+    {
+      "name": "azir-input",
+      "descriptions": "An advance Input component that should render nicely on any platform. Supports a great level of customization.",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "react native",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "expo",
+        "input",
+        "advance input",
+        "native input",
+        "blue eye input",
+        "View more"
+      ],
+      "author": "lockcommerce"
+    },
+    {
+      "name": "bootstrap4-fs-modal",
+      "descriptions": "A simple way to improve Bootstrap 4 modals UX on mobile phones",
+      "keyword": [
+        "twitter",
+        "bootstrap",
+        "bootstrap4",
+        "modal",
+        "responsive",
+        "mobile",
+        "javascript"
+      ],
+      "author": "keaukraine"
+    },
+    {
+      "name": "grunt-svg2storeicons",
+      "descriptions": "Create store icons from a SVG.",
+      "keyword": [
+        "gruntplugin",
+        "graphicsmagick",
+        "svg",
+        "mobile",
+        "phonegap",
+        "cordova",
+        "android",
+        "ios",
+        "windows"
+      ],
+      "author": "pem"
+    },
+    {
+      "name": "mongodb-stitch-core-services-twilio",
+      "descriptions": "MongoDB Stitch JavaScript SDK - Core Twilio Service",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "playup",
+      "descriptions": "Publish APKs to Google Play Store",
+      "keyword": [
+        "android",
+        "google",
+        "play",
+        "google play",
+        "mobile",
+        "apk"
+      ],
+      "author": "jeduan"
+    },
+    {
+      "name": "mongodb-stitch-core-services-aws-s3",
+      "descriptions": "MongoDB Stitch JavaScript SDK - Core AWS S3 Service",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "cursor-position",
+      "descriptions": "Simple module for getting the current mouse position in element or window.",
+      "keyword": [
+        "cursor",
+        "mouse",
+        "pointer",
+        "position",
+        "movement",
+        "get",
+        "window",
+        "touch",
+        "div",
+        "web",
+        "module",
+        "detect",
+        "browser",
+        "mobile"
+      ],
+      "author": "exelban"
+    },
+    {
+      "name": "zuv-view",
+      "descriptions": "UI components library, based on Vue.js and ionic CSS.",
+      "keyword": [
+        "zuv",
+        "zuv view framework",
+        "vue",
+        "ionic",
+        "app",
+        "mobile",
+        "components",
+        "ui components",
+        "spa"
+      ],
+      "author": "xluther"
+    },
+    {
+      "name": "mongodb-stitch-core-services-aws-ses",
+      "descriptions": "MongoDB Stitch JavaScript SDK - Core AWS SES Service",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "lighting",
+      "descriptions": "恒生移动web应用平台（Light）快速开发集成工具箱",
+      "keyword": [
+        "mobile",
+        "web",
+        "weixin",
+        "tool",
+        "hundsun",
+        "javascript",
+        "devloper"
+      ],
+      "author": "hslight"
+    },
+    {
+      "name": "boombox.js",
+      "descriptions": "Browser sound library which blended HTMLVideo and HTMLAudio and WebAudio",
+      "keyword": [
+        "webaudio",
+        "htmlaudio",
+        "htmlvideo",
+        "sound",
+        "mobile",
+        "javascript",
+        "library",
+        "boombox.js"
+      ],
+      "author": "layzie"
+    },
+    {
+      "name": "clevertap",
+      "descriptions": "CleverTap API library for node",
+      "keyword": [
+        "node",
+        "CleverTap",
+        "mobile",
+        "analytics",
+        "push"
+      ],
+      "author": "pwilkniss"
+    },
+    {
+      "name": "react-native-vector-icons-qmicon",
+      "descriptions": "Iconfont fontawesome",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "osx",
+        "windows",
+        "macos",
+        "ui",
+        "icon",
+        "icons",
+        "vector",
+        "View more"
+      ],
+      "author": "qmued"
+    },
+    {
+      "name": "ember-cli-framework7",
+      "descriptions": "Ember CLI Framework7 breings the great mobile development framework to Ember CLI.",
+      "keyword": [
+        "ember-addon",
+        "framework7",
+        "ember-cli",
+        "ember-mobile",
+        "mobile",
+        "touch"
+      ],
+      "author": "spieker"
+    },
+    {
+      "name": "react-native-numeric-input",
+      "descriptions": "A stylish numeric input for react native",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "mobile",
+        "ios",
+        "android",
+        "number-input",
+        "numeric-input",
+        "number",
+        "input",
+        "numeric"
+      ],
+      "author": "himelbrand"
+    },
+    {
+      "name": "milligram-scss",
+      "descriptions": "A minimalist CSS framework on SCSS version.",
+      "keyword": [
+        "bootstrap",
+        "css",
+        "css3",
+        "flexbox",
+        "front-end",
+        "framework",
+        "html",
+        "html5",
+        "kickstarter",
+        "less",
+        "responsive",
+        "mobile",
+        "mobile-first",
+        "postcss",
+        "View more"
+      ],
+      "author": "cjpatoilo"
+    },
+    {
+      "name": "mongodb-stitch-react-native-services-mongodb-remote",
+      "descriptions": "MongoDB Stitch JavaScript SDK - React Native Remote MongoDB Service",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas",
+        "react-native"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "m-mask",
+      "descriptions": "黑色半透明遮罩效果，覆盖整个手机屏幕,出现消失时渐变背景色",
+      "keyword": [
+        "mask",
+        "react",
+        "mobile"
+      ],
+      "author": "mickey-"
+    },
+    {
+      "name": "mongodb-stitch-react-native-sdk",
+      "descriptions": "MongoDB Stitch JavaScript SDK - React Native SDK",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas",
+        "react-native"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "rezponsive",
+      "descriptions": "React decorator for responsive behaviors",
+      "keyword": [
+        "responsive",
+        "react",
+        "decorator",
+        "mediaquery",
+        "matchmedia",
+        "touch",
+        "mobile"
+      ],
+      "author": "axyz"
+    },
+    {
+      "name": "uupaa.spec.js",
+      "descriptions": "Mobile Device Spec detection.",
+      "keyword": [
+        "Mobile",
+        "SoC",
+        "CPU",
+        "GPU",
+        "RAM",
+        "BLE",
+        "NFC",
+        "OpenGLES",
+        "OpenCL",
+        "Vulkan",
+        "spec",
+        "uupaa",
+        "WebModule"
+      ],
+      "author": "uupaa"
+    },
+    {
+      "name": "prevent-pull-refresh",
+      "descriptions": "Preventing the pull-to-refresh effect browser on mobile",
+      "keyword": [
+        "pull refresh",
+        "refresh",
+        "prevent",
+        "browser",
+        "chrome",
+        "mobile",
+        "scroll",
+        "overscroll"
+      ],
+      "author": "nghiepit"
+    },
+    {
+      "name": "airr-react",
+      "descriptions": "Reusable React components for building Single Page Apps.",
+      "keyword": [
+        "react",
+        "react-components",
+        "SPA",
+        "single page app",
+        "navigation",
+        "mobile",
+        "hybrid",
+        "cordova",
+        "phonegap"
+      ],
+      "author": "rafal-r"
+    },
+    {
+      "name": "react-wx-images-viewer",
+      "descriptions": "Images viewer is a react component use in mobile website App, that function same as Weixin native viewer.",
+      "keyword": [
+        "react",
+        "photos",
+        "viewer",
+        "mobile"
+      ],
+      "author": "dainli"
+    },
+    {
+      "name": "@mobile/tinycolor2",
+      "descriptions": "Repackaged version of tinycolor2 for mobile",
+      "keyword": [
+        "color",
+        "parser",
+        "tinycolor",
+        "mobile"
+      ],
+      "author": "brentonhouse"
+    },
+    {
+      "name": "jimu-mobile",
+      "descriptions": "积木组件库助力移动端开发",
+      "keyword": [
+        "jimu",
+        "mobile"
+      ],
+      "author": "yansen"
+    },
+    {
+      "name": "hyphenate-web",
+      "descriptions": "You can leverage the demo app to integrate chat features with Hyphenate Mobile Instant Messaging (MIM) platform to mobile or web app. Some of the cool features available:",
+      "keyword": [
+        "hyphenate",
+        "communication",
+        "IM",
+        "MIM",
+        "messaging",
+        "mobile"
+      ],
+      "author": "hyphenateinfo"
+    },
+    {
+      "name": "react-native-voximplant",
+      "descriptions": "VoxImplant Mobile SDK for embedding voice and video communication into React Native apps.",
+      "keyword": [
+        "react-native",
+        "react",
+        "native",
+        "voximplant",
+        "mobile",
+        "sdk"
+      ],
+      "author": "voxadmin"
+    },
+    {
+      "name": "react-devices",
+      "descriptions": "React Devices",
+      "keyword": [
+        "react",
+        "devices",
+        "mobile",
+        "desktop",
+        "css",
+        "ios",
+        "android",
+        "mac"
+      ],
+      "author": "pavkout"
+    },
+    {
+      "name": "@mobile/lodash",
+      "descriptions": "Repackaged version of lodash for mobile",
+      "keyword": [
+        "modules",
+        "stdlib",
+        "util",
+        "lodash",
+        "mobile"
+      ],
+      "author": "brentonhouse"
+    },
+    {
+      "name": "ember-device-detection",
+      "descriptions": "Ember device detection is an Ember addon for client-side device detection and a wrapper of the UA parser library. It makes it easy to render different views or url redirection based on device type, operating system, browser and media queries.",
+      "keyword": [
+        "ember-addon",
+        "device",
+        "operating system",
+        "mobile",
+        "user-agent",
+        "ios",
+        "android"
+      ],
+      "author": "nyzz"
+    },
+    {
+      "name": "mia-js-core",
+      "descriptions": "Mia.js - Middleware API framework",
+      "keyword": [
+        "api",
+        "mobile",
+        "middleware",
+        "framework"
+      ],
+      "author": "7factory"
+    },
+    {
+      "name": "@roundingwellos/libphonenumber-js",
+      "descriptions": "A simpler (and smaller) rewrite of Google Android's popular libphonenumber library",
+      "keyword": [
+        "javascript",
+        "telephone",
+        "phone",
+        "number",
+        "input",
+        "mobile",
+        "android",
+        "iphone",
+        "international",
+        "libphonenumber"
+      ],
+      "author": "paulfalgout"
+    },
+    {
+      "name": "mongodb-stitch-server-sdk",
+      "descriptions": "MongoDB Stitch JavaScript SDK - Server SDK",
+      "keyword": [
+        "mongodb",
+        "aws",
+        "twilio",
+        "http",
+        "mobile",
+        "serverless",
+        "stitch",
+        "atlas"
+      ],
+      "author": "adamchel_mongodb"
+    },
+    {
+      "name": "ng-zorro-antd-mobile",
+      "descriptions": "An enterprise-class mobile UI components based on Ant Design and Angular",
+      "keyword": [
+        "ant",
+        "design",
+        "ng-zorro-mobile",
+        "mobile",
+        "angular",
+        "ui",
+        "framework",
+        "frontend"
+      ],
+      "author": "guoyuanqiang"
+    },
+    {
+      "name": "missionlog",
+      "descriptions": "🚀 lightweight logger • level based filtering and tagging • weighs in at 500 bytes",
+      "keyword": [
+        "log",
+        "logger",
+        "logging",
+        "browser",
+        "node",
+        "mobile",
+        "front-end",
+        "backend",
+        "isomorphic",
+        "typescript",
+        "minimal"
+      ],
+      "author": "rmartone"
+    },
+    {
+      "name": "goblin-base",
+      "descriptions": "Goblin-base is a toolkit fit for data vis engineer.",
+      "keyword": [
+        "f2",
+        "mobile",
+        "charts",
+        "data visualization"
+      ],
+      "author": "zuobin.zb"
+    },
+    {
+      "name": "bh-mint-ui2",
+      "descriptions": "Mobile UI elements for vue.js",
+      "keyword": [
+        "component",
+        "vue",
+        "mobile",
+        "wisedu"
+      ],
+      "author": "wangyongjian"
+    },
+    {
+      "name": "forcedroid",
+      "descriptions": "Utilities for creating mobile apps based on the Salesforce Mobile SDK for Android",
+      "keyword": [
+        "mobilesdk",
+        "android",
+        "salesforce",
+        "mobile",
+        "sdk"
+      ],
+      "author": "wmathurin_sfdc"
+    },
+    {
+      "name": "jquery-nav-scroll",
+      "descriptions": "A simple jQuery plugin for animated scrolling to a section of your page with mobile dropdown and scrollspy support.",
+      "keyword": [
+        "nav",
+        "scroll",
+        "jquery",
+        "mobile",
+        "dropdown",
+        "scrollspy"
+      ],
+      "author": "hamm"
+    },
+    {
+      "name": "textmagic-rest-client",
+      "descriptions": "A Textmagic REST client",
+      "keyword": [
+        "textmagic",
+        "sms",
+        "texting",
+        "messages",
+        "mobile",
+        "rest"
+      ],
+      "author": "textmagic"
+    },
+    {
+      "name": "vue-phone",
+      "descriptions": "Vue phone container",
+      "keyword": [
+        "vue",
+        "vue2",
+        "phone",
+        "cotainer",
+        "mobile",
+        "vue-phone"
+      ],
+      "author": "thomasyxy"
+    },
+    {
+      "name": "jresplus",
+      "descriptions": "恒生移动web应用平台（Light）快速开发集成工具箱",
+      "keyword": [
+        "jresplus",
+        "mobile",
+        "web",
+        "weixin",
+        "tool",
+        "hundusn",
+        "javascript",
+        "devlope"
+      ],
+      "author": "wangyb10555"
+    },
+    {
+      "name": "mobile-image-load",
+      "descriptions": "This directive allow to load and render some image through various EXIF orientation flags, in both landscape and portrait orientation.",
+      "keyword": [
+        "image",
+        "rotation",
+        "mobile",
+        "exif",
+        "orientation",
+        "jpg",
+        "jpge",
+        "images",
+        "upload"
+      ],
+      "author": "alvaropaco"
+    },
+    {
+      "name": "milligram-stylus",
+      "descriptions": "A minimalist CSS framework on Stylus version.",
+      "keyword": [
+        "bootstrap",
+        "css",
+        "css3",
+        "flexbox",
+        "front-end",
+        "framework",
+        "html",
+        "html5",
+        "kickstarter",
+        "less",
+        "responsive",
+        "mobile",
+        "mobile-first",
+        "postcss",
+        "View more"
+      ],
+      "author": "cjpatoilo"
+    },
+    {
+      "name": "layui",
+      "descriptions": "Mobile UI Components For React",
+      "keyword": [
+        "layui",
+        "mobile",
+        "css",
+        "fonts",
+        "ios",
+        "android",
+        "reactui",
+        "react",
+        "ui"
+      ],
+      "author": "jserlay"
+    },
+    {
+      "name": "cleverstack-cli",
+      "descriptions": "Command line interface for CleverStack",
+      "keyword": [
+        "koa",
+        "auth",
+        "security",
+        "oracle",
+        "mysql",
+        "sql",
+        "nosql",
+        "mongo",
+        "mongodb",
+        "sqlserver",
+        "mssql",
+        "postgres",
+        "postgresql",
+        "soap",
+        "View more"
+      ],
+      "author": "pilsy"
+    },
+    {
+      "name": "@aerobase/core",
+      "descriptions": "JavaScript Core SDK for AeroBase services",
+      "keyword": [
+        "aerobase",
+        "mobile"
+      ],
+      "author": "aerobase"
+    },
+    {
+      "name": "@guardian/mobile-apps-article-templates",
+      "descriptions": "Templates for articles on both iOS and Android next-gen apps",
+      "keyword": [
+        "guardian",
+        "mobile",
+        "template"
+      ],
+      "author": "aware"
+    },
+    {
+      "name": "reactive-blueimp-gallery",
+      "descriptions": "A React wrapper for BlueImp gallery",
+      "keyword": [
+        "reactjs",
+        "javascript",
+        "image",
+        "video",
+        "gallery",
+        "carousel",
+        "lightbox",
+        "mobile",
+        "desktop",
+        "touch",
+        "responsive",
+        "swipe",
+        "mouse",
+        "keyboard",
+        "View more"
+      ],
+      "author": "cosmitar"
+    },
+    {
+      "name": "responsive-directives-angular2",
+      "descriptions": "Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 2",
+      "keyword": [
+        "angular",
+        "angular2",
+        "ng2",
+        "responsive",
+        "bootstrap",
+        "detect",
+        "mobile",
+        "tablet",
+        "device",
+        "devices",
+        "screen",
+        "typescript",
+        "directive",
+        "retina",
+        "View more"
+      ],
+      "author": "manucutillas"
+    },
+    {
+      "name": "uiconsole",
+      "descriptions": "Web developer tools for testing, scripting and debugging on remote devices.",
+      "keyword": [
+        "web",
+        "html5",
+        "firebug",
+        "weinre",
+        "tap",
+        "javascript",
+        "webapp",
+        "css",
+        "remote",
+        "mobile",
+        "gremlins",
+        "html2canvas",
+        "easy",
+        "ui"
+      ],
+      "author": "easy-ui"
+    },
+    {
+      "name": "react-native-local-auth",
+      "descriptions": "React Native local authentication with touch id or passcode",
+      "keyword": [
+        "react-native",
+        "react",
+        "native",
+        "touch-id",
+        "passcode",
+        "react-component",
+        "react-native-component",
+        "authentication",
+        "auth",
+        "authenticate",
+        "mobile"
+      ],
+      "author": "tenaciousmv"
+    },
+    {
+      "name": "brim",
+      "descriptions": "View (minimal-ui) manager for iOS 8.",
+      "keyword": [
+        "minimal-ui",
+        "ios",
+        "fullscreen",
+        "mobile",
+        "viewport"
+      ],
+      "author": "gajus"
+    },
+    {
+      "name": "swipe-up",
+      "descriptions": "Reference 'Swipe Up' functionality implementation based on 'Browser Ui State' intended to provide a way to expand browser to full screen state",
+      "keyword": [
+        "mobile",
+        "browser",
+        "swipe-up",
+        "fullscreen"
+      ],
+      "author": "thebit"
+    },
+    {
+      "name": "@remobile/react-native-cordova",
+      "descriptions": "A cordova plugin defines for react native on ios and android",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "cordova",
+        "plugin",
+        "remobile",
+        "mobile"
+      ],
+      "author": "remobile"
+    },
+    {
+      "name": "react-native-photo-view-ex",
+      "descriptions": "Displaying photos with pinch-to-zoom, based on react-native-photo-view",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "gallery",
+        "lightbox",
+        "pinch",
+        "pinch-to-zoom",
+        "mobile"
+      ],
+      "author": "amarcruz"
+    },
+    {
+      "name": "medic-nootils",
+      "descriptions": "Medic mobile extensions for nools for use in tasks-rules",
+      "keyword": [
+        "nools",
+        "medicmobile",
+        "medic",
+        "mobile"
+      ],
+      "author": "kennsippell"
+    },
+    {
+      "name": "visibility-change-ponyfill",
+      "descriptions": "A more reliable visibilitychange event that works in more mobile WebViews",
+      "keyword": [
+        "browser",
+        "visibility",
+        "change",
+        "visibilitychange",
+        "ios",
+        "mobile",
+        "chrome",
+        "event",
+        "pageshow",
+        "pagehide",
+        "android",
+        "uiwebview",
+        "webview",
+        "ponyfill"
+      ],
+      "author": "bfred-it"
+    },
+    {
+      "name": "angular-devices-detector",
+      "descriptions": "Angular Devices Detector come with provider that identify the user device by user-agent.",
+      "keyword": [
+        "device",
+        "mobile detection",
+        "mobile",
+        "device detection",
+        "desktop detection"
+      ],
+      "author": "bnayazil"
+    },
+    {
+      "name": "@atlaskit/editor-mobile-bridge",
+      "descriptions": "Mobile distribution of the Editor",
+      "keyword": [
+        "editor",
+        "mobile"
+      ],
+      "author": "atlaskit"
+    },
+    {
+      "name": "@mobile/hjson",
+      "descriptions": "Repackaged version of Hjson, the Human JSON, for mobile",
+      "keyword": [
+        "json",
+        "comments",
+        "config",
+        "hjson",
+        "parser",
+        "serializer",
+        "human",
+        "mobile"
+      ],
+      "author": "brentonhouse"
+    },
+    {
+      "name": "nbd",
+      "descriptions": "No Big Deal modular MVC and tools library",
+      "keyword": [
+        "mvc",
+        "utils",
+        "mobile",
+        "responsive"
+      ],
+      "author": "mikesherov"
+    },
+    {
+      "name": "react-native-flip-component",
+      "descriptions": "Double-sided React component that flips 180 degrees",
+      "keyword": [
+        "react-native",
+        "react",
+        "flip",
+        "component",
+        "view",
+        "flip-component",
+        "flip-view",
+        "mobile",
+        "ios",
+        "android"
+      ],
+      "author": "plmok61"
+    },
+    {
+      "name": "chimee-plugin-mobile-state",
+      "descriptions": "State for chimee",
+      "keyword": [
+        "plugin",
+        "chimee",
+        "state",
+        "video",
+        "mobile"
+      ],
+      "author": "yandeqiang"
+    },
+    {
+      "name": "@titanium/module-copier",
+      "descriptions": "Copies dependencies defined in package.json to Titanium Resources directory",
+      "keyword": [
+        "titanium",
+        "mobile",
+        "alloy",
+        "eslint",
+        "turbo",
+        "axway",
+        "appcelerator",
+        "ios",
+        "android",
+        "iphone",
+        "ipad",
+        "modules",
+        "brenton-house"
+      ],
+      "author": "brentonhouse"
+    },
+    {
+      "name": "liveapicreator-cli",
+      "descriptions": "A REST command line utility for CA Live API Creator from CA Technologies",
+      "keyword": [
+        "CA Technologies",
+        "liveapicreator",
+        "API Server",
+        "Data Explorer",
+        "logic",
+        "command",
+        "line",
+        "REST",
+        "API",
+        "RESTful",
+        "database",
+        "sql",
+        "mysql",
+        "oracle",
+        "View more"
+      ],
+      "author": "tylerm007"
+    },
+    {
+      "name": "benmajor-jquery-touch-events",
+      "descriptions": "Polyfill to remove click delays on browsers with touch UIs.",
+      "keyword": [
+        "jquery-touch-events",
+        "jquery-mobile",
+        "mobile",
+        "touch"
+      ],
+      "author": "alga"
+    },
+    {
+      "name": "stylelint-config-amp",
+      "descriptions": "Stylelint config to enforce Accelerated Mobile Pages CSS restrictions",
+      "keyword": [
+        "stylelint",
+        "stylelint-config",
+        "postcss",
+        "amp",
+        "mobile",
+        "accelerated-mobile-pages",
+        "validator",
+        "Accelerated Mobile Pages",
+        "AMP HTML",
+        "validate",
+        "amphtml"
+      ],
+      "author": "tinovyatkin"
+    },
+    {
+      "name": "com.splunk.mint",
+      "descriptions": "Cordova plugin for Splunk MINT",
+      "keyword": [
+        "cordova",
+        "splunk",
+        "mint",
+        "splunkmint",
+        "apm",
+        "mobile",
+        "analytics"
+      ],
+      "author": "panosjee"
+    },
+    {
+      "name": "mia-js",
+      "descriptions": "Mia.js - Middleware API framework",
+      "keyword": [
+        "api",
+        "framework",
+        "middleware",
+        "mobile",
+        "endpoints"
+      ],
+      "author": "7factory"
+    },
+    {
+      "name": "tinycolorpicker",
+      "descriptions": "A lightweight cross browser jQuery based colorpicker.",
+      "keyword": [
+        "UI",
+        "jQuery",
+        "Mobile",
+        "colorpicker",
+        "javascript"
+      ],
+      "author": "wieringen"
+    },
+    {
+      "name": "angular4-weui",
+      "descriptions": "Angular4-WeUI - a development UI library for building mobile web applications with Angular",
+      "keyword": [
+        "angular-weui",
+        "mobile",
+        "framework",
+        "webapp",
+        "wechat"
+      ],
+      "author": "fbchen"
+    },
+    {
+      "name": "postcss-mobile-hover",
+      "descriptions": "PostCSS plugin that transforms :hover selectors to :active on devices where a mouse isn't the primary input mechanism",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "hover",
+        "mobile"
+      ],
+      "author": "felskov"
+    },
+    {
+      "name": "screen-pl",
+      "descriptions": "移动设备WEB横屏或竖屏显示模式提示,mobile screen portrait or landscape，Support android version 4.4+ and ios",
+      "keyword": [
+        "portrait",
+        "landscape",
+        "screen",
+        "mobile",
+        "android",
+        "ios",
+        "npm"
+      ],
+      "author": "guo_g"
+    },
+    {
+      "name": "be-theme",
+      "descriptions": "A powerfull tool to customize React native app theme, components,style,....",
+      "keyword": [
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "react",
+        "react native",
+        "mobile",
+        "ios",
+        "android",
+        "ui",
+        "expo",
+        "blue eye",
+        "Theme",
+        "framework",
+        "advance theme",
+        "View more"
+      ],
+      "author": "lockcommerce"
+    },
+    {
+      "name": "@rucken/schematics",
+      "descriptions": "A schematics collections for generate source files for Angular7+ application based on Rucken template",
+      "keyword": [
+        "schematics",
+        "nx",
+        "workspace",
+        "ngx",
+        "angular7",
+        "nestjs",
+        "ionic",
+        "bootstrap",
+        "admin",
+        "ui",
+        "backend",
+        "mobile",
+        "frontend",
+        "application",
+        "View more"
+      ],
+      "author": "endykaufman"
+    },
+    {
+      "name": "destygo-swiper",
+      "descriptions": "Most modern mobile touch slider and framework with hardware accelerated transitions",
+      "keyword": [
+        "swiper",
+        "swipe",
+        "slider",
+        "touch",
+        "ios",
+        "mobile",
+        "cordova",
+        "phonegap",
+        "app",
+        "framework",
+        "framework7",
+        "carousel",
+        "gallery",
+        "plugin"
+      ],
+      "author": "dmytro_shevchenko"
+    },
+    {
+      "name": "gjtool",
+      "descriptions": "GjTool.js is a javascript class library（前端轻量js类库）",
+      "keyword": [
+        "gjtool",
+        "touch",
+        "gesture",
+        "javascript",
+        "plugin",
+        "library",
+        "mobile"
+      ],
+      "author": "gjtool"
+    },
+    {
+      "name": "sneakpeek",
+      "descriptions": "Hides header when scrolling down. Shows header when scrolling up.",
+      "keyword": [
+        "browser",
+        "mobile"
+      ],
+      "author": "antris"
+    },
+    {
+      "name": "@enact/moonstone",
+      "descriptions": "Large-screen/TV support library for Enact, containing a variety of UI components.",
+      "keyword": [
+        "framework",
+        "toolkit",
+        "components",
+        "mobile",
+        "webOS"
+      ],
+      "author": "enact"
+    },
+    {
+      "name": "hotcss",
+      "descriptions": "Make Mobile Development Layout More Easy.",
+      "keyword": [
+        "rem",
+        "css3",
+        "mobile",
+        "layout",
+        "resize",
+        "scss",
+        "less",
+        "hotcss",
+        "mochen"
+      ],
+      "author": "mochen"
+    },
+    {
+      "name": "node-titanium-sdk",
+      "descriptions": "Appcelerator Titanium SDK Library",
+      "keyword": [
+        "appcelerator",
+        "titanium",
+        "mobile"
+      ],
+      "author": "appcelerator"
+    },
+    {
+      "name": "stage-js",
+      "descriptions": "2D JavaScript library for cross-platform HTML5 game development",
+      "keyword": [
+        "html5",
+        "game",
+        "rendering",
+        "engine",
+        "2d",
+        "canvas",
+        "mobile"
+      ],
+      "author": "shakiba"
+    },
+    {
+      "name": "yun-ui",
+      "descriptions": "Mobile UI Components Library for Vue.js by yunzhijia.",
+      "keyword": [
+        "component",
+        "vue",
+        "mobile",
+        "CloudHub",
+        "yunzhijia",
+        "YunUI"
+      ],
+      "author": "smildlzj"
+    },
+    {
+      "name": "npm-adaptiveme-nibble",
+      "descriptions": "Adaptive.me Nibble - The multi-platform mobile device simulator for desktop using NodeJS.",
+      "keyword": [
+        "adaptive",
+        "hybrid",
+        "html5",
+        "mobile",
+        "desktop",
+        "framework"
+      ],
+      "author": "carloslozano"
+    },
+    {
+      "name": "faster",
+      "descriptions": "Faster way to reload your web project on all connected devices",
+      "keyword": [
+        "faster",
+        "reload",
+        "and",
+        "testing",
+        "browsers",
+        "connected",
+        "mobile",
+        "development"
+      ],
+      "author": "nelsonic"
+    },
+    {
+      "name": "cmui",
+      "descriptions": "Lightweight UI solution for mobile web.",
+      "keyword": [
+        "ui",
+        "framework",
+        "widget",
+        "mobile",
+        "web"
+      ],
+      "author": "cssmagic"
+    },
+    {
+      "name": "mobile-router.js",
+      "descriptions": "A lightweight single page bone for mobile web App.",
+      "keyword": [
+        "mobile-router",
+        "mobile-router.js",
+        "mobile",
+        "router",
+        "mobile router",
+        "mobile web app",
+        "single page application",
+        "javascript"
+      ],
+      "author": "dolymood"
+    },
+    {
+      "name": "ns8-data-services",
+      "descriptions": "Realtime API to get a user's fraud score, geolocation, device, demographic, search and technology data based on an IP address, user agent and referrer.",
+      "keyword": [
+        "user",
+        "visitor",
+        "bot",
+        "fraud",
+        "detection",
+        "geolocation",
+        "demographic",
+        "search engine",
+        "keywords",
+        "search terms",
+        "analytics",
+        "browser",
+        "platform",
+        "device type",
+        "View more"
+      ],
+      "author": "vizzaccaro"
+    },
+    {
+      "name": "phoneparser",
+      "descriptions": "A parser for phone numbers.",
+      "keyword": [
+        "phone",
+        "phone numbers",
+        "numbers",
+        "parser",
+        "area code",
+        "code",
+        "mobile",
+        "landline"
+      ],
+      "author": "andyburke"
+    },
+    {
+      "name": "vue-img-cropper",
+      "descriptions": "A img-cropper for vue@2.0+; 移动端图片裁剪组件",
+      "keyword": [
+        "vue",
+        "mobile",
+        "img",
+        "crop"
+      ],
+      "author": "xianglei"
+    },
+    {
+      "name": "meetui",
+      "descriptions": "Mobile ui components based on react",
+      "keyword": [
+        "meetui",
+        "react",
+        "mobile"
+      ],
+      "author": "zhiquan_yu"
+    },
+    {
+      "name": "survana-admin",
+      "descriptions": "Survana administration module",
+      "keyword": [
+        "survana",
+        "questionnaire",
+        "form",
+        "mobile",
+        "admin"
+      ],
+      "author": "vpetrov"
+    },
+    {
+      "name": "loopback-connector-twilio2",
+      "descriptions": "LoopBack connector for Twilio",
+      "keyword": [
+        "web",
+        "restful",
+        "rest",
+        "api",
+        "expess",
+        "loopback",
+        "twilio",
+        "StrongLoop",
+        "framework",
+        "mobile",
+        "mBaaS"
+      ],
+      "author": "mraquino"
+    },
+    {
+      "name": "generator-happy-mobile-webapp",
+      "descriptions": "Scaffolds out a front-end mobile webapp, ES6 supported",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "mustache",
+        "front-end",
+        "mobile",
+        "h5bp",
+        "modernizr",
+        "zepto",
+        "bower",
+        "babel",
+        "ES6",
+        "grunt",
+        "coffeescript"
+      ],
+      "author": "zerob13"
+    },
+    {
+      "name": "react-native-phone-verification",
+      "descriptions": "The best React Native example for phone verification",
+      "keyword": [
+        "react",
+        "react-native",
+        "native",
+        "phone",
+        "verification",
+        "verify",
+        "auth",
+        "pin",
+        "code",
+        "digits",
+        "twitter",
+        "fabric",
+        "twitter-digits",
+        "google",
+        "View more"
+      ],
+      "author": "niftylettuce"
+    },
+    {
+      "name": "react-native-refresher",
+      "descriptions": "A React Native pull to refresh ListView completely written in js. Also supports custom animations.",
+      "keyword": [
+        "react",
+        "react-native",
+        "react-component",
+        "react-native-component",
+        "mobile",
+        "ui"
+      ],
+      "author": "syrusakbary"
+    },
+    {
+      "name": "pgwslideshow",
+      "descriptions": "Responsive slideshow / gallery / carousel for jQuery / Zepto",
+      "keyword": [
+        "slider",
+        "slideshow",
+        "gallery",
+        "carousel",
+        "responsive",
+        "mobile",
+        "image",
+        "animation",
+        "ui",
+        "jquery",
+        "jquery-plugin",
+        "zepto"
+      ],
+      "author": "pagawa"
+    },
+    {
+      "name": "kakaui",
+      "descriptions": "A UI library for kakawanpai mothor and baby photography.",
+      "keyword": [
+        "kakaui",
+        "wechat",
+        "weixin",
+        "css",
+        "less",
+        "mobile"
+      ],
+      "author": "yaoshining"
+    },
+    {
+      "name": "vue-light-gallery",
+      "descriptions": "VueJS lightweight image gallery for both mobile and desktop browsers.",
+      "keyword": [
+        "vue-light-gallery-",
+        "vuejs-light-gallery",
+        "gallery",
+        "images",
+        "lightbox",
+        "lightweight",
+        "mobile",
+        "responsive",
+        "tough",
+        "vue",
+        "vuejs",
+        "vue-component",
+        "vue-plugin"
+      ],
+      "author": "peremp"
+    },
+    {
+      "name": "h5ui",
+      "descriptions": "Mobile front-end CSS framework",
+      "keyword": [
+        "H5UI",
+        "CSS",
+        "mobile",
+        "LESS",
+        "ui"
+      ],
+      "author": "acterce"
+    },
+    {
+      "name": "react-native-sbxui",
+      "descriptions": "A navigation UI inspired by the Starbucks mobile app.",
+      "keyword": [
+        "react-native",
+        "starbucks",
+        "sbx",
+        "navigation",
+        "ui",
+        "sbxui",
+        "clone",
+        "mobile"
+      ],
+      "author": "jm_francis"
+    },
+    {
+      "name": "jackbone",
+      "descriptions": "Give a Backbone to your JQuery Mobile app.",
+      "keyword": [
+        "model",
+        "view",
+        "controller",
+        "router",
+        "server",
+        "client",
+        "browser",
+        "mobile",
+        "jquery"
+      ],
+      "author": "jchoelt"
+    },
+    {
+      "name": "tribe.expressions",
+      "descriptions": "Provides a common representation for simple expressions and tools for evaluating them. Part of the tribe platform.",
+      "keyword": [
+        "tribe",
+        "web",
+        "mobile",
+        "distributed",
+        "expression"
+      ],
+      "author": "danderson00"
+    },
+    {
+      "name": "@smartface/styler",
+      "descriptions": "Component styling wrapper",
+      "keyword": [
+        "javascript",
+        "mobile",
+        "styling",
+        "style"
+      ],
+      "author": "alnyli07"
+    },
+    {
+      "name": "catjsrunner",
+      "descriptions": "CATJS runner is a command line tool that helps you run your web application on multiple devices including, Android, iOS, and PC browsers. This tool is very useful when combined with mobile web automation frameworks like [catjs](https://www.npmjs.org/pack",
+      "keyword": [
+        "mobile",
+        "runner"
+      ],
+      "author": "lastboy"
     }
   ]
 }

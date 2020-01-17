@@ -1,6 +1,5 @@
 {
   "packages": [
-    "serverless",
     "serialport",
     "node-red",
     "swiper",

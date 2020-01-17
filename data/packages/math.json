@@ -1,0 +1,6252 @@
+{
+  "keyword": "math",
+  "packages": [
+    {
+      "name": "is-number",
+      "descriptions": "Returns true if a number or string value is a finite number. Useful for regex matches, parsing, user input, etc.",
+      "keyword": [
+        "cast",
+        "check",
+        "coerce",
+        "coercion",
+        "finite",
+        "integer",
+        "is",
+        "isnan",
+        "is-nan",
+        "is-num",
+        "is-number",
+        "isnumber",
+        "isfinite",
+        "istype",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "long",
+      "descriptions": "A Long class for representing a 64-bit two's-complement integer value.",
+      "keyword": [
+        "math"
+      ],
+      "author": "dcode"
+    },
+    {
+      "name": "node-int64",
+      "descriptions": "Support for representing 64-bit integers in JavaScript",
+      "keyword": [
+        "math",
+        "integer",
+        "int64"
+      ],
+      "author": "broofa"
+    },
+    {
+      "name": "buffer-xor",
+      "descriptions": "A simple module for bitwise-xor on buffers",
+      "keyword": [
+        "bits",
+        "bitwise",
+        "buffer",
+        "buffer-xor",
+        "crypto",
+        "inline",
+        "math",
+        "memory",
+        "performance",
+        "xor"
+      ],
+      "author": "dcousens"
+    },
+    {
+      "name": "big-integer",
+      "descriptions": "An arbitrary length integer library for Javascript",
+      "keyword": [
+        "math",
+        "big",
+        "bignum",
+        "bigint",
+        "biginteger",
+        "integer",
+        "arbitrary",
+        "precision",
+        "arithmetic"
+      ],
+      "author": "peterolson"
+    },
+    {
+      "name": "num2fraction",
+      "descriptions": "Convert number to fraction",
+      "keyword": [
+        "fraction",
+        "number",
+        "math",
+        "maths",
+        "arithmetic",
+        "gcd",
+        "rational"
+      ],
+      "author": "yisi"
+    },
+    {
+      "name": "@xtuc/long",
+      "descriptions": "A Long class for representing a 64-bit two's-complement integer value.",
+      "keyword": [
+        "math"
+      ],
+      "author": "xtuc"
+    },
+    {
+      "name": "mathjs",
+      "descriptions": "Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work with dif",
+      "keyword": [
+        "math",
+        "mathematics",
+        "functions",
+        "numeric",
+        "algebra",
+        "parser",
+        "expression",
+        "number",
+        "bignumber",
+        "complex",
+        "fraction",
+        "matrix",
+        "unit"
+      ],
+      "author": "josdejong"
+    },
+    {
+      "name": "is-natural-number",
+      "descriptions": "Check if a value is a natural number",
+      "keyword": [
+        "number",
+        "natural",
+        "check",
+        "int",
+        "integer",
+        "math",
+        "mathematics",
+        "range",
+        "browser",
+        "client-side"
+      ],
+      "author": "shinnn"
+    },
+    {
+      "name": "rbush",
+      "descriptions": "High-performance 2D spatial index for rectangles (based on R*-tree with bulk loading and bulk insertion algorithms)",
+      "keyword": [
+        "spatial",
+        "tree",
+        "search",
+        "rectangle",
+        "index",
+        "math"
+      ],
+      "author": "mourner"
+    },
+    {
+      "name": "handlebars-helpers",
+      "descriptions": "More than 130 Handlebars helpers in ~20 categories. Helpers can be used with Assemble, Generate, Verb, Ghost, gulp-handlebars, grunt-handlebars, consolidate, or any node.js/Handlebars project.",
+      "keyword": [
+        "array",
+        "assemble",
+        "collection",
+        "comparison",
+        "date",
+        "handlebars",
+        "helper",
+        "helpers",
+        "html",
+        "i18n",
+        "inflection",
+        "log",
+        "logging",
+        "markdown",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "mathml-tag-names",
+      "descriptions": "List of known MathML tag-names",
+      "keyword": [
+        "MathML",
+        "math",
+        "tag",
+        "name",
+        "element",
+        "tagname",
+        "w3c"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "math-expression-evaluator",
+      "descriptions": "A flexible math expression evaluator",
+      "keyword": [
+        "math",
+        "expression",
+        "evaluator",
+        "parser"
+      ],
+      "author": "ankitbug94"
+    },
+    {
+      "name": "clamp",
+      "descriptions": "Clamp a value between two other values",
+      "keyword": [
+        "clamp",
+        "math",
+        "greater",
+        "less",
+        "than",
+        "between"
+      ],
+      "author": "hughsk"
+    },
+    {
+      "name": "date-arithmetic",
+      "descriptions": "Simple date math util",
+      "keyword": [
+        "moment",
+        "date",
+        "math"
+      ],
+      "author": "monastic.panic"
+    },
+    {
+      "name": "simple-statistics",
+      "descriptions": "Simple Statistics",
+      "keyword": [
+        "descriptive",
+        "linear",
+        "math",
+        "probability",
+        "regression",
+        "statistics"
+      ],
+      "author": "tmcw"
+    },
+    {
+      "name": "ndarray-ops",
+      "descriptions": "Common operations for ndarray arrays",
+      "keyword": [
+        "ndarray",
+        "math",
+        "operations",
+        "scientific",
+        "linear",
+        "algebra"
+      ],
+      "author": "mikolalysenko"
+    },
+    {
+      "name": "numeric",
+      "descriptions": "Numerical analysis in javascript",
+      "keyword": [
+        "numeric",
+        "analysis",
+        "math"
+      ],
+      "author": "clay"
+    },
+    {
+      "name": "frac",
+      "descriptions": "Rational approximation with bounded denominator",
+      "keyword": [
+        "math",
+        "fraction",
+        "rational",
+        "approximation"
+      ],
+      "author": "sheetjs"
+    },
+    {
+      "name": "is-odd",
+      "descriptions": "Returns true if the given number is odd, and is an integer that does not exceed the JavaScript MAXIMUM_SAFE_INTEGER.",
+      "keyword": [
+        "array",
+        "count",
+        "even",
+        "filter",
+        "integer",
+        "is",
+        "math",
+        "numeric",
+        "odd",
+        "string"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "fraction.js",
+      "descriptions": "A rational number library",
+      "keyword": [
+        "math",
+        "fraction",
+        "rational",
+        "rationals",
+        "number",
+        "parser",
+        "rational numbers"
+      ],
+      "author": "infusion"
+    },
+    {
+      "name": "complex.js",
+      "descriptions": "A complex number library",
+      "keyword": [
+        "complex numbers",
+        "math",
+        "complex",
+        "number",
+        "calculus",
+        "parser",
+        "arithmetic"
+      ],
+      "author": "infusion"
+    },
+    {
+      "name": "csprng",
+      "descriptions": "Secure random numbers of any size in any base",
+      "keyword": [
+        "crypto",
+        "math",
+        "random",
+        "security"
+      ],
+      "author": "jcoglan"
+    },
+    {
+      "name": "cwise",
+      "descriptions": "Component-wise operations on ndarrays",
+      "keyword": [
+        "scijs",
+        "ndarray",
+        "component",
+        "scientific",
+        "computing",
+        "volume",
+        "image",
+        "array",
+        "typed",
+        "scalar",
+        "math",
+        "linear",
+        "algebra",
+        "signal",
+        "View more"
+      ],
+      "author": "rreusser"
+    },
+    {
+      "name": "bit-twiddle",
+      "descriptions": "Bit twiddling hacks for JavaScript",
+      "keyword": [
+        "bit",
+        "twiddle",
+        "hacks",
+        "graphics",
+        "logarithm",
+        "exponent",
+        "base 2",
+        "binary",
+        "arithmetic",
+        "octree",
+        "quadtree",
+        "math",
+        "nextPow2",
+        "log",
+        "View more"
+      ],
+      "author": "mikolalysenko"
+    },
+    {
+      "name": "random-item",
+      "descriptions": "Get a random item from an array",
+      "keyword": [
+        "random",
+        "randomize",
+        "math",
+        "array",
+        "item",
+        "element",
+        "pick",
+        "select"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "suncalc",
+      "descriptions": "A tiny JavaScript library for calculating sun/moon positions and phases.",
+      "keyword": [
+        "sun",
+        "astronomy",
+        "math",
+        "calculation",
+        "sunrise",
+        "sunset",
+        "twilight",
+        "moon",
+        "illumination"
+      ],
+      "author": "mourner"
+    },
+    {
+      "name": "stats-lite",
+      "descriptions": "A light statistical package that operates on numeric Arrays.",
+      "keyword": [
+        "stats",
+        "statistics",
+        "numbers",
+        "math",
+        "sum",
+        "mean",
+        "average",
+        "mode",
+        "median",
+        "percentile",
+        "variance",
+        "deviation"
+      ],
+      "author": "bryce"
+    },
+    {
+      "name": "math-interval-parser",
+      "descriptions": "Parse math interval",
+      "keyword": [
+        "mathematics",
+        "interval",
+        "math",
+        "parse",
+        "parsing"
+      ],
+      "author": "semigradsky"
+    },
+    {
+      "name": "gl-mat4",
+      "descriptions": "Gl-matrix's mat4, split into smaller pieces",
+      "keyword": [
+        "gl-matrix",
+        "matrix",
+        "math",
+        "gl",
+        "mat4",
+        "mat4x4",
+        "4x4",
+        "mat",
+        "vector",
+        "maths"
+      ],
+      "author": "rreusser"
+    },
+    {
+      "name": "gl-vec3",
+      "descriptions": "Gl-matrix's vec3, split into smaller pieces",
+      "keyword": [
+        "gl-matrix",
+        "matrix",
+        "math",
+        "gl",
+        "vec3",
+        "vec",
+        "3d",
+        "vector",
+        "maths",
+        "add",
+        "angle",
+        "clone",
+        "copy",
+        "create",
+        "View more"
+      ],
+      "author": "rreusser"
+    },
+    {
+      "name": "random-int",
+      "descriptions": "Generate a random integer",
+      "keyword": [
+        "rand",
+        "random",
+        "randomize",
+        "int",
+        "integer",
+        "number",
+        "max",
+        "min",
+        "math",
+        "generate",
+        "generator"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "is-even",
+      "descriptions": "Return true if the given number is even.",
+      "keyword": [
+        "array",
+        "count",
+        "even",
+        "filter",
+        "integer",
+        "is",
+        "math",
+        "numeric",
+        "odd",
+        "string"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "mathjax",
+      "descriptions": "Beautiful math in all browsers. MathJax is an open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all browsers.",
+      "keyword": [
+        "math",
+        "svg",
+        "mathml",
+        "tex",
+        "latex",
+        "asciimath",
+        "browser",
+        "browser-only"
+      ],
+      "author": "mjadmin"
+    },
+    {
+      "name": "@hapi/formula",
+      "descriptions": "Math and string formula parser.",
+      "keyword": [
+        "formula",
+        "parser",
+        "math",
+        "string"
+      ],
+      "author": "hueniverse"
+    },
+    {
+      "name": "simplify-js",
+      "descriptions": "A high-performance JavaScript 2D/3D polyline simplification library",
+      "keyword": [
+        "math",
+        "geometry",
+        "polyline",
+        "simplification"
+      ],
+      "author": "mourner"
+    },
+    {
+      "name": "bigi",
+      "descriptions": "Big integers.",
+      "keyword": [
+        "cryptography",
+        "math",
+        "bitcoin",
+        "arbitrary",
+        "precision",
+        "arithmetic",
+        "big",
+        "integer",
+        "int",
+        "number",
+        "biginteger",
+        "bigint",
+        "bignumber",
+        "decimal"
+      ],
+      "author": "jprichardson"
+    },
+    {
+      "name": "circumcenter",
+      "descriptions": "Computes circumcenters of simplices",
+      "keyword": [
+        "simplex",
+        "circumcenter",
+        "triangle",
+        "geometry",
+        "math"
+      ],
+      "author": "mikolalysenko"
+    },
+    {
+      "name": "utils",
+      "descriptions": "Fast, generic JavaScript/node.js utility functions.",
+      "keyword": [
+        "array",
+        "collection",
+        "function",
+        "lang",
+        "language",
+        "math",
+        "object",
+        "string",
+        "util",
+        "utils"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "bessel",
+      "descriptions": "Pure-JS Bessel Functions",
+      "keyword": [
+        "bessel",
+        "math",
+        "specfun"
+      ],
+      "author": "sheetjs"
+    },
+    {
+      "name": "const-pinf-float64",
+      "descriptions": "Positive infinity.",
+      "keyword": [
+        "const.io",
+        "const",
+        "constant",
+        "const-io",
+        "compute.io",
+        "compute-io",
+        "computation",
+        "compute",
+        "mathematics",
+        "math",
+        "pinf",
+        "positive",
+        "infinity"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "sequin",
+      "descriptions": "Generate uniformly distributed ints in any base from a bit sequence",
+      "keyword": [
+        "math"
+      ],
+      "author": "jcoglan"
+    },
+    {
+      "name": "expr-eval",
+      "descriptions": "Mathematical expression evaluator",
+      "keyword": [
+        "expression",
+        "math",
+        "evaluate",
+        "eval",
+        "function",
+        "parser"
+      ],
+      "author": "silentmatt"
+    },
+    {
+      "name": "ember-math-helpers",
+      "descriptions": "HTMLBars helpers for basic arithmetic",
+      "keyword": [
+        "ember-addon",
+        "math helpers",
+        "math",
+        "arithmetic"
+      ],
+      "author": "rwwagner90"
+    },
+    {
+      "name": "round-to",
+      "descriptions": "Round a number to a specific number of decimal places: `1.234` → `1.2`",
+      "keyword": [
+        "round",
+        "number",
+        "num",
+        "decimal",
+        "places",
+        "ceil",
+        "floor",
+        "math",
+        "increment"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "skmeans",
+      "descriptions": "Super fast simple k-means and k-means++ clustering for unidimiensional and multidimensional data. Works in node and browser",
+      "keyword": [
+        "math",
+        "k-means",
+        "k-means++",
+        "kmeans++",
+        "kmeans",
+        "simple",
+        "cluster",
+        "fast",
+        "unidimiensional",
+        "multidimensional"
+      ],
+      "author": "solzimer"
+    },
+    {
+      "name": "mumath",
+      "descriptions": "Practical math utils for components",
+      "keyword": [
+        "math",
+        "geometry"
+      ],
+      "author": "dfcreative"
+    },
+    {
+      "name": "gl-quat",
+      "descriptions": "Gl-matrix's quaternion, split into smaller pieces",
+      "keyword": [
+        "ecosystem:stackgl",
+        "gl-matrix",
+        "matrix",
+        "math",
+        "gl",
+        "mat4",
+        "mat4x4",
+        "4x4",
+        "quat",
+        "quaternion",
+        "slerp",
+        "spherical interpolation",
+        "mat",
+        "vector"
+      ],
+      "author": "mattdesl"
+    },
+    {
+      "name": "gl-vec4",
+      "descriptions": "Gl-matrix's vec4, split into smaller pieces",
+      "keyword": [
+        "ecosystem:stackgl",
+        "gl-matrix",
+        "matrix",
+        "math",
+        "gl",
+        "mat4",
+        "mat4x4",
+        "4x4",
+        "vectors",
+        "vec4",
+        "color",
+        "mat",
+        "vector",
+        "maths"
+      ],
+      "author": "mattdesl"
+    },
+    {
+      "name": "gl-vec2",
+      "descriptions": "Gl-matrix's vec2, split into smaller pieces",
+      "keyword": [
+        "gl-matrix",
+        "matrix",
+        "math",
+        "gl",
+        "vec2",
+        "vec",
+        "2d",
+        "vector",
+        "maths"
+      ],
+      "author": "rreusser"
+    },
+    {
+      "name": "mathjax-node",
+      "descriptions": "API's for calling MathJax from node.js",
+      "keyword": [
+        "MathJax",
+        "math",
+        "svg",
+        "HTML",
+        "MathML",
+        "TeX",
+        "AsciiMath"
+      ],
+      "author": "mjadmin"
+    },
+    {
+      "name": "polytope-closest-point",
+      "descriptions": "Computes the closest point to a polytope in arbitrary dimensions",
+      "keyword": [
+        "polytope",
+        "geometry",
+        "closest",
+        "point",
+        "triangle",
+        "line",
+        "segment",
+        "polygon",
+        "polyhedra",
+        "convex",
+        "math",
+        "3d"
+      ],
+      "author": "mikolalysenko"
+    },
+    {
+      "name": "remark-math",
+      "descriptions": "Remark plugin to parse and stringify math",
+      "keyword": [
+        "unified",
+        "remark",
+        "plugin",
+        "mdast",
+        "markdown",
+        "math",
+        "katex",
+        "latex",
+        "tex"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "mathsass",
+      "descriptions": "A Sass implementation of mathematical functions.",
+      "keyword": [
+        "sass",
+        "scss",
+        "math"
+      ],
+      "author": "terkel"
+    },
+    {
+      "name": "math-log2",
+      "descriptions": "ES2015 Math.log2() ponyfill",
+      "keyword": [
+        "es2015",
+        "ponyfill",
+        "polyfill",
+        "shim",
+        "number",
+        "math",
+        "log2",
+        "log",
+        "logarithm"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "cubic-hermite",
+      "descriptions": "Cubic hermite interpolation",
+      "keyword": [
+        "spline",
+        "position",
+        "velocity",
+        "interpolation",
+        "point",
+        "particle",
+        "game",
+        "physics",
+        "numerical",
+        "method",
+        "math"
+      ],
+      "author": "mikolalysenko"
+    },
+    {
+      "name": "ewma",
+      "descriptions": "Exponentially Weighted Moving Average",
+      "keyword": [
+        "JS",
+        "math",
+        "statistics"
+      ],
+      "author": "retrohacker"
+    },
+    {
+      "name": "markdown-it-katex",
+      "descriptions": "Fast math support for markdown-it with KaTeX",
+      "keyword": [
+        "markdown",
+        "KaTeX",
+        "math",
+        "LaTeX",
+        "markdown-it-plugin",
+        "markdown-it"
+      ],
+      "author": "waylonflinn"
+    },
+    {
+      "name": "chai-bignumber",
+      "descriptions": "Chai assertions for comparing arbitrary-precision decimals using the bignumber.js library",
+      "keyword": [
+        "chai",
+        "chai-plugin",
+        "math",
+        "browser",
+        "test",
+        "arbitrary",
+        "precision",
+        "arithmetic",
+        "big",
+        "number",
+        "decimal",
+        "float",
+        "bignumber"
+      ],
+      "author": "asmarques"
+    },
+    {
+      "name": "is-natural-number-string",
+      "descriptions": "Check if a given value is a string that represents natural number",
+      "keyword": [
+        "natural",
+        "number",
+        "num",
+        "string",
+        "str",
+        "bool",
+        "boolean",
+        "if",
+        "ckeck",
+        "math",
+        "browser",
+        "client-side"
+      ],
+      "author": "shinnn"
+    },
+    {
+      "name": "postcss-math",
+      "descriptions": "PostCSS plugin for making calculations with math.js",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "math.js",
+        "math"
+      ],
+      "author": "shauns"
+    },
+    {
+      "name": "bresenham",
+      "descriptions": "Bresenham's line algorithm",
+      "keyword": [
+        "line",
+        "bresenham",
+        "math"
+      ],
+      "author": "lennon"
+    },
+    {
+      "name": "expression-eval",
+      "descriptions": "JavaScript expression parsing and evaluation.",
+      "keyword": [
+        "expression",
+        "eval",
+        "evaluation",
+        "parser",
+        "ast",
+        "abstract",
+        "syntax",
+        "tree",
+        "math"
+      ],
+      "author": "donmccurdy"
+    },
+    {
+      "name": "dstructs-matrix",
+      "descriptions": "Matrices.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "linear",
+        "algebra",
+        "two dimensional",
+        "2d",
+        "matrix",
+        "matrices",
+        "data",
+        "structure",
+        "data structure",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "hull.js",
+      "descriptions": "JavaScript library that builds concave hulls (shapes) by set of points",
+      "keyword": [
+        "geometry",
+        "concave-hull",
+        "math",
+        "alpha-shape",
+        "algorithm"
+      ],
+      "author": "andriiheonia"
+    },
+    {
+      "name": "cornerstone-math",
+      "descriptions": "Math and computation geometry functionality for cornerstone",
+      "keyword": [
+        "DICOM",
+        "medical",
+        "imaging",
+        "cornerstone",
+        "math",
+        "computation geometry"
+      ],
+      "author": "swederik"
+    },
+    {
+      "name": "buffer-reverse",
+      "descriptions": "A lite module for reverse-operations on buffers",
+      "keyword": [
+        "bits",
+        "reverse",
+        "buffer",
+        "buffer-reverse",
+        "crypto",
+        "inline",
+        "math",
+        "memory",
+        "performance"
+      ],
+      "author": "dcousens"
+    },
+    {
+      "name": "numbers",
+      "descriptions": "Advanced Mathematics Library for JavaScript",
+      "keyword": [
+        "math",
+        "mathematics",
+        "numbers",
+        "statistics"
+      ],
+      "author": "sjkaliski"
+    },
+    {
+      "name": "euclidean-distance",
+      "descriptions": "Calculate the Euclidean distance been two points in 2D/3D/nD space.",
+      "keyword": [
+        "distance",
+        "space",
+        "3d",
+        "2d",
+        "math",
+        "euclid",
+        "color",
+        "Lab",
+        "L*a*b*",
+        "Delta-E",
+        "dE",
+        "visualization",
+        "browser"
+      ],
+      "author": "zeke"
+    },
+    {
+      "name": "multimath",
+      "descriptions": "Core to create fast image math in WebAssembly and JS.",
+      "keyword": [
+        "webassembly",
+        "math",
+        "image",
+        "multimath"
+      ],
+      "author": "vitaly"
+    },
+    {
+      "name": "gcd",
+      "descriptions": "Compute the greatest common divisor using euclid's algorithm",
+      "keyword": [
+        "gcd",
+        "divisor",
+        "math",
+        "maths",
+        "mathematics",
+        "euclid"
+      ],
+      "author": "substack"
+    },
+    {
+      "name": "gauss",
+      "descriptions": "JavaScript statistics, analytics, and set library",
+      "keyword": [
+        "statistics",
+        "analytics",
+        "timeseries",
+        "math",
+        "gauss",
+        "set"
+      ],
+      "author": "wayoutmind"
+    },
+    {
+      "name": "algebra.js",
+      "descriptions": "Build, display, and solve algebraic equations.",
+      "keyword": [
+        "algebra",
+        "math",
+        "fractions",
+        "equations",
+        "expressions",
+        "latex"
+      ],
+      "author": "nicolewhite"
+    },
+    {
+      "name": "chai-bn",
+      "descriptions": "Chai assertions for comparing arbitrary-precision integers using the bignumber.js library",
+      "keyword": [
+        "chai",
+        "chai-plugin",
+        "math",
+        "test",
+        "arbitrary",
+        "precision",
+        "arithmetic",
+        "big",
+        "number",
+        "decimal",
+        "float",
+        "bignumber",
+        "bn"
+      ],
+      "author": "nventuro"
+    },
+    {
+      "name": "react-katex",
+      "descriptions": "Display math in TeX with KaTeX and ReactJS",
+      "keyword": [
+        "react",
+        "tex",
+        "latex",
+        "math",
+        "katex"
+      ],
+      "author": "talyssonoc"
+    },
+    {
+      "name": "nearest-periodic-value",
+      "descriptions": "Find the nearest value of a discrete periodic function, given a point.",
+      "keyword": [
+        "mathematics",
+        "math",
+        "period",
+        "periodic",
+        "nearest",
+        "solution",
+        "function"
+      ],
+      "author": "jmeas"
+    },
+    {
+      "name": "imul",
+      "descriptions": "ES2015 Math.imul() ponyfill",
+      "keyword": [
+        "es2015",
+        "ponyfill",
+        "polyfill",
+        "shim",
+        "number",
+        "math",
+        "imul",
+        "multiplication"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "haversine-distance",
+      "descriptions": "Haversine formula in Javascript. In meters. Nothing more.",
+      "keyword": [
+        "haversine",
+        "distance",
+        "geography",
+        "latitude",
+        "longitude",
+        "coordinates",
+        "math",
+        "meters"
+      ],
+      "author": "dcousens"
+    },
+    {
+      "name": "average",
+      "descriptions": "Mathematical average. Sum of all values divided by the number of values provided.",
+      "keyword": [
+        "math",
+        "average",
+        "mean"
+      ],
+      "author": "bytespider"
+    },
+    {
+      "name": "contained-periodic-values",
+      "descriptions": "Find how many values of a discrete periodic function are contained in an interval.",
+      "keyword": [
+        "mathematics",
+        "math",
+        "period",
+        "periodic",
+        "contained",
+        "solution",
+        "function"
+      ],
+      "author": "jmeas"
+    },
+    {
+      "name": "percentile",
+      "descriptions": "Calculate a percentile for given array of values",
+      "keyword": [
+        "math",
+        "calculate",
+        "stats",
+        "percentile"
+      ],
+      "author": "sysoev"
+    },
+    {
+      "name": "quaternion",
+      "descriptions": "A rotation library using quaternions",
+      "keyword": [
+        "math",
+        "quaternion",
+        "number",
+        "vector",
+        "spherical interpolation",
+        "parser",
+        "slerp",
+        "quat"
+      ],
+      "author": "infusion"
+    },
+    {
+      "name": "satoshi-bitcoin",
+      "descriptions": "Convert Satoshi <-> Bitcoin",
+      "keyword": [
+        "bitcoin",
+        "satoshi",
+        "conversion",
+        "cryptocurrency",
+        "math",
+        "arbitrary",
+        "precision",
+        "arithmetic",
+        "big",
+        "integer",
+        "int",
+        "number",
+        "biginteger",
+        "bigint",
+        "View more"
+      ],
+      "author": "dawsonbotsford"
+    },
+    {
+      "name": "random-float",
+      "descriptions": "Generate a random float",
+      "keyword": [
+        "random",
+        "randomize",
+        "float",
+        "floating",
+        "point",
+        "real",
+        "number",
+        "max",
+        "min",
+        "math",
+        "generate",
+        "generator"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "skipped-periodic-values",
+      "descriptions": "Given a point and a distance, determine how many periodic values were skipped.",
+      "keyword": [
+        "mathematics",
+        "math",
+        "period",
+        "periodic",
+        "contained",
+        "solution",
+        "function"
+      ],
+      "author": "jmeas"
+    },
+    {
+      "name": "compute-gcd",
+      "descriptions": "Computes the greatest common divisor (gcd).",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "euclid",
+        "stein",
+        "binary gcd",
+        "greatest common divisor",
+        "greatest common factor",
+        "highest common factor",
+        "greatest common measure",
+        "highest common divisor",
+        "gcd",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "mathjax-electron",
+      "descriptions": "A trimmed down version of the MathJax library for use with Electron and modern browsers",
+      "keyword": [
+        "mathjax",
+        "math",
+        "latex",
+        "tex",
+        "electron",
+        "chrome",
+        "essential"
+      ],
+      "author": "lgeiger"
+    },
+    {
+      "name": "round10",
+      "descriptions": "Brings decimal adjustment to the Math object.",
+      "keyword": [
+        "round",
+        "round10",
+        "mdn",
+        "Math",
+        "Math.round",
+        "precision",
+        "decimal",
+        "adjustment"
+      ],
+      "author": "jhohlfeld"
+    },
+    {
+      "name": "linear-algebra",
+      "descriptions": "Efficient, high-performance linear algebra library",
+      "keyword": [
+        "linear",
+        "algebra",
+        "math",
+        "precision",
+        "float",
+        "numerical",
+        "analysis",
+        "regression",
+        "machine",
+        "learning"
+      ],
+      "author": "hiddentao"
+    },
+    {
+      "name": "compute-cosine-similarity",
+      "descriptions": "Computes the cosine similarity between two arrays.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "similarity",
+        "information theory",
+        "distance",
+        "dist",
+        "array",
+        "vector",
+        "mathematics",
+        "math",
+        "geometry",
+        "algebra",
+        "linear algebra"
+      ],
+      "author": "planeshifter"
+    },
+    {
+      "name": "strange",
+      "descriptions": "Range aka interval object. Supports exclusive and infinite ranges. Comes with an interval tree (augmented binary search tree).",
+      "keyword": [
+        "range",
+        "ranges",
+        "interval",
+        "interval-tree",
+        "bst",
+        "integer",
+        "integers",
+        "sort",
+        "bounds",
+        "math"
+      ],
+      "author": "moll"
+    },
+    {
+      "name": "nerdamer",
+      "descriptions": "Javascript light-weight symbolic math expression evaluator",
+      "keyword": [
+        "math",
+        "matrix",
+        "complex",
+        "number",
+        "parser",
+        "expression",
+        "functions",
+        "numeric",
+        "equation solver",
+        "linear algebra",
+        "vectors",
+        "symbolic",
+        "integration",
+        "differentiation",
+        "View more"
+      ],
+      "author": "jiggzson"
+    },
+    {
+      "name": "mathjax-node-page",
+      "descriptions": "Converter for HTML fragments with mathematics using mathjax-node",
+      "keyword": [
+        "mathjax",
+        "math",
+        "tex",
+        "mathml",
+        "png",
+        "html"
+      ],
+      "author": "pkra"
+    },
+    {
+      "name": "compute-lcm",
+      "descriptions": "Computes the least common multiple (lcm).",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "least common multiple",
+        "lowest common multiple",
+        "smallest common multiple",
+        "lowest common denominator",
+        "lcm",
+        "lcd",
+        "discrete",
+        "arithmetic",
+        "array",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "geostats",
+      "descriptions": "A tiny and standalone javascript library for classification and basic statistics",
+      "keyword": [
+        "mapping",
+        "classification",
+        "choropleth",
+        "map",
+        "stats",
+        "statistics",
+        "math"
+      ],
+      "author": "simogeo"
+    },
+    {
+      "name": "math-clamp-x",
+      "descriptions": "Clamp a number to limits.",
+      "keyword": [
+        "math",
+        "clamp",
+        "module",
+        "javascript",
+        "nodejs",
+        "browser"
+      ],
+      "author": "xotic750"
+    },
+    {
+      "name": "kalmanjs",
+      "descriptions": "A small library implementing the principle of Kalman filters, without any dependencies, to filter out noise in 1D systems.",
+      "keyword": [
+        "kalman",
+        "filter",
+        "math",
+        "noise",
+        "javascript"
+      ],
+      "author": "wouterbulten"
+    },
+    {
+      "name": "prime-number",
+      "descriptions": "Is a slow recursive function to check if a number is prime",
+      "keyword": [
+        "math",
+        "number",
+        "primality",
+        "prime",
+        "primes"
+      ],
+      "author": "fibo"
+    },
+    {
+      "name": "@thi.ng/math",
+      "descriptions": "Assorted common math functions & utilities",
+      "keyword": [
+        "ES6",
+        "interpolation",
+        "interval",
+        "math",
+        "solver",
+        "typescript",
+        "utilities"
+      ],
+      "author": "thi.ng"
+    },
+    {
+      "name": "@math.gl/culling",
+      "descriptions": "Culling Functionality for 3D Classes",
+      "keyword": [
+        "webgl",
+        "javascript",
+        "math",
+        "matrix",
+        "matrix4",
+        "vector",
+        "vector2",
+        "vector3",
+        "vector4",
+        "quaternion",
+        "euler",
+        "spherical",
+        "coordinates",
+        "3d"
+      ],
+      "author": "pessimistress"
+    },
+    {
+      "name": "@math.gl/geospatial",
+      "descriptions": "Geospatial classes",
+      "keyword": [
+        "webgl",
+        "javascript",
+        "math",
+        "geospatial",
+        "WGS84",
+        "ellipsoid",
+        "cartographic",
+        "cartesian",
+        "projection",
+        "web mercator",
+        "geographic"
+      ],
+      "author": "pessimistress"
+    },
+    {
+      "name": "percent",
+      "descriptions": "Percent control done right",
+      "keyword": [
+        "percentage",
+        "matching",
+        "math",
+        "calc",
+        "calculation",
+        "calculator",
+        "semver"
+      ],
+      "author": "zdroid"
+    },
+    {
+      "name": "compute.io",
+      "descriptions": "Computation library.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "geometry",
+        "trigonometry",
+        "linear algebra",
+        "discrete",
+        "set",
+        "information theory",
+        "statistics",
+        "stats",
+        "utilities",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "@loaders.gl/math",
+      "descriptions": "Experimental math classes for loaders.gl",
+      "keyword": [
+        "3d",
+        "geospatial",
+        "math",
+        "GLB",
+        "glTF"
+      ],
+      "author": "xintong"
+    },
+    {
+      "name": "@thi.ng/vectors",
+      "descriptions": "Optimized 2d/3d/4d and arbitrary length vector operations",
+      "keyword": [
+        "2D",
+        "3D",
+        "4D",
+        "abitrary length",
+        "bilinear",
+        "cartesian",
+        "chebyshev",
+        "clamp",
+        "code generator",
+        "cubic",
+        "data structures",
+        "distance",
+        "dot product",
+        "equality",
+        "View more"
+      ],
+      "author": "thi.ng"
+    },
+    {
+      "name": "chromath",
+      "descriptions": "JavaScript color conversion and manipulation functions",
+      "keyword": [
+        "color",
+        "math",
+        "rgb",
+        "hsl",
+        "hsv",
+        "hsb",
+        "hex",
+        "palette",
+        "gradient",
+        "convert",
+        "conversion"
+      ],
+      "author": "jfsiii"
+    },
+    {
+      "name": "@emmetio/math-expression",
+      "descriptions": "Parse and evaluate simple math expressions",
+      "keyword": [
+        "math",
+        "expression",
+        "evaluate",
+        "emmet"
+      ],
+      "author": "serge.che"
+    },
+    {
+      "name": "math-avg",
+      "descriptions": "Get the average of numbers",
+      "keyword": [
+        "math",
+        "avg",
+        "average",
+        "number",
+        "numbers",
+        "num",
+        "add",
+        "count",
+        "array"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "compute-hamming",
+      "descriptions": "Computes the Hamming distance between two sequences.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "hamming",
+        "distance",
+        "similarity",
+        "information theory",
+        "mathematics",
+        "math",
+        "array",
+        "string",
+        "dist",
+        "information",
+        "overlap",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "lomath",
+      "descriptions": "Lomath is a tensorial math library extended from lodash.",
+      "keyword": [
+        "lomath",
+        "lodash",
+        "math",
+        "data",
+        "analysis",
+        "analytics",
+        "visualization",
+        "plot",
+        "graph",
+        "chart",
+        "highcharts",
+        "live",
+        "preview",
+        "R",
+        "View more"
+      ],
+      "author": "kengz"
+    },
+    {
+      "name": "latex",
+      "descriptions": "A simple wrapper for LaTeX in node.js",
+      "keyword": [
+        "latex",
+        "dvi",
+        "tex",
+        "mathmode",
+        "equations",
+        "typesetting",
+        "math",
+        "pdflatex",
+        "pdf"
+      ],
+      "author": "mikolalysenko"
+    },
+    {
+      "name": "math-sign-x",
+      "descriptions": "Shim for Math.sign.",
+      "keyword": [
+        "math",
+        "sign",
+        "module",
+        "javascript",
+        "nodejs",
+        "browser"
+      ],
+      "author": "xotic750"
+    },
+    {
+      "name": "useless",
+      "descriptions": "Use Less. Do More. JavaScript on steroids.",
+      "keyword": [
+        "javascript",
+        "useless",
+        "framework",
+        "unit tests",
+        "test driven",
+        "OOP",
+        "AOP",
+        "CPS",
+        "DSL",
+        "metaprogramming",
+        "traits",
+        "mixins",
+        "singleton",
+        "functional",
+        "View more"
+      ],
+      "author": "xpl"
+    },
+    {
+      "name": "ng-katex",
+      "descriptions": "Angular module to write beautiful math expressions with TeX syntax boosted by KaTeX library",
+      "keyword": [
+        "angular",
+        "katex",
+        "latex",
+        "math",
+        "package",
+        "typescript",
+        "angular2",
+        "typesetting",
+        "formulae",
+        "library",
+        "module",
+        "angular-module",
+        "angular-directive",
+        "angular-component"
+      ],
+      "author": "garciparedes"
+    },
+    {
+      "name": "math-clamp",
+      "descriptions": "Clamp a number",
+      "keyword": [
+        "math",
+        "number",
+        "numbers",
+        "clamp",
+        "limit",
+        "min",
+        "max",
+        "between",
+        "range"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "math3d",
+      "descriptions": "A nodejs library for 3D transformations similar to Unity3D containing necessary classes and functions for matrices, vectors, quaternions and transforms.",
+      "keyword": [
+        "3D",
+        "matrix",
+        "vector",
+        "transform",
+        "quaternion",
+        "3D transformations",
+        "transformation",
+        "math",
+        "nodejs",
+        "javascript",
+        "unity3d"
+      ],
+      "author": "adragonite"
+    },
+    {
+      "name": "rangecal",
+      "descriptions": "Basic range calculations.",
+      "keyword": [
+        "math",
+        "range",
+        "number"
+      ],
+      "author": "okunishinishi"
+    },
+    {
+      "name": "2d-polygon-boolean",
+      "descriptions": "Perform boolean operations on arbitrary polygons in 2d",
+      "keyword": [
+        "polygon",
+        "geometry",
+        "math",
+        "2d",
+        "clipping"
+      ],
+      "author": "tmpvar"
+    },
+    {
+      "name": "chopcal",
+      "descriptions": "Chop numbers.",
+      "keyword": [
+        "math",
+        "chop",
+        "number"
+      ],
+      "author": "okunishinishi"
+    },
+    {
+      "name": "math-abs",
+      "descriptions": "Computes an absolute value.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.abs",
+        "abs",
+        "absolute",
+        "value",
+        "scalar",
+        "number"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "compute-pcorr",
+      "descriptions": "Computes Pearson product-moment correlation coefficients between one or more numeric arrays.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "statistics",
+        "stats",
+        "variance",
+        "covariance",
+        "sample",
+        "population",
+        "covariance matrix",
+        "cov",
+        "var",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "@iktakahiro/markdown-it-katex",
+      "descriptions": "Fast math support for markdown-it with KaTeX",
+      "keyword": [
+        "markdown",
+        "KaTeX",
+        "math",
+        "LaTeX",
+        "markdown-it-plugin",
+        "markdown-it"
+      ],
+      "author": "iktakahiro"
+    },
+    {
+      "name": "math-sum",
+      "descriptions": "Sum numbers",
+      "keyword": [
+        "math",
+        "sum",
+        "number",
+        "numbers",
+        "num",
+        "add",
+        "count",
+        "array"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "vectors",
+      "descriptions": "A grab bag of vector utility functions for 2D and 3D vectors that operate on plain arrays",
+      "keyword": [
+        "vectors",
+        "math",
+        "utility",
+        "browserify"
+      ],
+      "author": "hughsk"
+    },
+    {
+      "name": "cli-graph",
+      "descriptions": "Easily draw function graphs in text mode.",
+      "keyword": [
+        "ascii",
+        "function",
+        "graphs",
+        "math",
+        "node",
+        "terminal"
+      ],
+      "author": "ionicabizau"
+    },
+    {
+      "name": "css-math",
+      "descriptions": "Simple library for performing math operations on CSS properties",
+      "keyword": [
+        "CSS",
+        "Math",
+        "calculation",
+        "helper"
+      ],
+      "author": "mizmoz"
+    },
+    {
+      "name": "cidr-split",
+      "descriptions": "Split facility for CIDRs.",
+      "keyword": [
+        "cidr",
+        "subnet",
+        "math"
+      ],
+      "author": "tristanls"
+    },
+    {
+      "name": "mathmode",
+      "descriptions": "Turns LaTeX math mode expressions into images",
+      "keyword": [
+        "latex",
+        "tex",
+        "pdflatex",
+        "png",
+        "image",
+        "mathmode",
+        "mathjax",
+        "math",
+        "equation",
+        "typeset"
+      ],
+      "author": "mikolalysenko"
+    },
+    {
+      "name": "to-percent",
+      "descriptions": "Convert a decimal value to percent",
+      "keyword": [
+        "convert",
+        "math",
+        "number",
+        "percent"
+      ],
+      "author": "kevva"
+    },
+    {
+      "name": "algebrite",
+      "descriptions": "Computer Algebra System in Coffeescript",
+      "keyword": [
+        "cas",
+        "algebra",
+        "computer",
+        "system",
+        "eigenmath",
+        "math",
+        "symbolic"
+      ],
+      "author": "davidedc"
+    },
+    {
+      "name": "stats-incremental",
+      "descriptions": "A simple tool for calculating incremental stats on numeric streams.",
+      "keyword": [
+        "stats",
+        "statistics",
+        "numbers",
+        "math",
+        "sum",
+        "mean",
+        "average",
+        "variance",
+        "deviation"
+      ],
+      "author": "bryce"
+    },
+    {
+      "name": "rehype-katex",
+      "descriptions": "Rehype plugin to transform inline and block math with KaTeX",
+      "keyword": [
+        "unified",
+        "remark",
+        "rehype",
+        "plugin",
+        "mdast",
+        "markdown",
+        "hast",
+        "html",
+        "math",
+        "katex",
+        "latex",
+        "tex"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "compute-quantile",
+      "descriptions": "Computes a quantile for a numeric array.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "statistics",
+        "stats",
+        "quantile",
+        "percentile",
+        "rank"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "@thi.ng/binary",
+      "descriptions": "50+ assorted binary / bitwise operations, conversions, utilities",
+      "keyword": [
+        "alignment",
+        "binary",
+        "bitwise",
+        "conversion",
+        "ES6",
+        "gray code",
+        "logic",
+        "math",
+        "splat",
+        "swizzle",
+        "typescript"
+      ],
+      "author": "thi.ng"
+    },
+    {
+      "name": "const-ninf-float64",
+      "descriptions": "Negative infinity.",
+      "keyword": [
+        "const.io",
+        "const",
+        "constant",
+        "const-io",
+        "compute.io",
+        "compute-io",
+        "computation",
+        "compute",
+        "mathematics",
+        "math",
+        "ninf",
+        "negative",
+        "infinity"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "math-floor",
+      "descriptions": "Rounds a numeric value toward negative infinity.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.floor",
+        "floor",
+        "round",
+        "integer",
+        "nearest",
+        "value",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "randf",
+      "descriptions": "Random float between a range",
+      "keyword": [
+        "rand",
+        "ran",
+        "randf",
+        "random",
+        "Math",
+        "Math.random",
+        "float",
+        "range",
+        "value",
+        "within",
+        "inside",
+        "between",
+        "two",
+        "values"
+      ],
+      "author": "mattdesl"
+    },
+    {
+      "name": "remark-html-katex",
+      "descriptions": "Remark plugin to transform inline and block math with KaTeX",
+      "keyword": [
+        "unified",
+        "remark",
+        "plugin",
+        "mdast",
+        "markdown",
+        "html",
+        "math",
+        "katex",
+        "latex",
+        "tex"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "postcss-automath",
+      "descriptions": "Automatically evaluate mathematical expressions in your CSS source files, like in SASS or LESS. No special function calls needed as with `postcss-mathjs`.",
+      "keyword": [
+        "PostCSS",
+        "math",
+        "LESS"
+      ],
+      "author": "everledger"
+    },
+    {
+      "name": "sass-math-pow",
+      "descriptions": "Math pow() polyfill/feature detection with non-integer exponents support for (without compass) ruby sass, sass and sass+eyeglass",
+      "keyword": [
+        "eyeglass-module",
+        "sass",
+        "math",
+        "pow",
+        "exponent",
+        "non integer",
+        "non-integer",
+        "integer",
+        "decimal",
+        "compass",
+        "ruby",
+        "ruby sass",
+        "libsass",
+        "node sass",
+        "View more"
+      ],
+      "author": "strarsis"
+    },
+    {
+      "name": "compute-median",
+      "descriptions": "Computes the median of an array.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "statistics",
+        "stats",
+        "mathematics",
+        "math",
+        "central tendency",
+        "median",
+        "array",
+        "avg",
+        "average",
+        "numeric array"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "suncalc2",
+      "descriptions": "A tiny JavaScript library for calculating sun/moon positions and phases.",
+      "keyword": [
+        "sun",
+        "astronomy",
+        "math",
+        "calculation",
+        "sunrise",
+        "sunset",
+        "twilight",
+        "moon",
+        "illumination"
+      ],
+      "author": "andiling"
+    },
+    {
+      "name": "line-intersection",
+      "descriptions": "App that shows the intersection between 2 lines or line segments",
+      "keyword": [
+        "javascript",
+        "math",
+        "line",
+        "intersection"
+      ],
+      "author": "radi-cho"
+    },
+    {
+      "name": "mathjax3",
+      "descriptions": "MathJax version 4 beta release testbed",
+      "keyword": [
+        "MathJax",
+        "math",
+        "svg",
+        "mathml",
+        "tex",
+        "latex",
+        "asciimath",
+        "html",
+        "browser",
+        "nodejs",
+        "equation",
+        "formula"
+      ],
+      "author": "mjadmin"
+    },
+    {
+      "name": "algebra",
+      "descriptions": "Means completeness and balancing, from the Arabic word الجبر",
+      "keyword": [
+        "algebra",
+        "matrix",
+        "vector",
+        "tensor",
+        "real",
+        "complex",
+        "quaternion",
+        "math"
+      ],
+      "author": "fibo"
+    },
+    {
+      "name": "funary",
+      "descriptions": "Arbitrary precision binary operations library for Javascript.",
+      "keyword": [
+        "decoder",
+        "encoder",
+        "bit shift",
+        "endianness",
+        "bitwise",
+        "big",
+        "manipulate",
+        "change",
+        "bit",
+        "math",
+        "arithmetic",
+        "boolean",
+        "boolean algebra",
+        "addition",
+        "View more"
+      ],
+      "author": "brosnanyuen"
+    },
+    {
+      "name": "compute-lcg",
+      "descriptions": "A linear congruential pseudorandom number generator (lcg).",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "statistics",
+        "stats",
+        "random",
+        "rand",
+        "generator",
+        "lcg",
+        "seed",
+        "seedable"
+      ],
+      "author": "rgizz"
+    },
+    {
+      "name": "math-sqrt",
+      "descriptions": "Computes the principal square root.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.sqrt",
+        "sqrt",
+        "square",
+        "root",
+        "power",
+        "value",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "math.js",
+      "descriptions": "A simple math library written in Javascript.",
+      "keyword": [
+        "math",
+        "mathematics",
+        "functions",
+        "numeric"
+      ],
+      "author": "toubou"
+    },
+    {
+      "name": "basic-math-utils",
+      "descriptions": "Basic math utilities for doing some basic math operations",
+      "keyword": [
+        "math",
+        "utils",
+        "yeutech"
+      ],
+      "author": "kopax"
+    },
+    {
+      "name": "ndarray-crout-decomposition",
+      "descriptions": "LU decomposition using the crout algorithm",
+      "keyword": [
+        "ndarray",
+        "crout",
+        "matrix",
+        "lu",
+        "decomposition",
+        "linalg",
+        "linear",
+        "algebra",
+        "math"
+      ],
+      "author": "substack"
+    },
+    {
+      "name": "MathJax-node",
+      "descriptions": "API's for calling MathJax from node.js",
+      "keyword": [
+        "MathJax",
+        "math",
+        "svg",
+        "MathML",
+        "TeX",
+        "AsciiMath"
+      ],
+      "author": "mathjax"
+    },
+    {
+      "name": "compute-l2norm",
+      "descriptions": "Computes the L2 norm (Euclidean norm) of an array of values.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "linear algebra",
+        "norm",
+        "euclidean norm",
+        "l2norm",
+        "l2 distance",
+        "euclidean length",
+        "length",
+        "distance",
+        "array"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "draft-js-mathjax-plugin",
+      "descriptions": "Math editing support for DraftJS Plugins Editor",
+      "keyword": [
+        "editor",
+        "wysiwyg",
+        "math",
+        "teX",
+        "mathjax",
+        "draft",
+        "react",
+        "ux",
+        "components",
+        "widget",
+        "react-component"
+      ],
+      "author": "efloti"
+    },
+    {
+      "name": "vector-object",
+      "descriptions": "A vector class supporting vector operations in n-dimensional space. Useful for word vectors calculation.",
+      "keyword": [
+        "vector",
+        "math",
+        "data",
+        "mining",
+        "machine",
+        "learning"
+      ],
+      "author": "stanleyfok"
+    },
+    {
+      "name": "compute-indexspace",
+      "descriptions": "Generates a linearly spaced index array from a subsequence string.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "array",
+        "index",
+        "slice",
+        "subsequence",
+        "indexarray",
+        "linear",
+        "utils",
+        "utilities"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "mate",
+      "descriptions": "HTTP request, array extension, event, observer, test, timer, etc. It extends the native JavaScript / CoffeeScript.",
+      "keyword": [
+        "event",
+        "coffeescript",
+        "timer",
+        "observer",
+        "observe",
+        "binding",
+        "array",
+        "math",
+        "complex",
+        "javascript",
+        "js",
+        "coffee",
+        "test",
+        "testing",
+        "View more"
+      ],
+      "author": "zhanzhenzhen"
+    },
+    {
+      "name": "aaa",
+      "descriptions": "Aaa...",
+      "keyword": [
+        "math"
+      ],
+      "author": "erhu65"
+    },
+    {
+      "name": "pixfinder",
+      "descriptions": "Javascript library for extracting objects from images",
+      "keyword": [
+        "blob-detection",
+        "feature-detection",
+        "object-detection",
+        "image-analysis",
+        "computer-vision",
+        "algorithm",
+        "math"
+      ],
+      "author": "andriiheonia"
+    },
+    {
+      "name": "combinations-js",
+      "descriptions": "N choose k for Node.js",
+      "keyword": [
+        "Math",
+        "Combinatorics",
+        "Arrays"
+      ],
+      "author": "dabockster"
+    },
+    {
+      "name": "csr-matrix",
+      "descriptions": "Compressed sparse row matrix class",
+      "keyword": [
+        "matrix",
+        "sparse",
+        "compressed",
+        "row",
+        "incremental",
+        "vector",
+        "multiply",
+        "linear",
+        "algebra",
+        "math"
+      ],
+      "author": "mikolalysenko"
+    },
+    {
+      "name": "node-correlation",
+      "descriptions": "A Node.JS script to calculate correlation between two arrays.",
+      "keyword": [
+        "correlation",
+        "math",
+        "array"
+      ],
+      "author": "drodrigues"
+    },
+    {
+      "name": "2d-polygon-self-intersections",
+      "descriptions": "This library may not be fast, but it is robust. Robust in the fact that it will find all of the self-intersections in a polygon - minus of course shared endpoints.",
+      "keyword": [
+        "2d",
+        "polygon",
+        "math",
+        "intersections",
+        "self-intersections",
+        "robust"
+      ],
+      "author": "tmpvar"
+    },
+    {
+      "name": "mathoid-mathjax-node",
+      "descriptions": "API's for calling MathJax from node.js",
+      "keyword": [
+        "MathJax",
+        "math",
+        "svg",
+        "MathML",
+        "TeX",
+        "AsciiMath"
+      ],
+      "author": "doorman"
+    },
+    {
+      "name": "statistical-js",
+      "descriptions": "Simple to use, completely useful",
+      "keyword": [
+        "statistical-js",
+        "stats",
+        "statistics",
+        "stat",
+        "test",
+        "hypothesis",
+        "Math",
+        "Mathemtics",
+        "descriptive",
+        "linear",
+        "math",
+        "probability",
+        "machine learning",
+        "perceptron"
+      ],
+      "author": "adrien2p"
+    },
+    {
+      "name": "experiment-mathjs",
+      "descriptions": "FORKED Math.js is an extensive math library for JavaScript and Node.js. It features a flexible expression parser with support for symbolic computation, comes with a large set of built-in functions and constants, and offers an integrated solution to work w",
+      "keyword": [
+        "math",
+        "mathematics",
+        "functions",
+        "numeric",
+        "algebra",
+        "parser",
+        "expression",
+        "number",
+        "bignumber",
+        "complex",
+        "fraction",
+        "matrix",
+        "unit"
+      ],
+      "author": "albertjamesteddy"
+    },
+    {
+      "name": "math-exp",
+      "descriptions": "Natural exponential function.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.exp",
+        "exp",
+        "natural",
+        "exponential",
+        "function",
+        "euler",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "fractional",
+      "descriptions": "Fraction arithmetic",
+      "keyword": [
+        "fraction",
+        "arithmetic",
+        "math"
+      ],
+      "author": "ekg"
+    },
+    {
+      "name": "graphdracula",
+      "descriptions": "JavaScript Graph Layouting and Drawing",
+      "keyword": [
+        "bellman-ford",
+        "dijkstra",
+        "dracula",
+        "graph",
+        "math",
+        "raphael",
+        "snap",
+        "static",
+        "svg",
+        "vml"
+      ],
+      "author": "strathausen"
+    },
+    {
+      "name": "react-mathjax2",
+      "descriptions": "React component for MathJax",
+      "keyword": [
+        "math",
+        "mathjax",
+        "react",
+        "component",
+        "equation",
+        "expression",
+        "asciimath",
+        "latex",
+        "tex",
+        "mathml"
+      ],
+      "author": "wko27"
+    },
+    {
+      "name": "rbush-3d",
+      "descriptions": "High-performance 3D spatial index for cuboids (based on R*-tree with bulk loading and bulk insertion algorithms)",
+      "keyword": [
+        "spatial",
+        "tree",
+        "search",
+        "rectangle",
+        "index",
+        "math"
+      ],
+      "author": "erona"
+    },
+    {
+      "name": "mathjax-full",
+      "descriptions": "Beautiful math in all browsers. MathJax is an open-source JavaScript display engine for LaTeX, MathML, and AsciiMath notation that works in all browsers. This package includes the source code as well as the packaged components.",
+      "keyword": [
+        "MathJax",
+        "math",
+        "svg",
+        "HTML",
+        "MathML",
+        "TeX",
+        "AsciiMath"
+      ],
+      "author": "mjadmin"
+    },
+    {
+      "name": "json-math",
+      "descriptions": "Package for describing mathmatical operations in JSON",
+      "keyword": [
+        "math",
+        "json",
+        "maths"
+      ],
+      "author": "christhebaron"
+    },
+    {
+      "name": "compute-dot",
+      "descriptions": "Computes the dot product between two numeric arrays.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "algebra",
+        "linear algebra",
+        "dot product",
+        "scalar product",
+        "vector",
+        "array",
+        "calculus",
+        "geometry",
+        "mathematics",
+        "math",
+        "dot"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "react-mathjax",
+      "descriptions": "React component to render math using MathJax",
+      "keyword": [
+        "react",
+        "mathjax",
+        "math"
+      ],
+      "author": "samypesse"
+    },
+    {
+      "name": "compute-covariance",
+      "descriptions": "Computes the covariance between one or more numeric arrays.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "statistics",
+        "stats",
+        "variance",
+        "covariance",
+        "sample",
+        "covariance matrix",
+        "cov",
+        "var",
+        "dispersion",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "statsjs",
+      "descriptions": "Provides functions for many of the statistical operations that you might need",
+      "keyword": [
+        "math",
+        "stats",
+        "statistics",
+        "average",
+        "mean",
+        "min",
+        "max",
+        "standard",
+        "deviation",
+        "regression",
+        "quartile",
+        "median",
+        "outliers",
+        "factorial",
+        "View more"
+      ],
+      "author": "angusgibbs"
+    },
+    {
+      "name": "ndarray-lu-solve",
+      "descriptions": "Solve a linear system of equations from an LU decomposition",
+      "keyword": [
+        "ndarray",
+        "lu",
+        "matrix",
+        "decomposition",
+        "linear",
+        "equations",
+        "math"
+      ],
+      "author": "substack"
+    },
+    {
+      "name": "manhattan",
+      "descriptions": "Calculate the Manhattan distance between two points",
+      "keyword": [
+        "manhattan",
+        "distance",
+        "math",
+        "geometry"
+      ],
+      "author": "semibran"
+    },
+    {
+      "name": "math-evalpoly",
+      "descriptions": "Evaluates a polynomial.",
+      "keyword": [
+        "computation",
+        "compute-io",
+        "compute.io",
+        "compute",
+        "math-io",
+        "math.io",
+        "math",
+        "mathematics",
+        "polynomial",
+        "eval",
+        "evaluate",
+        "poly",
+        "polyval",
+        "evalpoly",
+        "View more"
+      ],
+      "author": "planeshifter"
+    },
+    {
+      "name": "compute-rad2deg",
+      "descriptions": "Converts radians to degrees.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "degrees",
+        "radians",
+        "convert",
+        "array",
+        "geometry",
+        "utility",
+        "utils"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "math-ceil",
+      "descriptions": "Rounds a numeric value toward positive infinity.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.ceil",
+        "ceil",
+        "round",
+        "integer",
+        "nearest",
+        "number"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "basic-calculator",
+      "descriptions": "A basic calculator module.",
+      "keyword": [
+        "calculator",
+        "calc",
+        "math",
+        "min",
+        "max",
+        "standard deviation",
+        "population standard deviation",
+        "sample standard deviation",
+        "mode",
+        "median",
+        "mean",
+        "statistics",
+        "basic",
+        "simple"
+      ],
+      "author": "dylan-hamilton"
+    },
+    {
+      "name": "@chemistry/math",
+      "descriptions": "Math support for @chemistry project",
+      "keyword": [
+        "cheminformatics",
+        "crystallography",
+        "math"
+      ],
+      "author": "vreshch"
+    },
+    {
+      "name": "nsolvejs",
+      "descriptions": "Solve equations using numerical methods",
+      "keyword": [
+        "Solve",
+        "regression",
+        "data",
+        "fit",
+        "fitting",
+        "equation",
+        "method",
+        "numeric",
+        "numerical",
+        "numerically",
+        "linear",
+        "system",
+        "equations",
+        "algebra",
+        "View more"
+      ],
+      "author": "cereceres"
+    },
+    {
+      "name": "compute-polynomial",
+      "descriptions": "Evaluates a polynomial.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "polynomial",
+        "evaluate",
+        "horner",
+        "horner's rule",
+        "polyval",
+        "math",
+        "mathematics"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "jest-mock-random",
+      "descriptions": "Math.random() as a deterministic jest mock function",
+      "keyword": [
+        "math",
+        "jest",
+        "mock",
+        "random"
+      ],
+      "author": "sir-people"
+    },
+    {
+      "name": "wmathscalar",
+      "descriptions": "Collection of functions for non-vector math",
+      "keyword": [
+        "wTools",
+        "math",
+        "scalar",
+        "series",
+        "progression"
+      ],
+      "author": "wandalen"
+    },
+    {
+      "name": "compute-qmean",
+      "descriptions": "Computes the quadratic mean (root mean square).",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "statistics",
+        "stats",
+        "quadratic mean",
+        "mean",
+        "root mean square",
+        "rms"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "pex-math",
+      "descriptions": "Array based vector, qaternion and matrix math for the pex library",
+      "keyword": [
+        "pex",
+        "webgl",
+        "math"
+      ],
+      "author": "vorg"
+    },
+    {
+      "name": "stround",
+      "descriptions": "Rounding methods for exact numbers using strings.",
+      "keyword": [
+        "math",
+        "rounding",
+        "strings"
+      ],
+      "author": "eventualbuddha"
+    },
+    {
+      "name": "exact-math",
+      "descriptions": "The exact-math is a set of methods for addition, subtraction, multiplication, division, rounding, ceiling, flooring and powering calculations. It can be used with big number as it handles the floating point problem.",
+      "keyword": [
+        "math",
+        "floating",
+        "point",
+        "precision",
+        "problem",
+        "IEEE",
+        "754",
+        "arithmetic",
+        "calculation",
+        "addition",
+        "subtraction",
+        "multiplication",
+        "division",
+        "add",
+        "View more"
+      ],
+      "author": "devrafalko"
+    },
+    {
+      "name": "deromanize",
+      "descriptions": "Convert roman numerals to arabic numbers (useful for books, outlines, documentation, slide decks, etc)",
+      "keyword": [
+        "arabic",
+        "calculator",
+        "chart",
+        "clock",
+        "conversion",
+        "convert",
+        "converter",
+        "date",
+        "dates",
+        "deromanize",
+        "integer",
+        "math",
+        "mean",
+        "number",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "annomath",
+      "descriptions": "Annotated math utilities for JavaScript",
+      "keyword": [
+        "math",
+        "utilities"
+      ],
+      "author": "bebraw"
+    },
+    {
+      "name": "compute-deg2rad",
+      "descriptions": "Converts degrees to radians.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "degrees",
+        "radians",
+        "convert",
+        "array",
+        "geometry",
+        "utility",
+        "utils"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "const-pinf-float32",
+      "descriptions": "Positive infinity.",
+      "keyword": [
+        "const.io",
+        "const",
+        "constant",
+        "const-io",
+        "compute.io",
+        "compute-io",
+        "computation",
+        "compute",
+        "mathematics",
+        "math",
+        "pinf",
+        "positive",
+        "infinity",
+        "float32",
+        "View more"
+      ],
+      "author": "planeshifter"
+    },
+    {
+      "name": "vend-number",
+      "descriptions": "A collection of utility methods for floating point Number operations",
+      "keyword": [
+        "number",
+        "math",
+        "bignumber.js"
+      ],
+      "author": "wal8800"
+    },
+    {
+      "name": "const-ninf-float32",
+      "descriptions": "Negative infinity.",
+      "keyword": [
+        "const.io",
+        "const",
+        "constant",
+        "const-io",
+        "compute.io",
+        "compute-io",
+        "computation",
+        "compute",
+        "mathematics",
+        "math",
+        "ninf",
+        "negative",
+        "infinity",
+        "float32",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "@ctx-core/math",
+      "descriptions": "Ctx-core math",
+      "keyword": [
+        "ctx-core",
+        "math"
+      ],
+      "author": "btakita"
+    },
+    {
+      "name": "compute-mean",
+      "descriptions": "Computes the arithmetic mean.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "statistics",
+        "stats",
+        "mean",
+        "average",
+        "avg",
+        "arithmetic",
+        "array",
+        "matrix",
+        "matrices",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "math-ln",
+      "descriptions": "Natural logarithm.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.log",
+        "ln",
+        "natural",
+        "logarithm",
+        "log",
+        "value",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "hjs-core",
+      "descriptions": "Hubrisjs core classes",
+      "keyword": [
+        "char",
+        "math",
+        "time",
+        "util",
+        "type"
+      ],
+      "author": "ornorm"
+    },
+    {
+      "name": "math-float32-to-binary-string",
+      "descriptions": "Returns a string giving the literal bit representation of a single-precision floating-point number.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "number",
+        "binary",
+        "bin",
+        "bits",
+        "float32",
+        "single",
+        "View more"
+      ],
+      "author": "planeshifter"
+    },
+    {
+      "name": "@metadelta/core",
+      "descriptions": "A small library for advanced math.",
+      "keyword": [
+        "newton",
+        "calculus",
+        "math",
+        "algebra",
+        "linear",
+        "matrix",
+        "regression"
+      ],
+      "author": "aunyks"
+    },
+    {
+      "name": "random-obj-key",
+      "descriptions": "Get a random key from an object",
+      "keyword": [
+        "random",
+        "randomize",
+        "math",
+        "object",
+        "key",
+        "pick",
+        "select",
+        "choice"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "mathlive",
+      "descriptions": "Render and edit beautifully typeset math",
+      "keyword": [
+        "math",
+        "editor",
+        "javascript",
+        "math-editing",
+        "latex",
+        "tex",
+        "mathjax",
+        "katex",
+        "mathquill"
+      ],
+      "author": "arnog"
+    },
+    {
+      "name": "kmath",
+      "descriptions": "Khan Academy's Javascript Numeric Math Utilities",
+      "keyword": [
+        "math"
+      ],
+      "author": "ariabuckles"
+    },
+    {
+      "name": "@typed/math",
+      "descriptions": "Common mathematical needs",
+      "keyword": [
+        "typed",
+        "typescript",
+        "math"
+      ],
+      "author": "typed"
+    },
+    {
+      "name": "compute-incrmmean",
+      "descriptions": "Provides a method to compute a moving arithmetic mean incrementally.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "statistics",
+        "stats",
+        "mathematics",
+        "math",
+        "average",
+        "avg",
+        "mean",
+        "arithmetic mean",
+        "moving mean",
+        "moving average",
+        "sliding window",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "math-float64-get-high-word",
+      "descriptions": "Returns a 32-bit integer corresponding to the more significant 32 bits of a double-precision floating-point number.",
+      "keyword": [
+        "math.io",
+        "math-io",
+        "mathematics",
+        "math",
+        "compute.io",
+        "compute-io",
+        "computation",
+        "compute",
+        "float64",
+        "floating-point",
+        "float",
+        "double",
+        "dbl",
+        "words",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "compute-cosine-distance",
+      "descriptions": "Calculate the cosine distance between arrays",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "distance",
+        "similarity",
+        "information theory",
+        "mathematics",
+        "math",
+        "array",
+        "dist",
+        "difference",
+        "cosine",
+        "vector",
+        "algebra",
+        "View more"
+      ],
+      "author": "planeshifter"
+    },
+    {
+      "name": "math-power",
+      "descriptions": "Exponential function.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.pow",
+        "pow",
+        "power",
+        "natural",
+        "exponential",
+        "function"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "prototyped.js",
+      "descriptions": "Common typescript ready prototypes available in both es5 and es6",
+      "keyword": [
+        "server-side",
+        "client-side",
+        "common",
+        "es5",
+        "es6",
+        "typescript",
+        "prototype",
+        "array",
+        "all",
+        "any",
+        "append",
+        "average",
+        "chunk",
+        "clone",
+        "View more"
+      ],
+      "author": "ardalanamini"
+    },
+    {
+      "name": "math-trunc",
+      "descriptions": "ES6 Math.trunc() ponyfill",
+      "keyword": [
+        "es6",
+        "math",
+        "polyfill",
+        "ponyfill",
+        "trunc"
+      ],
+      "author": "kevva"
+    },
+    {
+      "name": "@wiris/mathtype-ckeditor5",
+      "descriptions": "MathType Web for CKEditor5 editor",
+      "keyword": [
+        "ckeditor",
+        "ckeditor5",
+        "chem",
+        "chemistry",
+        "chemtype",
+        "editor",
+        "equation",
+        "latex",
+        "math",
+        "maths",
+        "mathml",
+        "mathtype",
+        "wiris"
+      ],
+      "author": "wiris"
+    },
+    {
+      "name": "wmathvector",
+      "descriptions": "Collection of functions for vector math. MathVector introduces missing in JavaScript type VectorImage. VectorImage is a reference, it does not contain data but only refer on actual ( aka Long ) container of lined data. VectorImage could have offset, lengt",
+      "keyword": [
+        "wTools",
+        "math",
+        "vector",
+        "dot product",
+        "convolution"
+      ],
+      "author": "wandalen"
+    },
+    {
+      "name": "math-float64-to-words",
+      "descriptions": "Splits a floating-point number into a higher order word and a lower order word.",
+      "keyword": [
+        "math.io",
+        "math-io",
+        "mathematics",
+        "math",
+        "compute.io",
+        "compute-io",
+        "computation",
+        "compute",
+        "float64",
+        "floating-point",
+        "float",
+        "double",
+        "dbl",
+        "words",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "gitbook-plugin-katex",
+      "descriptions": "Math typesetting using KaTex into GitBook",
+      "keyword": [
+        "math",
+        "latex"
+      ],
+      "author": "aarono"
+    },
+    {
+      "name": "math-float64-from-words",
+      "descriptions": "Creates a double-precision floating-point number from a higher order word and a lower order word.",
+      "keyword": [
+        "math.io",
+        "math-io",
+        "mathematics",
+        "math",
+        "compute.io",
+        "compute-io",
+        "computation",
+        "compute",
+        "float64",
+        "floating-point",
+        "float",
+        "double",
+        "dbl",
+        "from",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "object-learning",
+      "descriptions": "Train lightweight machine learning models directly on JavaScript objects",
+      "keyword": [
+        "math",
+        "machine learning",
+        "regression",
+        "clustering",
+        "k means"
+      ],
+      "author": "johngoddard"
+    },
+    {
+      "name": "compute-argmax",
+      "descriptions": "Computes the maximum value of a numeric array and returns the corresponding array indices.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "statistics",
+        "stats",
+        "array",
+        "max",
+        "maximum"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "random-obj-prop",
+      "descriptions": "Get a random property from an object",
+      "keyword": [
+        "random",
+        "randomize",
+        "math",
+        "object",
+        "property",
+        "prop",
+        "pick",
+        "select",
+        "choice"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "postcss-mathjs",
+      "descriptions": "PostCSS plugin for making calculations with math.js",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "math.js",
+        "math"
+      ],
+      "author": "theaqua"
+    },
+    {
+      "name": "vishull2d",
+      "descriptions": "Visible regions for 2D poly-lines",
+      "keyword": [
+        "visibility",
+        "visible",
+        "2d",
+        "polygon",
+        "line",
+        "geometry",
+        "shadow",
+        "lighting",
+        "game",
+        "math",
+        "ray",
+        "gauss",
+        "occlusion"
+      ],
+      "author": "mikolalysenko"
+    },
+    {
+      "name": "rate-map",
+      "descriptions": "Map a number in the range of 0-1 to a new value with a given range",
+      "keyword": [
+        "number",
+        "rate",
+        "percent",
+        "percentage",
+        "range",
+        "map",
+        "convert",
+        "min",
+        "max",
+        "math"
+      ],
+      "author": "shinnn"
+    },
+    {
+      "name": "acosh",
+      "descriptions": "ES2015 Math.acosh() ponyfill",
+      "keyword": [
+        "es2015",
+        "ponyfill",
+        "polyfill",
+        "shim",
+        "number",
+        "math",
+        "acosh",
+        "hyperbolic",
+        "arccosine"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "conjugate-gradient",
+      "descriptions": "Conjugate gradient solver",
+      "keyword": [
+        "linear",
+        "solve",
+        "algebra",
+        "math",
+        "numerical",
+        "method",
+        "conjugate",
+        "gradient",
+        "preconditioner",
+        "jacobi",
+        "diagonal",
+        "iterative",
+        "sparse",
+        "matrix",
+        "View more"
+      ],
+      "author": "mikolalysenko"
+    },
+    {
+      "name": "get-plane-normal",
+      "descriptions": "Gets a plane's normal from 3 points",
+      "keyword": [
+        "get",
+        "plane",
+        "from",
+        "three",
+        "3",
+        "points",
+        "normal",
+        "normalize",
+        "normals",
+        "planes",
+        "unit",
+        "vector",
+        "math"
+      ],
+      "author": "mattdesl"
+    },
+    {
+      "name": "solfege",
+      "descriptions": "Library for manipulating musical pitches using solfège",
+      "keyword": [
+        "music",
+        "solfege",
+        "solfeggio",
+        "calculation",
+        "math",
+        "scale",
+        "notation",
+        "utility"
+      ],
+      "author": "carlos8f"
+    },
+    {
+      "name": "const-pi",
+      "descriptions": "Pi.",
+      "keyword": [
+        "const-io",
+        "const.io",
+        "compute.io",
+        "compute-io",
+        "computation",
+        "compute",
+        "mathematics",
+        "math",
+        "constant",
+        "const",
+        "pi"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "javlin-pure",
+      "descriptions": "Just Another Vector Library in Node - Pure",
+      "keyword": [
+        "javlin",
+        "javlin-pure",
+        "vector",
+        "math",
+        "library"
+      ],
+      "author": "aeoril"
+    },
+    {
+      "name": "giac",
+      "descriptions": "Giac, a free computer algebra system",
+      "keyword": [
+        "computer algebra",
+        "math",
+        "mathematics",
+        "cas",
+        "computer",
+        "algebra"
+      ],
+      "author": "kovzol"
+    },
+    {
+      "name": "ambients-math",
+      "descriptions": "Math utils for related projects",
+      "keyword": [
+        "ambients",
+        "math"
+      ],
+      "author": "sheley1998"
+    },
+    {
+      "name": "log10",
+      "descriptions": "ES2015 Math.log10() ponyfill",
+      "keyword": [
+        "es2015",
+        "ponyfill",
+        "polyfill",
+        "shim",
+        "number",
+        "math",
+        "log10",
+        "log",
+        "logarithm"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "get-age",
+      "descriptions": "Calculate the age in years for a birth date",
+      "keyword": [
+        "add",
+        "math",
+        "sum"
+      ],
+      "author": "bsiddiqui"
+    },
+    {
+      "name": "ndarray-complex",
+      "descriptions": "Complex arithmetic for ndarrays",
+      "keyword": [
+        "complex",
+        "imaginary",
+        "real",
+        "ndarray",
+        "component-wise",
+        "array",
+        "math",
+        "linear",
+        "algebra",
+        "exponent",
+        "abs",
+        "multiply",
+        "divide",
+        "reciprocal"
+      ],
+      "author": "mikolalysenko"
+    },
+    {
+      "name": "vmath",
+      "descriptions": "Yet another gl-matrix: faster and smaller",
+      "keyword": [
+        "math",
+        "algebre",
+        "vector",
+        "matrix"
+      ],
+      "author": "johnnywu"
+    },
+    {
+      "name": "string-math",
+      "descriptions": "Evaluates the result of the String arithmetical expression",
+      "keyword": [
+        "string",
+        "math",
+        "arithmetic",
+        "result",
+        "parse",
+        "evaluate",
+        "addition",
+        "sum",
+        "plus",
+        "division",
+        "subtraction",
+        "multiplication",
+        "add",
+        "divide",
+        "View more"
+      ],
+      "author": "devrafalko"
+    },
+    {
+      "name": "wink-statistics",
+      "descriptions": "Fast and Numerically Stable Statistical Analysis Utilities",
+      "keyword": [
+        "Statistics",
+        "Probability",
+        "Real Time",
+        "Streaming",
+        "Stats",
+        "Math",
+        "Wink",
+        "Regression",
+        "Covariance",
+        "Mean",
+        "Stdev",
+        "Median",
+        "Boxplot",
+        "Standard Deviation",
+        "View more"
+      ],
+      "author": "sanjaya"
+    },
+    {
+      "name": "extract-math",
+      "descriptions": "Extract TeX math environments",
+      "keyword": [
+        "latex",
+        "katex",
+        "tex",
+        "math"
+      ],
+      "author": "vberlier"
+    },
+    {
+      "name": "node-cint64",
+      "descriptions": "Providing native 64-bit integer arithmetic for Node!",
+      "keyword": [
+        "integer",
+        "int64",
+        "native",
+        "64-bit",
+        "math"
+      ],
+      "author": "cactorium"
+    },
+    {
+      "name": "math-evalrational",
+      "descriptions": "Evaluates a rational function.",
+      "keyword": [
+        "computation",
+        "compute-io",
+        "compute.io",
+        "compute",
+        "math-io",
+        "math.io",
+        "math",
+        "mathematics",
+        "polynomial",
+        "rational",
+        "ratio",
+        "eval",
+        "evaluate",
+        "evalp",
+        "View more"
+      ],
+      "author": "planeshifter"
+    },
+    {
+      "name": "sinful-math",
+      "descriptions": "Simple, safe floating point math. Based on the Math portion of the sinful.js project at https://github.com/guipn/sinful.js",
+      "keyword": [
+        "sinful",
+        "floating-point",
+        "math"
+      ],
+      "author": "chipincode"
+    },
+    {
+      "name": "unlerp",
+      "descriptions": "Opposite of lerp; get normalized range between two bounds",
+      "keyword": [
+        "gl",
+        "glsl",
+        "math",
+        "lerp",
+        "linear",
+        "interpolation",
+        "unlerp",
+        "norm",
+        "normalize",
+        "normalise",
+        "normalized",
+        "range",
+        "vector"
+      ],
+      "author": "mattdesl"
+    },
+    {
+      "name": "angular-ts-math",
+      "descriptions": "Angular ts numbers and math!",
+      "keyword": [
+        "angular",
+        "math",
+        "ts",
+        "angular-ts",
+        "angular-ts-math",
+        "angular-math",
+        "typescript",
+        "angular2"
+      ],
+      "author": "s3c4"
+    },
+    {
+      "name": "common-constants",
+      "descriptions": "A set of constants commonly used across many projects, relating to e.g. date, time, ports, logging, and math",
+      "keyword": [
+        "constants",
+        "date",
+        "time",
+        "logging",
+        "log",
+        "logs",
+        "ports",
+        "port",
+        "defaults",
+        "sane-defaults",
+        "math",
+        "maths",
+        "mathematics",
+        "science"
+      ],
+      "author": "andfaulkner"
+    },
+    {
+      "name": "@thi.ng/matrices",
+      "descriptions": "Matrix & quaternion operations for 2D/3D geometry processing",
+      "keyword": [
+        "2D",
+        "3D",
+        "ES6",
+        "code generator",
+        "conversion",
+        "column",
+        "euler angles",
+        "frustum",
+        "geometry",
+        "invert",
+        "linear algebra",
+        "lookat",
+        "math",
+        "matrix",
+        "View more"
+      ],
+      "author": "thi.ng"
+    },
+    {
+      "name": "mathjax-server",
+      "descriptions": "Server listens for POST with MathJax config. Returns rendered version.",
+      "keyword": [
+        "latex",
+        "math",
+        "mathjax",
+        "svg",
+        "mathml"
+      ],
+      "author": "tiarno"
+    },
+    {
+      "name": "@pie-lib/math-toolbar",
+      "descriptions": "Math toolbar for editing math equations",
+      "keyword": [
+        "math",
+        "toolbar",
+        "equations",
+        "expressions"
+      ],
+      "author": "ed.eustace"
+    },
+    {
+      "name": "lcm",
+      "descriptions": "Compute the least common multiple using Euclidean algorithm",
+      "keyword": [
+        "lcm",
+        "math",
+        "euclidean"
+      ],
+      "author": "nickleefly"
+    },
+    {
+      "name": "math-kit",
+      "descriptions": "Math utilities (random, stats, and more)",
+      "keyword": [
+        "math",
+        "random"
+      ],
+      "author": "cronvel"
+    },
+    {
+      "name": "mathjax-node-sre",
+      "descriptions": "Extend mathjax-node using speechruleengine",
+      "keyword": [
+        "mathjax",
+        "math",
+        "tex",
+        "mathml",
+        "html",
+        "accessibility",
+        "screenreader"
+      ],
+      "author": "pkra"
+    },
+    {
+      "name": "big-rational",
+      "descriptions": "An arbitrary length rational number library for Javascript",
+      "keyword": [
+        "math",
+        "big",
+        "bignum",
+        "bignumber",
+        "bigrational",
+        "rational",
+        "arbitrary",
+        "precision",
+        "arithmetic"
+      ],
+      "author": "peterolson"
+    },
+    {
+      "name": "svjsl",
+      "descriptions": "A multi-purpose, lightweight and dependency-free JavaScript library that makes coding a bit faster by providing many easy to use functions and classes",
+      "keyword": [
+        "javascript",
+        "js",
+        "library",
+        "general-purpose",
+        "multi-purpose",
+        "miscellaneous",
+        "miscellaneous-utilities",
+        "miscellaneous-functions",
+        "network",
+        "networking",
+        "download-file",
+        "files",
+        "filesystem",
+        "math"
+      ],
+      "author": "sv443"
+    },
+    {
+      "name": "math-float64-copysign",
+      "descriptions": "Returns a double-precision floating-point number with the magnitude of x and the sign of y.",
+      "keyword": [
+        "math-io",
+        "math.io",
+        "math",
+        "mathematics",
+        "float64",
+        "double",
+        "copysign",
+        "copy",
+        "sign",
+        "bits",
+        "compute-io",
+        "compute.io",
+        "computation",
+        "compute",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "mathf",
+      "descriptions": "Unity3D's Mathf port",
+      "keyword": [
+        "math",
+        "mathf",
+        "unity3d",
+        "gamedev",
+        "algorithm"
+      ],
+      "author": "alizurchik"
+    },
+    {
+      "name": "linear-interpolator",
+      "descriptions": "Linear interpolation and extrapolation",
+      "keyword": [
+        "interpolate",
+        "interpolation",
+        "interpolating",
+        "linear",
+        "math",
+        "mathematics",
+        "numeric"
+      ],
+      "author": "feklee"
+    },
+    {
+      "name": "minimatrix",
+      "descriptions": "A linear algebra package for 2x2 and 3x3 matrices and 2D/3D vectors.",
+      "keyword": [
+        "math",
+        "linear",
+        "algebra"
+      ],
+      "author": "muralha"
+    },
+    {
+      "name": "power-radix",
+      "descriptions": "Library for converting numbers from one radix representation (encoding) to another, with optional custom defined encodings. Inspired by rubyworks/radix.",
+      "keyword": [
+        "arithmetic",
+        "base conversion",
+        "base convert",
+        "base",
+        "base10",
+        "base58 decode",
+        "base58 encode",
+        "base58",
+        "base64 decode",
+        "base64 encode",
+        "base64",
+        "conversion",
+        "convert",
+        "decode",
+        "View more"
+      ],
+      "author": "cflynn07"
+    },
+    {
+      "name": "@writetome51/get-rounded-up-down",
+      "descriptions": "3 functions: getRounded(), getRoundedUp(), getRoundedDown()",
+      "keyword": [
+        "math",
+        "numbers",
+        "rounding",
+        "round",
+        "rounded",
+        "up",
+        "down"
+      ],
+      "author": "writetome51"
+    },
+    {
+      "name": "@mathigon/fermat",
+      "descriptions": "Powerful mathematics, statistics and geometry library for JavaScript.",
+      "keyword": [
+        "mathematics",
+        "math",
+        "statistics",
+        "random",
+        "geometry"
+      ],
+      "author": "mathigon"
+    },
+    {
+      "name": "my-package",
+      "descriptions": "This is a sample package",
+      "keyword": [
+        "math",
+        "example"
+      ],
+      "author": "luisgepeto"
+    },
+    {
+      "name": "@favware/querystring",
+      "descriptions": "Awesome and robust querystring",
+      "keyword": [
+        "querystring",
+        "math",
+        "random",
+        "security",
+        "favware",
+        "typescript",
+        "ts"
+      ],
+      "author": "favna."
+    },
+    {
+      "name": "@matejmazur/react-katex",
+      "descriptions": "Display math in TeX with KaTeX and ReactJS",
+      "keyword": [
+        "react",
+        "tex",
+        "latex",
+        "math",
+        "katex"
+      ],
+      "author": "matejmazur"
+    },
+    {
+      "name": "compute-manhattan-distance",
+      "descriptions": "Computes the Manhattan (city block) distance between two arrays.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "taxicab",
+        "geometry",
+        "manhattan",
+        "distance",
+        "dist",
+        "norm",
+        "l1norm",
+        "points",
+        "space",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "simplify-ts",
+      "descriptions": "Simplification of a 2D-polyline or a 3D-polyline.",
+      "keyword": [
+        "ts",
+        "tsc",
+        "typescript",
+        "douglas",
+        "peucker",
+        "math",
+        "geometry",
+        "polyline",
+        "simplification"
+      ],
+      "author": "meta.ceo"
+    },
+    {
+      "name": "compute-chebyshev-distance",
+      "descriptions": "Computes the Chebyshev distance between two arrays.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "distance",
+        "dist",
+        "chebyshev",
+        "array",
+        "vector",
+        "lpnorm",
+        "maximum metric",
+        "linf metric",
+        "norm",
+        "View more"
+      ],
+      "author": "planeshifter"
+    },
+    {
+      "name": "compute-euclidean-distance",
+      "descriptions": "Computes the Euclidean distance between two arrays.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "vector",
+        "distance",
+        "dist",
+        "norm",
+        "l2norm",
+        "points",
+        "euclidean",
+        "space",
+        "array"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "ecma-proposal-math-extensions",
+      "descriptions": "Tests and a polyfill for the ES2017 Math Extensions Proposal",
+      "keyword": [
+        "ecmascript",
+        "math",
+        "test262",
+        "Math.map",
+        "Math.remap",
+        "Math.scale",
+        "Math.clamp",
+        "Math.constrain",
+        "Math.radians",
+        "Math.degrees"
+      ],
+      "author": "rwaldron"
+    },
+    {
+      "name": "math-float64-set-low-word",
+      "descriptions": "Sets the less significant 32 bits of a double-precision floating-point number.",
+      "keyword": [
+        "math.io",
+        "math-io",
+        "mathematics",
+        "math",
+        "compute.io",
+        "compute-io",
+        "computation",
+        "compute",
+        "float64",
+        "floating-point",
+        "float",
+        "double",
+        "dbl",
+        "words",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "wmathspace",
+      "descriptions": "Collection of functions for matrix math. MathSpace introduces class Space which is a multidimensional structure which in the most trivial case is Matrix of scalars. A matrix of specific form could also be classified as a vector. MathSpace heavily relly on",
+      "keyword": [
+        "wTools",
+        "math",
+        "matrix",
+        "matrix math",
+        "convolution"
+      ],
+      "author": "wandalen"
+    },
+    {
+      "name": "geocluster",
+      "descriptions": "Find clusters in coordinates",
+      "keyword": [
+        "geo",
+        "cluster",
+        "geocluster",
+        "smeans",
+        "s-means",
+        "kmeans",
+        "c-means",
+        "clustering",
+        "coordinates",
+        "maps",
+        "statistics",
+        "math"
+      ],
+      "author": "yetzt"
+    },
+    {
+      "name": "complex",
+      "descriptions": "Do calculations with Complex numbers",
+      "keyword": [
+        "Complex Numbers",
+        "Numbers",
+        "Math",
+        "Calculus"
+      ],
+      "author": "arian"
+    },
+    {
+      "name": "to-decimal",
+      "descriptions": "Convert percent to decimal",
+      "keyword": [
+        "calculate",
+        "convert",
+        "decimal",
+        "math",
+        "number",
+        "percent"
+      ],
+      "author": "gillstrom"
+    },
+    {
+      "name": "map-range",
+      "descriptions": "Simple function domain/range conversion",
+      "keyword": [
+        "math",
+        "function",
+        "domain",
+        "range",
+        "map"
+      ],
+      "author": "jaz303"
+    },
+    {
+      "name": "@pelevesque/sum-digits",
+      "descriptions": "Sums the digits in a string with a powerful substrings->digits feature.",
+      "keyword": [
+        "math",
+        "sum",
+        "digits"
+      ],
+      "author": "pelevesque"
+    },
+    {
+      "name": "math-erf",
+      "descriptions": "Error function.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "computation",
+        "compute",
+        "math-io",
+        "math.io",
+        "math",
+        "mathematics",
+        "erf",
+        "error",
+        "function",
+        "special",
+        "number"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "math-sign",
+      "descriptions": "ES2015 Math.sign() ponyfill",
+      "keyword": [
+        "es2015",
+        "ponyfill",
+        "polyfill",
+        "shim",
+        "number",
+        "math",
+        "sign",
+        "positive",
+        "negative",
+        "sgn",
+        "signum",
+        "real"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "@equinor/videx-math",
+      "descriptions": "A library with math used by Videx.",
+      "keyword": [
+        "math"
+      ],
+      "author": "tomktjemsland"
+    },
+    {
+      "name": "compute-abs",
+      "descriptions": "Computes an element-wise absolute value.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "arithmetic",
+        "array",
+        "element-wise",
+        "absolute value",
+        "arrays",
+        "matrix",
+        "matrices",
+        "accessor",
+        "abs",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "compute-erf",
+      "descriptions": "Error function.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "erf",
+        "error function",
+        "mathematics",
+        "math",
+        "statistics",
+        "stats",
+        "matrices",
+        "matrix",
+        "dstructs",
+        "array",
+        "arrays",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "math_example",
+      "descriptions": "An example of creating a package",
+      "keyword": [
+        "math",
+        "example",
+        "addition",
+        "subtraction",
+        "multiplication",
+        "division",
+        "fibonacci"
+      ],
+      "author": "glennjohnson"
+    },
+    {
+      "name": "math-float32-to-word",
+      "descriptions": "Returns an unsigned 32-bit integer corresponding to the IEEE 754 binary representation of a single-precision floating-point number.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "computation",
+        "compute",
+        "math-io",
+        "math.io",
+        "math",
+        "convert",
+        "floating-point",
+        "float32",
+        "single",
+        "float",
+        "to",
+        "bits",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "math-toolbox",
+      "descriptions": "Lightweight and modular math toolbox",
+      "keyword": [
+        "math",
+        "utils",
+        "toolbox",
+        "tools",
+        "helper",
+        "lerp",
+        "map",
+        "clamp",
+        "average",
+        "isOdd",
+        "isEven",
+        "smoothstep",
+        "random",
+        "distance",
+        "View more"
+      ],
+      "author": "terkelg"
+    },
+    {
+      "name": "math-sin",
+      "descriptions": "Computes the sine of a number.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.sin",
+        "sin",
+        "sine",
+        "trig",
+        "trigonometry",
+        "radians"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "number-theory",
+      "descriptions": "Number theory functions for javascript.",
+      "keyword": [
+        "number",
+        "theory",
+        "euler",
+        "math"
+      ],
+      "author": "rsandor"
+    },
+    {
+      "name": "typographic-math-symbols",
+      "descriptions": "Use real symbols, not alphabetic characters",
+      "keyword": [
+        "typographic",
+        "math",
+        "textr"
+      ],
+      "author": "matmuchrapna"
+    },
+    {
+      "name": "math-gamma",
+      "descriptions": "Gamma function.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "special function",
+        "special",
+        "function",
+        "gamma",
+        "factorial",
+        "scalar"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "vectorx",
+      "descriptions": "2d and 3d vector using the same code",
+      "keyword": [
+        "vector",
+        "math",
+        "physics"
+      ],
+      "author": "gvr37leo"
+    },
+    {
+      "name": "vector2d",
+      "descriptions": "2D Vector library offering Float32Array, Array or standard Object based vectors.",
+      "keyword": [
+        "physics",
+        "math",
+        "vector",
+        "vectors",
+        "2d",
+        "float",
+        "float32",
+        "Float32Array",
+        "typescript",
+        "tsc"
+      ],
+      "author": "evanshortiss"
+    },
+    {
+      "name": "latex2js-pstricks",
+      "descriptions": "PSTricks extension for LaTeX2JS",
+      "keyword": [
+        "latex",
+        "latex2html",
+        "latex2js",
+        "math",
+        "mathematics",
+        "diagrams",
+        "mathjax",
+        "pstrick"
+      ],
+      "author": "pyramation"
+    },
+    {
+      "name": "math-cos",
+      "descriptions": "Computes the cosine of a number.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.cos",
+        "cos",
+        "cosine",
+        "trig",
+        "trigonometry",
+        "radians"
+      ],
+      "author": "planeshifter"
+    },
+    {
+      "name": "math-sinpi",
+      "descriptions": "Computes sin(πx).",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.sin",
+        "sin",
+        "sine",
+        "pi",
+        "trig",
+        "trigonometry"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "math-precision",
+      "descriptions": ".Round, .ceil, .floor with precision parameter: .round(1.234, 2) → 1.23",
+      "keyword": [
+        "round",
+        "precision",
+        "decimals",
+        "number",
+        "numbers",
+        "ceil",
+        "floor",
+        "math",
+        "Math.round"
+      ],
+      "author": "florin.david84"
+    },
+    {
+      "name": "interval-arithmetic-eval",
+      "descriptions": "Interprets/evaluates mathematical expressions using interval arithmetic",
+      "keyword": [
+        "interval-arithmetic-eval",
+        "interval",
+        "interval-arithmetic",
+        "math",
+        "arithmetic",
+        "interpreter",
+        "eval"
+      ],
+      "author": "maurizzzio"
+    },
+    {
+      "name": "@wiris/ckeditor5-mathml",
+      "descriptions": "MathML for CKEditor5 editor",
+      "keyword": [
+        "ckeditor",
+        "ckeditor5",
+        "editor",
+        "equation",
+        "math",
+        "maths",
+        "mathml",
+        "mathtype",
+        "wiris"
+      ],
+      "author": "wiris"
+    },
+    {
+      "name": "@melonproject/token-math",
+      "descriptions": "A small helper library to do precision safe calculations",
+      "keyword": [
+        "Ethereum",
+        "Token",
+        "ERC20",
+        "Math",
+        "Safe Math",
+        "TypeScript",
+        "Functional Programming",
+        "Functional TypeScript"
+      ],
+      "author": "schmidsi"
+    },
+    {
+      "name": "math-calc",
+      "descriptions": "Math-calc is a simpleset and fast postcss plugin allows you write +、-、*、/、% in your css",
+      "keyword": [
+        "postcss-plugin",
+        "postcss-math-calc",
+        "postcss-calc",
+        "postcss-math",
+        "calc",
+        "math",
+        "+ - * /"
+      ],
+      "author": "lore-w"
+    },
+    {
+      "name": "nowjs-core",
+      "descriptions": "NowCanDo Javascript Core [nowjs-core] is a library written by TypeScript code maintains under Apache 2.0 licence",
+      "keyword": [
+        "nowjs",
+        "nowjscore",
+        "nowjs-core",
+        "nowcando",
+        "Saeed Tabrizi",
+        "Typescript",
+        "light weight",
+        "library",
+        "LOB",
+        "line of business",
+        "linq",
+        "validation",
+        "calculation",
+        "math"
+      ],
+      "author": "saeed.tabrizi"
+    },
+    {
+      "name": "mathml",
+      "descriptions": "MathML allows to load modify and render MathML input. It is based on the XML processing node module xtraverse.",
+      "keyword": [
+        "mathml",
+        "math",
+        "xml",
+        "mathml3"
+      ],
+      "author": "physikerwelt"
+    },
+    {
+      "name": "mathutils",
+      "descriptions": "A collection of math-related functions",
+      "keyword": [
+        "math",
+        "gcd",
+        "powermod"
+      ],
+      "author": "feedic"
+    },
+    {
+      "name": "supergeneric",
+      "descriptions": "Super-generic JS helper functions... formatters, math functions, sort functions, etc.",
+      "keyword": [
+        "math",
+        "sort",
+        "sorting",
+        "helper",
+        "functions",
+        "max",
+        "median",
+        "formatters",
+        "mad",
+        "sortby"
+      ],
+      "author": "kwhitley"
+    },
+    {
+      "name": "bigmoney.js",
+      "descriptions": "Library for handling the money values. Based on big.js library for arbitrary-precision decimal arithmetic. Support multiple currencies.",
+      "keyword": [
+        "money",
+        "currency",
+        "calc",
+        "js",
+        "javascipt",
+        "float",
+        "math"
+      ],
+      "author": "goldix"
+    },
+    {
+      "name": "dataship-frame",
+      "descriptions": "A Data Frame for Javascript. Crunch numbers in node and the browser.",
+      "keyword": [
+        "dataframe",
+        "statistics",
+        "math",
+        "pandas",
+        "R"
+      ],
+      "author": "waylonflinn"
+    },
+    {
+      "name": "compute-erfinv",
+      "descriptions": "Inverse error function.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "statistics",
+        "stats",
+        "erf",
+        "inverse error function",
+        "error function",
+        "erfinv",
+        "mathematics",
+        "math",
+        "matrix",
+        "matrices",
+        "array",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "mad-utils",
+      "descriptions": "A set of misc utilties I find myself repeatedly re-writing between projects.",
+      "keyword": [
+        "util",
+        "utils",
+        "utilities",
+        "utility",
+        "object",
+        "function",
+        "string",
+        "core",
+        "date",
+        "search",
+        "find",
+        "match",
+        "type",
+        "types",
+        "View more"
+      ],
+      "author": "andfaulkner"
+    },
+    {
+      "name": "disjoint-set",
+      "descriptions": "Data structure that helps to solve network connectivity problem using two operations: 1) connect two objects; 2) check or two objects are connected.",
+      "keyword": [
+        "disjoint-set",
+        "union-find",
+        "connectivity",
+        "algorithm",
+        "math"
+      ],
+      "author": "andriiheonia"
+    },
+    {
+      "name": "math-plus",
+      "descriptions": "A math library with a Vector class and added methods.",
+      "keyword": [
+        "math",
+        "random",
+        "vector",
+        "clamp",
+        "lerp"
+      ],
+      "author": "benzed"
+    },
+    {
+      "name": "ebg13",
+      "descriptions": "Simple Rot13 implementation",
+      "keyword": [
+        "rot13",
+        "cryptography",
+        "cypher",
+        "math",
+        "caesar cipher"
+      ],
+      "author": "guioconnor"
+    },
+    {
+      "name": "@wiris/mathtype-integration-js-dev",
+      "descriptions": "MathType Web Integration JavaScript development tools",
+      "keyword": [
+        "chem",
+        "chemistry",
+        "chemtype",
+        "editor",
+        "equation",
+        "latex",
+        "math",
+        "maths",
+        "mathml",
+        "mathtype",
+        "wiris"
+      ],
+      "author": "wiris"
+    },
+    {
+      "name": "latex2js",
+      "descriptions": "LaTeX and PSTricks rendering & components for the Web",
+      "keyword": [
+        "latex",
+        "mathjax",
+        "latex2html",
+        "latex2js",
+        "math",
+        "mathematics",
+        "pstricks",
+        "graphics",
+        "diagrams",
+        "math diagrams"
+      ],
+      "author": "pyramation"
+    },
+    {
+      "name": "ea-lib",
+      "descriptions": "Base function library used by ea-module collection",
+      "keyword": [
+        "library",
+        "functions",
+        "math",
+        "array",
+        "common"
+      ],
+      "author": "hagb4rd"
+    },
+    {
+      "name": "math-tan",
+      "descriptions": "Computes the tangent of a number.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.tan",
+        "tan",
+        "tangent",
+        "sin",
+        "sine",
+        "cos",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "durand-kerner",
+      "descriptions": "Finds multiple roots of polynomials using Weierstrass' method",
+      "keyword": [
+        "scijs",
+        "root",
+        "polynomial",
+        "weierstrass",
+        "durand",
+        "kerner",
+        "multiple",
+        "zero",
+        "solve",
+        "algebra",
+        "math",
+        "newton",
+        "equation"
+      ],
+      "author": "jaspervdg"
+    },
+    {
+      "name": "math-codegen",
+      "descriptions": "Generates code from mathematical expressions",
+      "keyword": [
+        "math-codegen",
+        "codegen",
+        "math",
+        "eval",
+        "compile",
+        "parse"
+      ],
+      "author": "mauriciopoppe"
+    },
+    {
+      "name": "vectory",
+      "descriptions": "High performant, DevTools friendly, Crankshaft tolerant 2d vectors",
+      "keyword": [
+        "math",
+        "vector",
+        "2d"
+      ],
+      "author": "broadsw0rd"
+    },
+    {
+      "name": "math-hypot",
+      "descriptions": "Computes the square root of a sum of squares.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.hypot",
+        "hypot",
+        "hypotenuse",
+        "value",
+        "scalar",
+        "number",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "bbop-graph-noctua",
+      "descriptions": "A subclass of bbop-graph that layers on a complete annotation and graph editing model for the Noctua set of tools.",
+      "keyword": [
+        "node",
+        "npm",
+        "client",
+        "server",
+        "Gene Ontology",
+        "GO",
+        "bbop",
+        "Berkeley BOP",
+        "Minerva",
+        "Noctua",
+        "math",
+        "mathematics",
+        "graph"
+      ],
+      "author": "kltm"
+    },
+    {
+      "name": "latex2js-mathjax",
+      "descriptions": "MathJax utilities for LaTeX2JS",
+      "keyword": [
+        "latex",
+        "latex2html",
+        "latex2js",
+        "math",
+        "mathematics",
+        "mathjax"
+      ],
+      "author": "pyramation"
+    },
+    {
+      "name": "fade-curves",
+      "descriptions": "Utility lib to create common fade curves - linear, exponential, logarithmic, and sCurve",
+      "keyword": [
+        "webaudio",
+        "fades",
+        "curves",
+        "math",
+        "shapes"
+      ],
+      "author": "naomiaro"
+    },
+    {
+      "name": "@danehansen/math",
+      "descriptions": "Math",
+      "keyword": [
+        "math",
+        "random",
+        "utilities"
+      ],
+      "author": "danehansen"
+    },
+    {
+      "name": "math-round",
+      "descriptions": "Rounds a numeric value to the nearest integer.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.round",
+        "round",
+        "integer",
+        "nearest",
+        "number"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "markdown-it-texmath",
+      "descriptions": "Markdown-it extension for rendering TeX Math",
+      "keyword": [
+        "TeX",
+        "LaTeX",
+        "KaTeX",
+        "markdown",
+        "markdown-it",
+        "markdown-it-plugin",
+        "math",
+        "math formulas"
+      ],
+      "author": "goessner"
+    },
+    {
+      "name": "general-markov",
+      "descriptions": "Helper library to perform operations on Observable Markov Models (OMMs). Markov chains are surprisingly practical.",
+      "keyword": [
+        "markov",
+        "chain",
+        "math",
+        "probability"
+      ],
+      "author": "danestuckel"
+    },
+    {
+      "name": "vector2-node",
+      "descriptions": "An object representing a 2D vector.",
+      "keyword": [
+        "math",
+        "geometry",
+        "vector2",
+        "vector",
+        "2d"
+      ],
+      "author": "rahatarmanahmed"
+    },
+    {
+      "name": "compute-truncmean",
+      "descriptions": "Computes the truncated mean of an array.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "statistics",
+        "stats",
+        "mean",
+        "median",
+        "average",
+        "avg",
+        "arithmetic",
+        "trimmed",
+        "truncated",
+        "View more"
+      ],
+      "author": "planeshifter"
+    },
+    {
+      "name": "@writetome51/get-sum-average-product",
+      "descriptions": "3 functions: getSum(), getAverage(), getProduct()",
+      "keyword": [
+        "math",
+        "numbers",
+        "functions"
+      ],
+      "author": "writetome51"
+    },
+    {
+      "name": "lapack",
+      "descriptions": "Node-lapack ===========",
+      "keyword": [
+        "lapack",
+        "math",
+        "linear",
+        "algebra",
+        "HPC"
+      ],
+      "author": "kkoch986"
+    },
+    {
+      "name": "const-smallest-float64",
+      "descriptions": "Smallest positive double-precision floating-point number.",
+      "keyword": [
+        "const-io",
+        "const.io",
+        "compute.io",
+        "compute-io",
+        "computation",
+        "compute",
+        "mathematics",
+        "math",
+        "constant",
+        "const",
+        "double",
+        "float64",
+        "64bit",
+        "positive",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "minimize-golden-section-1d",
+      "descriptions": "Minimize-golden-section-1d",
+      "keyword": [
+        "scijs",
+        "minimization",
+        "maximization",
+        "optimization",
+        "math",
+        "minimum",
+        "maximum"
+      ],
+      "author": "rreusser"
+    },
+    {
+      "name": "tokenize-this",
+      "descriptions": "Turns a string into tokens.",
+      "keyword": [
+        "string",
+        "tokenizer",
+        "sql",
+        "math",
+        "json"
+      ],
+      "author": "shaunpersad"
+    },
+    {
+      "name": "compute-issorted",
+      "descriptions": "Returns a boolean indicating if an input array is sorted.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "sorted",
+        "issorted",
+        "array",
+        "utilities",
+        "utils"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "log1p",
+      "descriptions": "ES2015 Math.log1p() ponyfill",
+      "keyword": [
+        "es2015",
+        "ponyfill",
+        "polyfill",
+        "shim",
+        "number",
+        "math",
+        "log1p",
+        "log",
+        "logarithm",
+        "natural"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "mr-parser",
+      "descriptions": "Parses mathematical expressions and outputs an AST that represents the expression",
+      "keyword": [
+        "mr-parser",
+        "parser",
+        "math",
+        "expression"
+      ],
+      "author": "maurizzzio"
+    },
+    {
+      "name": "math-truncate",
+      "descriptions": "Rounds a numeric value toward zero.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "math.trunc",
+        "trunc",
+        "truncate",
+        "round",
+        "integer",
+        "number"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "package_name",
+      "descriptions": "An example of creating a package",
+      "keyword": [
+        "math",
+        "example",
+        "addition",
+        "subtraction",
+        "multiplication",
+        "division",
+        "fibonacci"
+      ],
+      "author": "asimaslam"
+    },
+    {
+      "name": "math-float64-exponent",
+      "descriptions": "Returns an integer corresponding to the unbiased exponent of a double-precision floating-point number.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "exponent",
+        "unbiased",
+        "bits",
+        "floating-point",
+        "float64",
+        "float",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "kairos",
+      "descriptions": "A non date-based time calculator",
+      "keyword": [
+        "time",
+        "chronos",
+        "calculator",
+        "calc",
+        "clock",
+        "math"
+      ],
+      "author": "rodrigogs"
+    },
+    {
+      "name": "class-expression",
+      "descriptions": "A handling library for OWL-style class expressions in JavaScript.",
+      "keyword": [
+        "node",
+        "npm",
+        "client",
+        "server",
+        "Gene Ontology",
+        "GO",
+        "OWL",
+        "class",
+        "expression",
+        "bbop",
+        "Berkeley BOP",
+        "math",
+        "mathematics",
+        "graph"
+      ],
+      "author": "kltm"
+    },
+    {
+      "name": "@1studio/utils",
+      "descriptions": "A collection of useful utilities.",
+      "keyword": [
+        "utils",
+        "utilities",
+        "math",
+        "geometry",
+        "capitalizeFirstLetter",
+        "array sort",
+        "propTypes"
+      ],
+      "author": "roberto404"
+    },
+    {
+      "name": "@bluemath/common",
+      "descriptions": "BlueMath Common library",
+      "keyword": [
+        "Math",
+        "ndarray"
+      ],
+      "author": "jay3sh"
+    },
+    {
+      "name": "arraytools",
+      "descriptions": "Collection of array processing tools",
+      "keyword": [
+        "math",
+        "array",
+        "matrix",
+        "vector",
+        "processing"
+      ],
+      "author": "bpostlethwaite"
+    },
+    {
+      "name": "trigonometry-calculator",
+      "descriptions": "Completely solve trigonometry equations for angles and sides",
+      "keyword": [
+        "ambiguous",
+        "ambiguous case",
+        "angle",
+        "calculator",
+        "calculation",
+        "calculus",
+        "cosine",
+        "equation",
+        "math",
+        "mathematics",
+        "rule",
+        "side",
+        "sine",
+        "solve",
+        "View more"
+      ],
+      "author": "calvinmikael"
+    },
+    {
+      "name": "calcjs",
+      "descriptions": "Calcjs",
+      "keyword": [
+        "calcjs",
+        "calc",
+        "math"
+      ],
+      "author": "iyu"
+    },
+    {
+      "name": "compute-gmean",
+      "descriptions": "Computes the geometric mean of an array.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "statistics",
+        "stats",
+        "mean",
+        "average",
+        "geometric",
+        "geometric mean",
+        "array",
+        "mathematics",
+        "math",
+        "central tendency"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "const-eulergamma",
+      "descriptions": "The Euler-Mascheroni constant.",
+      "keyword": [
+        "const.io",
+        "const-io",
+        "const",
+        "constant",
+        "compute.io",
+        "compute",
+        "computation",
+        "math",
+        "mathematics",
+        "euler",
+        "euler-mascheroni",
+        "mascheroni",
+        "euler's constant",
+        "euler constant",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "math-float32-from-word",
+      "descriptions": "Creates a single-precision floating-point number from an unsigned integer corresponding to an IEEE 754 binary representation.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "computation",
+        "compute",
+        "math-io",
+        "math.io",
+        "math",
+        "convert",
+        "floating-point",
+        "float32",
+        "single",
+        "float",
+        "from",
+        "bits",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "i32",
+      "descriptions": "32-bit signed integer math",
+      "keyword": [
+        "int",
+        "int32",
+        "i32",
+        "integer",
+        "math"
+      ],
+      "author": "djcsdy"
+    },
+    {
+      "name": "math-digamma",
+      "descriptions": "Digamma function.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "special function",
+        "derivative",
+        "gamma",
+        "digamma",
+        "scalar",
+        "number"
+      ],
+      "author": "planeshifter"
+    },
+    {
+      "name": "lb-ratio",
+      "descriptions": "Provides a Fraction, Rational, and Ratio object for javascript.",
+      "keyword": [
+        "Ratio",
+        "fraction",
+        "rational",
+        "numbers",
+        "Math",
+        "Mixed numbers"
+      ],
+      "author": "clarrybattle"
+    },
+    {
+      "name": "interpolate-by-pravosleva",
+      "descriptions": "Math approximation tools.",
+      "keyword": [
+        "math",
+        "interpolation",
+        "interpolate",
+        "approximation",
+        "approximate",
+        "среднее",
+        "интерполяция",
+        "аппроксимация",
+        "метод",
+        "бисекций"
+      ],
+      "author": "pravosleva"
+    },
+    {
+      "name": "latex2js-utils",
+      "descriptions": "LaTeX2JS utilities",
+      "keyword": [
+        "latex",
+        "latex2html",
+        "latex2js",
+        "math",
+        "mathematics",
+        "mathjax"
+      ],
+      "author": "pyramation"
+    },
+    {
+      "name": "latex2js-macros",
+      "descriptions": "LaTeX2JS macros",
+      "keyword": [
+        "latex",
+        "latex2html",
+        "latex2js",
+        "math",
+        "mathematics",
+        "mathjax"
+      ],
+      "author": "pyramation"
+    },
+    {
+      "name": "@damienmortini/lib",
+      "descriptions": "Helpers library for the web.",
+      "keyword": [
+        "math",
+        "physics",
+        "3d",
+        "web",
+        "helpers",
+        "toolkit",
+        "library"
+      ],
+      "author": "damienmortini"
+    },
+    {
+      "name": "typed-array-function",
+      "descriptions": "Typed-array-function allows the simple creation of element wise function operators for javascript TypedArray data.",
+      "keyword": [
+        "ndarray",
+        "numeric",
+        "scientific",
+        "computing",
+        "image",
+        "array",
+        "typed",
+        "math"
+      ],
+      "author": "jbroll"
+    },
+    {
+      "name": "horner",
+      "descriptions": "Evaluates polynomial",
+      "keyword": [
+        "scijs",
+        "polynomial",
+        "math",
+        "algebra",
+        "horner",
+        "evaluate"
+      ],
+      "author": "jaspervdg"
+    },
+    {
+      "name": "define-probability",
+      "descriptions": "Define probability of getting results",
+      "keyword": [
+        "probability",
+        "probabilities",
+        "math"
+      ],
+      "author": "bukinoshita"
+    },
+    {
+      "name": "math-float64-normalize",
+      "descriptions": "Returns a normal number `y` and exponent `exp` satisfying `x = y * 2^exp`.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "float64",
+        "double",
+        "dbl",
+        "floating-point",
+        "ieee754",
+        "denormalized",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "@railrunner16/raildash",
+      "descriptions": "Lodash, but better",
+      "keyword": [
+        "lodash",
+        "utility",
+        "utility-library",
+        "library",
+        "lodash-replacement",
+        "math",
+        "math-utilities"
+      ],
+      "author": "railrunner16"
+    },
+    {
+      "name": "compute-erfcinv",
+      "descriptions": "Inverse complementary error function.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "erf",
+        "error function",
+        "erfc",
+        "complementary",
+        "error",
+        "function",
+        "erfcinv",
+        "inverse",
+        "statistics",
+        "stats",
+        "mathematics",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "bankers-rounding",
+      "descriptions": "Banker's rounding for Javascript",
+      "keyword": [
+        "bankers",
+        "rounding",
+        "round",
+        "math"
+      ],
+      "author": "tronin"
+    },
+    {
+      "name": "ethereum-libraries-basic-math",
+      "descriptions": "Basic math operations on Ethereum with overflow protection",
+      "keyword": [
+        "ethereum",
+        "math",
+        "modular"
+      ],
+      "author": "hackdom"
+    },
+    {
+      "name": "@thi.ng/shader-ast-stdlib",
+      "descriptions": "Function collection for modular GPGPU / shader programming with @thi.ng/shader-ast",
+      "keyword": [
+        "AST",
+        "DSL",
+        "ES6",
+        "fog",
+        "functional",
+        "higher order",
+        "inline",
+        "GLSL",
+        "GPGPU",
+        "math",
+        "matrix",
+        "noise",
+        "raymarch",
+        "random",
+        "View more"
+      ],
+      "author": "thi.ng"
+    },
+    {
+      "name": "vdc",
+      "descriptions": "Van der Corput low-discrepancy sequences",
+      "keyword": [
+        "math",
+        "random",
+        "qrng",
+        "lds"
+      ],
+      "author": "sheetjs"
+    },
+    {
+      "name": "modulo-x",
+      "descriptions": "Modulo - floored division implementation.",
+      "keyword": [
+        "math",
+        "modulo",
+        "floored-division",
+        "module",
+        "javascript",
+        "nodejs",
+        "browser"
+      ],
+      "author": "xotic750"
+    },
+    {
+      "name": "bbop-graph",
+      "descriptions": "General purpose (mathematical) graph library in JavaScript.",
+      "keyword": [
+        "node",
+        "npm",
+        "client",
+        "server",
+        "Gene Ontology",
+        "GO",
+        "bbop",
+        "Berkeley BOP",
+        "math",
+        "mathematics",
+        "graph"
+      ],
+      "author": "kltm"
+    },
+    {
+      "name": "d3-quant",
+      "descriptions": "D3 library for quantitative analytics",
+      "keyword": [
+        "d3",
+        "d3-module",
+        "math"
+      ],
+      "author": "lsbardel"
+    },
+    {
+      "name": "mathutil",
+      "descriptions": "Various and random collection of maths utilities",
+      "keyword": [
+        "Math",
+        "mathematics",
+        "vector",
+        "underscore.math",
+        "helper",
+        "util"
+      ],
+      "author": "mattstyles"
+    },
+    {
+      "name": "@writetome51/in-range",
+      "descriptions": "Checks if a given number is within a given range and returns boolean",
+      "keyword": [
+        "math",
+        "numbers",
+        "range",
+        "ranges"
+      ],
+      "author": "writetome51"
+    },
+    {
+      "name": "binomial",
+      "descriptions": "A simple binomial coefficient generator with memoization.",
+      "keyword": [
+        "binomial",
+        "math",
+        "coefficient",
+        "choose"
+      ],
+      "author": "pb"
+    },
+    {
+      "name": "compute-signum",
+      "descriptions": "Signum function.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "sign",
+        "signum",
+        "mathematics",
+        "math",
+        "array",
+        "positive",
+        "negative",
+        "matrix",
+        "matrices",
+        "arrays",
+        "accessor",
+        "View more"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "matrixmath",
+      "descriptions": "Library for working with mathematical matrices.",
+      "keyword": [
+        "math",
+        "matrix"
+      ],
+      "author": "koggdal"
+    },
+    {
+      "name": "compute-sum",
+      "descriptions": "Computes the sum.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "statistics",
+        "stats",
+        "sum",
+        "array",
+        "numeric array",
+        "summation",
+        "arithmetic",
+        "matrix",
+        "matrices"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "compute-incrdatespace",
+      "descriptions": "Generates an array of linearly spaced dates using a provided increment.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "utilities",
+        "utils",
+        "array",
+        "linear",
+        "mathematics",
+        "math",
+        "date"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "get-normal-distribution",
+      "descriptions": "Get the normal distribution.",
+      "keyword": [
+        "math",
+        "statistics",
+        "probability"
+      ],
+      "author": "janjarfalk"
+    },
+    {
+      "name": "compute-linfnorm",
+      "descriptions": "Computes the infinity norm (Chebyshev/supremum norm) of an array of values.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "linear algebra",
+        "norm",
+        "supremum norm",
+        "chebyshev norm",
+        "maximum norm"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "compute-l1norm",
+      "descriptions": "Computes the L1 norm (Manhattan norm) of an array of values.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "mathematics",
+        "math",
+        "linear algebra",
+        "norm",
+        "manhattan norm",
+        "taxicab norm",
+        "l1norm"
+      ],
+      "author": "kgryte"
+    },
+    {
+      "name": "@fav/math.gcd",
+      "descriptions": "Calculates the greatest common divisor of two integers.",
+      "keyword": [
+        "gcd",
+        "greatest",
+        "common",
+        "divisor",
+        "math",
+        "fav"
+      ],
+      "author": "fav"
+    },
+    {
+      "name": "math-gammaln",
+      "descriptions": "Natural logarithm of the gamma function.",
+      "keyword": [
+        "compute.io",
+        "compute-io",
+        "compute",
+        "computation",
+        "math.io",
+        "math-io",
+        "math",
+        "mathematics",
+        "special function",
+        "gamma",
+        "factorial",
+        "natural",
+        "logarithm",
+        "log",
+        "View more"
+      ],
+      "author": "planeshifter"
+    },
+    {
+      "name": "lodash-math",
+      "descriptions": "Lodash extension providing math / stats operations on collections.",
+      "keyword": [
+        "modules",
+        "stdlib",
+        "util",
+        "lodash",
+        "math",
+        "mixin"
+      ],
+      "author": "jvonmitchell"
+    },
+    {
+      "name": "functions.js",
+      "descriptions": "A hub of numerous functions.",
+      "keyword": [
+        "functions",
+        "math",
+        "validation",
+        "string",
+        "collections",
+        "library",
+        "javascript"
+      ],
+      "author": "theiyd"
+    },
+    {
+      "name": "@minogin/vector",
+      "descriptions": "2D-vector algebra. Vectors are immutable - every operation returns new instance.",
+      "keyword": [
+        "vector",
+        "vectors",
+        "2d",
+        "physics",
+        "math"
+      ],
+      "author": "minogin"
+    },
+    {
+      "name": "@liradb2000/markdown-it-katex",
+      "descriptions": "Forked Package(markdown-it-KaTeX)",
+      "keyword": [
+        "markdown",
+        "KaTeX",
+        "math",
+        "LaTeX",
+        "markdown-it-plugin",
+        "markdown-it"
+      ],
+      "author": "liradb2000"
+    },
+    {
+      "name": "ng-checkbox",
+      "descriptions": "The component provides selection data and its statistics based on checkboxes selection.",
+      "keyword": [
+        "checkbox",
+        "ng-checkbox",
+        "angular",
+        "calculation",
+        "statistics",
+        "math"
+      ],
+      "author": "vinhnghi223"
+    },
+    {
+      "name": "squat",
+      "descriptions": "Simple quaternion library",
+      "keyword": [
+        "quaternion",
+        "math"
+      ],
+      "author": "oblong"
+    },
+    {
+      "name": "icarus-sef-parser",
+      "descriptions": "[![GitHub version](https://badge.fury.io/gh/rambou%2Ficarus-sef-parser.svg)](https://badge.fury.io/gh/rambou%2Ficarus-sef-parser) [![npm version](https://badge.fury.io/js/icarus-sef-parser.svg)](https://badge.fury.io/js/icarus-sef-parser) [![npm](https://",
+      "keyword": [
+        "aegean",
+        "icarus",
+        "sef",
+        "math",
+        "samos",
+        "university",
+        "parser"
+      ],
+      "author": "rambou"
+    },
+    {
+      "name": "cli-mandelbrot",
+      "descriptions": "A command line viewer of the Mandelbrot set",
+      "keyword": [
+        "mandelbrot",
+        "fractal",
+        "ascii",
+        "math",
+        "cli"
+      ],
+      "author": "danyshaanan"
+    },
+    {
+      "name": "polynomial",
+      "descriptions": "A polynomial library",
+      "keyword": [
+        "math",
+        "poly",
+        "polynomial",
+        "number",
+        "complex",
+        "rational",
+        "parser"
+      ],
+      "author": "infusion"
+    },
+    {
+      "name": "interval-arithmetic",
+      "descriptions": "An implementation of an algebraically closed interval system of the extended real number set",
+      "keyword": [
+        "interval-arithmetic",
+        "math",
+        "closed",
+        "connected",
+        "set",
+        "real",
+        "interval",
+        "arithmetic"
+      ],
+      "author": "mauriciopoppe"
+    },
+    {
+      "name": "magik-vector",
+      "descriptions": "Vector class for 2D, 3D and multi dimensional vector calculations",
+      "keyword": [
+        "2D",
+        "3D",
+        "algebra",
+        "linear",
+        "magik",
+        "math",
+        "multi dimensional",
+        "vector",
+        "vektor"
+      ],
+      "author": "magikmaker"
+    },
+    {
+      "name": "@mousepox/math",
+      "descriptions": "Math-related objects and utilities",
+      "keyword": [
+        "game",
+        "math",
+        "typescript"
+      ],
+      "author": "geoffblair"
+    },
+    {
+      "name": "ks-math",
+      "descriptions": "Miscellaneous math functions",
+      "keyword": [
+        "angle",
+        "math",
+        "min-max",
+        "spherical",
+        "zero"
+      ],
+      "author": "kshetline"
+    },
+    {
+      "name": "is-string-a-number",
+      "descriptions": "This is a JavaScript utility. It returns `true` if the value is a string number written in fixed notation and in decimal base.",
+      "keyword": [
+        "integer",
+        "isNan",
+        "isNum",
+        "isNumber",
+        "is-nan",
+        "is-num",
+        "is-number",
+        "math",
+        "number",
+        "parseFloat",
+        "parseInt"
+      ],
+      "author": "ynote_hk"
+    },
+    {
+      "name": "euley",
+      "descriptions": "A command line interface for retrieving problems and checking solutions from projecteuler.net",
+      "keyword": [
+        "project",
+        "euler",
+        "programming",
+        "math",
+        "cli"
+      ],
+      "author": "maaslalaniii"
+    },
+    {
+      "name": "compute-variance",
+      "descriptions": "Computes the variance.",
+      "keyword": [
+        "compute.io",
+        "compute",
+        "computation",
+        "statistics",
+        "stats",
+        "mathematics",
+        "math",
+        "variance",
+        "sample variance",
+        "stdev",
+        "spread",
+        "array",
+        "numeric array",
+        "population",
+        "View more"
+      ],
+      "author": "planeshifter"
+    },
+    {
+      "name": "minimat",
+      "descriptions": "Javascript library for matrix holding, representation, and processing",
+      "keyword": [
+        "matrix",
+        "numerical",
+        "math"
+      ],
+      "author": "birm"
+    },
+    {
+      "name": "material_calculator",
+      "descriptions": "Simple Web Calculator made with Google Material Design",
+      "keyword": [
+        "calculator.js",
+        "material-design",
+        "calculator",
+        "material",
+        "beautiful",
+        "math"
+      ],
+      "author": "akepinski"
+    },
+    {
+      "name": "gitbook-plugin-mathjax",
+      "descriptions": "Insert math and LaTeX equations in your pages.",
+      "keyword": [
+        "gitbook",
+        "plugin",
+        "math",
+        "latex",
+        "gitbook:content"
+      ],
+      "author": "samypesse"
+    },
+    {
+      "name": "is-odd-andrew",
+      "descriptions": "Returns true if the given number is odd.",
+      "keyword": [
+        "array",
+        "count",
+        "even",
+        "filter",
+        "integer",
+        "is",
+        "math",
+        "numeric",
+        "odd",
+        "string"
+      ],
+      "author": "aburleigh"
+    },
+    {
+      "name": "equations",
+      "descriptions": "Equation [![Build Status](https://travis-ci.org/mdibaiee/Equation.svg?branch=master)](https://travis-ci.org/mdibaiee/Equation) ======== Solve math expressions or create equations for repeated and complex Math tasks.",
+      "keyword": [
+        "Math",
+        "JavaScript"
+      ],
+      "author": "mdibaiee"
+    }
+  ]
+}

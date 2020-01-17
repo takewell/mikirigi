@@ -4,7 +4,7 @@ const chalk = require("chalk");
 const figlet = require("figlet");
 const program = require("commander");
 const {
-  wirteRepositoryStars,
+  writeRepositoryStars,
   storerepositoryLanguages,
   storerepositoryReleases,
   wirteRepositoryDownloads,
@@ -48,7 +48,7 @@ program
   .description("write repository stars <nameWithOwner>")
   .action(cmd => {
     const [ownerName, repoName] = cmd.split("/");
-    wirteRepositoryStars({ ownerName, repoName });
+    writeRepositoryStars({ ownerName, repoName });
   });
 
 program

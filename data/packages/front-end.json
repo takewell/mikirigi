@@ -102,7 +102,7 @@
         "virtual",
         "virtual-dom"
       ],
-      "author": "mlrawlings"
+      "author": "agliga"
     },
     {
       "name": "local-web-server",
@@ -191,21 +191,6 @@
       "author": "fyockm"
     },
     {
-      "name": "spectre.css",
-      "descriptions": "Spectre.css: A lightweight, responsive and modern CSS framework",
-      "keyword": [
-        "css",
-        "framework",
-        "flexbox",
-        "responsive",
-        "mobile-friendly",
-        "front-end",
-        "sass",
-        "modern"
-      ],
-      "author": "picturepan2"
-    },
-    {
       "name": "bootstrap-material-design",
       "descriptions": "Material Design for Bootstrap 4",
       "keyword": [
@@ -222,6 +207,37 @@
         "web"
       ],
       "author": "fezvrasta"
+    },
+    {
+      "name": "spectre.css",
+      "descriptions": "Spectre.css: A lightweight, responsive and modern CSS framework",
+      "keyword": [
+        "css",
+        "framework",
+        "flexbox",
+        "responsive",
+        "mobile-friendly",
+        "front-end",
+        "sass",
+        "modern"
+      ],
+      "author": "picturepan2"
+    },
+    {
+      "name": "@coreui/coreui",
+      "descriptions": "Open Source UI Kit built on top of Bootstrap 4",
+      "keyword": [
+        "bootstrap",
+        "css",
+        "dashboard",
+        "framework",
+        "front-end",
+        "responsive",
+        "sass",
+        "ui kit",
+        "webapp"
+      ],
+      "author": "coreui"
     },
     {
       "name": "milligram",
@@ -244,22 +260,6 @@
         "View more"
       ],
       "author": "cjpatoilo"
-    },
-    {
-      "name": "@coreui/coreui",
-      "descriptions": "Open Source UI Kit built on top of Bootstrap 4",
-      "keyword": [
-        "bootstrap",
-        "css",
-        "dashboard",
-        "framework",
-        "front-end",
-        "responsive",
-        "sass",
-        "ui kit",
-        "webapp"
-      ],
-      "author": "coreui"
     },
     {
       "name": "react-twitter-embed",
@@ -297,33 +297,6 @@
       "author": "trem"
     },
     {
-      "name": "hardtack",
-      "descriptions": "An ultra-light (406 bytes) library for working with cookies in JavaScript",
-      "keyword": [
-        "cookie",
-        "cookies",
-        "js-cookie",
-        "browser",
-        "front-end"
-      ],
-      "author": "alik0211"
-    },
-    {
-      "name": "generator-webapp",
-      "descriptions": "Scaffold out a front-end web app",
-      "keyword": [
-        "yeoman-generator",
-        "web",
-        "app",
-        "front-end",
-        "h5bp",
-        "modernizr",
-        "jquery",
-        "gulp"
-      ],
-      "author": "silvenon"
-    },
-    {
       "name": "generate",
       "descriptions": "Command line tool and developer framework for scaffolding out new GitHub projects. Generate offers the robustness and configurability of Yeoman, the expressiveness and simplicity of Slush, and more powerful flow control and composability than either.",
       "keyword": [
@@ -346,17 +319,19 @@
       "author": "jonschlinkert"
     },
     {
-      "name": "@pattern-lab/live-server",
-      "descriptions": "Simple development http server with live reload capability",
+      "name": "generator-webapp",
+      "descriptions": "Scaffold out a front-end web app",
       "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
         "front-end",
-        "development",
-        "tool",
-        "server",
-        "http",
-        "cli"
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "gulp"
       ],
-      "author": "bmuenzenmeyer"
+      "author": "silvenon"
     },
     {
       "name": "bootstrap3",
@@ -371,6 +346,29 @@
         "web"
       ],
       "author": "nickjackson"
+    },
+    {
+      "name": "html5-boilerplate",
+      "descriptions": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+      "keyword": [
+        "h5bp",
+        "template",
+        "front-end"
+      ],
+      "author": "roblarsen"
+    },
+    {
+      "name": "@pattern-lab/live-server",
+      "descriptions": "Simple development http server with live reload capability",
+      "keyword": [
+        "front-end",
+        "development",
+        "tool",
+        "server",
+        "http",
+        "cli"
+      ],
+      "author": "bmuenzenmeyer"
     },
     {
       "name": "generator-react-webpack",
@@ -444,14 +442,16 @@
       "author": "chenfengyuan"
     },
     {
-      "name": "html5-boilerplate",
-      "descriptions": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+      "name": "hardtack",
+      "descriptions": "An ultra-light (406 bytes) library for working with cookies in JavaScript",
       "keyword": [
-        "h5bp",
-        "template",
+        "cookie",
+        "cookies",
+        "js-cookie",
+        "browser",
         "front-end"
       ],
-      "author": "roblarsen"
+      "author": "alik0211"
     },
     {
       "name": "webmidi",
@@ -585,28 +585,6 @@
       "author": "hexadecy"
     },
     {
-      "name": "fragments-js",
-      "descriptions": "Fragments is an ultra-fast templating and data-binding library for front-end JavaScript applications.",
-      "keyword": [
-        "templates",
-        "data-binding",
-        "front-end",
-        "DocumentFragment"
-      ],
-      "author": "skylar.pagenkopf"
-    },
-    {
-      "name": "astrum",
-      "descriptions": "A lightweight pattern library designed to be included with any web project.",
-      "keyword": [
-        "pattern",
-        "library",
-        "styleguide",
-        "front-end"
-      ],
-      "author": "ryanhavoc"
-    },
-    {
       "name": "mdui",
       "descriptions": "A CSS Framework based on material design",
       "keyword": [
@@ -620,14 +598,19 @@
       "author": "mdui"
     },
     {
-      "name": "vue-multilanguage",
-      "descriptions": "Multilanguage easy support to Vue.js 2",
+      "name": "daemonite-material",
+      "descriptions": "Daemonite's Material UI is a cross-platform and fully responsive front-end interface based on Google Material Design developed using Bootstrap 4.",
       "keyword": [
-        "vuejs",
-        "multilanguage",
-        "front-end"
+        "bootstrap",
+        "css",
+        "framework",
+        "front-end",
+        "html",
+        "js",
+        "material",
+        "sass"
       ],
-      "author": "leonardovilarinho"
+      "author": "sesemaya"
     },
     {
       "name": "infima",
@@ -641,6 +624,5389 @@
         "dark mode"
       ],
       "author": "yangshun"
+    },
+    {
+      "name": "astrum",
+      "descriptions": "A lightweight pattern library designed to be included with any web project.",
+      "keyword": [
+        "pattern",
+        "library",
+        "styleguide",
+        "front-end"
+      ],
+      "author": "ryanhavoc"
+    },
+    {
+      "name": "vue-multilanguage",
+      "descriptions": "Multilanguage easy support to Vue.js 2",
+      "keyword": [
+        "vuejs",
+        "multilanguage",
+        "front-end"
+      ],
+      "author": "leonardovilarinho"
+    },
+    {
+      "name": "asset-hash",
+      "descriptions": "Very fast asset hashing function for using e.g. during front-end deployments.",
+      "keyword": [
+        "asset",
+        "assets",
+        "front-end",
+        "hash",
+        "base62",
+        "hashing",
+        "xxhash",
+        "metrohash"
+      ],
+      "author": "swernerx"
+    },
+    {
+      "name": "html-res-webpack-plugin",
+      "descriptions": "Html generation and resource inline or md5 for webpack",
+      "keyword": [
+        "front-end",
+        "web",
+        "webpack",
+        "plugin",
+        "building tool"
+      ],
+      "author": "lcxfs1991"
+    },
+    {
+      "name": "huxley",
+      "descriptions": "New wave front-end testing.",
+      "keyword": [
+        "node",
+        "huxley",
+        "test",
+        "tests",
+        "unit",
+        "front-end"
+      ],
+      "author": "chenglou"
+    },
+    {
+      "name": "plastiq",
+      "descriptions": "A fast, feature rich and simple framework for building dynamic browser applications.",
+      "keyword": [
+        "virtual-dom",
+        "front-end",
+        "mvc",
+        "framework",
+        "html",
+        "plastiq"
+      ],
+      "author": "refractalize"
+    },
+    {
+      "name": "fragments-js",
+      "descriptions": "Fragments is an ultra-fast templating and data-binding library for front-end JavaScript applications.",
+      "keyword": [
+        "templates",
+        "data-binding",
+        "front-end",
+        "DocumentFragment"
+      ],
+      "author": "skylar.pagenkopf"
+    },
+    {
+      "name": "generator-mobile",
+      "descriptions": "Yeoman generator for mobile based on Web Starter Kit",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "mobile",
+        "wsk",
+        "web-starter-kit"
+      ],
+      "author": "crhym3"
+    },
+    {
+      "name": "v-dropdown",
+      "descriptions": "A Vue2 plugin for dropdown layer container",
+      "keyword": [
+        "javascript",
+        "vuejs",
+        "web",
+        "front-end",
+        "dropdown",
+        "popup",
+        "container"
+      ],
+      "author": "terryz"
+    },
+    {
+      "name": "jquery-cropper",
+      "descriptions": "A jQuery plugin wrapper for Cropper.js.",
+      "keyword": [
+        "image",
+        "crop",
+        "move",
+        "zoom",
+        "rotate",
+        "scale",
+        "cropper",
+        "cropper.js",
+        "cropping",
+        "processing",
+        "jquery",
+        "plugin",
+        "jquery-plugin",
+        "html",
+        "View more"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "mofron-event-click",
+      "descriptions": "Click event for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "shunter",
+      "descriptions": "A Node.js application built to read JSON and translate it into HTML",
+      "keyword": [
+        "proxy",
+        "front-end",
+        "dust",
+        "templates",
+        "asset pipeline",
+        "renderer"
+      ],
+      "author": "moddular"
+    },
+    {
+      "name": "@chenfengyuan/datepicker",
+      "descriptions": "A simple jQuery datepicker plugin.",
+      "keyword": [
+        "date",
+        "picker",
+        "datepicker",
+        "jquery",
+        "plugin",
+        "jquery-plugin",
+        "html",
+        "css",
+        "javascript",
+        "front-end",
+        "web"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "totoro",
+      "descriptions": "A simple and stable cross-browser testing tool.",
+      "keyword": [
+        "front-end",
+        "cross-browser",
+        "testing",
+        "tool"
+      ],
+      "author": "fool2fish"
+    },
+    {
+      "name": "devbridge-styleguide",
+      "descriptions": "Styleguide automatization tool.",
+      "keyword": [
+        "styleguide",
+        "webstyleguide",
+        "gulp",
+        "sass",
+        "snippet",
+        "snippets",
+        "colors",
+        "typography",
+        "scrape",
+        "crawl",
+        "generate",
+        "styleguide-generator",
+        "frontend",
+        "front-end",
+        "View more"
+      ],
+      "author": "devbproto"
+    },
+    {
+      "name": "frow",
+      "descriptions": "Flexbox Toolkit & Grid",
+      "keyword": [
+        "css",
+        "css grid",
+        "responsive css",
+        "responsive",
+        "flex",
+        "css flex",
+        "flexbox",
+        "sass",
+        "mobile-first",
+        "front-end",
+        "front end",
+        "framework",
+        "web"
+      ],
+      "author": "codysherman"
+    },
+    {
+      "name": "bootstrap-v4-dev",
+      "descriptions": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "javier.alejandro.castro"
+    },
+    {
+      "name": "distpicker",
+      "descriptions": "A simple jQuery plugin for picking provinces, cities and districts of China.",
+      "keyword": [
+        "中国",
+        "省份",
+        "城市",
+        "行政区",
+        "省市区",
+        "三级联动",
+        "地址选择器",
+        "China",
+        "Chinese",
+        "province",
+        "provinces",
+        "city",
+        "cities",
+        "district",
+        "View more"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "bootstrap-italia",
+      "descriptions": "Bootstrap Italia è un tema Bootstrap 4 per la creazione di applicazioni web nel pieno rispetto delle Linee guida di design per i servizi web della PA",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "fra"
+    },
+    {
+      "name": "boosted",
+      "descriptions": "Orange Boosted with Bootstrap is a framework library accessible, ergonomic and Orange branded based on Bootstrap v4.4.0.",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web",
+        "Orange"
+      ],
+      "author": "loic.laussel"
+    },
+    {
+      "name": "mofron-comp-text",
+      "descriptions": "Text component for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "aem-front",
+      "descriptions": "AEM Front speeds up development in AEM significantly. It combines AEMSync with BrowserSync, and also works together with the AEM Front Extension for Google Chrome so you don't have to manually inject the BrowserSync script into your code base.",
+      "keyword": [
+        "AEM",
+        "aem",
+        "BrowserSync",
+        "browsersync",
+        "LiveReload",
+        "livereload",
+        "aemsync",
+        "aem-sync",
+        "adobe",
+        "frontend",
+        "front-end",
+        "kevinweber",
+        "kevin-weber",
+        "Kevin Weber"
+      ],
+      "author": "kevinweber"
+    },
+    {
+      "name": "bootstrap-v4-rtl",
+      "descriptions": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web",
+        "rtl",
+        "bootstrap"
+      ],
+      "author": "mahdimajidzadeh"
+    },
+    {
+      "name": "generator-meanjs",
+      "descriptions": "MEAN.JS Official Yeoman Generator",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "mean",
+        "meanjs",
+        "node",
+        "express",
+        "angular"
+      ],
+      "author": "ilanbiala"
+    },
+    {
+      "name": "@chenfengyuan/vue-countdown",
+      "descriptions": "Countdown component for Vue.js.",
+      "keyword": [
+        "countdown",
+        "component",
+        "vue-component",
+        "html",
+        "css",
+        "javascript",
+        "front-end",
+        "web"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "tabler-ui",
+      "descriptions": "Premium and Open Source dashboard template with responsive and high quality UI. For Free!",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "admin",
+        "dashboard",
+        "admin panel"
+      ],
+      "author": "codecalm"
+    },
+    {
+      "name": "contour",
+      "descriptions": "Front-end scaffolding utility",
+      "keyword": [
+        "Front-end",
+        "scaffold",
+        "templating",
+        "framework"
+      ],
+      "author": "swaagie"
+    },
+    {
+      "name": "easy-web-app",
+      "descriptions": "Create web applications easily.",
+      "keyword": [
+        "GUI",
+        "web",
+        "app",
+        "browser",
+        "AJAX",
+        "easy",
+        "portal",
+        "REST",
+        "RESTful",
+        "service",
+        "form",
+        "table",
+        "I/O",
+        "content",
+        "View more"
+      ],
+      "author": "ma-ha"
+    },
+    {
+      "name": "zui",
+      "descriptions": "一个基于 Bootstrap 深度定制开源前端实践方案，帮助你快速构建现代跨屏应用。",
+      "keyword": [
+        "css",
+        "js",
+        "less",
+        "html5",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "catouse"
+    },
+    {
+      "name": "insight-ui",
+      "descriptions": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the bitcoin network and build your own services with it.",
+      "keyword": [
+        "insight",
+        "blockchain",
+        "blockexplorer",
+        "bitcoin",
+        "bitcore",
+        "front-end"
+      ],
+      "author": "braydonf"
+    },
+    {
+      "name": "pickerjs",
+      "descriptions": "JavaScript date time picker.",
+      "keyword": [
+        "date",
+        "time",
+        "picker",
+        "datepicker",
+        "timepicker",
+        "html",
+        "css",
+        "javascript",
+        "front-end",
+        "web"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "concise.css",
+      "descriptions": "A lightweight front-end framework that provides functionality without the bloat.",
+      "keyword": [
+        "css",
+        "sass",
+        "scss",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web",
+        "lightweight",
+        "postcss"
+      ],
+      "author": "jameskolce"
+    },
+    {
+      "name": "@nestio/pam",
+      "descriptions": "Nestio UI modules",
+      "keyword": [
+        "ui",
+        "front-end",
+        "elements"
+      ],
+      "author": "aljana"
+    },
+    {
+      "name": "mofron-effect-hrzpos",
+      "descriptions": "Horizon positon effect for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "v-dragged",
+      "descriptions": "Vue directive plugin for advanced drag event detection.",
+      "keyword": [
+        "drag",
+        "vue",
+        "event",
+        "directive",
+        "touch",
+        "moving",
+        "mouse",
+        "vue plugin",
+        "javascript",
+        "web",
+        "front-end",
+        "lightweight",
+        "mobile"
+      ],
+      "author": "zhanziyang"
+    },
+    {
+      "name": "generator-veams",
+      "descriptions": "Scaffold modern frontend web apps or web pages with a static site generator, Grunt and/or Gulp, Sass and Bower. Use modern frameworks like Bourbon, Bootstrap or Foundation and structure your JavaScript with ES Harmony support.",
+      "keyword": [
+        "yeoman-generator",
+        "app",
+        "assemble",
+        "mangony",
+        "veams",
+        "react",
+        "jquery",
+        "veams-query",
+        "veams-components",
+        "veams-generator",
+        "websites",
+        "homepage",
+        "webpack",
+        "web apps",
+        "View more"
+      ],
+      "author": "sebastian-fitzner"
+    },
+    {
+      "name": "generator-polymer-gulp",
+      "descriptions": "A Yeoman generator for Polymer projects using Gulp",
+      "keyword": [
+        "yeoman-generator",
+        "gulp",
+        "polymer",
+        "web",
+        "app",
+        "front-end"
+      ],
+      "author": "nicoarbogast"
+    },
+    {
+      "name": "generator-sppp",
+      "descriptions": "SharePoint Pull-n-Push - Yeoman generator for client-side development",
+      "keyword": [
+        "sharepoint",
+        "assets",
+        "yeoman-generator",
+        "front-end",
+        "scaffolders",
+        "react"
+      ],
+      "author": "koltyakov"
+    },
+    {
+      "name": "@oasisdigital/live-server",
+      "descriptions": "Simple development http server with live reload capability - fork with no-css-inject",
+      "keyword": [
+        "front-end",
+        "development",
+        "tool",
+        "server",
+        "http",
+        "cli"
+      ],
+      "author": "kylecordes"
+    },
+    {
+      "name": "bigfishtv-turret",
+      "descriptions": "A responsive frontend framework build with Less to normalize styles for default HTML elements",
+      "keyword": [
+        "css",
+        "less",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "scottdejonge"
+    },
+    {
+      "name": "getbasis",
+      "descriptions": "A lightweight responsive Stylus/CSS framework based on flexible box.",
+      "keyword": [
+        "css",
+        "stylus",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "inc2734"
+    },
+    {
+      "name": "mofron",
+      "descriptions": "Module based front-end framework",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "propellerkit",
+      "descriptions": "Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.",
+      "keyword": [
+        "css",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "digicorp"
+    },
+    {
+      "name": "generator-angular-meteor",
+      "descriptions": "Yeoman generator for creating AngularJS + Meteor applications",
+      "keyword": [
+        "yeoman-generator",
+        "angularjs",
+        "meteor",
+        "mongodb",
+        "scaffold",
+        "fullstack",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+      ],
+      "author": "ndxbxrme"
+    },
+    {
+      "name": "mirrorx",
+      "descriptions": "A React framework with minimal API and zero boilerplate.",
+      "keyword": [
+        "framework",
+        "react",
+        "redux",
+        "mirror",
+        "mirrorx",
+        "react-router",
+        "front-end"
+      ],
+      "author": "llh911001"
+    },
+    {
+      "name": "react-vapor",
+      "descriptions": "Vapor CSS components implemented with React!",
+      "keyword": [
+        "coveo",
+        "vapor",
+        "css",
+        "react",
+        "front-end",
+        "web"
+      ],
+      "author": "dgauthier"
+    },
+    {
+      "name": "vue2-admin-lte",
+      "descriptions": "AdminLTE to vuejs v2.x converting project",
+      "keyword": [
+        "admin-lte",
+        "vue2-admin-lte",
+        "vue-admin-lte",
+        "vuejs",
+        "vue.js",
+        "jquery",
+        "bootstrap",
+        "vue-jquery",
+        "vue-bootstrap",
+        "front-end"
+      ],
+      "author": "devjin0617"
+    },
+    {
+      "name": "grid-css-framework",
+      "descriptions": "Intuitive, easy to use, mobile first CSS framework based on Flexbox.",
+      "keyword": [
+        "web",
+        "framework",
+        "front-end",
+        "responsive",
+        "mobile-first",
+        "sass",
+        "css"
+      ],
+      "author": "machy8"
+    },
+    {
+      "name": "choc-chip",
+      "descriptions": "Modularlize front-end frame wrok by Lab1996",
+      "keyword": [
+        "choc-chip",
+        "forntend",
+        "framework",
+        "modularlize",
+        "front-end",
+        "progressive",
+        "frontend"
+      ],
+      "author": "kyawmyohtut96"
+    },
+    {
+      "name": "clientside-require",
+      "descriptions": "Node.js style require() statements in the browser. Load npm modules, js, html, css, json without any bundling.",
+      "keyword": [
+        "browser",
+        "clientside",
+        "client-side",
+        "frontend",
+        "front-end",
+        "packaging",
+        "require",
+        "async-require",
+        "promise_require",
+        "promise_to_require",
+        "import",
+        "bower",
+        "browserify",
+        "commonjs"
+      ],
+      "author": "uladkasach"
+    },
+    {
+      "name": "is-vue-component",
+      "descriptions": "Check if the given value is a valid Vue component.",
+      "keyword": [
+        "is",
+        "valid",
+        "vue-component",
+        "component",
+        "vue",
+        "vue.js",
+        "front-end",
+        "web"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "cortex.js",
+      "descriptions": "Cortex, the application framework that tickles your senses",
+      "keyword": [
+        "cortex",
+        "framework",
+        "browser",
+        "front-end"
+      ],
+      "author": "V1"
+    },
+    {
+      "name": "generator-angular-php",
+      "descriptions": "Yeoman generator for AngularJS with a PHP backend. Based on generator-angular. /api is redirected by grunt-connect-proxy to the PHP built-in server using grunt-php",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "angular",
+        "php"
+      ],
+      "author": "amercier"
+    },
+    {
+      "name": "@chenfengyuan/create-vue-component",
+      "descriptions": "Convert anything to a Vue component.",
+      "keyword": [
+        "create",
+        "generate",
+        "vue-component",
+        "component",
+        "vue",
+        "vue.js",
+        "front-end",
+        "web"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "coveo-styleguide",
+      "descriptions": "Yet another CSS framework - but it's awesome & built by Coveo.",
+      "keyword": [
+        "coveo",
+        "styleguide",
+        "css",
+        "front-end",
+        "web"
+      ],
+      "author": "dgauthier"
+    },
+    {
+      "name": "mofron-effect-vrtpos",
+      "descriptions": "Vertical position effect for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "@openveo/core",
+      "descriptions": "OpenVeo core CMS",
+      "keyword": [
+        "openveo",
+        "veo-labs",
+        "cms",
+        "plugins",
+        "web-service",
+        "angularjs",
+        "bootstrap",
+        "express",
+        "mean",
+        "mongodb",
+        "oauth",
+        "back-end",
+        "front-end",
+        "user",
+        "View more"
+      ],
+      "author": "maxime-beguin"
+    },
+    {
+      "name": "generator-angulpify",
+      "descriptions": "Yeoman generator involving AngularJS, Gulp and Browserify",
+      "keyword": [
+        "yeoman-generator",
+        "angularjs",
+        "gulp",
+        "browserify",
+        "web",
+        "front-end"
+      ],
+      "author": "jgoux"
+    },
+    {
+      "name": "generator-enterprise-angular",
+      "descriptions": "Yeoman Generator for Enterprise Angular projects.",
+      "keyword": [
+        "yeoman-generator",
+        "angular",
+        "enterprise",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+      ],
+      "author": "mnadeem"
+    },
+    {
+      "name": "@chenfengyuan/vue-number-input",
+      "descriptions": "Number input component for Vue.js.",
+      "keyword": [
+        "number",
+        "input",
+        "number-input",
+        "vue-component",
+        "component",
+        "vue",
+        "vue.js",
+        "front-end",
+        "web"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "ciffi",
+      "descriptions": "Ciffi Frontend Generator",
+      "keyword": [
+        "ciffi",
+        "ciffi-js",
+        "javascript",
+        "webpack",
+        "webpack2",
+        "cli-app",
+        "cli",
+        "front-end",
+        "development",
+        "dev",
+        "build",
+        "web",
+        "tool",
+        "scaffold",
+        "View more"
+      ],
+      "author": "ciffi"
+    },
+    {
+      "name": "grunt-front-end-modules",
+      "descriptions": "Use npm to manage front-end dependencies",
+      "keyword": [
+        "gruntplugin",
+        "npm",
+        "frontend",
+        "front-end",
+        "dependency",
+        "management"
+      ],
+      "author": "bobc7i"
+    },
+    {
+      "name": "mofron-layout-horizon",
+      "descriptions": "Horizon layout for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "banner-webpack-plugin",
+      "descriptions": "Append content before or after js bundle",
+      "keyword": [
+        "front-end",
+        "web",
+        "webpack",
+        "plugin",
+        "building tool"
+      ],
+      "author": "sethjmoore"
+    },
+    {
+      "name": "bootstrap-material-datetimepicker",
+      "descriptions": ".",
+      "keyword": [
+        "css",
+        "js",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "web"
+      ],
+      "author": "alexandrdp"
+    },
+    {
+      "name": "@dlghq/dialog-ui",
+      "descriptions": "Dialog UI is an open source framework for build beautiful interfaces within a minute",
+      "keyword": [
+        "css",
+        "front-end",
+        "framework",
+        "web",
+        "ui",
+        "react"
+      ],
+      "author": "dlghq-bot"
+    },
+    {
+      "name": "bootstrap-honoka",
+      "descriptions": "Honoka is one of the Bootstrap original theme.",
+      "keyword": [
+        "css",
+        "bootstrap",
+        "sass",
+        "scss",
+        "lovelive",
+        "web",
+        "front-end",
+        "framework",
+        "theme"
+      ],
+      "author": "windyakin"
+    },
+    {
+      "name": "generator-gulp-ng",
+      "descriptions": "Yeoman generator for gulp+angular",
+      "keyword": [
+        "yeoman-generator",
+        "gulp",
+        "angular",
+        "web",
+        "app",
+        "front-end"
+      ],
+      "author": "henyojess"
+    },
+    {
+      "name": "generator-webapp-php",
+      "descriptions": "Scaffold out a front-end web app with a PHP back-end",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "php"
+      ],
+      "author": "amercier"
+    },
+    {
+      "name": "bonaparte-core",
+      "descriptions": "Bonaparte UX Framework Core",
+      "keyword": [
+        "bonaparte",
+        "ux",
+        "ui",
+        "library",
+        "framework",
+        "webcomponents",
+        "component",
+        "front-end"
+      ],
+      "author": "greenish"
+    },
+    {
+      "name": "html-pages",
+      "descriptions": "Simple development HTTP Server for file serving and directory listing made by a Designer. Use it for hacking your HTML/JavaScript/CSS files but not for deploying your final site.",
+      "keyword": [
+        "html",
+        "http-server",
+        "front-end",
+        "development",
+        "tool",
+        "http",
+        "cli",
+        "dev",
+        "web",
+        "now",
+        "cors",
+        "mime",
+        "rest",
+        "static",
+        "View more"
+      ],
+      "author": "danielcardoso"
+    },
+    {
+      "name": "jspm-server",
+      "descriptions": "Prototype JSPM development server",
+      "keyword": [
+        "front-end",
+        "development",
+        "tool",
+        "server",
+        "http",
+        "cli"
+      ],
+      "author": "geelen"
+    },
+    {
+      "name": "roots-static",
+      "descriptions": "Roots is a tiny, fast, and flexible build system for static sites",
+      "keyword": [
+        "front-end",
+        "development",
+        "css",
+        "build",
+        "library",
+        "tool"
+      ],
+      "author": "jenius"
+    },
+    {
+      "name": "vue-feather",
+      "descriptions": "Feather component for Vue.js.",
+      "keyword": [
+        "icons",
+        "feather",
+        "feather-icons",
+        "vue-component",
+        "component",
+        "vue",
+        "vue.js",
+        "front-end",
+        "web"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "ydoc",
+      "descriptions": "基于 Markdown 的静态站点生成工具",
+      "keyword": [
+        "doc",
+        "docs",
+        "document",
+        "documents",
+        "documentation",
+        "markdown",
+        "build",
+        "fe",
+        "front-end",
+        "js"
+      ],
+      "author": "ymfe"
+    },
+    {
+      "name": "generator-gulp-bootstrap3",
+      "descriptions": "Scaffold out a Bootstrap 3 web app",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "jquery",
+        "gulp",
+        "bootstrap",
+        "bower"
+      ],
+      "author": "smakman"
+    },
+    {
+      "name": "jumpsuit",
+      "descriptions": "Jump in. Zip up. Build great apps.",
+      "keyword": [
+        "framework",
+        "react",
+        "redux",
+        "react-router",
+        "spa",
+        "front-end"
+      ],
+      "author": "tannerlinsley"
+    },
+    {
+      "name": "hyperdom",
+      "descriptions": "A fast, feature rich and simple framework for building dynamic browser applications.",
+      "keyword": [
+        "virtual-dom",
+        "front-end",
+        "mvc",
+        "framework",
+        "html",
+        "plastiq",
+        "hyperdom"
+      ],
+      "author": "refractalize"
+    },
+    {
+      "name": "generator-express-angular",
+      "descriptions": "Yeoman generator for AngularJS + Express",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+      ],
+      "author": "nasa"
+    },
+    {
+      "name": "flexcss",
+      "descriptions": "A lightweight Flexbox based mobile-first CSS/Javascript pattern-library",
+      "keyword": [
+        "css",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "patterns"
+      ],
+      "author": "bowlingx"
+    },
+    {
+      "name": "mofron-comp-frame",
+      "descriptions": "Frame component for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "generator-angular-material-fullstack",
+      "descriptions": "Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node",
+      "keyword": [
+        "yeoman-generator",
+        "mean",
+        "mongodb",
+        "angularjs",
+        "express",
+        "scaffold",
+        "fullstack",
+        "framework",
+        "component",
+        "front-end",
+        "material",
+        "design",
+        "angular-material",
+        "app"
+      ],
+      "author": "sincraianul"
+    },
+    {
+      "name": "generator-gulp-bootstrap",
+      "descriptions": "Scaffold out a front-end web app using Sass (node-sass) by default",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "gulp"
+      ],
+      "author": "niallobrien"
+    },
+    {
+      "name": "learn-nightwatch",
+      "descriptions": "Learn how to use nightwatch for front-end testing. step-by-step tutorial",
+      "keyword": [
+        "nightwatch",
+        "testing",
+        "front-end",
+        "UI",
+        "browser",
+        "test",
+        "step-by-step tutorial",
+        "how to",
+        "User Acceptance Testing",
+        "UAT"
+      ],
+      "author": "nelsonic"
+    },
+    {
+      "name": "mofron-comp-button",
+      "descriptions": "Button component for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "generate-git",
+      "descriptions": "Generator for initializing a git repository and adding first commit.",
+      "keyword": [
+        "app",
+        "boilerplate",
+        "build",
+        "cli",
+        "cli-app",
+        "command-line",
+        "commit",
+        "create",
+        "dev",
+        "development",
+        "end",
+        "first",
+        "framework",
+        "front",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "rex-core",
+      "descriptions": "ReX React UI Component",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web",
+        "react",
+        "ui-components"
+      ],
+      "author": "claudio.moya-rakuten.com"
+    },
+    {
+      "name": "generator-gulp-foundation",
+      "descriptions": "Scaffold out a Foundation 5 front-end web app using Sass (node-sass) by default",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "gulp",
+        "foundation",
+        "browsersync"
+      ],
+      "author": "niallobrien"
+    },
+    {
+      "name": "mofron-layout-margin",
+      "descriptions": "Margin layout of mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "mofron-event-drag",
+      "descriptions": "Drag event for mofron component",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "mofron-effect-synchei",
+      "descriptions": "Synchronization height effect for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "figuration",
+      "descriptions": "A feature rich, responsive, mobile first, accessible, front-end framework inspired by Bootstrap.",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "accessible",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "mbrambilla"
+    },
+    {
+      "name": "skeletonic",
+      "descriptions": "A dead on, lightweight, responsive and modern CSS framework.",
+      "keyword": [
+        "skeletonic",
+        "CSS",
+        "lightweight",
+        "dead on",
+        "responsive",
+        "framework",
+        "semantic",
+        "mobile-first",
+        "modern",
+        "style-agnostic",
+        "front-end",
+        "frontend",
+        "grid system",
+        "typography"
+      ],
+      "author": "sebastienrousseau"
+    },
+    {
+      "name": "iframe-lightbox",
+      "descriptions": "Responsive no-jQuery pure JS/CSS Lightbox for iframes, no dependencies, customizable aspect ratio, 4 kb unminified source code, with demo",
+      "keyword": [
+        "lightbox",
+        "vanilla-javascript",
+        "vanilla-js",
+        "css",
+        "js",
+        "html",
+        "front-end",
+        "frontend",
+        "pwa",
+        "webapp",
+        "website",
+        "ui",
+        "browser",
+        "iframe",
+        "View more"
+      ],
+      "author": "englishextra"
+    },
+    {
+      "name": "sp-build-tasks",
+      "descriptions": "SharePoint front-end projects automation and tasks tool-belt",
+      "keyword": [
+        "sharepoint",
+        "assets",
+        "build tasks",
+        "front-end",
+        "scaffolders"
+      ],
+      "author": "koltyakov"
+    },
+    {
+      "name": "angular-material-datetimepicker",
+      "descriptions": "A datetime picker for AngularJS Material",
+      "keyword": [
+        "css",
+        "js",
+        "mobile-first",
+        "angular",
+        "material",
+        "angular-material",
+        "responsive",
+        "front-end",
+        "web"
+      ],
+      "author": "ducin"
+    },
+    {
+      "name": "clientside-view-loader",
+      "descriptions": "A clientside module which simplifies loading views (html, css, and javascript) and additionally supports server side rendering",
+      "keyword": [
+        "browser",
+        "clientside",
+        "client-side",
+        "frontend",
+        "front-end",
+        "view",
+        "views",
+        "html",
+        "css",
+        "clientside-require"
+      ],
+      "author": "uladkasach"
+    },
+    {
+      "name": "mofron-effect-border",
+      "descriptions": "Border effect for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "front-end-guide",
+      "descriptions": "Manage your front-end project in unique views and reusable components.",
+      "keyword": [
+        "front-end",
+        "guide",
+        "patternlab",
+        "reusable",
+        "components",
+        "modules"
+      ],
+      "author": "devoorhoede"
+    },
+    {
+      "name": "evernote-sass",
+      "descriptions": "Evernote Sass build structure",
+      "keyword": [
+        "sass",
+        "css",
+        "structure",
+        "template",
+        "smacss",
+        "evernote",
+        "web",
+        "front-end",
+        "scss"
+      ],
+      "author": "ryanburgess"
+    },
+    {
+      "name": "oxe",
+      "descriptions": "A mighty tiny web components framework/library",
+      "keyword": [
+        "web",
+        "component",
+        "components",
+        "web-components",
+        "js",
+        "html",
+        "css",
+        "framework",
+        "data-binding",
+        "data",
+        "binding",
+        "routing",
+        "router",
+        "http",
+        "View more"
+      ],
+      "author": "alexanderelias"
+    },
+    {
+      "name": "bearbones",
+      "descriptions": "<p align=\"center\"> <a href=\"https://bearbon.es\"> <img src=\"https://bearbon.es/static/media/bb-banner.png\" alt=\"Bearbones logo\"> </a> </p>",
+      "keyword": [
+        "css",
+        "scss",
+        "mobile-first",
+        "flexbox",
+        "responsive",
+        "front-end",
+        "framework"
+      ],
+      "author": "humenko"
+    },
+    {
+      "name": "generator-dyno",
+      "descriptions": "ES6-ready Javascript, with Browserify, Gulp, and Jade",
+      "keyword": [
+        "yeoman-generator",
+        "generator",
+        "scaffold",
+        "frontend",
+        "front-end",
+        "component",
+        "es6",
+        "babeljs",
+        "sass",
+        "compass",
+        "jade",
+        "app",
+        "web-app"
+      ],
+      "author": "jhendley25"
+    },
+    {
+      "name": "rosariociudad-bootstrap",
+      "descriptions": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "democraciaenred"
+    },
+    {
+      "name": "znui-react",
+      "descriptions": "Znui react is the front-end basic framework.",
+      "keyword": [
+        "front-end",
+        "web",
+        "ui",
+        "zeanium"
+      ],
+      "author": "yangyxu"
+    },
+    {
+      "name": "generator-react-webpack-redux",
+      "descriptions": "Yeoman generator for ReactJS and Flux (Redux) via Webpack",
+      "keyword": [
+        "yeoman-generator",
+        "reactjs",
+        "webpack",
+        "redux",
+        "flux",
+        "scaffold",
+        "front-end"
+      ],
+      "author": "stylesuxx"
+    },
+    {
+      "name": "pho-devstack",
+      "descriptions": "Automated workflow for front-end developers in one tasty bowl of code",
+      "keyword": [
+        "build",
+        "web",
+        "app",
+        "front-end",
+        "lint",
+        "tdd",
+        "testing",
+        "gulp",
+        "browserify",
+        "less",
+        "css",
+        "lesshat",
+        "minify",
+        "image-min"
+      ],
+      "author": "pavelgavlik"
+    },
+    {
+      "name": "generator-werewolf",
+      "descriptions": "Scaffolding based on koa",
+      "keyword": [
+        "framework",
+        "koa",
+        "scaffold",
+        "webapp",
+        "front-end",
+        "yeoman-generator"
+      ],
+      "author": "youngtian13"
+    },
+    {
+      "name": "generator-angular-wixapp",
+      "descriptions": "Yeoman generator for AngularJS based Wix.com App Market application",
+      "keyword": [
+        "yeoman-generator",
+        "wix",
+        "app",
+        "application",
+        "front-end"
+      ],
+      "author": "tautvilas"
+    },
+    {
+      "name": "cortex",
+      "descriptions": "Cortex is an npm-like package manager for browsers.",
+      "keyword": [
+        "cortex",
+        "commonjs",
+        "dev",
+        "development",
+        "package",
+        "manager",
+        "web",
+        "server",
+        "scaffold",
+        "front-end",
+        "browser"
+      ],
+      "author": "spud"
+    },
+    {
+      "name": "amazeui-vue",
+      "descriptions": "Amaze UI components built with vue.js",
+      "keyword": [
+        "vue",
+        "vue.js",
+        "AMUI",
+        "Amaze UI",
+        "components",
+        "mvvm",
+        "front-end",
+        "stylus",
+        "plugin"
+      ],
+      "author": "zcoding"
+    },
+    {
+      "name": "metro-ui",
+      "descriptions": "The front-end framework for developing responsive, mobile projects on the web in Windows Metro Style.",
+      "keyword": [
+        "css",
+        "less",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web",
+        "metro"
+      ],
+      "author": "leungwensen"
+    },
+    {
+      "name": "serender",
+      "descriptions": "Server side rendering Express middleware",
+      "keyword": [
+        "server",
+        "side",
+        "rendering",
+        "render",
+        "client",
+        "front-end",
+        "riot",
+        "ember",
+        "angular",
+        "backbone",
+        "express",
+        "middleware"
+      ],
+      "author": "youssefkababe"
+    },
+    {
+      "name": "milligram-scss",
+      "descriptions": "A minimalist CSS framework on SCSS version.",
+      "keyword": [
+        "bootstrap",
+        "css",
+        "css3",
+        "flexbox",
+        "front-end",
+        "framework",
+        "html",
+        "html5",
+        "kickstarter",
+        "less",
+        "responsive",
+        "mobile",
+        "mobile-first",
+        "postcss",
+        "View more"
+      ],
+      "author": "cjpatoilo"
+    },
+    {
+      "name": "v-suggest",
+      "descriptions": "A Vue2 plugin for input suggestions by autocomplete",
+      "keyword": [
+        "front-end",
+        "javascript",
+        "web",
+        "vue",
+        "vuejs",
+        "vue2",
+        "webpack",
+        "selector",
+        "suggest",
+        "input",
+        "autocomplete"
+      ],
+      "author": "terryz"
+    },
+    {
+      "name": "generator-angular-fullstack-jp",
+      "descriptions": "Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node",
+      "keyword": [
+        "yeoman-generator",
+        "mean",
+        "mongodb",
+        "angularjs",
+        "express",
+        "scaffold",
+        "fullstack",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+      ],
+      "author": "jimobrien"
+    },
+    {
+      "name": "evans-sass-tools",
+      "descriptions": "My personal Sass/Scss mixins and more",
+      "keyword": [
+        "sass",
+        "scss",
+        "css",
+        "scss-mixins",
+        "front-end"
+      ],
+      "author": "evanlovely"
+    },
+    {
+      "name": "politico-style",
+      "descriptions": "Web fashions by Politico Interactives.",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "mazet"
+    },
+    {
+      "name": "unopinionate",
+      "descriptions": "Unopinionated front-end libraries",
+      "keyword": [
+        "unopionated",
+        "front-end",
+        "opinionated",
+        "selector"
+      ],
+      "author": "bpeacock"
+    },
+    {
+      "name": "keynapse",
+      "descriptions": "Keynapse is a lightweight front-end library for improve your app navigation.",
+      "keyword": [
+        "keyboard",
+        "hotkey",
+        "navigation",
+        "front-end",
+        "library",
+        "web"
+      ],
+      "author": "danilosampaio"
+    },
+    {
+      "name": "generator-sean",
+      "descriptions": "SEAN Official Yeoman Generator",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "sean",
+        "seanJS",
+        "sequilize",
+        "node",
+        "express",
+        "angular"
+      ],
+      "author": "adidoo"
+    },
+    {
+      "name": "interior",
+      "descriptions": "Scss & flexbox layout system.",
+      "keyword": [
+        "css",
+        "sass",
+        "scss",
+        "responsive",
+        "fluid",
+        "mobile-first",
+        "front-end",
+        "grid-system"
+      ],
+      "author": "morganfeeney"
+    },
+    {
+      "name": "generator-soa",
+      "descriptions": "Yeoman generator for creating fullstack applications Using GULP MongoDB | PostgreSql | NEO4J, Express | Sails, & AngularJS",
+      "keyword": [
+        "yeoman-generator",
+        "mean",
+        "mongodb",
+        "gulp",
+        "generator",
+        "service oriented",
+        "angularjs",
+        "angular",
+        "express",
+        "scaffold",
+        "fullstack",
+        "framework",
+        "component",
+        "front-end"
+      ],
+      "author": "joelcoxokc"
+    },
+    {
+      "name": "page-accelerator",
+      "descriptions": "[![Build Status](https://travis-ci.org/Easyfood/pageAccelerator.svg?branch=master)](https://travis-ci.org/Easyfood/pageAccelerator) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/evandrolg/pageAccelerator?utm_source=badge&utm_medi",
+      "keyword": [
+        "pageAccelerator",
+        "accelerator",
+        "front-end",
+        "turbo-links",
+        "speed",
+        "fast",
+        "ajax",
+        "performace"
+      ],
+      "author": "evandrolg"
+    },
+    {
+      "name": "@waitandsee/wasa-cli",
+      "descriptions": "Wasa-cli to automate wasa-boilerplate install",
+      "keyword": [
+        "wasa",
+        "cli",
+        "boilerplate",
+        "front-end",
+        "template",
+        "generator",
+        "starter"
+      ],
+      "author": "johannpinson"
+    },
+    {
+      "name": "mofron-comp-input",
+      "descriptions": "Input component for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "generator-sf2",
+      "descriptions": "Scaffold out a Symfony2 web app",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "back-end",
+        "php",
+        "symfony2"
+      ],
+      "author": "diegomarangoni"
+    },
+    {
+      "name": "generator-realtime",
+      "descriptions": "Yeoman generator for AngularJS + Firebase",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "angular"
+      ],
+      "author": "holmesal"
+    },
+    {
+      "name": "generator-s-webapp",
+      "descriptions": "Scaffold out a Backbone.js, Express project",
+      "keyword": [
+        "yeoman-generator",
+        "yeoman",
+        "boilerplate",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end"
+      ],
+      "author": "afrobambacar"
+    },
+    {
+      "name": "ewizard-cli",
+      "descriptions": "EwizardJS CLI Tool",
+      "keyword": [
+        "web",
+        "vue",
+        "Viseven",
+        "front-end"
+      ],
+      "author": "p.khodakovsky"
+    },
+    {
+      "name": "slush-kickstart",
+      "descriptions": "A slush generator to scaffold front-end projects",
+      "keyword": [
+        "slushgenerator",
+        "gulp",
+        "foundation",
+        "bootstrap",
+        "sass",
+        "nunjucks",
+        "browser-sync",
+        "front-end",
+        "web",
+        "app"
+      ],
+      "author": "mohamdio"
+    },
+    {
+      "name": "generator-react",
+      "descriptions": "Scaffold out a front-end web app with React",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "react"
+      ],
+      "author": "nemophrost"
+    },
+    {
+      "name": "mofron-effect-shadow",
+      "descriptions": "A simple pagination bar, based on Vue2.x",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "fourdollar.promisify",
+      "descriptions": "Scaffold out a front-end",
+      "keyword": [
+        "node",
+        "front-end",
+        "library"
+      ],
+      "author": "bynaki"
+    },
+    {
+      "name": "v-page",
+      "descriptions": "Form item for mofron",
+      "keyword": [
+        "front-end",
+        "web",
+        "vue",
+        "vuejs",
+        "page",
+        "pagination"
+      ],
+      "author": "terryz"
+    },
+    {
+      "name": "generator-vision",
+      "descriptions": "A front-end framework focused on beautiful deisgn and unique web development.",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "groundwork",
+        "bootstrap",
+        "assemble"
+      ],
+      "author": "vision-click"
+    },
+    {
+      "name": "mofron-comp-formitem",
+      "descriptions": "Yeoman generator for AngularJS with TypeScript",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "@aaronconway7/eden",
+      "descriptions": "🚀 lightweight logger • level based filtering and tagging • weighs in at 500 bytes",
+      "keyword": [
+        "css",
+        "js",
+        "beautiful",
+        "design",
+        "unique",
+        "web",
+        "front-end",
+        "framework",
+        "responsive"
+      ],
+      "author": "aaronconway7"
+    },
+    {
+      "name": "generator-angular-typescript",
+      "descriptions": "Horizon center layout of mofron",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "angular",
+        "TypeScript"
+      ],
+      "author": "awk"
+    },
+    {
+      "name": "missionlog",
+      "descriptions": "Yeoman generator for scaffolding out a SharePoint 2013 HTML Master & Page Layouts project using Bootstrap 3.0",
+      "keyword": [
+        "log",
+        "logger",
+        "logging",
+        "browser",
+        "node",
+        "mobile",
+        "front-end",
+        "backend",
+        "isomorphic",
+        "typescript",
+        "minimal"
+      ],
+      "author": "rmartone"
+    },
+    {
+      "name": "mofron-layout-hrzcenter",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "generator-sp2013-bootstrap3",
+      "keyword": [
+        "yeoman-generator",
+        "sharepoint",
+        "sharepoint 2013",
+        "sp2013",
+        "front-end",
+        "HTML Master",
+        "HTML Page Layout",
+        "WebDavDeployment",
+        "Bootstrap3"
+      ],
+      "author": "thorstenhans"
+    },
+    {
+      "name": "generator-go-angular",
+      "descriptions": "Yeoman generator for AngularJS + Go",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "go",
+        "golang",
+        "app"
+      ],
+      "author": "teerapap"
+    },
+    {
+      "name": "mofron-comp-clksw",
+      "descriptions": "Click switch component for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "mofron-event-style",
+      "descriptions": "Style change event for mofron component",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "generator-angular-mongodb-login",
+      "descriptions": "Extends Yeoman generator for AngularJS and includes a sub-generator to scaffold user login page backed by MongoDB. NOTE: this is just an idea for now; if you like/need it star the project and I'll be happy to put more hours into it.",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "angular",
+        "user",
+        "login",
+        "form"
+      ],
+      "author": "redaemn"
+    },
+    {
+      "name": "jenie",
+      "descriptions": "A mighty tinny web components framework/library",
+      "keyword": [
+        "web",
+        "component",
+        "components",
+        "web-components",
+        "js",
+        "html",
+        "css",
+        "framework",
+        "data-binding",
+        "data",
+        "binding",
+        "routing",
+        "router",
+        "http",
+        "View more"
+      ],
+      "author": "alexanderelias"
+    },
+    {
+      "name": "milligram-stylus",
+      "descriptions": "A minimalist CSS framework on Stylus version.",
+      "keyword": [
+        "bootstrap",
+        "css",
+        "css3",
+        "flexbox",
+        "front-end",
+        "framework",
+        "html",
+        "html5",
+        "kickstarter",
+        "less",
+        "responsive",
+        "mobile",
+        "mobile-first",
+        "postcss",
+        "View more"
+      ],
+      "author": "cjpatoilo"
+    },
+    {
+      "name": "quark-gui",
+      "descriptions": "Webpack GUI framework based on atomic design",
+      "keyword": [
+        "atomic",
+        "gui",
+        "gui-template",
+        "gui-toolkit",
+        "webpack",
+        "responsive",
+        "front-end",
+        "framework",
+        "web",
+        "js",
+        "sass"
+      ],
+      "author": "benjamindehli"
+    },
+    {
+      "name": "generator-moda",
+      "descriptions": "A truly modular yeoman generator for AngularJS all device apps.",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "front-end",
+        "app",
+        "angular",
+        "modular",
+        "sass",
+        "scss",
+        "cordova",
+        "gulp"
+      ],
+      "author": "johannesjo"
+    },
+    {
+      "name": "bonaparte-sidebar",
+      "descriptions": "Bonaparte Component",
+      "keyword": [
+        "bonaparte",
+        "bonaparte-component",
+        "ux",
+        "ui",
+        "library",
+        "framework",
+        "webcomponents",
+        "component",
+        "front-end"
+      ],
+      "author": "greenish"
+    },
+    {
+      "name": "vtex-utils",
+      "descriptions": "A collection of utilities methods for Vtex stores",
+      "keyword": [
+        "vtex",
+        "utils",
+        "utilities",
+        "helpers",
+        "vtex-helpers",
+        "vtex-helpers.js",
+        "vtex-utils",
+        "javascript",
+        "js-helpers",
+        "js-utilities",
+        "js-utils",
+        "locate",
+        "location",
+        "geolocate",
+        "View more"
+      ],
+      "author": "zeindelf"
+    },
+    {
+      "name": "unnamed",
+      "descriptions": "A simple colorful css framework",
+      "keyword": [
+        "css",
+        "framework",
+        "unnamed",
+        "colorful",
+        "responsive",
+        "front-end"
+      ],
+      "author": "smakosh"
+    },
+    {
+      "name": "inline-svg",
+      "descriptions": "Takes an inline image with an SVG as it's source and swaps it for an inline SVG",
+      "keyword": [
+        "inline",
+        "SVG",
+        "inline-SVG",
+        "front-end"
+      ],
+      "author": "oliverfarrell"
+    },
+    {
+      "name": "griddle",
+      "descriptions": "Express middleware for executing gulp builds and reporting errors in the browser.",
+      "keyword": [
+        "flapjack",
+        "gulp",
+        "front-end",
+        "http server",
+        "express",
+        "express middleware"
+      ],
+      "author": "codeviking"
+    },
+    {
+      "name": "mofron-comp-fontawesome",
+      "descriptions": "Font awesome icon of mofron parts",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "fontify",
+      "descriptions": "Copy font files from node_modules folder",
+      "keyword": [
+        "fonts",
+        "copy",
+        "modules",
+        "bootstrap",
+        "front-end"
+      ],
+      "author": "youssefkababe"
+    },
+    {
+      "name": "mofron-comp-menu",
+      "descriptions": "Menu component for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "carbon-grid",
+      "descriptions": "A simple, lightweight, responsive CSS grid system built on flexbox.",
+      "keyword": [
+        "browser",
+        "flexbox",
+        "grid",
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "stegosource"
+    },
+    {
+      "name": "generator-cozen-angular",
+      "descriptions": "Use this yeoman generator to help you create AngularJS applications based to works properly with the Altran Angular Library.",
+      "keyword": [
+        "cozen",
+        "angular",
+        "yeoman",
+        "yeoman-generator",
+        "front-end",
+        "scaffolding"
+      ],
+      "author": "c0zen"
+    },
+    {
+      "name": "htmlelement-events-extension",
+      "descriptions": "Easy add/remove event on html elements, document & window",
+      "keyword": [
+        "HTMLElement",
+        "window",
+        "document",
+        "events",
+        "event",
+        "addEventListener",
+        "removeEventListener",
+        "one call",
+        "once",
+        "on",
+        "off",
+        "longpress",
+        "clickoutside",
+        "multiclick"
+      ],
+      "author": "sylvain59"
+    },
+    {
+      "name": "fepper-utils",
+      "descriptions": "Fepper utilities",
+      "keyword": [
+        "atomic",
+        "component",
+        "design",
+        "end",
+        "fepper",
+        "front",
+        "front-end",
+        "frontend",
+        "lab",
+        "library",
+        "pattern",
+        "prototype",
+        "prototyper",
+        "prototyping"
+      ],
+      "author": "e2tha-e"
+    },
+    {
+      "name": "mofron-comp-switch",
+      "descriptions": "Switch component for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "vtex-masterdata",
+      "descriptions": "Helpers to manipulate data from Vtex Masterdata",
+      "keyword": [
+        "vtex",
+        "utils",
+        "utilities",
+        "helpers",
+        "data",
+        "masterdata",
+        "vtex-masterdata",
+        "vtex-masterdata.js",
+        "vtex-utils",
+        "javascript",
+        "js-helpers",
+        "js-utilities",
+        "js-utils",
+        "front-end",
+        "View more"
+      ],
+      "author": "zeindelf"
+    },
+    {
+      "name": "css-burrito",
+      "descriptions": "An organizational Sass template",
+      "keyword": [
+        "sass",
+        "scss",
+        "css",
+        "template",
+        "oocss",
+        "smacss",
+        "web",
+        "front-end"
+      ],
+      "author": "jasonreece"
+    },
+    {
+      "name": "fd-server",
+      "descriptions": "A simple, efficient, convenient RIA development environment",
+      "keyword": [
+        "static",
+        "proxy",
+        "front-end"
+      ],
+      "author": "xiaojue"
+    },
+    {
+      "name": "@onenexus/cell",
+      "descriptions": "Style BEM DOM elements using Sass",
+      "keyword": [
+        "sass",
+        "scss",
+        "OOCSS",
+        "BEM",
+        "modular",
+        "modules",
+        "components",
+        "front-end",
+        "framework",
+        "web",
+        "synergy"
+      ],
+      "author": "esr360"
+    },
+    {
+      "name": "project-server",
+      "descriptions": "A Browsersync Serve Index and Styleguide Middleware",
+      "keyword": [
+        "front-end",
+        "frontend",
+        "styleguide",
+        "webstyleguide",
+        "tools",
+        "browsersync",
+        "browser sync",
+        "middleware"
+      ],
+      "author": "nedkelly"
+    },
+    {
+      "name": "generator-scaffold",
+      "descriptions": "Generator to automate the most common tasks in day-to-day of a Front End project",
+      "keyword": [
+        "yeoman-generator",
+        "yo",
+        "build",
+        "automator",
+        "scaffold",
+        "node",
+        "front-end",
+        "frontend",
+        "h5bp",
+        "bower",
+        "modernizr",
+        "jquery",
+        "single-page",
+        "angular"
+      ],
+      "author": "marcosmoura"
+    },
+    {
+      "name": "v-selectpage",
+      "descriptions": "A powerful selector for Vue2, list or table view of pagination, use tags for multiple selection, i18n and server side resources supports",
+      "keyword": [
+        "front-end",
+        "javascript",
+        "web",
+        "vue",
+        "vuejs",
+        "vue2",
+        "webpack",
+        "selector",
+        "tableview",
+        "i18n",
+        "server-side",
+        "pagination",
+        "tags",
+        "multiple"
+      ],
+      "author": "terryz"
+    },
+    {
+      "name": "insight-ui-dash",
+      "descriptions": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the Dash network and build your own services with it.",
+      "keyword": [
+        "insight",
+        "blockchain",
+        "blockexplorer",
+        "dash",
+        "bitcore-dash",
+        "front-end"
+      ],
+      "author": "snogcel"
+    },
+    {
+      "name": "responsive-bp",
+      "descriptions": "A powerful, accessible, developer friendly framework for building responsive websites.",
+      "keyword": [
+        "html",
+        "css",
+        "js",
+        "javascript",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "rwd",
+        "front-end",
+        "framework",
+        "boilerplate",
+        "web"
+      ],
+      "author": "jimbobsquarepants"
+    },
+    {
+      "name": "react-xtruct",
+      "descriptions": "A simple cli for react projects",
+      "keyword": [
+        "react",
+        "cli",
+        "react-xtruct",
+        "xtruct",
+        "scaffolding",
+        "setup",
+        "structure",
+        "scaffold",
+        "front-end",
+        "frontend"
+      ],
+      "author": "btinoco"
+    },
+    {
+      "name": "atomus",
+      "descriptions": "A small utility for running client-side tests in Node.js environment",
+      "keyword": [
+        "testing",
+        "client-side",
+        "front-end",
+        "dom"
+      ],
+      "author": "krasimir"
+    },
+    {
+      "name": "mofron-effect-size",
+      "descriptions": "Size effect for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "apple-style-controls",
+      "descriptions": "Apple style controls for web",
+      "keyword": [
+        "web",
+        "apple",
+        "controls",
+        "css",
+        "sass",
+        "responsive",
+        "front-end",
+        "framework",
+        "vanillaJS"
+      ],
+      "author": "vestlirik"
+    },
+    {
+      "name": "jslingua",
+      "descriptions": "Language processing modules",
+      "keyword": [
+        "language",
+        "transliteration",
+        "NLP",
+        "conjugation",
+        "IR",
+        "stemming",
+        "stemmer",
+        "toolkit",
+        "library",
+        "front-end",
+        "back-end",
+        "pronunciation",
+        "multi-lingual",
+        "multilingual",
+        "View more"
+      ],
+      "author": "kariminf"
+    },
+    {
+      "name": "generator-noogie",
+      "descriptions": "Scaffold out an Angular app using a component-based approach",
+      "keyword": [
+        "angular",
+        "components",
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "gulp"
+      ],
+      "author": "chrisjordanme"
+    },
+    {
+      "name": "@7span/shilp",
+      "descriptions": "CSS Framework Completely Customizable via CSS Variables",
+      "keyword": [
+        "css",
+        "sass",
+        "scss",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "theharsh"
+    },
+    {
+      "name": "generator-vars-webapp",
+      "descriptions": "Generator for static web app + Gulp, Browserify, Sass/Stylus and more.",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "modernizr",
+        "jquery",
+        "gulp",
+        "vars",
+        "stylus",
+        "sass",
+        "browserify",
+        "wiredep",
+        "browser-sync",
+        "babel",
+        "View more"
+      ],
+      "author": "andrewscwei"
+    },
+    {
+      "name": "flexbin",
+      "descriptions": "Flexible and gapless image gallery layout like Google Images and 500px.com",
+      "keyword": [
+        "css",
+        "sass",
+        "flex",
+        "image",
+        "gallery",
+        "layout",
+        "google-images",
+        "front-end",
+        "responsive",
+        "500px"
+      ],
+      "author": "guoyunhe"
+    },
+    {
+      "name": "fe-interview",
+      "descriptions": "Retro ansi terminal for front-end interview questions",
+      "keyword": [
+        "examination",
+        "front-end"
+      ],
+      "author": "howard.zuo"
+    },
+    {
+      "name": "mofron-event-link",
+      "descriptions": "Link event for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "generator-lennon",
+      "descriptions": "Yeoman generator lennon",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "gulp"
+      ],
+      "author": "kbjwdh"
+    },
+    {
+      "name": "generator-ullalaa",
+      "descriptions": "Front-end web html5 boilerplate php template",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "front-end",
+        "h5bp",
+        "html",
+        "boilerplate",
+        "template",
+        "sass",
+        "modernizr",
+        "Grunt",
+        "Bower",
+        "Compass",
+        "browser-sync",
+        "autoprefixer",
+        "View more"
+      ],
+      "author": "cherijs"
+    },
+    {
+      "name": "angus",
+      "descriptions": "Declarative build tool for the web.",
+      "keyword": [
+        "angular",
+        "angularjs",
+        "yeoman-generator",
+        "yeoman",
+        "web",
+        "app",
+        "front-end",
+        "bootstrap",
+        "firebase",
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "grunt"
+      ],
+      "author": "nickjanssen"
+    },
+    {
+      "name": "generator-angular-jade-stylus",
+      "descriptions": "Yeoman generator for AngularJS with Jade and Stylus",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "angular",
+        "jade",
+        "stylus"
+      ],
+      "author": "fantasywind"
+    },
+    {
+      "name": "vintage-cli",
+      "descriptions": "Vintage workflow command line interface",
+      "keyword": [
+        "vintage",
+        "vintage-cli",
+        "cli",
+        "gulp",
+        "front-end",
+        "markup"
+      ],
+      "author": "shapovalov_v"
+    },
+    {
+      "name": "vtex-minicart",
+      "descriptions": "Minicart for Vtex store with DOM Binding",
+      "keyword": [
+        "vtex",
+        "utils",
+        "utilities",
+        "minicart",
+        "vtex-minicart",
+        "vtex-minicart.js",
+        "vtex-utils",
+        "javascript",
+        "js-helpers",
+        "js-utilities",
+        "js-utils",
+        "front-end",
+        "rivets",
+        "rivets-js",
+        "View more"
+      ],
+      "author": "zeindelf"
+    },
+    {
+      "name": "castlecss-docs",
+      "descriptions": "Documentation website for CastleCSS",
+      "keyword": [
+        "front-end",
+        "responsive",
+        "scss",
+        "sass",
+        "web",
+        "documentation",
+        "castlecss",
+        "castle",
+        "framework",
+        "building",
+        "blocks",
+        "modular"
+      ],
+      "author": "darius_rosendahl"
+    },
+    {
+      "name": "upack",
+      "descriptions": "A integration tool, component management and project generator and project build workflow.",
+      "keyword": [
+        "upack",
+        "component",
+        "management",
+        "front-end"
+      ],
+      "author": "damujiangr"
+    },
+    {
+      "name": "insight-bitcore",
+      "descriptions": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the bitcoin network and build your own services with it.",
+      "keyword": [
+        "insight",
+        "blockchain",
+        "blockexplorer",
+        "bitcoin",
+        "bitcore",
+        "front-end"
+      ],
+      "author": "ematiu"
+    },
+    {
+      "name": "pds-bootstrap",
+      "descriptions": "(Customized) The most popular front-end framework for developing responsive, mobile first projects on the web.",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "senorsen"
+    },
+    {
+      "name": "generator-oas",
+      "descriptions": "Base Yeoman generator + estilos oas",
+      "keyword": [
+        "yeoman-generator",
+        "oas-generator",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "angular",
+        "style-oas"
+      ],
+      "author": "udistrital"
+    },
+    {
+      "name": "vtex-catalog",
+      "descriptions": "Helpers to manipulate Vtex Catalog API",
+      "keyword": [
+        "vtex",
+        "utils",
+        "utilities",
+        "helpers",
+        "data",
+        "masterdata",
+        "vtex-catalog",
+        "vtex-catalog.js",
+        "vtex-utils",
+        "javascript",
+        "js-helpers",
+        "js-utilities",
+        "js-utils",
+        "front-end",
+        "View more"
+      ],
+      "author": "zeindelf"
+    },
+    {
+      "name": "insight-lite-ui",
+      "descriptions": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the litecoin network and build your own services with it.",
+      "keyword": [
+        "insight",
+        "blockchain",
+        "blockexplorer",
+        "litecoin",
+        "litecore",
+        "front-end"
+      ],
+      "author": "coblee"
+    },
+    {
+      "name": "generator-angular-ui-router",
+      "descriptions": "Yeoman generator for AngularJS( include UI-router )",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+      ],
+      "author": "iamblue"
+    },
+    {
+      "name": "generator-dan",
+      "descriptions": "Yeoman generator for Single Page Application based on React framework",
+      "keyword": [
+        "yeoman-generator",
+        "yeoman",
+        "generator",
+        "framework",
+        "bower",
+        "backbone",
+        "less",
+        "requirejs",
+        "jquery",
+        "modernizr",
+        "front-end",
+        "seo",
+        "gsap",
+        "app"
+      ],
+      "author": "sbourgalle"
+    },
+    {
+      "name": "@atlassian/wrm-react-i18n",
+      "descriptions": "An internationalization i18n helper for WRM and React that can be used in Atlassian Server products",
+      "keyword": [
+        "react",
+        "i18n",
+        "frontend",
+        "server",
+        "atlassian",
+        "dc",
+        "front-end",
+        "bitbucket",
+        "jira",
+        "confluence",
+        "jsd",
+        "webpack",
+        "loader",
+        "wrm"
+      ],
+      "author": "macku"
+    },
+    {
+      "name": "generator-playbook",
+      "descriptions": "A Yeoman generator for prototyping and building experiences.",
+      "keyword": [
+        "yeoman-generator",
+        "gulp",
+        "bourbon",
+        "neat",
+        "bitters",
+        "jekyll",
+        "jekyllrb",
+        "static",
+        "front-end",
+        "web",
+        "site",
+        "prototype",
+        "prototyping",
+        "sass",
+        "View more"
+      ],
+      "author": "desmondcain"
+    },
+    {
+      "name": "generator-closure",
+      "descriptions": "Generator for Closure Library",
+      "keyword": [
+        "yeoman-generator",
+        "yeoman",
+        "generator",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "closure",
+        "closure boilerplate",
+        "closure library boilerplate",
+        "boilerplate",
+        "closure library"
+      ],
+      "author": "thanpolas"
+    },
+    {
+      "name": "bonaparte-panel",
+      "descriptions": "Bonaparte Component",
+      "keyword": [
+        "bonaparte",
+        "bonaparte-component",
+        "ux",
+        "ui",
+        "library",
+        "framework",
+        "webcomponents",
+        "component",
+        "front-end"
+      ],
+      "author": "greenish"
+    },
+    {
+      "name": "generator-happy-mobile-webapp",
+      "descriptions": "Scaffolds out a front-end mobile webapp, ES6 supported",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "mustache",
+        "front-end",
+        "mobile",
+        "h5bp",
+        "modernizr",
+        "zepto",
+        "bower",
+        "babel",
+        "ES6",
+        "grunt",
+        "coffeescript"
+      ],
+      "author": "zerob13"
+    },
+    {
+      "name": "saco",
+      "descriptions": "A NodeJS production server for single page web apps",
+      "keyword": [
+        "server",
+        "production",
+        "cluster",
+        "nodejs",
+        "http",
+        "https",
+        "web",
+        "front-end"
+      ],
+      "author": "bertolo1988"
+    },
+    {
+      "name": "bonaparte-toolbar",
+      "descriptions": "Bonaparte Component",
+      "keyword": [
+        "bonaparte",
+        "bonaparte-component",
+        "ux",
+        "ui",
+        "library",
+        "framework",
+        "webcomponents",
+        "component",
+        "front-end"
+      ],
+      "author": "greenish"
+    },
+    {
+      "name": "generator-fedp",
+      "descriptions": "A front-end project initialization generator for Yeoman",
+      "keyword": [
+        "yeoman-generator",
+        "generator",
+        "front-end",
+        "development",
+        "scaffold"
+      ],
+      "author": "hiwanz"
+    },
+    {
+      "name": "mofron-effect-blur",
+      "descriptions": "Blur effect for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "generator-rocket",
+      "descriptions": "Scaffold out a front-end web app",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "grunt"
+      ],
+      "author": "neilhem"
+    },
+    {
+      "name": "democracyos-bootstrap",
+      "descriptions": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "frn"
+    },
+    {
+      "name": "generator-lessapp",
+      "descriptions": "Scaffold out a LESS front-end web app",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "less",
+        "jquery",
+        "grunt"
+      ],
+      "author": "robinpokorny"
+    },
+    {
+      "name": "2mundos-cropperjs",
+      "descriptions": "JavaScript image cropper.",
+      "keyword": [
+        "image",
+        "crop",
+        "cropping",
+        "move",
+        "zoom",
+        "rotate",
+        "scale",
+        "cropper",
+        "cropperjs",
+        "cropper.js",
+        "html",
+        "css",
+        "javascript",
+        "front-end",
+        "View more"
+      ],
+      "author": "tpeixoto2m"
+    },
+    {
+      "name": "ciffi-js-router",
+      "descriptions": "JS Router for ciffi-js based project",
+      "keyword": [
+        "ciffi",
+        "ciffi-js",
+        "javascript",
+        "router",
+        "spa",
+        "framework",
+        "front-end",
+        "development",
+        "dev",
+        "build",
+        "web",
+        "tool",
+        "stack",
+        "module"
+      ],
+      "author": "ciffi"
+    },
+    {
+      "name": "@copart/front-end-utils",
+      "descriptions": "All front end utility methods live here",
+      "keyword": [
+        "utils",
+        "date",
+        "front-end",
+        "string",
+        "regex"
+      ],
+      "author": "ravikirancopart"
+    },
+    {
+      "name": "generator-yeomify-landing",
+      "descriptions": "Yeoman generator for landing project powered by Gulp",
+      "keyword": [
+        "babel",
+        "babeljs",
+        "bower",
+        "css",
+        "front-end",
+        "generator",
+        "gulp",
+        "html",
+        "jade",
+        "pug",
+        "landing",
+        "less",
+        "sass",
+        "site",
+        "View more"
+      ],
+      "author": "helloilya"
+    },
+    {
+      "name": "mofron-event-common",
+      "descriptions": "Common event for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "generator-angularfire",
+      "descriptions": "Yeoman generator for Angular+Firebase",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "angular",
+        "firebase"
+      ],
+      "author": "katowulf"
+    },
+    {
+      "name": "linq-to-objects",
+      "descriptions": "Linq for javascript",
+      "keyword": [
+        "linq",
+        "array",
+        "addRange",
+        "aggregate",
+        "average",
+        "clear",
+        "distinct",
+        "firstOrDefault",
+        "insertAt",
+        "insertRangeAt",
+        "getRange",
+        "groupBy",
+        "innerJoin",
+        "lastOrDefault",
+        "View more"
+      ],
+      "author": "sylvain59"
+    },
+    {
+      "name": "mofron-event-visiclick",
+      "descriptions": "Visible switch click event for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "generator-browserify",
+      "descriptions": "Yeoman generator with Browserify and your choice of Foundation 5 or Bootstrap 3",
+      "keyword": [
+        "yeoman-generator",
+        "generator",
+        "browserify",
+        "foundation",
+        "zurb",
+        "bootstrap",
+        "commonjs",
+        "cjs",
+        "jade",
+        "modernizr",
+        "web",
+        "app",
+        "front-end",
+        "gulp"
+      ],
+      "author": "vincentmac"
+    },
+    {
+      "name": "generator-rff",
+      "descriptions": "Fully customizable Yeoman generator for scaffolding a front-end web app",
+      "keyword": [
+        "yeoman-generator",
+        "grunt",
+        "bower",
+        "front-end",
+        "app"
+      ],
+      "author": "htanjo"
+    },
+    {
+      "name": "generator-angular-slyedoc",
+      "descriptions": "Yeoman generator",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "angular",
+        "slyedoc"
+      ],
+      "author": "slyedoc"
+    },
+    {
+      "name": "generator-gulper",
+      "descriptions": "The ultimate Gulp webapp generator",
+      "keyword": [
+        "yeoman-generator",
+        "gulp",
+        "web",
+        "app",
+        "front-end",
+        "node",
+        "angular",
+        "angular-routes",
+        "autoprefixer",
+        "browserify",
+        "browserify shim",
+        "browsersync",
+        "coffeescript",
+        "compass",
+        "View more"
+      ],
+      "author": "leaky"
+    },
+    {
+      "name": "generator-matrix",
+      "descriptions": "Scaffolding based on koa",
+      "keyword": [
+        "framework",
+        "koa",
+        "scaffold",
+        "webapp",
+        "front-end",
+        "yeoman-generator"
+      ],
+      "author": "youngtian13"
+    },
+    {
+      "name": "generator-graybullet-cordova",
+      "descriptions": "Webapp and Angular yeoman generator for Apache Cordova",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "jquery",
+        "grunt",
+        "cordova",
+        "mobile"
+      ],
+      "author": "masakura"
+    },
+    {
+      "name": "json-resume-dynamic",
+      "descriptions": "A tool to generate a web page containing your resume",
+      "keyword": [
+        "resume",
+        "cv",
+        "template",
+        "front-end",
+        "portfolio",
+        "json-resume"
+      ],
+      "author": "jrm2k6"
+    },
+    {
+      "name": "generator-makeme",
+      "descriptions": "A Fullstack Universal Javascript Generator for #coolkids that uses Angular, Express, Node, Mongo, Socket + more",
+      "keyword": [
+        "yeoman-generator",
+        "mean",
+        "mongodb",
+        "angularjs",
+        "express",
+        "scaffold",
+        "fullstack",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+      ],
+      "author": "thinq4yourself"
+    },
+    {
+      "name": "rtl-bootstrap",
+      "descriptions": "Bootstrap RTL (For arabic & Farsi) Based on Bootstrap 4.0.0 Beta 2",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web",
+        "bootstrap"
+      ],
+      "author": "fstackdeveloper"
+    },
+    {
+      "name": "react-window-kit",
+      "descriptions": "React window kit.",
+      "keyword": [
+        "web",
+        "kit",
+        "react",
+        "react-component",
+        "modal",
+        "dialog",
+        "window",
+        "front-end"
+      ],
+      "author": "zhbhun"
+    },
+    {
+      "name": "generator-react-browserify",
+      "descriptions": "Scaffold out a react web app with browserify and gulp",
+      "keyword": [
+        "yeoman-generator",
+        "react",
+        "app",
+        "front-end",
+        "jquery",
+        "gulp"
+      ],
+      "author": "cookfront"
+    },
+    {
+      "name": "apex-publish-static-files",
+      "descriptions": "Allows to publish an entire local directory to Oracle APEX Shared Components.",
+      "keyword": [
+        "oracle",
+        "apex",
+        "orclapex",
+        "css",
+        "javascript",
+        "front-end",
+        "web"
+      ],
+      "author": "vincentmorneau"
+    },
+    {
+      "name": "slush-webapp",
+      "descriptions": "Generator for HTML5 Boilerplate and Bootstrap web apps using Gulp",
+      "keyword": [
+        "slushgenerator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "gulp"
+      ],
+      "author": "jonkemp"
+    },
+    {
+      "name": "pyramid.ui",
+      "descriptions": "Css front-end framework",
+      "keyword": [
+        "css",
+        "sass",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "kwstaskara"
+    },
+    {
+      "name": "generator-scratch",
+      "descriptions": "Scratch is a starter theme generator based on _s and Foundation. It's a theme meant for hacking so don't use it as a Parent Theme. Instead try turning it into the next, most awesome, WordPress theme out there.",
+      "keyword": [
+        "yeoman-generator",
+        "wordpress",
+        "theme",
+        "front-end",
+        "grunt",
+        "starter theme",
+        "_s",
+        "underscores",
+        "sass",
+        "foundation"
+      ],
+      "author": "mrdink"
+    },
+    {
+      "name": "lumberjackjs",
+      "descriptions": "Plugable JavaScript logging.",
+      "keyword": [
+        "logging",
+        "front-end",
+        "javascript",
+        "js",
+        "logger",
+        "reporting",
+        "eventing",
+        "callbacks",
+        "simple",
+        "plugable"
+      ],
+      "author": "cobbdb"
+    },
+    {
+      "name": "milligram-cssnext",
+      "descriptions": "A fork of minimalist CSS framework milligram written for postcss-cssnext.",
+      "keyword": [
+        "bootstrap",
+        "css",
+        "css3",
+        "flexbox",
+        "front-end",
+        "framework",
+        "html",
+        "html5",
+        "kickstarter",
+        "less",
+        "responsive",
+        "mobile",
+        "mobile-first",
+        "postcss",
+        "View more"
+      ],
+      "author": "spklein"
+    },
+    {
+      "name": "shapecss",
+      "descriptions": "ShapeCss is a modern, stylish and flexbox css framework",
+      "keyword": [
+        "css",
+        "js",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web",
+        "web framework",
+        "web frontend framework"
+      ],
+      "author": "microsharif"
+    },
+    {
+      "name": "pay-css",
+      "descriptions": "基于 平安云设计指南 所开发的基础样式库",
+      "keyword": [
+        "css",
+        "framework",
+        "flexbox",
+        "responsive",
+        "mobile-friendly",
+        "front-end",
+        "sass",
+        "modern"
+      ],
+      "author": "zhengguohui578"
+    },
+    {
+      "name": "generator-launchpad",
+      "descriptions": "A quick project prototyping tool. Included are options for custom CSS/SASS setups, Modernizr, jQuery, Google analytics, etc., using a workflow based on Grunt and Bower, not to mention Yeoman.",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "html5",
+        "boilerplate",
+        "front-end",
+        "h5bp",
+        "app"
+      ],
+      "author": "adamcbrewer"
+    },
+    {
+      "name": "@7ninjas/scss-mixins",
+      "descriptions": "`scss-mixins` is a collection of scss mixins and functions to ease and improve implementations of common style-code patterns.",
+      "keyword": [
+        "scss",
+        "mixin",
+        "css",
+        "style",
+        "styling",
+        "7ninjas",
+        "bootstrap",
+        "react",
+        "grid",
+        "flex",
+        "mixins",
+        "less",
+        "responsive",
+        "web",
+        "View more"
+      ],
+      "author": "arekrado"
+    },
+    {
+      "name": "@braid/griddle-scss",
+      "descriptions": "A Sass grid system with a helpful visual overlay",
+      "keyword": [
+        "css",
+        "scss",
+        "grid",
+        "system",
+        "front-end",
+        "overlay"
+      ],
+      "author": "boyd"
+    },
+    {
+      "name": "mofron-comp-modalfil",
+      "descriptions": "Modal filter component for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "generator-angularfire-express",
+      "descriptions": "Yeoman generator for Angular + Firebase(SDK 3.0) + Minimalist Express",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "angular",
+        "firebase",
+        "express"
+      ],
+      "author": "matheushf"
+    },
+    {
+      "name": "generator-pho",
+      "descriptions": "Project generator that includes pho-devstack",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "web",
+        "app",
+        "front-end",
+        "gulp",
+        "browserify",
+        "less",
+        "css",
+        "lesshat",
+        "angularjs",
+        "jasmine",
+        "lint",
+        "tdd"
+      ],
+      "author": "pavelgavlik"
+    },
+    {
+      "name": "fourdollar.isfloat",
+      "descriptions": "문자를 인수로 받아 소수점이 있는지 판단한다.",
+      "keyword": [
+        "node",
+        "front-end",
+        "library"
+      ],
+      "author": "bynaki"
+    },
+    {
+      "name": "fourdollar.isinteger",
+      "descriptions": "문자를 인수로 받아 정수인지 아닌지 판단한다.",
+      "keyword": [
+        "node",
+        "front-end",
+        "library"
+      ],
+      "author": "bynaki"
+    },
+    {
+      "name": "fourdollar.logger",
+      "descriptions": "Console log를 좀더 편리하게",
+      "keyword": [
+        "node",
+        "front-end",
+        "library"
+      ],
+      "author": "bynaki"
+    },
+    {
+      "name": "spof",
+      "descriptions": "See what will happen when third-party resource goes down!",
+      "keyword": [
+        "spof",
+        "Single point of failure",
+        "Front-end",
+        "performance"
+      ],
+      "author": "lafikl"
+    },
+    {
+      "name": "ztopia-ui",
+      "descriptions": "A lightweight and multivariant React UI library built with customization and consistency in mind",
+      "keyword": [
+        "react",
+        "react-component",
+        "front-end",
+        "ui",
+        "ui-component",
+        "ui-library"
+      ],
+      "author": "zicodeng"
+    },
+    {
+      "name": "generator-ee-foundation",
+      "descriptions": "Scaffold out a Foundation 5 front-end web app using Sass (node-sass) by default",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "jquery",
+        "gulp",
+        "foundation",
+        "browsersync",
+        "expression",
+        "engine"
+      ],
+      "author": "niallobrien"
+    },
+    {
+      "name": "ixco",
+      "descriptions": "A lightweight pattern library designed to be included with any web project.",
+      "keyword": [
+        "pattern",
+        "library",
+        "styleguide",
+        "front-end"
+      ],
+      "author": "davisdole"
+    },
+    {
+      "name": "generator-aaal",
+      "descriptions": "An crud interface generator for loopback and angular.",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "front-end",
+        "loopback",
+        "strongloop",
+        "gulp",
+        "angularjs"
+      ],
+      "author": "johannesjo"
+    },
+    {
+      "name": "qrjs2",
+      "descriptions": "QR code generating with vanilla js (SVG Element, Data URI SVG String, Data URI PNG String, HTML Table Element).",
+      "keyword": [
+        "qr",
+        "qrcode",
+        "qr-code",
+        "qrcode-generator",
+        "svg",
+        "svg-images",
+        "js",
+        "javascript",
+        "vanilla-js",
+        "webapp",
+        "app",
+        "front-end",
+        "html"
+      ],
+      "author": "englishextra"
+    },
+    {
+      "name": "mofron-comp-txtheader",
+      "descriptions": "Text header component for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "sass-useful-mixins",
+      "descriptions": "Useful Mixins for SASS",
+      "keyword": [
+        "sass",
+        "mixins",
+        "scss",
+        "css",
+        "web",
+        "front-end"
+      ],
+      "author": "ryanburgess"
+    },
+    {
+      "name": "generator-surprise",
+      "descriptions": "Yeoman Generator for Surprise Highway project front ends.",
+      "keyword": [
+        "yeoman-generator",
+        "surprise highway",
+        "front-end",
+        "js",
+        "html5",
+        "bootstrap",
+        "bourbon",
+        "foundation",
+        "gulp"
+      ],
+      "author": "rmknecht"
+    },
+    {
+      "name": "xyjax",
+      "descriptions": "Simple and powerful React+Redux-based single-page application developing tool",
+      "keyword": [
+        "react",
+        "redux",
+        "state",
+        "spa",
+        "single-page",
+        "single-page-app",
+        "front-end",
+        "frontend",
+        "framework",
+        "web",
+        "app",
+        "application",
+        "library",
+        "client-side",
+        "View more"
+      ],
+      "author": "revrulb"
+    },
+    {
+      "name": "slush-simple",
+      "descriptions": "Simple scaffold for Gulp",
+      "keyword": [
+        "slushgenerator",
+        "web",
+        "app",
+        "front-end",
+        "gulp",
+        "stylus",
+        "jade",
+        "browser-sync",
+        "scaffold"
+      ],
+      "author": "dmitruksergey"
+    },
+    {
+      "name": "octopus-vue",
+      "descriptions": "Front-end structure basic on vue",
+      "keyword": [
+        "web",
+        "vue",
+        "spa",
+        "front-end"
+      ],
+      "author": "alienyu"
+    },
+    {
+      "name": "generator-underscores",
+      "descriptions": "Forked from zoerooney/yo-emi. Use Yeoman to generate a clean, Sass and Gulp-ready WordPress _s theme",
+      "keyword": [
+        "yeoman-generator",
+        "wordpress",
+        "theme",
+        "front-end",
+        "gulp",
+        "starter theme",
+        "_s",
+        "underscores"
+      ],
+      "author": "fainder"
+    },
+    {
+      "name": "generator-emi",
+      "descriptions": "Use Yeoman to generate a clean, Sass and Gulp-ready WordPress starter theme",
+      "keyword": [
+        "yeoman-generator",
+        "wordpress",
+        "theme",
+        "front-end",
+        "gulp",
+        "starter theme",
+        "emi"
+      ],
+      "author": "zoerooney"
+    },
+    {
+      "name": "generator-heavy-sails-angular",
+      "descriptions": "Yeoman generator for AngularJS for SailsJS server",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "angular",
+        "sails",
+        "sailsjs",
+        "sails-angular"
+      ],
+      "author": "heavyskyl"
+    },
+    {
+      "name": "front-end-dependency-inject",
+      "descriptions": "CLI tool for injecting CSS and JavaScript references into an html file",
+      "keyword": [
+        "front-end",
+        "dependency",
+        "reference",
+        "inject",
+        "css",
+        "js",
+        "javascript",
+        "index",
+        "index.html",
+        "style",
+        "script"
+      ],
+      "author": "rydahhh"
+    },
+    {
+      "name": "generator-webapp-heroku",
+      "descriptions": "Scaffold out a front-end web app",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "grunt",
+        "heroku"
+      ],
+      "author": "jmlivingston"
+    },
+    {
+      "name": "jetlag",
+      "descriptions": "A framework with focus in progressive web apps development",
+      "keyword": [
+        "jetlag",
+        "progressive web apps",
+        "framework",
+        "front-end",
+        "web",
+        "development"
+      ],
+      "author": "gustavomeloweb"
+    },
+    {
+      "name": "generator-webstarterkit",
+      "descriptions": "A front-end template that helps you build fast, modern mobile web apps.",
+      "keyword": [
+        "webstarterkit",
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "mobile"
+      ],
+      "author": "alexandesigner"
+    },
+    {
+      "name": "generator-pr0d",
+      "descriptions": "Yeoman generator for Single Page Application with Backbone framework, coffeescript, jade and stylus",
+      "keyword": [
+        "yeoman-generator",
+        "yeoman",
+        "generator",
+        "framework",
+        "bower",
+        "backbone",
+        "coffeescript",
+        "jade",
+        "stylus",
+        "requirejs",
+        "jquery",
+        "modernizr",
+        "front-end",
+        "seo",
+        "View more"
+      ],
+      "author": "hazart"
+    },
+    {
+      "name": "generator-angular2-eggs",
+      "descriptions": "Angular2, Angular Component Router, Bootstrap v4(alpha) and TingoDB(like MongoDB) with an Express server",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "bootstrap",
+        "jquery",
+        "grunt",
+        "angular2",
+        "express"
+      ],
+      "author": "albatrosary"
+    },
+    {
+      "name": "flog",
+      "descriptions": "Light-weight configurable front-end logger. CJS, AMD, script compatible",
+      "keyword": [
+        "front-end",
+        "client-side",
+        "browser",
+        "console.log",
+        "logger",
+        "logging"
+      ],
+      "author": "gillesruppert"
+    },
+    {
+      "name": "cortex-canary",
+      "descriptions": "Cortex is an npm-like package manager for browsers.",
+      "keyword": [
+        "cortex",
+        "commonjs",
+        "dev",
+        "development",
+        "package",
+        "manager",
+        "web",
+        "server",
+        "scaffold",
+        "front-end",
+        "browser"
+      ],
+      "author": "rhgb"
+    },
+    {
+      "name": "generator-webapp-scaffold",
+      "descriptions": "Web app scaffold project (https://trello.com/b/fE4GQ7gJ) which focuses on basic stages like folder structure, building tasks, preprocessing & so on. You can customize any step as you like.",
+      "keyword": [
+        "yeoman-generator",
+        "generator-webapp-scaffold",
+        "modern webapps",
+        "mobile webapp",
+        "desktop webapp",
+        "responsive webapp",
+        "scaffold",
+        "web",
+        "app",
+        "front-end",
+        "react.js",
+        "handlebars.js",
+        "ember.js",
+        "angular.js",
+        "View more"
+      ],
+      "author": "itonyyo"
+    },
+    {
+      "name": "generator-yawa",
+      "descriptions": "Scaffold out a front-end web app",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "groundwork",
+        "bootstrap",
+        "assemble"
+      ],
+      "author": "jparker"
+    },
+    {
+      "name": "mofron-comp-clktext",
+      "descriptions": "Click text component for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "generator-webapp-material",
+      "descriptions": "Scaffold out a front-end web app with bootstrap material design theme",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "grunt",
+        "material",
+        "design"
+      ],
+      "author": "snatera15"
+    },
+    {
+      "name": "mofron-event-hover",
+      "descriptions": "Hover event for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "gulp-gotohead",
+      "descriptions": "Put into the HEAD CSS or JavaScript codes.",
+      "keyword": [
+        "gulpplugin",
+        "performance",
+        "css",
+        "front-end"
+      ],
+      "author": "belchior"
+    },
+    {
+      "name": "fedoc",
+      "descriptions": "前端交互可行性报告模板，方便快速写文档",
+      "keyword": [
+        "front-end",
+        "technology",
+        "report",
+        "document",
+        "markdown"
+      ],
+      "author": "danielchan"
+    },
+    {
+      "name": "slush-backbone",
+      "descriptions": "Slush generator for Backbone.js web apps",
+      "keyword": [
+        "slushgenerator",
+        "web",
+        "app",
+        "front-end",
+        "mvc",
+        "backbone",
+        "gulp"
+      ],
+      "author": "jonkemp"
+    },
+    {
+      "name": "@outboxcraft/beauter",
+      "descriptions": "A simple framework for faster and beautiful responsive sites.",
+      "keyword": [
+        "framework",
+        "design",
+        "responsive",
+        "mobile",
+        "html",
+        "css",
+        "css3",
+        "front-end",
+        "html5",
+        "mobile-first"
+      ],
+      "author": "ramdeo.shubham"
+    },
+    {
+      "name": "mofron-effect-fade",
+      "descriptions": "Fade effect of mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "generator-sp2013",
+      "descriptions": "Yeoman generator for scaffolding out a SharePoint 2013 HTML Master & Page Layouts project",
+      "keyword": [
+        "yeoman-generator",
+        "sharepoint",
+        "sharepoint 2013",
+        "sp2013",
+        "front-end",
+        "HTML Master",
+        "HTML Page Layout",
+        "WebDavDeployment"
+      ],
+      "author": "kmees"
+    },
+    {
+      "name": "generator-angular-lazyload",
+      "descriptions": "Yeoman generator for AngularJS Lazyload using RequireJS",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "angular",
+        "requirejs",
+        "lazyload"
+      ],
+      "author": "truongld"
+    },
+    {
+      "name": "loco-cache",
+      "descriptions": "Cache data using browser session storage",
+      "keyword": [
+        "cache",
+        "session",
+        "storage",
+        "browser",
+        "front-end",
+        "web"
+      ],
+      "author": "johnfliu"
+    },
+    {
+      "name": "@chenfengyuan/vue-carousel",
+      "descriptions": "Carousel component for Vue.js.",
+      "keyword": [
+        "carousel",
+        "vue-component",
+        "component",
+        "vue",
+        "vue.js",
+        "front-end",
+        "web"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "bootstrap-with-rtl",
+      "descriptions": "Bootstrap framework with rtl",
+      "keyword": [
+        "rtl",
+        "bootstrap",
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "m6stafa"
+    },
+    {
+      "name": "generator-bootstrap4",
+      "descriptions": "Scaffold out a front-end Bootstrap 4 Web app",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "bootstrap",
+        "bootstrap 4",
+        "front-end",
+        "jquery",
+        "grunt"
+      ],
+      "author": "bassjobsen"
+    },
+    {
+      "name": "generator-angular-js",
+      "descriptions": "Yeoman generator for AngularJS",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+      ],
+      "author": "doboy"
+    },
+    {
+      "name": "generator-kitchensink",
+      "descriptions": "Yeoman generator for frontend development with everything but the kitchen sink (Assemble, grunt-webfont, autoprefixer, normalize.css, Susy, Breakpoint, Scut.). All optional.",
+      "keyword": [
+        "yeoman-generator",
+        "theme",
+        "front-end",
+        "assemble",
+        "webfont",
+        "autoprefixer",
+        "normalize",
+        "susy",
+        "breakpoint",
+        "scut"
+      ],
+      "author": "gmq"
+    },
+    {
+      "name": "flosight-ui",
+      "descriptions": "An open-source frontend for the Flosight API. The Flosight API provides you with a convenient, powerful and simple way to query and broadcast data on the florincoin network and build your own services with it.",
+      "keyword": [
+        "flosight",
+        "blockchain",
+        "blockexplorer",
+        "florincoin",
+        "flocore",
+        "front-end"
+      ],
+      "author": "ostlerdev"
+    },
+    {
+      "name": "generator-lazyangular",
+      "descriptions": "Yeoman Lazy Angular Generator",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "app",
+        "front-end",
+        "angular",
+        "gulp",
+        "lazy",
+        "yo",
+        "enterprise"
+      ],
+      "author": "stevenceuppens"
+    },
+    {
+      "name": "generator-angular-fullstack-grunt",
+      "descriptions": "Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node; forked from 3.0.0 to use the good old grunt, instead of gulp",
+      "keyword": [
+        "yeoman-generator",
+        "mean",
+        "mongodb",
+        "angularjs",
+        "express",
+        "scaffold",
+        "fullstack",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+      ],
+      "author": "jeffhongxiao"
+    },
+    {
+      "name": "ng-paginator",
+      "descriptions": "Angular 1 smart and easy to use pagination directive",
+      "keyword": [
+        "pagination",
+        "paginator",
+        "ng-pagination",
+        "ng-paginator",
+        "client",
+        "angular",
+        "angular component",
+        "front-end"
+      ],
+      "author": "vinhnghi223"
+    },
+    {
+      "name": "generator-angular-resources",
+      "descriptions": "Yeoman generator for AngularJS, forked by Rik Vermeer to generate CRUD over REST by using Restangular",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "angular",
+        "resources",
+        "restangular"
+      ],
+      "author": "rikvermeer"
+    },
+    {
+      "name": "mofron-event-clkfocus",
+      "descriptions": "Focus event for mofron component",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "suitup",
+      "descriptions": "SuitUp is a javascript OpenSource MVC framework that allows you to create sweet apps with less code that makes sense",
+      "keyword": [
+        "mvc",
+        "frontend",
+        "front-end",
+        "framework",
+        "handlebars",
+        "jquery",
+        "angular",
+        "ember",
+        "react"
+      ],
+      "author": "angrymadcat"
+    },
+    {
+      "name": "generator-zf-smacss",
+      "descriptions": "Yeoman generator that includes JQuery, Zurb Foundation Framework, Retina.js & Superscrollorama.js Managed by Bower. Also you can follow the SMACSS Style Guide.",
+      "keyword": [
+        "yeoman-generator",
+        "smacss",
+        "scaffold",
+        "fullstack",
+        "foundation",
+        "bower",
+        "front-end"
+      ],
+      "author": "horacio"
+    },
+    {
+      "name": "generator-simpleapp",
+      "descriptions": "Scaffold for simple web app with support of coffee and sass, livereload and autoprefixer",
+      "keyword": [
+        "yeoman-generator",
+        "front-end",
+        "coffeescript",
+        "sass",
+        "livereload",
+        "grunt"
+      ],
+      "author": "alchapone"
+    },
+    {
+      "name": "generator-html-scaffold",
+      "descriptions": "Scaffold out a basic front-end project",
+      "keyword": [
+        "yeoman-generator",
+        "front-end",
+        "modernizr",
+        "jquery",
+        "yo",
+        "bower",
+        "grunt",
+        "scaffolding"
+      ],
+      "author": "bassaddicted"
+    },
+    {
+      "name": "vertebral",
+      "descriptions": "Vertebral is a simple, responsive boilerplate to kickstart any responsive project.",
+      "keyword": [
+        "vertebral",
+        "css",
+        "sass",
+        "framework",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "web"
+      ],
+      "author": "jkernech"
+    },
+    {
+      "name": "generator-tsangular",
+      "descriptions": "Yeoman generator for AngularJS with TypeScript templates",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "typescript",
+        "angular",
+        "app"
+      ],
+      "author": "speedshifter"
+    },
+    {
+      "name": "generator-simple-static",
+      "descriptions": "Scaffold out a static web site",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "grunt",
+        "course-material"
+      ],
+      "author": "stentor"
+    },
+    {
+      "name": "mofron-comp-socialsignin",
+      "descriptions": "Social signin button for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "mzui",
+      "descriptions": "为移动端设计，基于 Flex 的 UI 框架。",
+      "keyword": [
+        "css",
+        "js",
+        "less",
+        "html5",
+        "responsive",
+        "front-end",
+        "framework",
+        "web",
+        "mobile",
+        "flexbox"
+      ],
+      "author": "catouse"
+    },
+    {
+      "name": "generator-sql-fullstack",
+      "descriptions": "Yeoman generator for creating SQL-EAN stack applications, using SQL(e.g. Postgres, MySQL, MariaDB, SQLite, MSSQL), Express, AngularJS, and Node",
+      "keyword": [
+        "yeoman-generator",
+        "pean",
+        "sean",
+        "mssql",
+        "mariadb",
+        "mariasql",
+        "sqlite",
+        "sqlite3",
+        "node-sqlite3",
+        "node-postgres",
+        "node-mariadb",
+        "node-mssql",
+        "sql",
+        "sql-fullstack",
+        "View more"
+      ],
+      "author": "tashrafy"
+    },
+    {
+      "name": "generator-angular-express",
+      "descriptions": "Yeoman generator for AngularJS + Express + PostgreSQL projects",
+      "keyword": [
+        "yeoman-generator",
+        "postresql",
+        "bookshelf",
+        "knex",
+        "angularjs",
+        "express",
+        "scaffold",
+        "fullstack",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+      ],
+      "author": "mfcalvanese"
+    },
+    {
+      "name": "gaintime",
+      "descriptions": "GainTime é um framework de HTML, CSS e JS para desenvolvimento de projetos responsivos, focado na simplicidade.",
+      "keyword": [
+        "css",
+        "js",
+        "sass",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "jprodrigues70"
+    },
+    {
+      "name": "wobile",
+      "descriptions": "A command line utility for deploying front-end applications",
+      "keyword": [
+        "deploy",
+        "cloud",
+        "web",
+        "front-end",
+        "publish"
+      ],
+      "author": "mofadlalla"
+    },
+    {
+      "name": "watch-server",
+      "descriptions": "Simple development http server with live reload capability",
+      "keyword": [
+        "front-end",
+        "development",
+        "tool",
+        "server",
+        "http",
+        "cli"
+      ],
+      "author": "sebfindling"
+    },
+    {
+      "name": "mmm-cookies",
+      "descriptions": "A JavaScript module to set and get cookies in the browser.",
+      "keyword": [
+        "cookies",
+        "cookie",
+        "browser",
+        "javascript",
+        "front-end",
+        "browserify",
+        "module"
+      ],
+      "author": "ryanburgess"
+    },
+    {
+      "name": "generator-distilled",
+      "descriptions": "Scaffold an interactive data-vis. Forked from generator-webapp, but with custom features for common Distilled workflows.",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "grunt"
+      ],
+      "author": "richardwestenra"
+    },
+    {
+      "name": "cube.css",
+      "descriptions": "Cube CSS framework",
+      "keyword": [
+        "css",
+        "sass",
+        "framework",
+        "front-end"
+      ],
+      "author": "yisi"
+    },
+    {
+      "name": "aliyunoss-webpack-plugin",
+      "descriptions": "When build ,it can auto update static resources to aliyun oss",
+      "keyword": [
+        "front-end",
+        "web",
+        "webpack",
+        "plugin",
+        "building tool",
+        "aliyun",
+        "oss"
+      ],
+      "author": "iamhades"
+    },
+    {
+      "name": "generator-web-initium",
+      "descriptions": "A yeoman generator that will help you bootstrap your webapp with gulp.",
+      "keyword": [
+        "yeoman-generator",
+        "front-end",
+        "web",
+        "gulp",
+        "boilerplate",
+        "starters"
+      ],
+      "author": "chrisvanmook"
+    },
+    {
+      "name": "generator-webapp-rjs",
+      "descriptions": "Scaffold out a front-end web app",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "jquery",
+        "grunt",
+        "requirejs"
+      ],
+      "author": "popox"
+    },
+    {
+      "name": "frontier",
+      "descriptions": "Front-end developer tools",
+      "keyword": [
+        "front-end",
+        "web",
+        "tools"
+      ],
+      "author": "eprev"
+    },
+    {
+      "name": "generator-gulp-ng-fast",
+      "descriptions": "Yeoman generator for gulp+angular+coffee+less+jade",
+      "keyword": [
+        "yeoman-generator",
+        "gulp",
+        "angular",
+        "web",
+        "app",
+        "front-end",
+        "coffee",
+        "less",
+        "jade",
+        "karma"
+      ],
+      "author": "rchampourlier"
+    },
+    {
+      "name": "yeoman-startr",
+      "descriptions": "A Yeoman generator which creates scaffolds for web-applications.",
+      "keyword": [
+        "front-end",
+        "development",
+        "scaffold",
+        "html",
+        "sass",
+        "startr",
+        "yeoman",
+        "generator"
+      ],
+      "author": "hnrch02"
+    },
+    {
+      "name": "bootstrap-v4-dev-rtl",
+      "descriptions": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+      "keyword": [
+        "rtl",
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "p3ym4n"
+    },
+    {
+      "name": "generator-pebble",
+      "descriptions": "PebbleStack generator for entities.",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "mean",
+        "meanjs",
+        "node",
+        "express",
+        "angular"
+      ],
+      "author": "arkeologen"
+    },
+    {
+      "name": "generator-grt",
+      "descriptions": "Opinionated generator for Angular apps",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "framework",
+        "component",
+        "front-end",
+        "web",
+        "app",
+        "angular",
+        "angular-route",
+        "lodash",
+        "bootstrap",
+        "jquery",
+        "jasmine",
+        "karma"
+      ],
+      "author": "ohall"
+    },
+    {
+      "name": "vaseline",
+      "descriptions": "A very simple canvas-based slider",
+      "keyword": [
+        "slider",
+        "front-end",
+        "canvas"
+      ],
+      "author": "xananax"
+    },
+    {
+      "name": "pre-proc",
+      "descriptions": "The super simple preprocessor for front-end development.",
+      "keyword": [
+        "preprocessor",
+        "preprocess",
+        "front-end",
+        "javascript",
+        "css",
+        "html"
+      ],
+      "author": "anseki"
+    },
+    {
+      "name": "mofron-layout-relative",
+      "descriptions": "Relative layout for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "generator-marionette-advanced-app",
+      "descriptions": "Yeoman Marionette generator for advanced and scalable apps using RequireJS, Underscore Templates and Backbone.Syphon",
+      "keyword": [
+        "yeoman-generator",
+        "marionette",
+        "backbone",
+        "front-end",
+        "app"
+      ],
+      "author": "comoser"
+    },
+    {
+      "name": "generator-bakerify",
+      "descriptions": "Scaffold out a front-end web app with bake and browserify",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "h5bp",
+        "modernizr",
+        "grunt",
+        "bake",
+        "browserify",
+        "sass"
+      ],
+      "author": "peterlarkin"
+    },
+    {
+      "name": "generator-yarr",
+      "descriptions": "Yeoman generator for Yarrr",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "express",
+        "realtime",
+        "fullstack",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+      ],
+      "author": "lvbreda"
+    },
+    {
+      "name": "nigma-ui",
+      "descriptions": "UI Library based on progressive enhancement",
+      "keyword": [
+        "nigma",
+        "ui",
+        "front-end",
+        "web",
+        "development"
+      ],
+      "author": "gustavomeloweb"
+    },
+    {
+      "name": "mofron-comp-split",
+      "descriptions": "Split component for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "light-responsive-js",
+      "descriptions": "The Light Responsive JS is a lightweight web responsive library written by JavaScript. It is easy to use and configure. Just call once and add the responsive configurations via the convention attributes and then call the responsive.",
+      "keyword": [
+        "responsive",
+        "javascript",
+        "front-end",
+        "css"
+      ],
+      "author": "phatly27"
+    },
+    {
+      "name": "@universal-material/core",
+      "descriptions": "``` npm i @universal-material/core ```",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web",
+        "android",
+        "ios",
+        "uwp",
+        "material",
+        "design"
+      ],
+      "author": "universal-material"
+    },
+    {
+      "name": "jtux",
+      "descriptions": "Forked from the most popular front-end framework for developing responsive, mobile first projects on the web, AKA Bootstrap.",
+      "keyword": [
+        "css",
+        "less",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "nickyrasch"
+    },
+    {
+      "name": "bonaparte-scroll",
+      "descriptions": "Bonaparte Component",
+      "keyword": [
+        "bonaparte",
+        "bonaparte-component",
+        "ux",
+        "ui",
+        "library",
+        "framework",
+        "webcomponents",
+        "component",
+        "front-end",
+        "scrolling"
+      ],
+      "author": "greenish"
+    },
+    {
+      "name": "fend",
+      "descriptions": "Fend - A JavaScript next generation web application framework for front-end",
+      "keyword": [
+        "web",
+        "isomoriphic",
+        "front-end",
+        "framework"
+      ],
+      "author": "kazupon"
+    },
+    {
+      "name": "react-antd-bootstrap",
+      "descriptions": "React antd window.",
+      "keyword": [
+        "web",
+        "react",
+        "react-component",
+        "antd",
+        "window",
+        "modal",
+        "dialog",
+        "front-end"
+      ],
+      "author": "zhbhun"
+    },
+    {
+      "name": "generator-angular-juice",
+      "descriptions": "Yeoman generator for AngularJS with Express server",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "express",
+        "stylus",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+      ],
+      "author": "andrewkshim"
+    },
+    {
+      "name": "generator-meliapp",
+      "descriptions": "Scaffold a meli front-end web app",
+      "keyword": [
+        "yeoman-generator",
+        "front-end",
+        "chico",
+        "ui",
+        "mesh"
+      ],
+      "author": "mercadolibre"
+    },
+    {
+      "name": "generator-es6-webapp",
+      "descriptions": "Scaffold out a front-end web app",
+      "keyword": [
+        "yeoman-generator",
+        "web",
+        "app",
+        "front-end",
+        "modernizr",
+        "ES6",
+        "gulp"
+      ],
+      "author": "danielstern"
+    },
+    {
+      "name": "sass-basis",
+      "descriptions": "A lightweight responsive Sass/CSS framework based on flexible box.",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "inc2734"
+    },
+    {
+      "name": "generator-dcx",
+      "descriptions": "Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node",
+      "keyword": [
+        "yeoman-generator",
+        "mean",
+        "mongodb",
+        "angularjs",
+        "express",
+        "scaffold",
+        "fullstack",
+        "framework",
+        "component",
+        "front-end",
+        "app",
+        "less",
+        "bootstrap",
+        "passport"
+      ],
+      "author": "juliajacobs"
+    },
+    {
+      "name": "mofron-effect-syncwid",
+      "descriptions": "Synchronization width effect for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "bonaparte-button",
+      "descriptions": "Bonaparte Component",
+      "keyword": [
+        "bonaparte",
+        "bonaparte-component",
+        "ux",
+        "ui",
+        "library",
+        "framework",
+        "webcomponents",
+        "component",
+        "front-end"
+      ],
+      "author": "greenish"
+    },
+    {
+      "name": "generator-ngfs",
+      "descriptions": "Yeoman generator for creating MEAN stack applications, using MongoDB, Express, AngularJS, and Node",
+      "keyword": [
+        "yeoman-generator",
+        "mean",
+        "mongodb",
+        "angularjs",
+        "express",
+        "scaffold",
+        "fullstack",
+        "framework",
+        "component",
+        "front-end",
+        "app"
+      ],
+      "author": "csharon"
+    },
+    {
+      "name": "codyhouse-framework",
+      "descriptions": "A lightweight front-end framework for building accessible, bespoke interfaces.",
+      "keyword": [
+        "scss",
+        "css",
+        "framework",
+        "design-system",
+        "html",
+        "front-end",
+        "buttons",
+        "colors",
+        "forms",
+        "grid",
+        "mixins",
+        "spacing",
+        "typography",
+        "codyhouse"
+      ],
+      "author": "codyhouse"
+    },
+    {
+      "name": "bonaparte-dropdown",
+      "descriptions": "Bonaparte Component",
+      "keyword": [
+        "bonaparte",
+        "bonaparte-component",
+        "ux",
+        "ui",
+        "library",
+        "framework",
+        "webcomponents",
+        "component",
+        "front-end"
+      ],
+      "author": "greenish"
+    },
+    {
+      "name": "gix-pattern-lab-live-server",
+      "descriptions": "Simple development http server with live reload capability",
+      "keyword": [
+        "front-end",
+        "development",
+        "tool",
+        "server",
+        "http",
+        "cli"
+      ],
+      "author": "jgi"
+    },
+    {
+      "name": "infuse.host",
+      "descriptions": "Infuse your HTML with dynamic content.",
+      "keyword": [
+        "infuse",
+        "HTML",
+        "template",
+        "templating",
+        "engine",
+        "template-engine",
+        "custom-elements",
+        "customized-built-in-elements",
+        "custom-tags",
+        "web-components",
+        "shadow-dom",
+        "data-binding",
+        "framework",
+        "frontend",
+        "View more"
+      ],
+      "author": "serg.io"
+    },
+    {
+      "name": "mofron-event-oncommon",
+      "descriptions": "Common event about onX for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "bonaparte-draggable",
+      "descriptions": "Bonaparte Component",
+      "keyword": [
+        "bonaparte",
+        "bonaparte-component",
+        "ux",
+        "ui",
+        "library",
+        "framework",
+        "webcomponents",
+        "component",
+        "front-end"
+      ],
+      "author": "greenish"
+    },
+    {
+      "name": "clientside-view-button",
+      "descriptions": "A button module made to plug into the browser using the clientside-view-loader module; simple to use and highly customizable.",
+      "keyword": [
+        "browser",
+        "clientside",
+        "client-side",
+        "frontend",
+        "front-end",
+        "view",
+        "views",
+        "html",
+        "css",
+        "clientside-require",
+        "clientside-view-loader",
+        "view-loader",
+        "button",
+        "input"
+      ],
+      "author": "uladkasach"
+    },
+    {
+      "name": "@chenfengyuan/vue-barcode",
+      "descriptions": "Bar code component for Vue.js.",
+      "keyword": [
+        "barcode",
+        "bar code",
+        "vue-component",
+        "html",
+        "css",
+        "javascript",
+        "front-end",
+        "web"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "bonaparte-collapsible",
+      "descriptions": "Bonaparte Component",
+      "keyword": [
+        "bonaparte",
+        "bonaparte-component",
+        "ux",
+        "ui",
+        "library",
+        "framework",
+        "webcomponents",
+        "component",
+        "front-end"
+      ],
+      "author": "greenish"
+    },
+    {
+      "name": "valenski",
+      "descriptions": "A lightweight set of SASS mixins, classes, resets and values that simplify your workflow.",
+      "keyword": [
+        "css",
+        "scss",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "web"
+      ],
+      "author": "hay"
+    },
+    {
+      "name": "matrixbitcore-insight-ui",
+      "descriptions": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the MatrixBit network and build your own services with it.",
+      "keyword": [
+        "insight",
+        "blockchain",
+        "blockexplorer",
+        "matrixbit",
+        "matrixbitcore",
+        "front-end"
+      ],
+      "author": "matrix-pay"
+    },
+    {
+      "name": "bootstrap-jquery",
+      "descriptions": "Bootstrap which includes a require for jquery.",
+      "keyword": [
+        "css",
+        "less",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "samipussinen"
+    },
+    {
+      "name": "@awly/marko",
+      "descriptions": "UI Components + streaming, async, high performance, HTML templating for Node.js and the browser.",
+      "keyword": [
+        "front-end",
+        "templating",
+        "template",
+        "async",
+        "streaming",
+        "components",
+        "ui",
+        "vdom",
+        "dom",
+        "morphdom",
+        "virtual",
+        "virtual-dom"
+      ],
+      "author": "sirceljm"
+    },
+    {
+      "name": "fourdollar.tostringquery",
+      "descriptions": "Url형식 get 방식의 query 객체를 string형으로 변환",
+      "keyword": [
+        "node",
+        "front-end",
+        "library"
+      ],
+      "author": "bynaki"
+    },
+    {
+      "name": "insight-pcx-ui",
+      "descriptions": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the pcxcoin network and build your own services with it.",
+      "keyword": [
+        "insight",
+        "blockchain",
+        "blockexplorer",
+        "pcxcoin",
+        "pcxcore",
+        "front-end"
+      ],
+      "author": "pcxcoin"
+    },
+    {
+      "name": "@ciffi-js/design-token",
+      "descriptions": "It generates scss file with variables from design token json file",
+      "keyword": [
+        "ciffi",
+        "ciffi-js",
+        "javascript",
+        "front-end",
+        "development",
+        "web",
+        "module",
+        "javascript utility",
+        "javascript builder",
+        "json",
+        "scss",
+        "design token",
+        "json to scss"
+      ],
+      "author": "ciffi"
+    },
+    {
+      "name": "mofron-effect-orderview",
+      "descriptions": "Order view component effect",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "fourdollar.filewriter",
+      "descriptions": "File stream log 지원",
+      "keyword": [
+        "node",
+        "front-end",
+        "library"
+      ],
+      "author": "bynaki"
+    },
+    {
+      "name": "aemfed",
+      "descriptions": "Upload front-end changes into AEM, refresh relevant resources in the page and get instant notifications from the error.log, all for easier and faster development.",
+      "keyword": [
+        "aem",
+        "adobe",
+        "aemsync",
+        "browsersync",
+        "browser sync",
+        "livereload",
+        "live reload",
+        "watch",
+        "inject",
+        "sync",
+        "frontend",
+        "front-end",
+        "front end"
+      ],
+      "author": "abmaonline"
+    },
+    {
+      "name": "mofron-comp-form",
+      "descriptions": "Form Component for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
+    },
+    {
+      "name": "mofron-effect-style",
+      "descriptions": "Style effect for mofron",
+      "keyword": [
+        "front-end"
+      ],
+      "author": "simparts"
     }
   ]
 }

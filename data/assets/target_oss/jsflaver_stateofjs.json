@@ -1,0 +1,278 @@
+[
+  {
+    "id": "typescript",
+    "awareness": [
+      {
+        "year": 2016,
+        "rank": 1,
+        "percentage": 97.3
+      },
+      {
+        "year": 2017,
+        "rank": 1,
+        "percentage": 98.5
+      },
+      {
+        "year": 2018,
+        "rank": 1,
+        "percentage": 99.6
+      },
+      {
+        "year": 2019,
+        "rank": 1,
+        "percentage": 99.7
+      }
+    ],
+    "interest": [
+      {
+        "year": 2016,
+        "rank": 2,
+        "percentage": 53.4
+      },
+      {
+        "year": 2017,
+        "rank": 1,
+        "percentage": 62.8
+      },
+      {
+        "year": 2018,
+        "rank": 1,
+        "percentage": 71.1
+      },
+      {
+        "year": 2019,
+        "rank": 1,
+        "percentage": 65.6
+      }
+    ],
+    "satisfaction": [
+      {
+        "year": 2016,
+        "rank": 2,
+        "percentage": 83
+      },
+      {
+        "year": 2017,
+        "rank": 1,
+        "percentage": 85.3
+      },
+      {
+        "year": 2018,
+        "rank": 1,
+        "percentage": 89.6
+      },
+      {
+        "year": 2019,
+        "rank": 1,
+        "percentage": 88.9
+      }
+    ]
+  },
+  {
+    "id": "reason",
+    "awareness": [
+      {
+        "year": 2016,
+        "rank": null,
+        "percentage": null
+      },
+      {
+        "year": 2017,
+        "rank": 4,
+        "percentage": 22.3
+      },
+      {
+        "year": 2018,
+        "rank": 4,
+        "percentage": 48.3
+      },
+      {
+        "year": 2019,
+        "rank": 4,
+        "percentage": 47.9
+      }
+    ],
+    "interest": [
+      {
+        "year": 2016,
+        "rank": null,
+        "percentage": null
+      },
+      {
+        "year": 2017,
+        "rank": 3,
+        "percentage": 46.4
+      },
+      {
+        "year": 2018,
+        "rank": 2,
+        "percentage": 53.1
+      },
+      {
+        "year": 2019,
+        "rank": 2,
+        "percentage": 42.8
+      }
+    ],
+    "satisfaction": [
+      {
+        "year": 2016,
+        "rank": null,
+        "percentage": null
+      },
+      {
+        "year": 2017,
+        "rank": 3,
+        "percentage": 69.7
+      },
+      {
+        "year": 2018,
+        "rank": 2,
+        "percentage": 86.7
+      },
+      {
+        "year": 2019,
+        "rank": 2,
+        "percentage": 78.8
+      }
+    ]
+  },
+  {
+    "id": "elm",
+    "awareness": [
+      {
+        "year": 2016,
+        "rank": 3,
+        "percentage": 60.6
+      },
+      {
+        "year": 2017,
+        "rank": 3,
+        "percentage": 69.7
+      },
+      {
+        "year": 2018,
+        "rank": 2,
+        "percentage": 78.5
+      },
+      {
+        "year": 2019,
+        "rank": 2,
+        "percentage": 72.5
+      }
+    ],
+    "interest": [
+      {
+        "year": 2016,
+        "rank": 1,
+        "percentage": 57.5
+      },
+      {
+        "year": 2017,
+        "rank": 2,
+        "percentage": 52.9
+      },
+      {
+        "year": 2018,
+        "rank": 3,
+        "percentage": 41.2
+      },
+      {
+        "year": 2019,
+        "rank": 3,
+        "percentage": 36.5
+      }
+    ],
+    "satisfaction": [
+      {
+        "year": 2016,
+        "rank": 1,
+        "percentage": 83.6
+      },
+      {
+        "year": 2017,
+        "rank": 2,
+        "percentage": 80.8
+      },
+      {
+        "year": 2018,
+        "rank": 3,
+        "percentage": 73.4
+      },
+      {
+        "year": 2019,
+        "rank": 3,
+        "percentage": 71.7
+      }
+    ]
+  },
+  {
+    "id": "purescript",
+    "awareness": [
+      {
+        "year": 2016,
+        "rank": null,
+        "percentage": null
+      },
+      {
+        "year": 2017,
+        "rank": null,
+        "percentage": null
+      },
+      {
+        "year": 2018,
+        "rank": null,
+        "percentage": null
+      },
+      {
+        "year": 2019,
+        "rank": 5,
+        "percentage": 42.3
+      }
+    ],
+    "interest": [
+      {
+        "year": 2016,
+        "rank": null,
+        "percentage": null
+      },
+      {
+        "year": 2017,
+        "rank": null,
+        "percentage": null
+      },
+      {
+        "year": 2018,
+        "rank": null,
+        "percentage": null
+      },
+      {
+        "year": 2019,
+        "rank": 4,
+        "percentage": 24
+      }
+    ],
+    "satisfaction": [
+      {
+        "year": 2016,
+        "rank": null,
+        "percentage": null
+      },
+      {
+        "year": 2017,
+        "rank": null,
+        "percentage": null
+      },
+      {
+        "year": 2018,
+        "rank": null,
+        "percentage": null
+      },
+      {
+        "year": 2019,
+        "rank": 4,
+        "percentage": 69.8
+      }
+    ]
+  }
+]

@@ -1,0 +1,6357 @@
+{
+  "keyword": "cli",
+  "packages": [
+    {
+      "name": "chalk",
+      "descriptions": "Terminal string styling done right",
+      "keyword": [
+        "color",
+        "colour",
+        "colors",
+        "terminal",
+        "console",
+        "cli",
+        "string",
+        "str",
+        "ansi",
+        "style",
+        "styles",
+        "tty",
+        "formatting",
+        "rgb",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "yargs",
+      "descriptions": "Yargs the modern, pirate-themed, successor to optimist.",
+      "keyword": [
+        "argument",
+        "args",
+        "option",
+        "parser",
+        "parsing",
+        "cli",
+        "command"
+      ],
+      "author": "bcoe"
+    },
+    {
+      "name": "inquirer",
+      "descriptions": "A collection of common interactive command line user interfaces.",
+      "keyword": [
+        "command",
+        "prompt",
+        "stdin",
+        "cli",
+        "tty",
+        "menu"
+      ],
+      "author": "sboudrias"
+    },
+    {
+      "name": "uglify-js",
+      "descriptions": "JavaScript parser, mangler/compressor and beautifier toolkit",
+      "keyword": [
+        "cli",
+        "compress",
+        "compressor",
+        "ecma",
+        "ecmascript",
+        "es",
+        "es5",
+        "javascript",
+        "js",
+        "jsmin",
+        "min",
+        "minification",
+        "minifier",
+        "minify",
+        "View more"
+      ],
+      "author": "alexlamsl"
+    },
+    {
+      "name": "optimist",
+      "descriptions": "Light-weight option parsing with an argv hash. No optstrings attached.",
+      "keyword": [
+        "argument",
+        "args",
+        "option",
+        "parser",
+        "parsing",
+        "cli",
+        "command"
+      ],
+      "author": "substack"
+    },
+    {
+      "name": "meow",
+      "descriptions": "CLI app helper",
+      "keyword": [
+        "cli",
+        "bin",
+        "util",
+        "utility",
+        "helper",
+        "argv",
+        "command",
+        "line",
+        "meow",
+        "cat",
+        "kitten",
+        "parser",
+        "option",
+        "flags",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "ora",
+      "descriptions": "Elegant terminal spinner",
+      "keyword": [
+        "cli",
+        "spinner",
+        "spinners",
+        "terminal",
+        "term",
+        "console",
+        "ascii",
+        "unicode",
+        "loading",
+        "indicator",
+        "progress",
+        "busy",
+        "wait",
+        "idle"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "progress",
+      "descriptions": "Flexible ascii progress bar",
+      "keyword": [
+        "cli",
+        "progress"
+      ],
+      "author": "turbopope"
+    },
+    {
+      "name": "update-notifier",
+      "descriptions": "Update notifications for your CLI app",
+      "keyword": [
+        "npm",
+        "update",
+        "updater",
+        "notify",
+        "notifier",
+        "check",
+        "checker",
+        "cli",
+        "module",
+        "package",
+        "version"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "log-symbols",
+      "descriptions": "Colored symbols for various log levels. Example: `✔︎ Success`",
+      "keyword": [
+        "unicode",
+        "cli",
+        "cmd",
+        "command-line",
+        "characters",
+        "symbol",
+        "symbols",
+        "figure",
+        "figures",
+        "fallback",
+        "windows",
+        "log",
+        "logging",
+        "terminal"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "supports-color",
+      "descriptions": "Detect whether a terminal supports color",
+      "keyword": [
+        "color",
+        "colour",
+        "colors",
+        "terminal",
+        "console",
+        "cli",
+        "ansi",
+        "styles",
+        "tty",
+        "rgb",
+        "256",
+        "shell",
+        "xterm",
+        "command-line",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "html-minifier",
+      "descriptions": "Highly configurable, well-tested, JavaScript-based HTML minifier.",
+      "keyword": [
+        "cli",
+        "compress",
+        "compressor",
+        "css",
+        "html",
+        "htmlmin",
+        "javascript",
+        "min",
+        "minification",
+        "minifier",
+        "minify",
+        "optimize",
+        "optimizer",
+        "pack",
+        "View more"
+      ],
+      "author": "alexlamsl"
+    },
+    {
+      "name": "yargs-parser",
+      "descriptions": "The mighty option parser used by yargs",
+      "keyword": [
+        "argument",
+        "parser",
+        "yargs",
+        "command",
+        "cli",
+        "parsing",
+        "option",
+        "args"
+      ],
+      "author": "bcoe"
+    },
+    {
+      "name": "argparse",
+      "descriptions": "Very powerful CLI arguments parser. Native port of argparse - python's options parsing library",
+      "keyword": [
+        "cli",
+        "parser",
+        "argparse",
+        "option",
+        "args"
+      ],
+      "author": "vitaly"
+    },
+    {
+      "name": "figures",
+      "descriptions": "Unicode symbols with Windows CMD fallbacks",
+      "keyword": [
+        "unicode",
+        "cli",
+        "cmd",
+        "command-line",
+        "characters",
+        "symbol",
+        "symbols",
+        "figure",
+        "figures",
+        "fallback"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "tslint",
+      "descriptions": "An extensible static analysis linter for the TypeScript language",
+      "keyword": [
+        "cli",
+        "typescript",
+        "linter"
+      ],
+      "author": "palantir"
+    },
+    {
+      "name": "ansi-styles",
+      "descriptions": "ANSI escape codes for styling strings in the terminal",
+      "keyword": [
+        "ansi",
+        "styles",
+        "color",
+        "colour",
+        "colors",
+        "terminal",
+        "console",
+        "cli",
+        "string",
+        "tty",
+        "escape",
+        "formatting",
+        "rgb",
+        "256",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "ansi-regex",
+      "descriptions": "Regular expression for matching ANSI escape codes",
+      "keyword": [
+        "ansi",
+        "styles",
+        "color",
+        "colour",
+        "colors",
+        "terminal",
+        "console",
+        "cli",
+        "string",
+        "tty",
+        "escape",
+        "formatting",
+        "rgb",
+        "256",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "string-width",
+      "descriptions": "Get the visual width of a string - the number of columns required to display it",
+      "keyword": [
+        "string",
+        "character",
+        "unicode",
+        "width",
+        "visual",
+        "column",
+        "columns",
+        "fullwidth",
+        "full-width",
+        "full",
+        "ansi",
+        "escape",
+        "codes",
+        "cli",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "cliui",
+      "descriptions": "Easily create complex multi-column command-line-interfaces",
+      "keyword": [
+        "cli",
+        "command-line",
+        "layout",
+        "design",
+        "console",
+        "wrap",
+        "table"
+      ],
+      "author": "bcoe"
+    },
+    {
+      "name": "ansi-escapes",
+      "descriptions": "ANSI escape codes for manipulating the terminal",
+      "keyword": [
+        "ansi",
+        "terminal",
+        "console",
+        "cli",
+        "string",
+        "tty",
+        "escape",
+        "escapes",
+        "formatting",
+        "shell",
+        "xterm",
+        "log",
+        "logging",
+        "command-line",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "ncp",
+      "descriptions": "Asynchronous recursive file copy utility.",
+      "keyword": [
+        "cli",
+        "copy"
+      ],
+      "author": "mmalecki"
+    },
+    {
+      "name": "grunt",
+      "descriptions": "The JavaScript Task Runner",
+      "keyword": [
+        "task",
+        "async",
+        "cli",
+        "minify",
+        "uglify",
+        "build",
+        "lodash",
+        "unit",
+        "test",
+        "qunit",
+        "nodeunit",
+        "server",
+        "init",
+        "scaffold",
+        "View more"
+      ],
+      "author": "vladikoff"
+    },
+    {
+      "name": "boxen",
+      "descriptions": "Create boxes in the terminal",
+      "keyword": [
+        "cli",
+        "box",
+        "boxes",
+        "terminal",
+        "term",
+        "console",
+        "ascii",
+        "unicode",
+        "border",
+        "text"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "webpack-cli",
+      "descriptions": "CLI for webpack & friends",
+      "keyword": [
+        "webpack",
+        "cli",
+        "scaffolding",
+        "module",
+        "bundler",
+        "web"
+      ],
+      "author": "ev1stensberg"
+    },
+    {
+      "name": "wrap-ansi",
+      "descriptions": "Wordwrap a string with ANSI escape codes",
+      "keyword": [
+        "wrap",
+        "break",
+        "wordwrap",
+        "wordbreak",
+        "linewrap",
+        "ansi",
+        "styles",
+        "color",
+        "colour",
+        "colors",
+        "terminal",
+        "console",
+        "cli",
+        "string",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "dashdash",
+      "descriptions": "A light, featureful and explicit option parsing library.",
+      "keyword": [
+        "option",
+        "parser",
+        "parsing",
+        "cli",
+        "command",
+        "args",
+        "bash",
+        "completion"
+      ],
+      "author": "trentm"
+    },
+    {
+      "name": "log-update",
+      "descriptions": "Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.",
+      "keyword": [
+        "log",
+        "logger",
+        "logging",
+        "cli",
+        "terminal",
+        "term",
+        "console",
+        "shell",
+        "update",
+        "refresh",
+        "overwrite",
+        "output",
+        "stdout",
+        "progress",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "listr",
+      "descriptions": "Terminal task list",
+      "keyword": [
+        "cli",
+        "task",
+        "list",
+        "tasklist",
+        "terminal",
+        "term",
+        "console",
+        "ascii",
+        "unicode",
+        "loading",
+        "indicator",
+        "progress",
+        "busy",
+        "wait"
+      ],
+      "author": "samverschueren"
+    },
+    {
+      "name": "prompts",
+      "descriptions": "Lightweight, beautiful and user-friendly prompts",
+      "keyword": [
+        "ui",
+        "prompts",
+        "cli",
+        "prompt",
+        "interface",
+        "command-line",
+        "input",
+        "command",
+        "stdin",
+        "menu",
+        "ask",
+        "interact"
+      ],
+      "author": "terkelg"
+    },
+    {
+      "name": "cli-table",
+      "descriptions": "Pretty unicode tables for the CLI",
+      "keyword": [
+        "cli",
+        "colors",
+        "table"
+      ],
+      "author": "rauchg"
+    },
+    {
+      "name": "has-flag",
+      "descriptions": "Check if argv has a specific flag",
+      "keyword": [
+        "has",
+        "check",
+        "detect",
+        "contains",
+        "find",
+        "flag",
+        "cli",
+        "command-line",
+        "argv",
+        "process",
+        "arg",
+        "args",
+        "argument",
+        "arguments",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "cli-cursor",
+      "descriptions": "Toggle the CLI cursor",
+      "keyword": [
+        "cli",
+        "cursor",
+        "ansi",
+        "toggle",
+        "display",
+        "show",
+        "hide",
+        "term",
+        "terminal",
+        "console",
+        "tty",
+        "shell",
+        "command-line"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "optionator",
+      "descriptions": "Option parsing and help generation",
+      "keyword": [
+        "options",
+        "flags",
+        "option parsing",
+        "cli"
+      ],
+      "author": "gkz"
+    },
+    {
+      "name": "pm2",
+      "descriptions": "Production process manager for Node.JS applications with a built-in load balancer.",
+      "keyword": [
+        "cli",
+        "fault tolerant",
+        "sysadmin",
+        "tools",
+        "pm2",
+        "logs",
+        "log",
+        "json",
+        "express",
+        "hapi",
+        "kraken",
+        "reload",
+        "load balancer",
+        "lb",
+        "View more"
+      ],
+      "author": "tknew"
+    },
+    {
+      "name": "npm-run-all",
+      "descriptions": "A CLI tool to run multiple npm-scripts in parallel or sequential.",
+      "keyword": [
+        "cli",
+        "command",
+        "commandline",
+        "tool",
+        "npm",
+        "npm-scripts",
+        "run",
+        "sequential",
+        "serial",
+        "parallel",
+        "task"
+      ],
+      "author": "mysticatea"
+    },
+    {
+      "name": "cli-color",
+      "descriptions": "Colors, formatting and other tools for the console",
+      "keyword": [
+        "ansi",
+        "color",
+        "console",
+        "terminal",
+        "cli",
+        "shell",
+        "log",
+        "logging",
+        "xterm"
+      ],
+      "author": "medikoo"
+    },
+    {
+      "name": "har-validator",
+      "descriptions": "Extremely fast HTTP Archive (HAR) validator using JSON Schema",
+      "keyword": [
+        "har",
+        "cli",
+        "ajv",
+        "http",
+        "archive",
+        "validate",
+        "validator"
+      ],
+      "author": "ahmadnassri"
+    },
+    {
+      "name": "npm-run-path",
+      "descriptions": "Get your PATH prepended with locally installed binaries",
+      "keyword": [
+        "npm",
+        "run",
+        "path",
+        "package",
+        "bin",
+        "binary",
+        "binaries",
+        "script",
+        "cli",
+        "command-line",
+        "execute",
+        "executable"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "cli-spinners",
+      "descriptions": "Spinners for use in the terminal",
+      "keyword": [
+        "cli",
+        "spinner",
+        "spinners",
+        "terminal",
+        "term",
+        "console",
+        "ascii",
+        "unicode",
+        "loading",
+        "indicator",
+        "progress",
+        "busy",
+        "wait",
+        "idle"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "slice-ansi",
+      "descriptions": "Slice a string with ANSI escape codes",
+      "keyword": [
+        "slice",
+        "string",
+        "ansi",
+        "styles",
+        "color",
+        "colour",
+        "colors",
+        "terminal",
+        "console",
+        "cli",
+        "tty",
+        "escape",
+        "formatting",
+        "rgb",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "import-local",
+      "descriptions": "Let a globally installed package use a locally installed version of itself if available",
+      "keyword": [
+        "import",
+        "local",
+        "require",
+        "resolve",
+        "global",
+        "version",
+        "prefer",
+        "cli"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "http-server",
+      "descriptions": "A simple zero-configuration command-line http server",
+      "keyword": [
+        "cli",
+        "command",
+        "http",
+        "server"
+      ],
+      "author": "thornjad"
+    },
+    {
+      "name": "restore-cursor",
+      "descriptions": "Gracefully restore the CLI cursor on exit",
+      "keyword": [
+        "exit",
+        "quit",
+        "process",
+        "graceful",
+        "shutdown",
+        "sigterm",
+        "sigint",
+        "terminate",
+        "kill",
+        "stop",
+        "cli",
+        "cursor",
+        "ansi",
+        "show",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "yeoman-generator",
+      "descriptions": "Rails-inspired generator system that provides scaffolding for your apps",
+      "keyword": [
+        "development",
+        "dev",
+        "build",
+        "tool",
+        "cli",
+        "scaffold",
+        "scaffolding",
+        "generate",
+        "generator",
+        "yeoman",
+        "app"
+      ],
+      "author": "sboudrias"
+    },
+    {
+      "name": "kleur",
+      "descriptions": "The fastest Node.js library for formatting terminal text with ANSI colors~!",
+      "keyword": [
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "console",
+        "terminal"
+      ],
+      "author": "lukeed"
+    },
+    {
+      "name": "command-line-args",
+      "descriptions": "A mature, feature-complete library to parse command-line options.",
+      "keyword": [
+        "argv",
+        "parse",
+        "argument",
+        "args",
+        "option",
+        "options",
+        "parser",
+        "parsing",
+        "cli",
+        "command",
+        "line"
+      ],
+      "author": "75lb"
+    },
+    {
+      "name": "cli-boxes",
+      "descriptions": "Boxes for use in the terminal",
+      "keyword": [
+        "cli",
+        "box",
+        "boxes",
+        "terminal",
+        "term",
+        "console",
+        "ascii",
+        "unicode",
+        "border",
+        "text",
+        "json"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "yn",
+      "descriptions": "Parse yes/no like values",
+      "keyword": [
+        "yn",
+        "yes",
+        "no",
+        "cli",
+        "prompt",
+        "validate",
+        "input",
+        "answer",
+        "true",
+        "false",
+        "parse",
+        "lenient"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "elegant-spinner",
+      "descriptions": "Elegant spinner for interactive CLI apps",
+      "keyword": [
+        "ansi",
+        "terminal",
+        "console",
+        "cli",
+        "string",
+        "log",
+        "logging",
+        "spinner",
+        "busy",
+        "indicator",
+        "loading",
+        "loader",
+        "progress",
+        "elegant",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "readline-sync",
+      "descriptions": "Synchronous Readline for interactively running to have a conversation with the user via a console(TTY).",
+      "keyword": [
+        "readline",
+        "synchronous",
+        "interactive",
+        "prompt",
+        "question",
+        "password",
+        "cli",
+        "tty",
+        "command",
+        "repl",
+        "keyboard",
+        "wait",
+        "block"
+      ],
+      "author": "anseki"
+    },
+    {
+      "name": "ansi-align",
+      "descriptions": "Align-text with ANSI support for CLIs",
+      "keyword": [
+        "ansi",
+        "align",
+        "cli",
+        "center",
+        "pad"
+      ],
+      "author": "nexdrew"
+    },
+    {
+      "name": "cli-truncate",
+      "descriptions": "Truncate a string to a specific width in the terminal",
+      "keyword": [
+        "truncate",
+        "ellipsis",
+        "text",
+        "limit",
+        "slice",
+        "cli",
+        "terminal",
+        "term",
+        "shell",
+        "width",
+        "ansi",
+        "string"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "prettyjson",
+      "descriptions": "Package for formatting JSON data in a coloured YAML-style, perfect for CLI output",
+      "keyword": [
+        "json",
+        "cli",
+        "formatting",
+        "colors"
+      ],
+      "author": "rafeca"
+    },
+    {
+      "name": "yosay",
+      "descriptions": "Tell Yeoman what to say",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "yeoman",
+        "yo",
+        "cowsay",
+        "say",
+        "box",
+        "message",
+        "ansi"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "widest-line",
+      "descriptions": "Get the visual width of the widest line in a string - the number of columns required to display it",
+      "keyword": [
+        "string",
+        "character",
+        "unicode",
+        "width",
+        "visual",
+        "column",
+        "columns",
+        "fullwidth",
+        "full-width",
+        "full",
+        "ansi",
+        "escape",
+        "codes",
+        "cli",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "dargs",
+      "descriptions": "Reverse minimist. Convert an object of options into an array of command-line arguments.",
+      "keyword": [
+        "reverse",
+        "minimist",
+        "options",
+        "arguments",
+        "args",
+        "flags",
+        "cli",
+        "nopt",
+        "commander",
+        "binary",
+        "command",
+        "inverse",
+        "opposite",
+        "invert",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "cli",
+      "descriptions": "A tool for rapidly building command line apps",
+      "keyword": [
+        "cli",
+        "command line",
+        "opts",
+        "parseopt",
+        "opt",
+        "args",
+        "console",
+        "argsparse",
+        "optparse",
+        "autocomplete",
+        "command",
+        "autocompletion"
+      ],
+      "author": "cohara87"
+    },
+    {
+      "name": "cli-table3",
+      "descriptions": "Pretty unicode tables for the command line. Based on the original cli-table.",
+      "keyword": [
+        "node",
+        "command",
+        "line",
+        "cli",
+        "table",
+        "tables",
+        "tabular",
+        "unicode",
+        "colors",
+        "grid"
+      ],
+      "author": "turbo87"
+    },
+    {
+      "name": "forever",
+      "descriptions": "A simple CLI tool for ensuring that a given node script runs continuously (i.e. forever)",
+      "keyword": [
+        "cli",
+        "fault tolerant",
+        "sysadmin",
+        "tools"
+      ],
+      "author": "indexzero"
+    },
+    {
+      "name": "command-exists",
+      "descriptions": "Check whether a command line command exists in the current environment",
+      "keyword": [
+        "cli",
+        "command",
+        "exists"
+      ],
+      "author": "mathisonian"
+    },
+    {
+      "name": "is-installed-globally",
+      "descriptions": "Check if your package was installed globally",
+      "keyword": [
+        "global",
+        "package",
+        "globally",
+        "module",
+        "install",
+        "installed",
+        "npm",
+        "yarn",
+        "is",
+        "check",
+        "detect",
+        "local",
+        "locally",
+        "cli",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "mri",
+      "descriptions": "Quickly scan for CLI flags and arguments",
+      "keyword": [
+        "argv",
+        "arguments",
+        "cli",
+        "minimist",
+        "options",
+        "optimist",
+        "parser",
+        "args"
+      ],
+      "author": "lukeed"
+    },
+    {
+      "name": "yo",
+      "descriptions": "CLI tool for running Yeoman generators",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "front-end",
+        "development",
+        "dev",
+        "build",
+        "web",
+        "tool",
+        "scaffold",
+        "stack",
+        "yeoman",
+        "generator",
+        "generate",
+        "app"
+      ],
+      "author": "sboudrias"
+    },
+    {
+      "name": "cli-spinner",
+      "descriptions": "A simple spinner",
+      "keyword": [
+        "cli"
+      ],
+      "author": "boemianrapsodi"
+    },
+    {
+      "name": "flow-bin",
+      "descriptions": "Binary wrapper for Flow - A static type checker for JavaScript",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "bin",
+        "binary",
+        "flow",
+        "facebook",
+        "type",
+        "inference",
+        "check",
+        "checker",
+        "javascript",
+        "js",
+        "wrapper"
+      ],
+      "author": "mroch"
+    },
+    {
+      "name": "promptly",
+      "descriptions": "Simple command line prompting utility",
+      "keyword": [
+        "prompt",
+        "choose",
+        "choice",
+        "cli",
+        "command",
+        "line"
+      ],
+      "author": "satazor"
+    },
+    {
+      "name": "ava",
+      "descriptions": "Testing can be a drag. AVA helps you get it done.",
+      "keyword": [
+        "🦄",
+        "test",
+        "runner",
+        "testing",
+        "ava",
+        "concurrent",
+        "parallel",
+        "fast",
+        "tdd",
+        "cli-app",
+        "cli",
+        "jest",
+        "mocha",
+        "tape",
+        "View more"
+      ],
+      "author": "novemberborn"
+    },
+    {
+      "name": "argv",
+      "descriptions": "CLI Argument Parser",
+      "keyword": [
+        "cli",
+        "argv",
+        "options"
+      ],
+      "author": "codenothing"
+    },
+    {
+      "name": "cli-highlight",
+      "descriptions": "Syntax highlighting in your terminal",
+      "keyword": [
+        "terminal",
+        "syntax",
+        "highlight",
+        "color",
+        "cli",
+        "ansi"
+      ],
+      "author": "felixfbecker"
+    },
+    {
+      "name": "ink",
+      "descriptions": "React for CLI",
+      "keyword": [
+        "react",
+        "cli",
+        "jsx",
+        "stdout",
+        "components",
+        "command-line",
+        "preact",
+        "redux",
+        "print",
+        "render",
+        "colors",
+        "text"
+      ],
+      "author": "vdemedes"
+    },
+    {
+      "name": "live-server",
+      "descriptions": "Simple development http server with live reload capability",
+      "keyword": [
+        "front-end",
+        "development",
+        "tool",
+        "server",
+        "http",
+        "cli"
+      ],
+      "author": "tapio"
+    },
+    {
+      "name": "consola",
+      "descriptions": "Elegant Console Logger for Node.js and Browser",
+      "keyword": [
+        "console",
+        "logger",
+        "reporter",
+        "elegant",
+        "cli",
+        "universal",
+        "unified",
+        "winston"
+      ],
+      "author": "pi0"
+    },
+    {
+      "name": "args",
+      "descriptions": "Minimal toolkit for building CLIs",
+      "keyword": [
+        "cli",
+        "command",
+        "arguments",
+        "util",
+        "bin",
+        "commander",
+        "nanomist"
+      ],
+      "author": "ntwcklng"
+    },
+    {
+      "name": "subarg",
+      "descriptions": "Parse arguments with recursive contexts",
+      "keyword": [
+        "argument",
+        "option",
+        "parser",
+        "parsing",
+        "flags",
+        "command-line",
+        "cli",
+        "recursive",
+        "minimist"
+      ],
+      "author": "substack"
+    },
+    {
+      "name": "enquirer",
+      "descriptions": "Stylish, intuitive and user-friendly prompt system. Fast and lightweight enough for small projects, powerful and extensible enough for the most advanced use cases.",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "base",
+        "cli",
+        "command",
+        "command-line",
+        "confirm",
+        "enquirer",
+        "generator",
+        "generate",
+        "hyper",
+        "input",
+        "inquire",
+        "View more"
+      ],
+      "author": "doowb"
+    },
+    {
+      "name": "wait-on",
+      "descriptions": "Wait-on is a cross platform command line utility and Node.js API which will wait for files, ports, sockets, and http(s) resources to become available",
+      "keyword": [
+        "wait",
+        "delay",
+        "cli",
+        "files",
+        "tcp",
+        "ports",
+        "sockets",
+        "http",
+        "exist",
+        "ready",
+        "available",
+        "portable",
+        "cross-platform",
+        "unix",
+        "View more"
+      ],
+      "author": "jeffbski"
+    },
+    {
+      "name": "npm-check",
+      "descriptions": "Check for outdated, incorrect, and unused dependencies.",
+      "keyword": [
+        "npm",
+        "outdated",
+        "dependencies",
+        "unused",
+        "changelog",
+        "check",
+        "updates",
+        "api",
+        "interactive",
+        "cli",
+        "safe",
+        "updating",
+        "updater",
+        "installer"
+      ],
+      "author": "linusu"
+    },
+    {
+      "name": "cli-progress",
+      "descriptions": "Easy to use progress-bar for command-line/terminal applications",
+      "keyword": [
+        "cli",
+        "tty",
+        "terminal",
+        "progress",
+        "progressbar",
+        "multibar",
+        "bar",
+        "status",
+        "statusbar",
+        "utility",
+        "widget"
+      ],
+      "author": "andidittrich"
+    },
+    {
+      "name": "cordova",
+      "descriptions": "Cordova command line interface tool",
+      "keyword": [
+        "cordova",
+        "client",
+        "cli"
+      ],
+      "author": "erisu"
+    },
+    {
+      "name": "single-line-log",
+      "descriptions": "Keep writing to the same line in the terminal. Very useful when you write progress bars, or a status message during longer operations",
+      "keyword": [
+        "single",
+        "line",
+        "log",
+        "output",
+        "overwrite",
+        "collapse",
+        "stdout",
+        "terminal",
+        "tty",
+        "cli",
+        "shell"
+      ],
+      "author": "freeall"
+    },
+    {
+      "name": "ansi-gray",
+      "descriptions": "The color gray, in ansi.",
+      "keyword": [
+        "gray",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "easy-table",
+      "descriptions": "Nice text table for the CLI",
+      "keyword": [
+        "table",
+        "text",
+        "cli"
+      ],
+      "author": "eldar"
+    },
+    {
+      "name": "is-jpg",
+      "descriptions": "Check if a Buffer/Uint8Array is a JPEG image",
+      "keyword": [
+        "jpg",
+        "jpeg",
+        "image",
+        "img",
+        "pic",
+        "picture",
+        "photo",
+        "type",
+        "detect",
+        "check",
+        "is",
+        "exif",
+        "binary",
+        "buffer",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "vorpal",
+      "descriptions": "Node's first framework for building immersive CLI apps.",
+      "keyword": [
+        "api",
+        "cli",
+        "repl",
+        "shell",
+        "immersive",
+        "framework",
+        "app",
+        "application",
+        "command",
+        "commander",
+        "automated",
+        "prompt",
+        "inquirer"
+      ],
+      "author": "dthree"
+    },
+    {
+      "name": "@commitlint/cli",
+      "descriptions": "Lint your commit messages",
+      "keyword": [
+        "conventional-changelog",
+        "commitlint",
+        "cli"
+      ],
+      "author": "bycedric"
+    },
+    {
+      "name": "clui",
+      "descriptions": "A Node.js toolkit for drawing nice command line tables, gauges, spinners, and sparklines.",
+      "keyword": [
+        "command line interface",
+        "CLI",
+        "sparkline",
+        "progress bar",
+        "spinner",
+        "gauge",
+        "line",
+        "console",
+        "buffer"
+      ],
+      "author": "artokun"
+    },
+    {
+      "name": "cliff",
+      "descriptions": "Your CLI formatting friend.",
+      "keyword": [
+        "cli",
+        "logging",
+        "tools",
+        "winston"
+      ],
+      "author": "indexzero"
+    },
+    {
+      "name": "supports-hyperlinks",
+      "descriptions": "Detect if your terminal emulator supports hyperlinks",
+      "keyword": [
+        "link",
+        "terminal",
+        "hyperlink",
+        "cli"
+      ],
+      "author": "jamestalmage"
+    },
+    {
+      "name": "director",
+      "descriptions": "A client Side/Server Side Router",
+      "keyword": [
+        "URL",
+        "router",
+        "http",
+        "cli",
+        "flatiron",
+        "client side",
+        "ender"
+      ],
+      "author": "jcrugzz"
+    },
+    {
+      "name": "bin-version-check",
+      "descriptions": "Check whether a binary version satisfies a semver range",
+      "keyword": [
+        "cli",
+        "bin",
+        "binary",
+        "executable",
+        "version",
+        "semver",
+        "semantic",
+        "range",
+        "satisfy",
+        "check",
+        "validate"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "ember-cli",
+      "descriptions": "Command line tool for developing ambitious ember.js apps",
+      "keyword": [
+        "app",
+        "app-kit",
+        "blockchain",
+        "cli",
+        "ember",
+        "ember-app-kit",
+        "ember.js",
+        "kit"
+      ],
+      "author": "rwjblue"
+    },
+    {
+      "name": "beeper",
+      "descriptions": "Make your terminal beep",
+      "keyword": [
+        "beep",
+        "beeper",
+        "boop",
+        "terminal",
+        "term",
+        "cli",
+        "console",
+        "ding",
+        "ping",
+        "alert",
+        "gulpfriendly"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "ansi-red",
+      "descriptions": "The color red, in ansi.",
+      "keyword": [
+        "red",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "getopts",
+      "descriptions": "Parse CLI options, better.",
+      "keyword": [
+        "getopts",
+        "cli",
+        "argv",
+        "flags",
+        "yargs",
+        "options",
+        "minimist",
+        "cli-parser"
+      ],
+      "author": "jorgebucaran"
+    },
+    {
+      "name": "firebase-tools",
+      "descriptions": "Command-Line Interface for Firebase",
+      "keyword": [
+        "cdn",
+        "cli",
+        "ssl",
+        "cloud",
+        "hosting",
+        "firebase",
+        "realtime",
+        "websockets",
+        "synchronization"
+      ],
+      "author": "google-wombot"
+    },
+    {
+      "name": "@vue/cli-shared-utils",
+      "descriptions": "Shared utilities for vue-cli packages",
+      "keyword": [
+        "vue",
+        "cli",
+        "cli-shared-utils"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "cli-table2",
+      "descriptions": "Pretty unicode tables for the command line. Based on the original cli-table.",
+      "keyword": [
+        "node",
+        "command",
+        "line",
+        "cli",
+        "table",
+        "tables",
+        "tabular",
+        "unicode",
+        "colors",
+        "grid"
+      ],
+      "author": "jamestalmage"
+    },
+    {
+      "name": "sequelize-cli",
+      "descriptions": "The Sequelize CLI",
+      "keyword": [
+        "sequelize",
+        "cli"
+      ],
+      "author": "sushantdhiman"
+    },
+    {
+      "name": "yargonaut",
+      "descriptions": "Decorate yargs content with chalk styles and figlet fonts",
+      "keyword": [
+        "yargs",
+        "figlet",
+        "text",
+        "font",
+        "ascii",
+        "ansi",
+        "locale",
+        "fun",
+        "chalk",
+        "color",
+        "terminal",
+        "cli"
+      ],
+      "author": "jjoselv"
+    },
+    {
+      "name": "yeoman-environment",
+      "descriptions": "Handles the lifecyle and bootstrapping of generators in a specific environment",
+      "keyword": [
+        "development",
+        "dev",
+        "build",
+        "tool",
+        "cli",
+        "scaffold",
+        "scaffolding",
+        "generate",
+        "generator",
+        "yeoman",
+        "app"
+      ],
+      "author": "sboudrias"
+    },
+    {
+      "name": "ansi-cyan",
+      "descriptions": "The color cyan, in ansi.",
+      "keyword": [
+        "cyan",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "password-prompt",
+      "descriptions": "Cross-platform masked or hidden prompt",
+      "keyword": [
+        "cli",
+        "input",
+        "password",
+        "prompt"
+      ],
+      "author": "dickeyxxx"
+    },
+    {
+      "name": "postcss-cli",
+      "descriptions": "CLI for PostCSS",
+      "keyword": [
+        "cli",
+        "postcss",
+        "postcss-runner"
+      ],
+      "author": "ryanzim"
+    },
+    {
+      "name": "fast-xml-parser",
+      "descriptions": "Validate XML or Parse XML to JS/JSON very fast without C/C++ based libraries",
+      "keyword": [
+        "fast",
+        "xml",
+        "json",
+        "parser",
+        "xml2js",
+        "x2js",
+        "xml2json",
+        "js",
+        "traversable",
+        "cli",
+        "command",
+        "validator",
+        "validate",
+        "transformer",
+        "View more"
+      ],
+      "author": "amitgupta"
+    },
+    {
+      "name": "node-cmd",
+      "descriptions": "Simple commandline/terminal interface to allow you to run cli or bash style commands as if you were in the terminal.",
+      "keyword": [
+        "commandline",
+        "terminal",
+        "cmd",
+        "cli",
+        "bash",
+        "script",
+        "node"
+      ],
+      "author": "riaevangelist"
+    },
+    {
+      "name": "caporal",
+      "descriptions": "A full-featured framework for building command line applications (cli) with node.js",
+      "keyword": [
+        "cli",
+        "argument-parser",
+        "command",
+        "commander",
+        "clap",
+        "cli-app",
+        "minimist",
+        "optimist",
+        "cli-table",
+        "command line apps"
+      ],
+      "author": "mattallty"
+    },
+    {
+      "name": "gitlab",
+      "descriptions": "Full NodeJS implementation of the GitLab API. Supports Promises, Async/Await.",
+      "keyword": [
+        "api",
+        "browser",
+        "cli",
+        "es5",
+        "es6",
+        "gitlab",
+        "ky"
+      ],
+      "author": "jdalrymple"
+    },
+    {
+      "name": "@vue/cli-service",
+      "descriptions": "Local service for vue-cli projects",
+      "keyword": [
+        "vue",
+        "cli"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "license-checker",
+      "descriptions": "Check license info for a package",
+      "keyword": [
+        "license",
+        "cli",
+        "checker",
+        "oss"
+      ],
+      "author": "davglass"
+    },
+    {
+      "name": "cpx",
+      "descriptions": "Copy file globs, watching for changes.",
+      "keyword": [
+        "cp",
+        "cli",
+        "tool",
+        "commandline",
+        "sync",
+        "rsync",
+        "watch",
+        "observe",
+        "copy",
+        "dir",
+        "directory",
+        "directories",
+        "file",
+        "files"
+      ],
+      "author": "mysticatea"
+    },
+    {
+      "name": "shx",
+      "descriptions": "Portable Shell Commands for Node",
+      "keyword": [
+        "shelljs",
+        "shell",
+        "unix",
+        "bash",
+        "sh",
+        "exec",
+        "cli",
+        "zsh"
+      ],
+      "author": "nfischer"
+    },
+    {
+      "name": "cli-columns",
+      "descriptions": "Columnated lists for the CLI.",
+      "keyword": [
+        "ansi",
+        "cli",
+        "column",
+        "columnate",
+        "columns",
+        "grid",
+        "list",
+        "log",
+        "ls",
+        "row",
+        "rows",
+        "unicode",
+        "unix"
+      ],
+      "author": "shannonmoeller"
+    },
+    {
+      "name": "cli-table-redemption",
+      "descriptions": "Pretty unicode tables for the CLI",
+      "keyword": [
+        "cli",
+        "colors",
+        "table"
+      ],
+      "author": "soyuka"
+    },
+    {
+      "name": "@vue/babel-preset-app",
+      "descriptions": "Babel-preset-app for vue-cli",
+      "keyword": [
+        "vue",
+        "cli"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "tfunk",
+      "descriptions": "Multi-colour console output from chalk with added awesome",
+      "keyword": [
+        "color",
+        "colour",
+        "colors",
+        "terminal",
+        "console",
+        "cli",
+        "string",
+        "styles",
+        "formatting",
+        "rgb",
+        "shell",
+        "xterm",
+        "log",
+        "logging",
+        "View more"
+      ],
+      "author": "shakyshane"
+    },
+    {
+      "name": "bin-version",
+      "descriptions": "Get the version of a binary in semver format",
+      "keyword": [
+        "bin",
+        "binary",
+        "executable",
+        "version",
+        "semver",
+        "semantic",
+        "cli"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "hyperlinker",
+      "descriptions": "Write hyperlinks in the terminal.",
+      "keyword": [
+        "terminal",
+        "link",
+        "hyperlink",
+        "cli"
+      ],
+      "author": "jamestalmage"
+    },
+    {
+      "name": "glslify",
+      "descriptions": "A node.js-style module system for GLSL!",
+      "keyword": [
+        "ecosystem:stackgl",
+        "browserify-transform",
+        "glslify",
+        "glsl",
+        "module",
+        "system",
+        "cli",
+        "shader",
+        "webgl"
+      ],
+      "author": "hughsk"
+    },
+    {
+      "name": "npx",
+      "descriptions": "Execute npm package binaries",
+      "keyword": [
+        "npm",
+        "npm exec",
+        "shell",
+        "scripts",
+        "npm bin",
+        "cli"
+      ],
+      "author": "zkat"
+    },
+    {
+      "name": "clap",
+      "descriptions": "Command line argument parser",
+      "keyword": [
+        "cli",
+        "command",
+        "option",
+        "argument",
+        "completion"
+      ],
+      "author": "lahmatiy"
+    },
+    {
+      "name": "pmx",
+      "descriptions": "PM2/Keymetrics advanced API",
+      "keyword": [
+        "cli",
+        "fault tolerant",
+        "sysadmin",
+        "tools",
+        "pm2",
+        "logs",
+        "log",
+        "json",
+        "express",
+        "hapi",
+        "kraken",
+        "reload",
+        "microservice",
+        "programmatic",
+        "View more"
+      ],
+      "author": "wallet77"
+    },
+    {
+      "name": "direction",
+      "descriptions": "Detect directionality: left-to-right, right-to-left, or neutral",
+      "keyword": [
+        "writing",
+        "system",
+        "direction",
+        "directionality",
+        "rtl",
+        "ltr",
+        "cli",
+        "bin"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "csv-streamify",
+      "descriptions": "Streaming CSV Parser. Made entirely out of streams.",
+      "keyword": [
+        "csv",
+        "parser",
+        "stream",
+        "cli"
+      ],
+      "author": "klaemo"
+    },
+    {
+      "name": "@vue/cli-plugin-babel",
+      "descriptions": "Babel plugin for vue-cli",
+      "keyword": [
+        "vue",
+        "cli",
+        "babel"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "docopt",
+      "descriptions": "A command line option parser that will make you smile",
+      "keyword": [
+        "command",
+        "options",
+        "argument",
+        "args",
+        "cli",
+        "commandline"
+      ],
+      "author": "stuartcarnie"
+    },
+    {
+      "name": "np",
+      "descriptions": "A better `npm publish`",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "npm",
+        "publish",
+        "git",
+        "push",
+        "version",
+        "bump",
+        "commit"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "eslint-watch",
+      "descriptions": "Run eslint with watch mode",
+      "keyword": [
+        "eslint",
+        "plugin",
+        "command line tool",
+        "watch",
+        "javascript",
+        "linter",
+        "cli"
+      ],
+      "author": "rizowski"
+    },
+    {
+      "name": "env-cmd",
+      "descriptions": "Executes a command using the environment variables in an env file",
+      "keyword": [
+        "env",
+        "environment",
+        "cli",
+        "command",
+        "cmd",
+        "execute",
+        "run",
+        "file",
+        "variables",
+        "config"
+      ],
+      "author": "toddbluhm"
+    },
+    {
+      "name": "prettyoutput",
+      "descriptions": "Librarie to format js/json objects into a YAML-style colored output. Especially useful to pretty print logs. Performant (benchmarks)",
+      "keyword": [
+        "json",
+        "js",
+        "log",
+        "cli",
+        "prety",
+        "formatting",
+        "colors",
+        "output"
+      ],
+      "author": "keepitcool"
+    },
+    {
+      "name": "@vue/cli-plugin-eslint",
+      "descriptions": "Eslint plugin for vue-cli",
+      "keyword": [
+        "vue",
+        "cli",
+        "eslint"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "grunt-shell",
+      "descriptions": "Run shell commands",
+      "keyword": [
+        "gruntplugin",
+        "shell",
+        "command",
+        "cmd",
+        "exec",
+        "spawn",
+        "child",
+        "process",
+        "cli"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "jsome",
+      "descriptions": "Make your JSON look AWESOME!",
+      "keyword": [
+        "colors",
+        "json",
+        "console",
+        "log",
+        "format",
+        "pretty",
+        "print",
+        "command-line",
+        "command",
+        "cli"
+      ],
+      "author": "javascript"
+    },
+    {
+      "name": "deglob",
+      "descriptions": "Take a list of glob patterns and return an array of file locations, respecting `.gitignore` and allowing for ignore patterns via `package.json`.",
+      "keyword": [
+        "cli",
+        "command",
+        "deglob",
+        "files",
+        "glob",
+        "unglob",
+        "gitignore",
+        "ignore",
+        "file"
+      ],
+      "author": "feross"
+    },
+    {
+      "name": "nash",
+      "descriptions": "Craft command-line Masterpieces",
+      "keyword": [
+        "command",
+        "line",
+        "cli",
+        "bash",
+        "terminal",
+        "commander",
+        "prompt"
+      ],
+      "author": "scottcorgan"
+    },
+    {
+      "name": "webpack-dashboard",
+      "descriptions": "A CLI dashboard for webpack dev server",
+      "keyword": [
+        "webpack",
+        "cli",
+        "plugin",
+        "dashboard"
+      ],
+      "author": "ryan.roemer"
+    },
+    {
+      "name": "libnpx",
+      "descriptions": "Support library for npx -- an tool for executing npm-based packages.",
+      "keyword": [
+        "npm",
+        "npm exec",
+        "shell",
+        "scripts",
+        "npm bin",
+        "cli"
+      ],
+      "author": "zkat"
+    },
+    {
+      "name": "@vue/cli-overlay",
+      "descriptions": "Error overlay & dev server middleware for vue-cli",
+      "keyword": [
+        "vue",
+        "cli",
+        "cli-overlay"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "log-utils",
+      "descriptions": "Tiny wrapper around ansi-colors to add colored symbols and a timestamp.",
+      "keyword": [
+        "ansi",
+        "chalk",
+        "check",
+        "checkmark",
+        "cli",
+        "color",
+        "colors",
+        "command",
+        "console",
+        "cyan",
+        "error",
+        "green",
+        "info",
+        "line",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "del-cli",
+      "descriptions": "Delete files and directories - Cross-platform",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "delete",
+        "del",
+        "remove",
+        "destroy",
+        "trash",
+        "unlink",
+        "clean",
+        "cleaning",
+        "cleanup",
+        "rm",
+        "rmrf",
+        "rimraf",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "@vue/cli",
+      "descriptions": "Command line interface for rapid Vue.js development",
+      "keyword": [
+        "vue",
+        "cli"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "cpy-cli",
+      "descriptions": "Copy files",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "copy",
+        "cp",
+        "cpy",
+        "file",
+        "files",
+        "clone",
+        "fs",
+        "stream",
+        "glob",
+        "file-system",
+        "ncp",
+        "fast",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "readline2",
+      "descriptions": "Readline Façade fixing bugs and issues found in releases 0.8 and 0.10",
+      "keyword": [
+        "cli",
+        "terminal",
+        "readline",
+        "tty",
+        "ansi"
+      ],
+      "author": "sboudrias"
+    },
+    {
+      "name": "@sentry/cli",
+      "descriptions": "A command line utility to work with Sentry. https://docs.sentry.io/hosted/learn/cli/",
+      "keyword": [
+        "sentry",
+        "sentry-cli",
+        "cli"
+      ],
+      "author": "jauer"
+    },
+    {
+      "name": "json-to-pretty-yaml",
+      "descriptions": "A node module to convert JSON to YAML",
+      "keyword": [
+        "yml",
+        "yaml",
+        "json",
+        "cli",
+        "util"
+      ],
+      "author": "alexcrist"
+    },
+    {
+      "name": "yurnalist",
+      "descriptions": "Elegant console output, borrowed from Yarn",
+      "keyword": [
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "formatting",
+        "log",
+        "shell",
+        "terminal",
+        "activity",
+        "command-line",
+        "command",
+        "console.log",
+        "console",
+        "View more"
+      ],
+      "author": "thijskoerselman"
+    },
+    {
+      "name": "@storybook/cli",
+      "descriptions": "Storybook's CLI - easiest method of adding storybook to your projects",
+      "keyword": [
+        "cli",
+        "generator",
+        "storybook"
+      ],
+      "author": "shilman"
+    },
+    {
+      "name": "prompt-confirm",
+      "descriptions": "Confirm (yes/no) prompt. Can be used standalone or with a prompt system like [Enquirer].",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "checkbox",
+        "choice",
+        "cli",
+        "command",
+        "confirm",
+        "enquirer",
+        "enquirerprompt",
+        "input",
+        "inquire",
+        "inquirer",
+        "interact",
+        "View more"
+      ],
+      "author": "doowb"
+    },
+    {
+      "name": "conventional-changelog-cli",
+      "descriptions": "Generate a changelog from git metadata",
+      "keyword": [
+        "cli",
+        "cli-app",
+        "conventional-changelog",
+        "conventional",
+        "changelog",
+        "log"
+      ],
+      "author": "tommywo"
+    },
+    {
+      "name": "json2yaml",
+      "descriptions": "A commandline utility to convert JSON to YAML / YML",
+      "keyword": [
+        "yml",
+        "yaml",
+        "json",
+        "cli",
+        "util"
+      ],
+      "author": "coolaj86"
+    },
+    {
+      "name": "rsync",
+      "descriptions": "Rsync cli wrapper",
+      "keyword": [
+        "rsync",
+        "wrapper",
+        "cli",
+        "command"
+      ],
+      "author": "mattijs"
+    },
+    {
+      "name": "success-symbol",
+      "descriptions": "Cross-platform success symbol.",
+      "keyword": [
+        "success",
+        "256",
+        "ansi",
+        "cli",
+        "symbol",
+        "symbols",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "sade",
+      "descriptions": "Smooth (CLI) operator 🎶",
+      "keyword": [
+        "cli",
+        "cli-app",
+        "commander",
+        "arguments",
+        "parser",
+        "yargs",
+        "argv"
+      ],
+      "author": "lukeed"
+    },
+    {
+      "name": "strip-color",
+      "descriptions": "Strip ANSI color codes from a string. No dependencies.",
+      "keyword": [
+        "ansi",
+        "chalk",
+        "cli",
+        "codes",
+        "color",
+        "colors",
+        "colour",
+        "colours",
+        "command",
+        "command-line",
+        "console",
+        "escape",
+        "format",
+        "formatting",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "error-symbol",
+      "descriptions": "Cross-platform error symbol.",
+      "keyword": [
+        "error",
+        "256",
+        "ansi",
+        "cli",
+        "symbol",
+        "symbols",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "cliclopts",
+      "descriptions": "Command line options helper and usage printer",
+      "keyword": [
+        "cli",
+        "minimist",
+        "options"
+      ],
+      "author": "finnpauls"
+    },
+    {
+      "name": "yeoman-character",
+      "descriptions": "The Yeoman character in your CLI. Like wat.",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "bin",
+        "yeoman",
+        "character",
+        "figure",
+        "logo",
+        "color",
+        "ansi",
+        "ascii",
+        "art"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "bash-color",
+      "descriptions": "A simple tool for wrapping strings in bash color codes. Used to color console output.",
+      "keyword": [
+        "cli",
+        "bash",
+        "color",
+        "design",
+        "print",
+        "pretty print",
+        "color codes"
+      ],
+      "author": "mykola"
+    },
+    {
+      "name": "xo",
+      "descriptions": "JavaScript linter with great defaults",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "xo",
+        "xoxo",
+        "happy",
+        "happiness",
+        "code",
+        "quality",
+        "style",
+        "lint",
+        "linter",
+        "jshint",
+        "jslint",
+        "eslint",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "stdio",
+      "descriptions": "Standard input/output management with NodeJS",
+      "keyword": [
+        "input",
+        "console",
+        "output",
+        "terminal",
+        "system",
+        "arguments",
+        "cli"
+      ],
+      "author": "sgmonda"
+    },
+    {
+      "name": "@vue/cli-plugin-unit-jest",
+      "descriptions": "Unit-jest plugin for vue-cli",
+      "keyword": [
+        "vue",
+        "cli",
+        "unit-jest"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "password-hash",
+      "descriptions": "Password hashing and verification for node.js",
+      "keyword": [
+        "password",
+        "hash",
+        "utilities",
+        "cli"
+      ],
+      "author": "davidwood"
+    },
+    {
+      "name": "argh",
+      "descriptions": "Light weight option/argv parser for node, it only parses options, nothing more then that.",
+      "keyword": [
+        "argument",
+        "args",
+        "option",
+        "parser",
+        "cli",
+        "argv",
+        "options",
+        "command",
+        "command-line"
+      ],
+      "author": "3rdeden"
+    },
+    {
+      "name": "@vue/cli-plugin-typescript",
+      "descriptions": "Typescript plugin for vue-cli",
+      "keyword": [
+        "vue",
+        "cli",
+        "typescript"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "cfonts",
+      "descriptions": "Sexy fonts for the console",
+      "keyword": [
+        "font",
+        "banner",
+        "logo",
+        "CLI",
+        "console",
+        "ascii",
+        "pretty"
+      ],
+      "author": "dominikwilkowski"
+    },
+    {
+      "name": "ansi-fragments",
+      "descriptions": "A tiny library with builders to help making logs/CLI pretty with a nice DX.",
+      "keyword": [
+        "cli",
+        "ansi"
+      ],
+      "author": "zamotany"
+    },
+    {
+      "name": "ansi-green",
+      "descriptions": "The color green, in ansi.",
+      "keyword": [
+        "green",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "markdownlint-cli",
+      "descriptions": "MarkdownLint Command Line Interface",
+      "keyword": [
+        "markdown",
+        "markdownlint",
+        "cli",
+        "cli-app"
+      ],
+      "author": "davidanson"
+    },
+    {
+      "name": "prompt-base",
+      "descriptions": "Base prompt module used for creating custom prompts.",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "bar",
+        "base",
+        "bottom",
+        "checkbox",
+        "choice",
+        "cli",
+        "command",
+        "enquirer",
+        "input",
+        "inquire",
+        "inquirer",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "bin-v8-flags-filter",
+      "descriptions": "Filters out v8 flags for your Node.js CLIs.",
+      "keyword": [
+        "v8",
+        "flags",
+        "bin",
+        "filter",
+        "remove",
+        "v8flags",
+        "v8-flags",
+        "cli"
+      ],
+      "author": "inikulin"
+    },
+    {
+      "name": "stylint",
+      "descriptions": "A linter for stylus",
+      "keyword": [
+        "cli",
+        "css",
+        "hinter",
+        "lint",
+        "linter",
+        "styl",
+        "style",
+        "stylint",
+        "stylus",
+        "stylus-hint",
+        "stylus-lint"
+      ],
+      "author": "simenb"
+    },
+    {
+      "name": "pa11y",
+      "descriptions": "Pa11y is your automated accessibility testing pal",
+      "keyword": [
+        "accessibility",
+        "analysis",
+        "cli",
+        "report"
+      ],
+      "author": "joseluisbolos"
+    },
+    {
+      "name": "chokidar-cli",
+      "descriptions": "Ultra-fast cross-platform command line utility to watch file system changes.",
+      "keyword": [
+        "fs",
+        "watch",
+        "watchFile",
+        "watcher",
+        "watching",
+        "file",
+        "fsevents",
+        "chokidar",
+        "cli",
+        "command",
+        "shell",
+        "bash"
+      ],
+      "author": "paulmillr"
+    },
+    {
+      "name": "disparity",
+      "descriptions": "Colorized string diff ideal for text/code that spans through multiple lines",
+      "keyword": [
+        "diff",
+        "char",
+        "unified",
+        "multiline",
+        "string",
+        "color",
+        "ansi",
+        "terminal",
+        "cli",
+        "tty"
+      ],
+      "author": "ruyadorno"
+    },
+    {
+      "name": "@vue/eslint-config-prettier",
+      "descriptions": "Eslint-config-prettier for Vue CLI",
+      "keyword": [
+        "vue",
+        "cli"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "log-update-async-hook",
+      "descriptions": "Log-update fork that uses async-exit-hook internally",
+      "keyword": [
+        "log",
+        "logger",
+        "logging",
+        "cli",
+        "terminal",
+        "term",
+        "console",
+        "shell",
+        "update",
+        "refresh",
+        "overwrite",
+        "output",
+        "stdout",
+        "progress",
+        "View more"
+      ],
+      "author": "belym.a.2105"
+    },
+    {
+      "name": "logkitty",
+      "descriptions": "Display pretty Android and iOS logs without Android Studio or Console.app, with intuitive Command Line Interface.",
+      "keyword": [
+        "logcat",
+        "cli",
+        "android",
+        "android studio",
+        "ios",
+        "Console.app",
+        "console",
+        "log",
+        "logs",
+        "logging"
+      ],
+      "author": "zamotany"
+    },
+    {
+      "name": "@vue/eslint-config-standard",
+      "descriptions": "Eslint-config-standard for Vue CLI",
+      "keyword": [
+        "vue",
+        "cli"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "@vue/cli-plugin-pwa",
+      "descriptions": "Pwa plugin for vue-cli",
+      "keyword": [
+        "vue",
+        "cli",
+        "pwa"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "yeoman-doctor",
+      "descriptions": "Detect potential issues with users system that could prevent Yeoman from working correctly",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "yeoman",
+        "yo",
+        "doctor",
+        "system",
+        "health",
+        "report",
+        "check"
+      ],
+      "author": "sboudrias"
+    },
+    {
+      "name": "taketalk",
+      "descriptions": "Ever wanted a bin for your node module?",
+      "keyword": [
+        "cli",
+        "bin",
+        "node",
+        "npm"
+      ],
+      "author": "stephenplusplus"
+    },
+    {
+      "name": "ansi-yellow",
+      "descriptions": "The color yellow, in ansi.",
+      "keyword": [
+        "yellow",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "prompt-list",
+      "descriptions": "List-style prompt. Can be used as a standalone prompt, or with a prompt system like [enquirer].",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "checkbox",
+        "choice",
+        "cli",
+        "command",
+        "enquirer-prompt",
+        "enquirerprompt",
+        "input",
+        "inquire",
+        "inquirer",
+        "interact",
+        "list",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-bold",
+      "descriptions": "The color bold, in ansi.",
+      "keyword": [
+        "bold",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "command-line-commands",
+      "descriptions": "Add a git-like command interface to your app.",
+      "keyword": [
+        "argv",
+        "parse",
+        "argument",
+        "args",
+        "option",
+        "parser",
+        "parsing",
+        "cli",
+        "command",
+        "commands",
+        "line"
+      ],
+      "author": "75lb"
+    },
+    {
+      "name": "preferences",
+      "descriptions": "Manage CLI application encrypted preferences.",
+      "keyword": [
+        "config",
+        "cli",
+        "preferences",
+        "encrypted",
+        "secure"
+      ],
+      "author": "caffeina.dev"
+    },
+    {
+      "name": "inline-source-map-comment",
+      "descriptions": "Create an inline source map comment from a source map",
+      "keyword": [
+        "inline",
+        "sourcemap",
+        "source",
+        "map",
+        "comment",
+        "js",
+        "css",
+        "cli",
+        "browser",
+        "client-side"
+      ],
+      "author": "shinnn"
+    },
+    {
+      "name": "optparse",
+      "descriptions": "Command-line option parser",
+      "keyword": [
+        "option",
+        "parser",
+        "command-line",
+        "cli",
+        "terminal"
+      ],
+      "author": "jfd"
+    },
+    {
+      "name": "gradient-string",
+      "descriptions": "Beautiful color gradients in terminal output",
+      "keyword": [
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command-line",
+        "console",
+        "formatting",
+        "gradient",
+        "gradients",
+        "log",
+        "logging",
+        "shell",
+        "string",
+        "style",
+        "View more"
+      ],
+      "author": "bokub"
+    },
+    {
+      "name": "@wdio/cli",
+      "descriptions": "WebdriverIO testrunner command line interface",
+      "keyword": [
+        "webdriver",
+        "webdriverio",
+        "wdio",
+        "cli"
+      ],
+      "author": "christian-bromann"
+    },
+    {
+      "name": "babar",
+      "descriptions": "CLI bar charts",
+      "keyword": [
+        "cli",
+        "bar",
+        "charts",
+        "graph",
+        "ascii"
+      ],
+      "author": "stephan83"
+    },
+    {
+      "name": "magicli",
+      "descriptions": "Automagically generates command-line interfaces (CLI) for any module. Expected options and help sections are created automatically based on parameters names, with support to async. It can be installed globally, in order to *execute* any module, or .js fil",
+      "keyword": [
+        "bin",
+        "cli",
+        "async",
+        "simple",
+        "command-line",
+        "interface"
+      ],
+      "author": "diegozoracky"
+    },
+    {
+      "name": "ansi-dim",
+      "descriptions": "The color dim, in ansi.",
+      "keyword": [
+        "dim",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "command-join",
+      "descriptions": "Escape and join command-line arguments, cross-platform.",
+      "keyword": [
+        "argv",
+        "cli",
+        "command",
+        "escape",
+        "join",
+        "shell"
+      ],
+      "author": "seangenabe"
+    },
+    {
+      "name": "remark-cli",
+      "descriptions": "CLI to process Markdown with remark using plugins",
+      "keyword": [
+        "unified",
+        "remark",
+        "markdown",
+        "mdast",
+        "cli",
+        "bin"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "ansi-magenta",
+      "descriptions": "The color magenta, in ansi.",
+      "keyword": [
+        "magenta",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-underline",
+      "descriptions": "The color underline, in ansi.",
+      "keyword": [
+        "underline",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "trash-cli",
+      "descriptions": "Move files and folders to the trash",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "trash",
+        "recycle",
+        "bin",
+        "rm",
+        "rmrf",
+        "rimraf",
+        "remove",
+        "delete",
+        "del",
+        "file",
+        "files",
+        "directory",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "yesno",
+      "descriptions": "A simple library for asking boolean questions in cli programs",
+      "keyword": [
+        "cli",
+        "confirm",
+        "yesno",
+        "yes or no",
+        "prompt",
+        "question"
+      ],
+      "author": "mreinstein"
+    },
+    {
+      "name": "yaml-lint",
+      "descriptions": "A simple (CLI) tool to lint YAML files",
+      "keyword": [
+        "yaml",
+        "lint",
+        "linter",
+        "cli"
+      ],
+      "author": "rasshofer"
+    },
+    {
+      "name": "netlify-cli",
+      "descriptions": "Netlify command line tool",
+      "keyword": [
+        "api",
+        "cli",
+        "netlify",
+        "static"
+      ],
+      "author": "raeesbhatti"
+    },
+    {
+      "name": "ansi-bgred",
+      "descriptions": "The color bgred, in ansi.",
+      "keyword": [
+        "bgred",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-grey",
+      "descriptions": "The color grey, in ansi.",
+      "keyword": [
+        "grey",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "gift",
+      "descriptions": "A Git wrapper library",
+      "keyword": [
+        "git",
+        "cli",
+        "wrapper"
+      ],
+      "author": "notatestuser"
+    },
+    {
+      "name": "@nrwl/jest",
+      "descriptions": "Jest plugin for Nx",
+      "keyword": [
+        "Monorepo",
+        "Angular",
+        "React",
+        "Web",
+        "Node",
+        "Nest",
+        "Jest",
+        "Unit Testing",
+        "CLI"
+      ],
+      "author": "nrwl"
+    },
+    {
+      "name": "info-symbol",
+      "descriptions": "Cross-platform info symbol.",
+      "keyword": [
+        "info",
+        "256",
+        "ansi",
+        "cli",
+        "symbol",
+        "symbols",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "sharp-cli",
+      "descriptions": "CLI for sharp.",
+      "keyword": [
+        "cli",
+        "jpeg",
+        "libvips",
+        "png",
+        "sharp",
+        "vips",
+        "webp"
+      ],
+      "author": "vseventer"
+    },
+    {
+      "name": "prompt-password",
+      "descriptions": "Password prompt. Can be used as a standalone prompt, or as a plugin for [Enquirer].",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "checkbox",
+        "choice",
+        "cli",
+        "command",
+        "enquirer",
+        "enquirerprompt",
+        "input",
+        "inquire",
+        "inquirer",
+        "interact",
+        "list",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "warning-symbol",
+      "descriptions": "Cross-platform warning symbol.",
+      "keyword": [
+        "warning",
+        "256",
+        "ansi",
+        "cli",
+        "symbol",
+        "symbols",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "@nrwl/workspace",
+      "descriptions": "Extensible Dev Tools for Monorepos",
+      "keyword": [
+        "Monorepo",
+        "Angular",
+        "React",
+        "Web",
+        "Node",
+        "Nest",
+        "Jest",
+        "Cypress",
+        "CLI"
+      ],
+      "author": "nrwl"
+    },
+    {
+      "name": "commitlint",
+      "descriptions": "Lint your commit messages",
+      "keyword": [
+        "conventional-changelog",
+        "commitlint",
+        "cli"
+      ],
+      "author": "bycedric"
+    },
+    {
+      "name": "phonegap",
+      "descriptions": "PhoneGap command-line interface and node.js library.",
+      "keyword": [
+        "cli",
+        "cordova",
+        "phonegap",
+        "phonegap build",
+        "phonegap/build"
+      ],
+      "author": "purplecabbage"
+    },
+    {
+      "name": "cli-usage",
+      "descriptions": "Easily show CLI usage from a markdown source file",
+      "keyword": [
+        "CLI-Usage",
+        "Markdown",
+        "Usage",
+        "CLI",
+        "Print-Usage"
+      ],
+      "author": "mikaelb"
+    },
+    {
+      "name": "prompt-promise",
+      "descriptions": "Sane CLI user-input (command prompt, confirm, multiline, password) as promises, it can be used with co@4",
+      "keyword": [
+        "aplus",
+        "cli",
+        "co",
+        "cojs",
+        "command",
+        "command-line",
+        "command-prompt",
+        "confirm",
+        "console",
+        "esnext",
+        "generators",
+        "input",
+        "keypress",
+        "line",
+        "View more"
+      ],
+      "author": "tunnckocore"
+    },
+    {
+      "name": "gulp-spawn",
+      "descriptions": "Spawn plugin for gulp",
+      "keyword": [
+        "gulpplugin",
+        "spawn",
+        "cli",
+        "shell",
+        "exec"
+      ],
+      "author": "pioug"
+    },
+    {
+      "name": "@sentry/wizard",
+      "descriptions": "Sentry wizard helping you to configure your project",
+      "keyword": [
+        "sentry",
+        "wizard",
+        "sdk",
+        "cli",
+        "project",
+        "setup",
+        "install",
+        "configure"
+      ],
+      "author": "haza"
+    },
+    {
+      "name": "ansi-inverse",
+      "descriptions": "The color inverse, in ansi.",
+      "keyword": [
+        "inverse",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-bgblue",
+      "descriptions": "The color bgblue, in ansi.",
+      "keyword": [
+        "bgblue",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-bgmagenta",
+      "descriptions": "The color bgmagenta, in ansi.",
+      "keyword": [
+        "bgmagenta",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-hidden",
+      "descriptions": "The color hidden, in ansi.",
+      "keyword": [
+        "hidden",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-bgwhite",
+      "descriptions": "The color bgwhite, in ansi.",
+      "keyword": [
+        "bgwhite",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-strikethrough",
+      "descriptions": "The color strikethrough, in ansi.",
+      "keyword": [
+        "strikethrough",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-bgcyan",
+      "descriptions": "The color bgcyan, in ansi.",
+      "keyword": [
+        "bgcyan",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-bggreen",
+      "descriptions": "The color bggreen, in ansi.",
+      "keyword": [
+        "bggreen",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-black",
+      "descriptions": "The color black, in ansi.",
+      "keyword": [
+        "black",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-bgyellow",
+      "descriptions": "The color bgyellow, in ansi.",
+      "keyword": [
+        "bgyellow",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-blue",
+      "descriptions": "The color blue, in ansi.",
+      "keyword": [
+        "blue",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-bgblack",
+      "descriptions": "The color bgblack, in ansi.",
+      "keyword": [
+        "bgblack",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-italic",
+      "descriptions": "The color italic, in ansi.",
+      "keyword": [
+        "italic",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-white",
+      "descriptions": "The color white, in ansi.",
+      "keyword": [
+        "white",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ansi-reset",
+      "descriptions": "The color reset, in ansi.",
+      "keyword": [
+        "reset",
+        "256",
+        "ansi",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "format",
+        "formatting",
+        "iterm",
+        "log",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "colors-cli",
+      "descriptions": "Terminal string styling done right",
+      "keyword": [
+        "256color",
+        "color",
+        "colors",
+        "colors-cli",
+        "terminal",
+        "ansi",
+        "console",
+        "colour",
+        "cli",
+        "string",
+        "str",
+        "style",
+        "styles",
+        "tty",
+        "View more"
+      ],
+      "author": "wcjiang"
+    },
+    {
+      "name": "size-limit",
+      "descriptions": "CLI tool for Size Limit",
+      "keyword": [
+        "size-limit",
+        "cli",
+        "performance",
+        "budget",
+        "performance budget"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "chalk-animation",
+      "descriptions": "Colorful animations in terminal output",
+      "keyword": [
+        "animation",
+        "chalk",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command-line",
+        "console",
+        "formatting",
+        "gradient",
+        "log",
+        "logging",
+        "rainbow",
+        "shell",
+        "View more"
+      ],
+      "author": "bokub"
+    },
+    {
+      "name": "webfont",
+      "descriptions": "Generator of fonts from svg icons, svg icons to svg font, svg font to ttf, ttf to eot, ttf to woff, ttf to woff2",
+      "keyword": [
+        "cli",
+        "standalone",
+        "font",
+        "fonts",
+        "webfont",
+        "webfonts",
+        "svg",
+        "ttf",
+        "woff",
+        "woff2",
+        "otf",
+        "eot",
+        "ttf2eot",
+        "ttf2woff",
+        "View more"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "readline-ui",
+      "descriptions": "Create a readline interface with default settings to use in prompts.",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "checkbox",
+        "choice",
+        "cli",
+        "command",
+        "input",
+        "inquire",
+        "inquirer",
+        "interact",
+        "interface",
+        "list",
+        "menu",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "@nrwl/angular",
+      "descriptions": "Angular Plugin for Nx",
+      "keyword": [
+        "Monorepo",
+        "Angular",
+        "Jest",
+        "Cypress",
+        "CLI"
+      ],
+      "author": "nrwl"
+    },
+    {
+      "name": "gar",
+      "descriptions": "The lightweight Node arguments parser",
+      "keyword": [
+        "argument",
+        "args",
+        "argv",
+        "parse",
+        "cli",
+        "command-line",
+        "parser",
+        "command",
+        "lightweight"
+      ],
+      "author": "ethan_"
+    },
+    {
+      "name": "@nrwl/cypress",
+      "descriptions": "Cypress plugin for Nx",
+      "keyword": [
+        "Monorepo",
+        "Angular",
+        "React",
+        "Web",
+        "Node",
+        "Nest",
+        "Jest",
+        "Cypress",
+        "CLI"
+      ],
+      "author": "nrwl"
+    },
+    {
+      "name": "levenshtein-edit-distance",
+      "descriptions": "Levenshtein edit distance. No cruft. Real fast.",
+      "keyword": [
+        "vladimir",
+        "levenshtein",
+        "edit",
+        "distance",
+        "bin",
+        "cli"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "@vue/eslint-config-typescript",
+      "descriptions": "Eslint-config-typescript for vue-cli",
+      "keyword": [
+        "vue",
+        "cli"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "minimisted",
+      "descriptions": "Handy wrapper of `minimist`",
+      "keyword": [
+        "minimist",
+        "cli"
+      ],
+      "author": "kt3k"
+    },
+    {
+      "name": "prompt-choices",
+      "descriptions": "Create an array of multiple choice objects for use in prompts.",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "checkbox",
+        "choice",
+        "choices",
+        "cli",
+        "command",
+        "enquirer",
+        "enquirerprompt",
+        "input",
+        "inquire",
+        "inquirer",
+        "interact",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "jake",
+      "descriptions": "JavaScript build tool, similar to Make or Rake",
+      "keyword": [
+        "build",
+        "cli",
+        "make",
+        "rake"
+      ],
+      "author": "mde"
+    },
+    {
+      "name": "recursive-fs",
+      "descriptions": "Asynchronous recursive file system operations",
+      "keyword": [
+        "asynchronous",
+        "recursive",
+        "file",
+        "system",
+        "read",
+        "copy",
+        "remove",
+        "directory",
+        "cli"
+      ],
+      "author": "simov"
+    },
+    {
+      "name": "prompt-checkbox",
+      "descriptions": "Multiple-choice/checkbox prompt. Can be used standalone or with a prompt system like [Enquirer].",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "checkbox",
+        "choice",
+        "choices",
+        "cli",
+        "command",
+        "enquirer",
+        "enquirerprompt",
+        "input",
+        "inquire",
+        "inquirer",
+        "interact",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "json-2-csv",
+      "descriptions": "A JSON to CSV and CSV to JSON converter that natively supports sub-documents and auto-generates the CSV heading.",
+      "keyword": [
+        "json",
+        "to",
+        "csv",
+        "converter",
+        "export",
+        "json2csv",
+        "csv2json",
+        "parse",
+        "parser",
+        "json-2-csv",
+        "csv-2-json",
+        "cli"
+      ],
+      "author": "mrodrig"
+    },
+    {
+      "name": "@vue/eslint-config-airbnb",
+      "descriptions": "Eslint-config-airbnb for Vue CLI",
+      "keyword": [
+        "vue",
+        "cli"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "sails-stringfile",
+      "descriptions": "Translated/localized stringfiles containing messages from Sails core and dependencies",
+      "keyword": [
+        "sails",
+        "waterline",
+        "international",
+        "web",
+        "internationalization",
+        "cli",
+        "locales",
+        "web-framework",
+        "i18n"
+      ],
+      "author": "rachaelshaw"
+    },
+    {
+      "name": "ascii-art",
+      "descriptions": "Ansi codes, figlet fonts, and ascii art. 100% JS",
+      "keyword": [
+        "ascii",
+        "figlet",
+        "ansi",
+        "terminal",
+        "text",
+        "command-line",
+        "logging",
+        "log",
+        "xterm",
+        "shell",
+        "256",
+        "rgb",
+        "formatting",
+        "tty",
+        "View more"
+      ],
+      "author": "khrome"
+    },
+    {
+      "name": "generate-changelog",
+      "descriptions": "Generate a changelog from git commits.",
+      "keyword": [
+        "changelog",
+        "cli",
+        "npm",
+        "version",
+        "git",
+        "semver"
+      ],
+      "author": "lob"
+    },
+    {
+      "name": "hexo-cli",
+      "descriptions": "Command line interface for Hexo",
+      "keyword": [
+        "website",
+        "blog",
+        "cms",
+        "framework",
+        "hexo",
+        "cli"
+      ],
+      "author": "curben"
+    },
+    {
+      "name": "ntl",
+      "descriptions": "Interactive cli tool to list and run package scripts",
+      "keyword": [
+        "npm",
+        "task",
+        "scripts",
+        "list",
+        "interactive",
+        "inquirer",
+        "unix",
+        "terminal",
+        "workflow",
+        "cli-app",
+        "cli",
+        "ntl",
+        "ipt",
+        "runner"
+      ],
+      "author": "ruyadorno"
+    },
+    {
+      "name": "prompt-radio",
+      "descriptions": "Radio prompt. Can be used as a standalone prompt, or as a plugin for [Enquirer].",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "checkbox",
+        "choice",
+        "cli",
+        "command",
+        "enquirer",
+        "enquirer-prompt",
+        "enquirerprompt",
+        "input",
+        "inquire",
+        "inquirer",
+        "interact",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "parse-help",
+      "descriptions": "Parse CLI help output",
+      "keyword": [
+        "parse",
+        "help",
+        "cli",
+        "argv",
+        "command-line",
+        "man",
+        "flags",
+        "arguments",
+        "alias",
+        "aliases",
+        "short"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "html-minifier-terser",
+      "descriptions": "Highly configurable, well-tested, JavaScript-based HTML minifier.",
+      "keyword": [
+        "cli",
+        "compress",
+        "compressor",
+        "css",
+        "html",
+        "htmlmin",
+        "javascript",
+        "min",
+        "minification",
+        "minifier",
+        "minify",
+        "optimize",
+        "optimizer",
+        "pack",
+        "View more"
+      ],
+      "author": "danielruf"
+    },
+    {
+      "name": "@angular-builders/custom-webpack",
+      "descriptions": "Custom webpack builders for Angular build facade. Allow to modify Angular build configuration without ejecting it",
+      "keyword": [
+        "cli",
+        "angular",
+        "builder",
+        "angular6",
+        "angular-cli",
+        "webpack",
+        "custom"
+      ],
+      "author": "justjeb"
+    },
+    {
+      "name": "@netlify/zip-it-and-ship-it",
+      "descriptions": "Zip it and ship it",
+      "keyword": [
+        "api",
+        "bundler",
+        "cli",
+        "lambda",
+        "lambda functions",
+        "netlify",
+        "static"
+      ],
+      "author": "bret"
+    },
+    {
+      "name": "ttab",
+      "descriptions": "OSX CLI for opening a new terminal tab/window, optionally with a command to execute and/or display settings",
+      "keyword": [
+        "macos",
+        "osx",
+        "terminal",
+        "iterm",
+        "iterm2",
+        "cli",
+        "tabs",
+        "windows",
+        "automate"
+      ],
+      "author": "mklement0"
+    },
+    {
+      "name": "geojson-validation",
+      "descriptions": "A GeoJSON Validation Library",
+      "keyword": [
+        "GeoJSON",
+        "Validation",
+        "Geo",
+        "cli"
+      ],
+      "author": "null_radix"
+    },
+    {
+      "name": "prompt-question",
+      "descriptions": "Question object, used by Enquirer and prompt plugins.",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "bar",
+        "bottom",
+        "checkbox",
+        "choice",
+        "cli",
+        "command",
+        "enquirer",
+        "input",
+        "inquire",
+        "inquirer",
+        "interact",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ip6",
+      "descriptions": "IPv6 address helper utilities.",
+      "keyword": [
+        "ipv6",
+        "cli",
+        "network"
+      ],
+      "author": "elgs"
+    },
+    {
+      "name": "exeunt",
+      "descriptions": "Exiting a node.js process *and flushing stdout and stderr*",
+      "keyword": [
+        "exit",
+        "flush",
+        "stdout",
+        "stderr",
+        "cli"
+      ],
+      "author": "trentm"
+    },
+    {
+      "name": "generator-node",
+      "descriptions": "Create a Node.js module",
+      "keyword": [
+        "yeoman-generator",
+        "scaffold",
+        "node",
+        "module",
+        "cli"
+      ],
+      "author": "sboudrias"
+    },
+    {
+      "name": "dot-json",
+      "descriptions": "Easily edit a json file from the CLI or NodeJS",
+      "keyword": [
+        "json",
+        "edit",
+        "get",
+        "set",
+        "delete",
+        "cli"
+      ],
+      "author": "crobays"
+    },
+    {
+      "name": "svgexport",
+      "descriptions": "Node.js module and command-line tool for exporting SVG to PNG and JPEG.",
+      "keyword": [
+        "svg",
+        "export",
+        "rasterize",
+        "converter",
+        "png",
+        "jpeg",
+        "jpg",
+        "cli",
+        "command line",
+        "inkscape",
+        "illustrator",
+        "coreldraw"
+      ],
+      "author": "shakiba"
+    },
+    {
+      "name": "verbalize",
+      "descriptions": "A pluggable logging utility with built-in colors, styles, and modes.",
+      "keyword": [
+        "256",
+        "ansi",
+        "chalk",
+        "cli",
+        "color",
+        "colors",
+        "colour",
+        "command",
+        "command-line",
+        "console",
+        "formatting",
+        "line",
+        "log",
+        "logger",
+        "View more"
+      ],
+      "author": "doowb"
+    },
+    {
+      "name": "shell",
+      "descriptions": "Full features and pretty console applications",
+      "keyword": [
+        "cli",
+        "console",
+        "colors",
+        "xterm",
+        "args",
+        "argument"
+      ],
+      "author": "david"
+    },
+    {
+      "name": "nlf",
+      "descriptions": "Find licenses for a node application and its node_module dependencies",
+      "keyword": [
+        "license",
+        "licence",
+        "checker",
+        "finder",
+        "audit",
+        "legal",
+        "dependency",
+        "cli"
+      ],
+      "author": "iandotkelly"
+    },
+    {
+      "name": "swagger-cli",
+      "descriptions": "Swagger 2.0 and OpenAPI 3.0 command-line tool",
+      "keyword": [
+        "swagger",
+        "openapi",
+        "open-api",
+        "cli",
+        "rest",
+        "api",
+        "yaml",
+        "parse",
+        "parser",
+        "validate",
+        "validator",
+        "validation",
+        "host"
+      ],
+      "author": "jamesmessinger"
+    },
+    {
+      "name": "unicons",
+      "descriptions": "Cross-platform unicode icon toolkit",
+      "keyword": [
+        "icons",
+        "unicode",
+        "cli",
+        "toolkit"
+      ],
+      "author": "peerigon"
+    },
+    {
+      "name": "cli-prompt",
+      "descriptions": "A tiny CLI prompter",
+      "keyword": [
+        "prompt",
+        "cli",
+        "readline",
+        "input",
+        "terminal",
+        "console",
+        "wizard"
+      ],
+      "author": "carlos8f"
+    },
+    {
+      "name": "sywac",
+      "descriptions": "So you want a CLI...",
+      "keyword": [
+        "cli",
+        "parser",
+        "command",
+        "args",
+        "argv"
+      ],
+      "author": "nexdrew"
+    },
+    {
+      "name": "xyz",
+      "descriptions": "Publish npm packages with fewer screw-ups",
+      "keyword": [
+        "cli",
+        "publish",
+        "release",
+        "tool"
+      ],
+      "author": "davidchambers"
+    },
+    {
+      "name": "@vue/cli-plugin-router",
+      "descriptions": "Router plugin for vue-cli",
+      "keyword": [
+        "vue",
+        "cli",
+        "router"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "@vue/cli-plugin-vuex",
+      "descriptions": "Vuex plugin for vue-cli",
+      "keyword": [
+        "vue",
+        "cli",
+        "vuex"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "@nrwl/cli",
+      "descriptions": "<p align=\"center\"><img src=\"https://raw.githubusercontent.com/nrwl/nx/master/nx-logo.png\" width=\"450\"></p>",
+      "keyword": [
+        "Monorepo",
+        "Angular",
+        "React",
+        "Web",
+        "Node",
+        "Nest",
+        "Jest",
+        "Cypress",
+        "CLI"
+      ],
+      "author": "nrwl"
+    },
+    {
+      "name": "commander-plus",
+      "descriptions": "The complete solution for node.js command-line programs",
+      "keyword": [
+        "command",
+        "option",
+        "parser",
+        "prompt",
+        "stdin",
+        "cli",
+        "command line interface"
+      ],
+      "author": "fiveisprime"
+    },
+    {
+      "name": "react-blessed",
+      "descriptions": "A react renderer for blessed.",
+      "keyword": [
+        "blessed",
+        "react",
+        "renderer",
+        "cli",
+        "interface"
+      ],
+      "author": "yomguithereal"
+    },
+    {
+      "name": "@svgr/cli",
+      "descriptions": "SVGR command line.",
+      "keyword": [
+        "svgr",
+        "svg",
+        "react",
+        "cli"
+      ],
+      "author": "neoziro"
+    },
+    {
+      "name": "npm-upgrade",
+      "descriptions": "Interactive CLI utility to easily update outdated NPM dependencies",
+      "keyword": [
+        "npm",
+        "update",
+        "outdated",
+        "dependencies",
+        "cli",
+        "interactive",
+        "automatic",
+        "changelog",
+        "ignore"
+      ],
+      "author": "th0r"
+    },
+    {
+      "name": "ansicolor",
+      "descriptions": "A JavaScript ANSI color/style management. ANSI parsing. ANSI to CSS. Small, clean, no dependencies.",
+      "keyword": [
+        "ANSI",
+        "ansi to css",
+        "code",
+        "codes",
+        "color",
+        "colors",
+        "text",
+        "command-line",
+        "command line",
+        "sequence",
+        "control",
+        "formatting",
+        "cli",
+        "shell",
+        "View more"
+      ],
+      "author": "xpl"
+    },
+    {
+      "name": "terminal-table",
+      "descriptions": "View a table in the terminal.",
+      "keyword": [
+        "terminal",
+        "cli"
+      ],
+      "author": "zaftzaft"
+    },
+    {
+      "name": "ytdl",
+      "descriptions": "A command line streaming youtube video downloader.",
+      "keyword": [
+        "youtube",
+        "download",
+        "video",
+        "cli"
+      ],
+      "author": "fent"
+    },
+    {
+      "name": "console-clear",
+      "descriptions": "Clear the console, cross-platform",
+      "keyword": [
+        "cli",
+        "term",
+        "shell",
+        "console",
+        "terminal",
+        "clear",
+        "reset"
+      ],
+      "author": "lukeed"
+    },
+    {
+      "name": "ansi-256-colors",
+      "descriptions": "256 xterm color codes",
+      "keyword": [
+        "color",
+        "colour",
+        "colors",
+        "terminal",
+        "console",
+        "cli",
+        "string",
+        "ansi",
+        "styles",
+        "tty",
+        "formatting",
+        "rgb",
+        "256",
+        "shell",
+        "View more"
+      ],
+      "author": "jbnicolai"
+    },
+    {
+      "name": "ipt",
+      "descriptions": "IPipeTo - The Node.js cli interactive workflow",
+      "keyword": [
+        "ipipeto",
+        "pipe",
+        "interactive",
+        "list",
+        "inquirer",
+        "unix",
+        "terminal",
+        "workflow",
+        "cli-app",
+        "cli",
+        "ipt",
+        "menu"
+      ],
+      "author": "ruyadorno"
+    },
+    {
+      "name": "grunt-shell-spawn",
+      "descriptions": "Grunt task to run shell commands",
+      "keyword": [
+        "gruntplugin",
+        "grunt",
+        "shell",
+        "command",
+        "exec",
+        "spawn",
+        "cli"
+      ],
+      "author": "jeking3"
+    },
+    {
+      "name": "bugsnag-build-reporter",
+      "descriptions": "A tool for reporting your application’s builds to Bugsnag",
+      "keyword": [
+        "bugsnag",
+        "build",
+        "report",
+        "ci",
+        "cli"
+      ],
+      "author": "bengourley"
+    },
+    {
+      "name": "@nrwl/tao",
+      "descriptions": "CLI for generating code and running commands",
+      "keyword": [
+        "Monorepo",
+        "Angular",
+        "React",
+        "Web",
+        "Node",
+        "Nest",
+        "Jest",
+        "Cypress",
+        "CLI"
+      ],
+      "author": "nrwl"
+    },
+    {
+      "name": "clime",
+      "descriptions": "The command-line interface framework for TypeScript.",
+      "keyword": [
+        "typescript",
+        "command",
+        "cli",
+        "commander",
+        "commander.js"
+      ],
+      "author": "vilic"
+    },
+    {
+      "name": "@semantic-release/exec",
+      "descriptions": "Semantic-release plugin to run custom shell commands",
+      "keyword": [
+        "cli",
+        "publish",
+        "release",
+        "script",
+        "semantic-release",
+        "shell",
+        "version"
+      ],
+      "author": "semantic-release-bot"
+    },
+    {
+      "name": "terminal-paginator",
+      "descriptions": "Paginator used for rendering lists or choices for prompts in the terminal.",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "checkbox",
+        "choice",
+        "choices",
+        "cli",
+        "command",
+        "enquirer",
+        "enquirerprompt",
+        "input",
+        "inquire",
+        "inquirer",
+        "interact",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "multiyargs",
+      "descriptions": "Like yargs, but with support for multiple commands.",
+      "keyword": [
+        "cli",
+        "cmd",
+        "yargs"
+      ],
+      "author": "vseventer"
+    },
+    {
+      "name": "elm-test",
+      "descriptions": "Run elm-test suites.",
+      "keyword": [
+        "elm",
+        "elm-test",
+        "cli"
+      ],
+      "author": "rtfeldman"
+    },
+    {
+      "name": "execcli",
+      "descriptions": "Execute CLI command on sub process.",
+      "keyword": [
+        "CLI",
+        "child_process",
+        "command",
+        "exec"
+      ],
+      "author": "okunishinishi"
+    },
+    {
+      "name": "multispinner",
+      "descriptions": "Multiple simultaneous async CLI spinners",
+      "keyword": [
+        "animation",
+        "stdout",
+        "terminal",
+        "cli",
+        "update",
+        "spinner"
+      ],
+      "author": "codekirei"
+    },
+    {
+      "name": "@vue/cli-plugin-e2e-cypress",
+      "descriptions": "E2e-cypress plugin for vue-cli",
+      "keyword": [
+        "vue",
+        "cli",
+        "e2e-cypress"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "gulp-param",
+      "descriptions": "Add params to your tasks",
+      "keyword": [
+        "gulp",
+        "cli",
+        "arguments",
+        "parameter",
+        "injection"
+      ],
+      "author": "schtoeffel"
+    },
+    {
+      "name": "progress-bar",
+      "descriptions": "An STDOUT progress bar for NodeJS.",
+      "keyword": [
+        "progress-bar",
+        "gui",
+        "cli"
+      ],
+      "author": "jussi-kalliokoski"
+    },
+    {
+      "name": "gh",
+      "descriptions": "Boost your productivity & automate tasks when working with GitHub, all from the comfort of your CLI.",
+      "keyword": [
+        "cli",
+        "github",
+        "pull-requests",
+        "prs",
+        "issues",
+        "gists",
+        "repos",
+        "repositories",
+        "git",
+        "commands"
+      ],
+      "author": "protoevangelion"
+    },
+    {
+      "name": "dns-zonefile",
+      "descriptions": "A DNS zone file parser and generator.",
+      "keyword": [
+        "DNS",
+        "zone",
+        "cli"
+      ],
+      "author": "elgs"
+    },
+    {
+      "name": "coffee",
+      "descriptions": "Test command line on Node.js.",
+      "keyword": [
+        "cli",
+        "test",
+        "shell",
+        "spawn",
+        "fork",
+        "child_process",
+        "exec"
+      ],
+      "author": "atian25"
+    },
+    {
+      "name": "docsify-cli",
+      "descriptions": "A magical documentation generator.",
+      "keyword": [
+        "docsify",
+        "doc",
+        "docs",
+        "documentation",
+        "creator",
+        "generator",
+        "cli"
+      ],
+      "author": "anixsaha"
+    },
+    {
+      "name": "aurelia-cli",
+      "descriptions": "The command line tooling for Aurelia.",
+      "keyword": [
+        "aurelia",
+        "cli",
+        "bundle",
+        "scaffold"
+      ],
+      "author": "aureliaeffect"
+    },
+    {
+      "name": "prompt-expand",
+      "descriptions": "Expand prompt. Can be used as a standalone prompt, or with a prompt system like [Enquirer].",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "checkbox",
+        "choice",
+        "cli",
+        "command",
+        "enquirer",
+        "enquirerprompt",
+        "expand",
+        "input",
+        "inquire",
+        "inquirer",
+        "interact",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "cat-names",
+      "descriptions": "Get popular cat names",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "bin",
+        "word",
+        "words",
+        "list",
+        "array",
+        "random",
+        "rand",
+        "animal",
+        "cat",
+        "cats",
+        "kitten",
+        "name",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "unified-args",
+      "descriptions": "Create CLIs for unified processors",
+      "keyword": [
+        "unified",
+        "processor",
+        "engine",
+        "cli",
+        "arguments"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "micromist",
+      "descriptions": "A minimal argument parser",
+      "keyword": [
+        "argument",
+        "parser",
+        "cli",
+        "option",
+        "argv"
+      ],
+      "author": "mattallty"
+    },
+    {
+      "name": "webpack-addons",
+      "descriptions": "Utility suite for webpack-cli",
+      "keyword": [
+        "scaffold",
+        "cli",
+        "webpack",
+        "ast"
+      ],
+      "author": "ev1stensberg"
+    },
+    {
+      "name": "prompt-input",
+      "descriptions": "Basic text input prompt. This can be used standalone, but it's also included in [enquirer] by default.",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "bar",
+        "bottom",
+        "checkbox",
+        "choice",
+        "cli",
+        "command",
+        "enquirer",
+        "input",
+        "inquire",
+        "inquirer",
+        "interact",
+        "View more"
+      ],
+      "author": "doowb"
+    },
+    {
+      "name": "@lingui/cli",
+      "descriptions": "CLI for working wit message catalogs",
+      "keyword": [
+        "cli",
+        "i18n",
+        "internationalization",
+        "i10n",
+        "localization",
+        "i9n",
+        "translation"
+      ],
+      "author": "tricoder"
+    },
+    {
+      "name": "neodoc",
+      "descriptions": "Beautiful, handcrafted command line interfaces",
+      "keyword": [
+        "docopt",
+        "neodoc",
+        "cli",
+        "parser",
+        "parsing",
+        "argument",
+        "args",
+        "option",
+        "command"
+      ],
+      "author": "felixschl"
+    },
+    {
+      "name": "@nrwl/schematics",
+      "descriptions": "Extensible Dev Tools for Monorepos: Schematics",
+      "keyword": [
+        "Monorepo",
+        "Angular",
+        "React",
+        "Web",
+        "Node",
+        "Nest",
+        "Jest",
+        "Cypress",
+        "CLI"
+      ],
+      "author": "nrwl"
+    },
+    {
+      "name": "choices-separator",
+      "descriptions": "Separator for choices arrays in prompts. Based on the Separator from inquirer.",
+      "keyword": [
+        "answer",
+        "answers",
+        "ask",
+        "checkbox",
+        "choice",
+        "choices",
+        "cli",
+        "command",
+        "enquirer",
+        "enquirerprompt",
+        "input",
+        "inquire",
+        "inquirer",
+        "interact",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "npm-license",
+      "descriptions": "Check license info for a module",
+      "keyword": [
+        "license",
+        "cli",
+        "checker",
+        "oss"
+      ],
+      "author": "badunk"
+    },
+    {
+      "name": "radio-symbol",
+      "descriptions": "Unicode radio button symbol, for toggling on/off in prompts.",
+      "keyword": [
+        "cli",
+        "console",
+        "prompt",
+        "radio",
+        "symbol",
+        "terminal",
+        "unicode"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "imagemin-cli",
+      "descriptions": "Minify images seamlessly",
+      "keyword": [
+        "cli",
+        "cli-app",
+        "compress",
+        "imagemin",
+        "gif",
+        "image",
+        "jpeg",
+        "jpg",
+        "minify",
+        "png",
+        "svg"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "alex",
+      "descriptions": "Catch insensitive, inconsiderate writing",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "bin",
+        "alex",
+        "equal",
+        "race",
+        "religion",
+        "sex",
+        "orientation",
+        "identity",
+        "gender",
+        "sensitive",
+        "insensitive",
+        "neutral",
+        "View more"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "simple-output",
+      "descriptions": "Output messages to stdout/stderr",
+      "keyword": [
+        "terminal",
+        "cli",
+        "output",
+        "stdout",
+        "stderr",
+        "logger",
+        "log"
+      ],
+      "author": "ruyadorno"
+    },
+    {
+      "name": "pushserve",
+      "descriptions": "Dead-simple pushState-enabled command-line http server.",
+      "keyword": [
+        "pushState",
+        "command",
+        "line",
+        "cli",
+        "html5",
+        "http",
+        "server",
+        "web",
+        "cors"
+      ],
+      "author": "paulmillr"
+    },
+    {
+      "name": "auto",
+      "descriptions": "CLI tools to help facilitate semantic versioning based on GitHub PR labels",
+      "keyword": [
+        "automation",
+        "semantic",
+        "release",
+        "github",
+        "labels",
+        "automated",
+        "continuos integration",
+        "changelog",
+        "cli"
+      ],
+      "author": "alisowski"
+    },
+    {
+      "name": "docpad",
+      "descriptions": "DocPad is a dynamic static site generator. Write your content as files, or import your content from other external sources. Render the content with plugins. And deploy your static or dynamic website to your favourite hosting provider.",
+      "keyword": [
+        "document management system",
+        "dms",
+        "content management system",
+        "cms",
+        "static site generator",
+        "generator",
+        "web",
+        "web framework",
+        "framework",
+        "web development",
+        "development",
+        "dev",
+        "build and deployment",
+        "builder",
+        "View more"
+      ],
+      "author": "bevryme"
+    },
+    {
+      "name": "chalk-cli",
+      "descriptions": "Terminal string styling done right",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "color",
+        "colour",
+        "colors",
+        "terminal",
+        "console",
+        "string",
+        "str",
+        "ansi",
+        "style",
+        "styles",
+        "tty",
+        "formatting",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "tree-node-cli",
+      "descriptions": "Lists the contents of directories in a tree-like format, similar to the Linux tree command.",
+      "keyword": [
+        "tree",
+        "cli",
+        "node-tree",
+        "command",
+        "file",
+        "directory"
+      ],
+      "author": "yangshun"
+    },
+    {
+      "name": "pm2-interface",
+      "descriptions": "Interact with pm2 via RPC and receive real time notifications",
+      "keyword": [
+        "cli",
+        "fault tolerant",
+        "sysadmin",
+        "tools",
+        "pm2",
+        "node-pm2",
+        "monitoring",
+        "process manager",
+        "forever",
+        "process configuration",
+        "clustering",
+        "cluster cli",
+        "cluster",
+        "cron",
+        "View more"
+      ],
+      "author": "tknew"
+    },
+    {
+      "name": "spawn-npm-install",
+      "descriptions": "Programmatically install npm dependencies",
+      "keyword": [
+        "npm",
+        "install",
+        "installation",
+        "installs",
+        "cli",
+        "api",
+        "run",
+        "save",
+        "dev",
+        "save-dev",
+        "--save-dev",
+        "uninstall",
+        "spawn",
+        "--save",
+        "View more"
+      ],
+      "author": "mattdesl"
+    },
+    {
+      "name": "azure-cli",
+      "descriptions": "Microsoft Azure Cross Platform Command Line tool",
+      "keyword": [
+        "node",
+        "azure",
+        "cli",
+        "cloud hosting",
+        "deployment"
+      ],
+      "author": "windowsazure"
+    },
+    {
+      "name": "chrome-webstore-upload-cli",
+      "descriptions": "CLI Utility to quickly upload + publish extensions to the Chrome Web Store",
+      "keyword": [
+        "chrome",
+        "publish",
+        "webstore",
+        "extension",
+        "deploy",
+        "update",
+        "upload",
+        "cli"
+      ],
+      "author": "bfred-it"
+    },
+    {
+      "name": "yarn-run-all",
+      "descriptions": "A CLI tool to run multiple npm-scripts in parallel or sequential.",
+      "keyword": [
+        "cli",
+        "command",
+        "commandline",
+        "tool",
+        "npm",
+        "npm-scripts",
+        "run",
+        "sequential",
+        "serial",
+        "parallel",
+        "task"
+      ],
+      "author": "reko_t"
+    },
+    {
+      "name": "inquirer2",
+      "descriptions": "Lighter, faster alternative to inquirer. A collection of common interactive command line user interfaces.",
+      "keyword": [
+        "cli",
+        "command",
+        "menu",
+        "prompt",
+        "stdin",
+        "tty"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "get-port-cli",
+      "descriptions": "Get an available port",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "port",
+        "find",
+        "finder",
+        "portfinder",
+        "free",
+        "available",
+        "connection",
+        "connect",
+        "open",
+        "net",
+        "tcp",
+        "scan",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "@angular-builders/jest",
+      "descriptions": "Jest runner for Angular build facade. Allows ng test run with Jest instead of Karma",
+      "keyword": [
+        "jest",
+        "testing",
+        "test",
+        "angular",
+        "cli",
+        "builder",
+        "runner"
+      ],
+      "author": "justjeb"
+    },
+    {
+      "name": "workbox-cli",
+      "descriptions": "Workbox-cli is the command line interface for Workbox.",
+      "keyword": [
+        "workbox",
+        "workboxjs",
+        "service worker",
+        "caching",
+        "fetch requests",
+        "offline",
+        "cli"
+      ],
+      "author": "philipwalton"
+    },
+    {
+      "name": "gzip-size-cli",
+      "descriptions": "Get the gzipped size of a file or stdin",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "zlib",
+        "gzip",
+        "compressed",
+        "size",
+        "file",
+        "stdin"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "@adonisjs/ace",
+      "descriptions": "Ace is a command line tool for adonisjs framework",
+      "keyword": [
+        "cli",
+        "adonisjs",
+        "adonis",
+        "terminal",
+        "adonis-ace"
+      ],
+      "author": "virk"
+    },
+    {
+      "name": "argly",
+      "descriptions": "A concise command line arguments parser with robust type handling",
+      "keyword": [
+        "argument",
+        "args",
+        "option",
+        "parser",
+        "parsing",
+        "cli",
+        "command"
+      ],
+      "author": "pnidem"
+    },
+    {
+      "name": "a11y",
+      "descriptions": "Runs an accessibility audit against a URL",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "a11y",
+        "audit",
+        "test",
+        "accessibility",
+        "wai",
+        "aria",
+        "dev",
+        "developer",
+        "tool",
+        "report",
+        "web",
+        "website"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "dog-names",
+      "descriptions": "Get popular dog names",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "superb",
+        "awesome",
+        "word",
+        "words",
+        "list",
+        "array",
+        "random",
+        "animal",
+        "dog",
+        "dogs",
+        "puppy",
+        "name",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "base-questions",
+      "descriptions": "Plugin for base-methods that adds methods for prompting the user and storing the answers on a project-by-project basis.",
+      "keyword": [
+        "api",
+        "app",
+        "application",
+        "ask",
+        "base",
+        "baseplugin",
+        "building-blocks",
+        "choice",
+        "choices",
+        "cli",
+        "command",
+        "command-line",
+        "console",
+        "create",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "eslint-cli",
+      "descriptions": "The local eslint executor.",
+      "keyword": [
+        "eslint",
+        "cli"
+      ],
+      "author": "mysticatea"
+    },
+    {
+      "name": "vantage",
+      "descriptions": "CLI + SSH + REPL for Node",
+      "keyword": [
+        "api",
+        "cli",
+        "repl",
+        "shell",
+        "command",
+        "commander",
+        "distributed",
+        "automated",
+        "prompt",
+        "inquirer"
+      ],
+      "author": "dthree"
+    },
+    {
+      "name": "emojic",
+      "descriptions": "Emoji in your Node.js command line apps.",
+      "keyword": [
+        "icons",
+        "command",
+        "line",
+        "cli"
+      ],
+      "author": "ionicabizau"
+    },
+    {
+      "name": "purescript",
+      "descriptions": "PureScript wrapper that makes it available as a local dependency",
+      "keyword": [
+        "cli",
+        "build",
+        "install",
+        "installation",
+        "fallback",
+        "purs",
+        "purescript",
+        "haskell",
+        "language",
+        "compile",
+        "compiler",
+        "bin",
+        "binary",
+        "wrapper"
+      ],
+      "author": "hdgarrood"
+    },
+    {
+      "name": "apigeetool",
+      "descriptions": "A CLI for Apigee Edge",
+      "keyword": [
+        "Apigee",
+        "CLI"
+      ],
+      "author": "whitlockjc"
+    },
+    {
+      "name": "bistre",
+      "descriptions": "A command-line tool and module for printing colourful bole logs.",
+      "keyword": [
+        "bole",
+        "log",
+        "pretty",
+        "print",
+        "ansi",
+        "cli",
+        "tool",
+        "colors"
+      ],
+      "author": "hughsk"
+    },
+    {
+      "name": "speed-test",
+      "descriptions": "Test your internet connection speed and ping using speedtest.net from the CLI",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "speed",
+        "test",
+        "tester",
+        "speed-test",
+        "speedtest",
+        "connection",
+        "internet",
+        "bandwidth",
+        "ping",
+        "measure",
+        "check"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "file-utils",
+      "descriptions": "Sync file utility for Node.js command line tools",
+      "keyword": [
+        "file",
+        "fs",
+        "utils",
+        "util",
+        "scaffold",
+        "tool",
+        "cli"
+      ],
+      "author": "sboudrias"
+    },
+    {
+      "name": "inquirer-checkbox-plus-prompt",
+      "descriptions": "Checkbox with autocomplete and other additions for Inquirer",
+      "keyword": [
+        "inquirer",
+        "checkbox",
+        "autocomplete",
+        "search",
+        "filter",
+        "searchable",
+        "highlight",
+        "source",
+        "api",
+        "promise",
+        "command",
+        "prompt",
+        "stdin",
+        "cli",
+        "View more"
+      ],
+      "author": "faressoft"
+    },
+    {
+      "name": "icon-gen",
+      "descriptions": "Generate an icon files from the SVG or PNG files",
+      "keyword": [
+        "Icon",
+        "Generator",
+        "SVG",
+        "CLI"
+      ],
+      "author": "akabeko"
+    },
+    {
+      "name": "cli-box",
+      "descriptions": "A library to generate ASCII boxes via NodeJS",
+      "keyword": [
+        "cli",
+        "box",
+        "ascii",
+        "node"
+      ],
+      "author": "ionicabizau"
+    },
+    {
+      "name": "stemmer",
+      "descriptions": "Porter Stemmer algorithm",
+      "keyword": [
+        "martin",
+        "porter",
+        "stemmer",
+        "algorithm",
+        "cli",
+        "bin"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "serverless-scriptable-plugin",
+      "descriptions": "Add scripts(nodejs) support to serverless 1.x",
+      "keyword": [
+        "serverless",
+        "script",
+        "shell",
+        "command",
+        "cli",
+        "javascript",
+        "nodejs",
+        "hook",
+        "customize",
+        "plugin"
+      ],
+      "author": "wei.xu"
+    },
+    {
+      "name": "player",
+      "descriptions": "A command line player, supports play mp3 both from url and local stream.",
+      "keyword": [
+        "mp3",
+        "cli",
+        "audio",
+        "player",
+        "cli player"
+      ],
+      "author": "turing"
+    },
+    {
+      "name": "axe-cli",
+      "descriptions": "A CLI for accessibility testing using axe-core",
+      "keyword": [
+        "axe-core",
+        "accessibility",
+        "a11y",
+        "wcag",
+        "cli",
+        "testing"
+      ],
+      "author": "npmdeque"
+    },
+    {
+      "name": "@angular-builders/dev-server",
+      "descriptions": "Dev server generic builder for Angular build facade. Allows to run custom builder in serve target",
+      "keyword": [
+        "cli",
+        "angular",
+        "builder",
+        "angular6",
+        "angular-cli",
+        "webpack",
+        "dev-server",
+        "generic",
+        "custom"
+      ],
+      "author": "meltedspark"
+    },
+    {
+      "name": "@nrwl/linter",
+      "descriptions": "Lint Plugin for Nx",
+      "keyword": [
+        "Monorepo",
+        "Web",
+        "Lint",
+        "TSLint",
+        "ESLint",
+        "CLI"
+      ],
+      "author": "nrwl"
+    },
+    {
+      "name": "raptor-args",
+      "descriptions": "A concise command line arguments parser with robust type handling",
+      "keyword": [
+        "argument",
+        "args",
+        "option",
+        "parser",
+        "parsing",
+        "cli",
+        "command"
+      ],
+      "author": "philidem"
+    },
+    {
+      "name": "preact-cli",
+      "descriptions": "Start building a Preact Progressive Web App in seconds.",
+      "keyword": [
+        "preact",
+        "cli",
+        "pwa",
+        "project",
+        "generator"
+      ],
+      "author": "lukeed"
+    },
+    {
+      "name": "download-cli",
+      "descriptions": "Download and extract files",
+      "keyword": [
+        "cli",
+        "cli-app",
+        "download",
+        "extract",
+        "http",
+        "request",
+        "url"
+      ],
+      "author": "kevva"
+    },
+    {
+      "name": "pdfreader",
+      "descriptions": "Read text and parse tables from PDF files. Supports tabular data with automatic column detection, and rule-based parsing.",
+      "keyword": [
+        "pdf",
+        "reader",
+        "parser",
+        "parse",
+        "parsing",
+        "convert",
+        "CLI",
+        "table",
+        "data",
+        "csv",
+        "json",
+        "rules"
+      ],
+      "author": "adrienjoly"
+    },
+    {
+      "name": "yargs-interactive",
+      "descriptions": "Build interactive command line tools without worring to parse the arguments (or ask them).",
+      "keyword": [
+        "yargs",
+        "interactive",
+        "cli",
+        "arguments",
+        "args",
+        "prompt",
+        "inquirer"
+      ],
+      "author": "nanovazquez"
+    },
+    {
+      "name": "@procore/core-scripts",
+      "descriptions": "A CLI for enhance your development experience",
+      "keyword": [
+        "cli",
+        "development",
+        "devtool",
+        "webpack",
+        "jest",
+        "core-scripts",
+        "react-scripts"
+      ],
+      "author": "dev-account-admin"
+    },
+    {
+      "name": "markdown-cli",
+      "descriptions": "Output markdown to CLI",
+      "keyword": [
+        "md",
+        "markdown",
+        "cli",
+        "file",
+        "terminal"
+      ],
+      "author": "cilice"
+    },
+    {
+      "name": "generate-defaults",
+      "descriptions": "Use this generator to add some common default settings to your 'generate', verb, and assemble generators.",
+      "keyword": [
+        "app",
+        "boilerplate",
+        "build",
+        "cli",
+        "cli-app",
+        "command-line",
+        "create",
+        "defaults",
+        "dev",
+        "development",
+        "framework",
+        "front",
+        "frontend",
+        "generate",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "@vue/cli-plugin-e2e-nightwatch",
+      "descriptions": "E2e-nightwatch plugin for vue-cli",
+      "keyword": [
+        "vue",
+        "cli",
+        "e2e-nightwatch"
+      ],
+      "author": "soda"
+    },
+    {
+      "name": "module",
+      "descriptions": "Generate the minimal skeleton/boilerplate for a new Node.js module.",
+      "keyword": [
+        "npm",
+        "node",
+        "module",
+        "package",
+        "skeleton",
+        "boilerplate",
+        "scaffold",
+        "generator",
+        "generic",
+        "cli"
+      ],
+      "author": "lukehorvat"
+    },
+    {
+      "name": "@netlify/cli-utils",
+      "descriptions": "Netlify CLI utilities for configuration and API access",
+      "keyword": [
+        "cli",
+        "netlify"
+      ],
+      "author": "sw-yx"
+    },
+    {
+      "name": "generate",
+      "descriptions": "Command line tool and developer framework for scaffolding out new GitHub projects. Generate offers the robustness and configurability of Yeoman, the expressiveness and simplicity of Slush, and more powerful flow control and composability than either.",
+      "keyword": [
+        "app",
+        "boilerplate",
+        "build",
+        "cli",
+        "cli-app",
+        "create",
+        "dev",
+        "development",
+        "end",
+        "framework",
+        "front",
+        "front-end",
+        "generate",
+        "generator",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "colog",
+      "descriptions": "Colog - console log with colors",
+      "keyword": [
+        "cli",
+        "console",
+        "log",
+        "colors",
+        "color",
+        "colog"
+      ],
+      "author": "dariuszp"
+    },
+    {
+      "name": "pkg-install",
+      "descriptions": "A wrapper making installation of Node.js packages from code easier",
+      "keyword": [
+        "npm",
+        "yarn",
+        "install",
+        "cli",
+        "script"
+      ],
+      "author": "dkundel"
+    },
+    {
+      "name": "pw",
+      "descriptions": "Prompt for passwords on the command line",
+      "keyword": [
+        "password",
+        "prompt",
+        "cli",
+        "command"
+      ],
+      "author": "substack"
+    },
+    {
+      "name": "@hapi/bossy",
+      "descriptions": "Command line options parser",
+      "keyword": [
+        "cli",
+        "command line",
+        "options",
+        "parser"
+      ],
+      "author": "hueniverse"
+    },
+    {
+      "name": "cli-format",
+      "descriptions": "A command line formatting utility that makes it easy to manage word wrapping, indents, padding, columns, and more. Also works with ansi-encoding libraries chalk, colors, and others.",
+      "keyword": [
+        "ansi",
+        "cli",
+        "command line",
+        "columns",
+        "format",
+        "formatting",
+        "word",
+        "wrap"
+      ],
+      "author": "gi60s"
+    },
+    {
+      "name": "syllable",
+      "descriptions": "Count syllables in English words",
+      "keyword": [
+        "detect",
+        "syllables",
+        "natural",
+        "language",
+        "cli",
+        "bin"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "@nrwl/node",
+      "descriptions": "Node Plugin for Nx",
+      "keyword": [
+        "Monorepo",
+        "Node",
+        "Nest",
+        "Jest",
+        "Cypress",
+        "CLI"
+      ],
+      "author": "nrwl"
+    },
+    {
+      "name": "question-cache",
+      "descriptions": "A wrapper around inquirer that makes it easy to create and selectively reuse questions.",
+      "keyword": [
+        "answer",
+        "ask",
+        "cache",
+        "cli",
+        "command",
+        "command-line",
+        "console",
+        "create",
+        "generate",
+        "generator",
+        "generators",
+        "init",
+        "inquirer",
+        "menu",
+        "View more"
+      ],
+      "author": "jonschlinkert"
+    },
+    {
+      "name": "ember-cli-deploy-progress",
+      "descriptions": "Flexible ascii progress bar (ember-cli-deploy fork incorporating cursor feature)",
+      "keyword": [
+        "cli",
+        "progress"
+      ],
+      "author": "lukemelia"
+    },
+    {
+      "name": "open-cli",
+      "descriptions": "Open stuff like URLs, files, executables. Cross-platform.",
+      "keyword": [
+        "cli-app",
+        "cli",
+        "app",
+        "open",
+        "opener",
+        "opens",
+        "launch",
+        "start",
+        "xdg-open",
+        "xdg",
+        "default",
+        "cmd",
+        "browser",
+        "editor",
+        "View more"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "ololog",
+      "descriptions": "Logging. Colors. Terminals & browsers. Show call locations. Pretty prints objects, Errors, anything!",
+      "keyword": [
+        "logging",
+        "log",
+        "print",
+        "pretty",
+        "pretty print",
+        "chrome devtools",
+        "devtools",
+        "debugger",
+        "debug",
+        "debugging tool",
+        "console log",
+        "console.log",
+        "tty",
+        "ANSI",
+        "View more"
+      ],
+      "author": "xpl"
+    },
+    {
+      "name": "codesandbox",
+      "descriptions": "The CLI used for communicating with CodeSandbox",
+      "keyword": [
+        "codesandbox",
+        "cli",
+        "editor"
+      ],
+      "author": "compuives"
+    },
+    {
+      "name": "ts-lint",
+      "descriptions": "An extensible static analysis linter for the TypeScript language",
+      "keyword": [
+        "cli",
+        "typescript",
+        "linter"
+      ],
+      "author": "soates"
+    },
+    {
+      "name": "jackspeak",
+      "descriptions": "A very strict and proper argument parser.",
+      "keyword": [
+        "argument",
+        "parser",
+        "args",
+        "option",
+        "flag",
+        "cli",
+        "command",
+        "line",
+        "parse",
+        "parsing"
+      ],
+      "author": "isaacs"
+    },
+    {
+      "name": "exec-promise",
+      "descriptions": "Testable CLIs with promises",
+      "keyword": [
+        "cli",
+        "executable",
+        "promise"
+      ],
+      "author": "julien-f"
+    },
+    {
+      "name": "@pattern-lab/live-server",
+      "descriptions": "Simple development http server with live reload capability",
+      "keyword": [
+        "front-end",
+        "development",
+        "tool",
+        "server",
+        "http",
+        "cli"
+      ],
+      "author": "bmuenzenmeyer"
+    },
+    {
+      "name": "roadhog",
+      "descriptions": "Cli tool for serve and build react app, based on create-react-app, support JSON pattern config.",
+      "keyword": [
+        "roadhog",
+        "react",
+        "cli",
+        "create-react-app",
+        "webpack"
+      ],
+      "author": "sorrycc"
+    },
+    {
+      "name": "winresourcer",
+      "descriptions": "Node wrapper of Anolis Resourcer (windows executable resource editor)",
+      "keyword": [
+        "resource",
+        "resourcer",
+        "anolis",
+        "editor",
+        "windows",
+        "gruntplugin",
+        "node",
+        "cli"
+      ],
+      "author": "felicienfrancois"
+    },
+    {
+      "name": "subfont",
+      "descriptions": "Speeds up your pages initial paint by automatically subsetting local or Google fonts and loading them optimally",
+      "keyword": [
+        "google",
+        "font",
+        "fonts",
+        "webfont",
+        "webfonts",
+        "subset",
+        "subsetting",
+        "commandline",
+        "cli",
+        "automation",
+        "woff",
+        "woff2",
+        "preload"
+      ],
+      "author": "munter"
+    },
+    {
+      "name": "clivas",
+      "descriptions": "Use your terminal as a canvas. features easy redrawing, colors and more",
+      "keyword": [
+        "canvas",
+        "cli",
+        "console",
+        "terminal"
+      ],
+      "author": "mafintosh"
+    },
+    {
+      "name": "ffbinaries",
+      "descriptions": "Download binaries for ffmpeg, ffprobe, ffserver and ffplay (Windows, macOS, Linux)",
+      "keyword": [
+        "ffmpeg",
+        "ffserver",
+        "ffplay",
+        "ffprobe",
+        "bin",
+        "binary",
+        "binaries",
+        "static",
+        "compiled",
+        "precompiled",
+        "library",
+        "cli",
+        "audio",
+        "video",
+        "View more"
+      ],
+      "author": "vot"
+    },
+    {
+      "name": "fx-runner",
+      "descriptions": "A node cli to control Firefox",
+      "keyword": [
+        "firefox",
+        "mozilla",
+        "cli"
+      ],
+      "author": "addons-robot"
+    },
+    {
+      "name": "echo-cli",
+      "descriptions": "A cross-platform CLI for outputting text to the command line. Supports escape sequences",
+      "keyword": [
+        "echo",
+        "cli",
+        "print",
+        "cross-platform"
+      ],
+      "author": "iamakulov"
+    },
+    {
+      "name": "jpeg-autorotate",
+      "descriptions": "Rotates JPEG images based on EXIF orientation",
+      "keyword": [
+        "jpeg",
+        "rotate",
+        "autorotate",
+        "orientation",
+        "exif",
+        "thumbnail",
+        "cli"
+      ],
+      "author": "johansatge"
+    },
+    {
+      "name": "transifex",
+      "descriptions": "NodeJS Transifex API Client",
+      "keyword": [
+        "download transifex",
+        "l10n",
+        "transifex",
+        "localization",
+        "cli",
+        "client",
+        "Transifex client",
+        "node transifex",
+        "transifex API"
+      ],
+      "author": "aali"
+    },
+    {
+      "name": "icomoon-build",
+      "descriptions": "Build IcoMoon project in Node",
+      "keyword": [
+        "icomoon",
+        "icon",
+        "cli",
+        "scss",
+        "less"
+      ],
+      "author": "sapikachu"
+    },
+    {
+      "name": "concat-cli",
+      "descriptions": "Command line implementation of concat module",
+      "keyword": [
+        "concatenate",
+        "concat",
+        "cli"
+      ],
+      "author": "jalba"
+    },
+    {
+      "name": "metaphone",
+      "descriptions": "Metaphone implementation",
+      "keyword": [
+        "natural",
+        "language",
+        "phonetics",
+        "lawrence",
+        "philips",
+        "metaphone",
+        "cli",
+        "bin"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "cli-real-favicon",
+      "descriptions": "Node.js CLI for RealFaviconGenerator",
+      "keyword": [
+        "favicon",
+        "cli",
+        "RealFaviconGenerator"
+      ],
+      "author": "pbernard_rfg"
+    },
+    {
+      "name": "git-branch-is",
+      "descriptions": "Assert that the name of the current branch of a git repository has a particular value.",
+      "keyword": [
+        "assert",
+        "assertion",
+        "cli",
+        "git",
+        "test"
+      ],
+      "author": "kevinoid"
+    },
+    {
+      "name": "cli-util",
+      "descriptions": "Utility functions for the cli toolkit",
+      "keyword": [
+        "cli",
+        "string",
+        "util"
+      ],
+      "author": "muji"
+    }
+  ]
+}

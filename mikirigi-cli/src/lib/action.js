@@ -84,12 +84,19 @@ exports.writeRepositoryStars = async ({ ownerName, repoName }) => {
       staredAts,
       repository.stargazers.edges.map(e => e.starredAt)
     );
+    // TODO: stardAt をぶち込む
+    isUnder201808 = null
+    // isUnder201808 = repository.stargazers.edges[0].staredAt
     endCursor = repository.stargazers.pageInfo.endCursor;
     const hasNext = repository.stargazers.pageInfo.hasNextPage;
     console.info("exec", hasNext);
     if (hasNext) {
       continue;
-    } else {
+    } else if(isUnder201808) {
+      repoData.endCursor = endCursor;
+      break;
+    }
+    else {
       repoData.endCursor = endCursor;
       break;
     }

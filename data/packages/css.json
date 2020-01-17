@@ -1,0 +1,5294 @@
+{
+  "keyword": "css",
+  "packages": [
+    {
+      "name": "autoprefixer",
+      "descriptions": "Parse CSS and add vendor prefixes to CSS rules using values from the Can I Use website",
+      "keyword": [
+        "autoprefixer",
+        "css",
+        "prefix",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "classnames",
+      "descriptions": "A simple utility for conditionally joining classNames together",
+      "keyword": [
+        "react",
+        "css",
+        "classes",
+        "classname",
+        "classnames",
+        "util",
+        "utility"
+      ],
+      "author": "jedwatson"
+    },
+    {
+      "name": "css-loader",
+      "descriptions": "Css loader module for webpack",
+      "keyword": [
+        "webpack",
+        "css",
+        "loader",
+        "url",
+        "import"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "node-sass",
+      "descriptions": "Wrapper around libsass",
+      "keyword": [
+        "css",
+        "libsass",
+        "preprocessor",
+        "sass",
+        "scss",
+        "style"
+      ],
+      "author": "xzyfer"
+    },
+    {
+      "name": "postcss",
+      "descriptions": "Tool for transforming styles with JS plugins",
+      "keyword": [
+        "css",
+        "postcss",
+        "rework",
+        "preprocessor",
+        "parser",
+        "source map",
+        "transform",
+        "manipulation",
+        "transpiler"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "postcss-loader",
+      "descriptions": "PostCSS loader for webpack",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-runner",
+        "webpack",
+        "webpack-loader"
+      ],
+      "author": "michael-ciniawsky"
+    },
+    {
+      "name": "less",
+      "descriptions": "Leaner CSS",
+      "keyword": [
+        "compile less",
+        "css nesting",
+        "css variable",
+        "css",
+        "gradients css",
+        "gradients css3",
+        "less compiler",
+        "less css",
+        "less mixins",
+        "less",
+        "less.js",
+        "lesscss",
+        "mixins",
+        "nested css",
+        "View more"
+      ],
+      "author": "matthew-dean"
+    },
+    {
+      "name": "clean-css",
+      "descriptions": "A well-tested CSS minifier",
+      "keyword": [
+        "css",
+        "minifier"
+      ],
+      "author": "jakub.pawlowicz"
+    },
+    {
+      "name": "color",
+      "descriptions": "Color conversion and manipulation with CSS string support",
+      "keyword": [
+        "color",
+        "colour",
+        "css"
+      ],
+      "author": "qix"
+    },
+    {
+      "name": "html-minifier",
+      "descriptions": "Highly configurable, well-tested, JavaScript-based HTML minifier.",
+      "keyword": [
+        "cli",
+        "compress",
+        "compressor",
+        "css",
+        "html",
+        "htmlmin",
+        "javascript",
+        "min",
+        "minification",
+        "minifier",
+        "minify",
+        "optimize",
+        "optimizer",
+        "pack",
+        "View more"
+      ],
+      "author": "alexlamsl"
+    },
+    {
+      "name": "bootstrap",
+      "descriptions": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
+      "keyword": [
+        "css",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "xhmikosr"
+    },
+    {
+      "name": "mini-css-extract-plugin",
+      "descriptions": "Extracts CSS into separate files",
+      "keyword": [
+        "webpack",
+        "css",
+        "extract",
+        "hmr"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "cssnano",
+      "descriptions": "A modular minifier, built on top of the PostCSS ecosystem.",
+      "keyword": [
+        "css",
+        "compress",
+        "minify",
+        "optimise",
+        "optimisation",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "styled-components",
+      "descriptions": "Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress",
+      "keyword": [
+        "react",
+        "css",
+        "css-in-js",
+        "styled-components",
+        "babel-macro",
+        "babel-macros",
+        "styling"
+      ],
+      "author": "probablyup"
+    },
+    {
+      "name": "optimize-css-assets-webpack-plugin",
+      "descriptions": "A Webpack plugin to optimize \\ minimize CSS assets.",
+      "keyword": [
+        "CSS",
+        "duplicate",
+        "extract-text-webpack-plugin",
+        "minimize",
+        "optimize",
+        "remove",
+        "webpack"
+      ],
+      "author": "nmfr"
+    },
+    {
+      "name": "react-transition-group",
+      "descriptions": "A react component toolset for managing animations",
+      "keyword": [
+        "react",
+        "transition",
+        "addons",
+        "transition-group",
+        "animation",
+        "css",
+        "transitions"
+      ],
+      "author": "monastic.panic"
+    },
+    {
+      "name": "stylus",
+      "descriptions": "Robust, expressive, and feature-rich CSS superset",
+      "keyword": [
+        "css",
+        "parser",
+        "style",
+        "stylesheets",
+        "jade",
+        "language"
+      ],
+      "author": "xdan"
+    },
+    {
+      "name": "css",
+      "descriptions": "CSS parser / stringifier",
+      "keyword": [
+        "css",
+        "parser",
+        "stringifier",
+        "stylesheet"
+      ],
+      "author": "slexaxton"
+    },
+    {
+      "name": "postcss-flexbugs-fixes",
+      "descriptions": "PostCSS plugin This project tries to fix all of flexbug's issues",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "flexbugs",
+        "flexbox",
+        "flex"
+      ],
+      "author": "luisrudge"
+    },
+    {
+      "name": "less-loader",
+      "descriptions": "A Less loader for webpack. Compiles Less to CSS.",
+      "keyword": [
+        "webpack",
+        "loader",
+        "less",
+        "lesscss",
+        "less.js",
+        "css",
+        "preprocessor"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "csso",
+      "descriptions": "CSS minifier with structural optimisations",
+      "keyword": [
+        "css",
+        "compress",
+        "minifier",
+        "minify",
+        "optimise",
+        "optimisation",
+        "csstree"
+      ],
+      "author": "lahmatiy"
+    },
+    {
+      "name": "browser-sync",
+      "descriptions": "Live CSS Reload & Browser Syncing",
+      "keyword": [
+        "browser sync",
+        "css",
+        "live reload",
+        "sync"
+      ],
+      "author": "shakyshane"
+    },
+    {
+      "name": "stylelint",
+      "descriptions": "A mighty, modern CSS linter.",
+      "keyword": [
+        "css",
+        "less",
+        "sass",
+        "scss",
+        "sugarss",
+        "lint",
+        "linter",
+        "stylelint"
+      ],
+      "author": "hudochenkov"
+    },
+    {
+      "name": "postcss-import",
+      "descriptions": "PostCSS plugin to import CSS files",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin",
+        "import",
+        "node modules",
+        "npm"
+      ],
+      "author": "ryanzim"
+    },
+    {
+      "name": "dom-helpers",
+      "descriptions": "Tiny modular DOM lib for ie9+",
+      "keyword": [
+        "dom-helpers",
+        "react-component",
+        "dom",
+        "api",
+        "cross-browser",
+        "style",
+        "event",
+        "height",
+        "width",
+        "class",
+        "classlist",
+        "css"
+      ],
+      "author": "monastic.panic"
+    },
+    {
+      "name": "css-select",
+      "descriptions": "A CSS selector compiler/engine",
+      "keyword": [
+        "css",
+        "selector",
+        "sizzle"
+      ],
+      "author": "feedic"
+    },
+    {
+      "name": "postcss-safe-parser",
+      "descriptions": "Fault-tolerant CSS parser for PostCSS",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-syntax",
+        "parser",
+        "fault tolerant"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "caniuse-lite",
+      "descriptions": "A smaller version of caniuse-db, with only the essentials!",
+      "keyword": [
+        "support",
+        "css",
+        "js",
+        "html5",
+        "svg"
+      ],
+      "author": "caniuse-lite"
+    },
+    {
+      "name": "cssesc",
+      "descriptions": "A JavaScript library for escaping CSS strings and identifiers while generating the shortest possible ASCII-only output.",
+      "keyword": [
+        "css",
+        "escape",
+        "identifier",
+        "string",
+        "tool"
+      ],
+      "author": "mathias"
+    },
+    {
+      "name": "cssom",
+      "descriptions": "CSS Object Model implementation and CSS parser",
+      "keyword": [
+        "CSS",
+        "CSSOM",
+        "parser",
+        "styleSheet"
+      ],
+      "author": "nv"
+    },
+    {
+      "name": "css-tree",
+      "descriptions": "CSSTree is a tool set to work with CSS, including fast detailed parser (string->AST), walker (AST traversal), generator (AST->string) and lexer (validation and matching) based on knowledge of spec and browser implementations",
+      "keyword": [
+        "css",
+        "ast",
+        "tokenizer",
+        "parser",
+        "walker",
+        "lexer",
+        "generator",
+        "utils",
+        "syntax",
+        "validation"
+      ],
+      "author": "lahmatiy"
+    },
+    {
+      "name": "postcss-modules-local-by-default",
+      "descriptions": "A CSS Modules transform to make local scope the default",
+      "keyword": [
+        "css-modules",
+        "postcss",
+        "css",
+        "postcss-plugin"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "resolve-url-loader",
+      "descriptions": "Webpack loader that resolves relative paths in url() statements based on the original source file",
+      "keyword": [
+        "webpack",
+        "loader",
+        "css",
+        "normalize",
+        "rewrite",
+        "resolve",
+        "url",
+        "sass",
+        "relative",
+        "file"
+      ],
+      "author": "bholloway"
+    },
+    {
+      "name": "postcss-preset-env",
+      "descriptions": "Convert modern CSS into something browsers understand",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "specifications",
+        "specs",
+        "features",
+        "lists",
+        "stages",
+        "w3c",
+        "csswg",
+        "future",
+        "next"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "sass",
+      "descriptions": "A pure JavaScript implementation of Sass.",
+      "keyword": [
+        "style",
+        "scss",
+        "sass",
+        "preprocessor",
+        "css"
+      ],
+      "author": "sassbot"
+    },
+    {
+      "name": "postcss-modules-values",
+      "descriptions": "PostCSS plugin for CSS Modules to pass arbitrary values between your module files",
+      "keyword": [
+        "css",
+        "modules",
+        "postcss"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "postcss-calc",
+      "descriptions": "PostCSS plugin to reduce calc()",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin",
+        "calculation",
+        "calc"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "cssstyle",
+      "descriptions": "CSSStyleDeclaration Object Model implementation",
+      "keyword": [
+        "CSS",
+        "CSSStyleDeclaration",
+        "StyleSheet"
+      ],
+      "author": "jon.sakas"
+    },
+    {
+      "name": "color-string",
+      "descriptions": "Parser and generator for CSS color strings",
+      "keyword": [
+        "color",
+        "colour",
+        "rgb",
+        "css"
+      ],
+      "author": "qix"
+    },
+    {
+      "name": "gulp-autoprefixer",
+      "descriptions": "Prefix CSS",
+      "keyword": [
+        "gulpplugin",
+        "autoprefixer",
+        "postcss",
+        "css",
+        "prefix",
+        "prefixes",
+        "stylesheet",
+        "preprocess",
+        "postcss-runner"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "postcss-discard-comments",
+      "descriptions": "Discard comments in your CSS files with PostCSS.",
+      "keyword": [
+        "css",
+        "comments",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "babel-plugin-emotion",
+      "descriptions": "A recommended babel preprocessing plugin for emotion, The Next Generation of CSS-in-JS.",
+      "keyword": [
+        "styles",
+        "emotion",
+        "react",
+        "css",
+        "css-in-js"
+      ],
+      "author": "emotion-release-bot"
+    },
+    {
+      "name": "css-color-names",
+      "descriptions": "A JSON Object of css color names mapped to their hex value",
+      "keyword": [
+        "css",
+        "colors",
+        "names"
+      ],
+      "author": "bahamas10"
+    },
+    {
+      "name": "postcss-scss",
+      "descriptions": "SCSS parser for PostCSS",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-syntax",
+        "parser",
+        "scss",
+        "sass"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "css-parse",
+      "descriptions": "CSS parser",
+      "keyword": [
+        "css",
+        "parser",
+        "stylesheet"
+      ],
+      "author": "necolas"
+    },
+    {
+      "name": "postcss-normalize",
+      "descriptions": "Use the parts of normalize.css or sanitize.css you need from your browserslist",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "normalizes",
+        "browsers",
+        "fixes"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "nth-check",
+      "descriptions": "Performant nth-check parser & compiler",
+      "keyword": [
+        "nth-child",
+        "nth",
+        "css"
+      ],
+      "author": "feedic"
+    },
+    {
+      "name": "emotion",
+      "descriptions": "The Next Generation of CSS-in-JS.",
+      "keyword": [
+        "styles",
+        "emotion",
+        "react",
+        "css",
+        "css-in-js"
+      ],
+      "author": "emotion-release-bot"
+    },
+    {
+      "name": "csstype",
+      "descriptions": "Strict TypeScript and Flow types for style based on MDN data",
+      "keyword": [
+        "css",
+        "style",
+        "typescript",
+        "flow",
+        "typings",
+        "types",
+        "definitions"
+      ],
+      "author": "faddee"
+    },
+    {
+      "name": "postcss-svgo",
+      "descriptions": "Optimise inline SVG with PostCSS.",
+      "keyword": [
+        "css",
+        "minify",
+        "optimise",
+        "postcss",
+        "postcss-plugin",
+        "svg",
+        "svgo"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "postcss-custom-properties",
+      "descriptions": "Use Custom Properties Queries in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "custom",
+        "properties",
+        "declarations",
+        "variables",
+        "vars",
+        "w3c",
+        "csswg",
+        "specification"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-custom-media",
+      "descriptions": "Use Custom Media Queries in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "custom",
+        "media",
+        "query",
+        "queries",
+        "w3c",
+        "csswg",
+        "atrule",
+        "at-rule",
+        "specification"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "jss",
+      "descriptions": "A lib for generating Style Sheets with JavaScript.",
+      "keyword": [
+        "jss",
+        "style",
+        "sheet",
+        "stylesheet",
+        "css",
+        "components",
+        "composable",
+        "css in js",
+        "css-in-js"
+      ],
+      "author": "kof"
+    },
+    {
+      "name": "rework",
+      "descriptions": "Plugin framework for CSS preprocessing",
+      "keyword": [
+        "css",
+        "manipulation",
+        "preprocess",
+        "transform",
+        "server"
+      ],
+      "author": "necolas"
+    },
+    {
+      "name": "postcss-nesting",
+      "descriptions": "Nest style rules inside each other",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "atrules",
+        "child",
+        "children",
+        "cssnext",
+        "nested",
+        "nestings",
+        "rules",
+        "selectors",
+        "syntax",
+        "specifications",
+        "specs",
+        "View more"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-merge-rules",
+      "descriptions": "Merge CSS rules with PostCSS.",
+      "keyword": [
+        "css",
+        "optimise",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "icss-utils",
+      "descriptions": "ICSS utils for postcss ast",
+      "keyword": [
+        "css",
+        "modules",
+        "icss",
+        "postcss"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "postcss-convert-values",
+      "descriptions": "Convert values with PostCSS (e.g. ms -> s)",
+      "keyword": [
+        "css",
+        "optimisation",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "nwsapi",
+      "descriptions": "Fast CSS Selectors API Engine",
+      "keyword": [
+        "css",
+        "css3",
+        "css4",
+        "matcher",
+        "selector"
+      ],
+      "author": "diego"
+    },
+    {
+      "name": "mdn-data",
+      "descriptions": "Open Web data by the Mozilla Developer Network",
+      "keyword": [
+        "data",
+        "mdn",
+        "mozilla",
+        "css"
+      ],
+      "author": "mdn"
+    },
+    {
+      "name": "postcss-discard-overridden",
+      "descriptions": "PostCSS plugin to discard overridden @keyframes or @counter-style.",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "at-rules",
+        "@keyframes",
+        "@counter-style"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "postcss-reduce-initial",
+      "descriptions": "Reduce initial definitions to the actual initial value, where possible.",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "css-select-base-adapter",
+      "descriptions": "Provides some base functions needed by a css-select adapter so that you don't have to implement the whole thing.",
+      "keyword": [
+        "css",
+        "select",
+        "adapter",
+        "css-select"
+      ],
+      "author": "nrkn"
+    },
+    {
+      "name": "bootstrap-sass",
+      "descriptions": "Bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.",
+      "keyword": [
+        "bootstrap",
+        "sass",
+        "css",
+        "eyeglass-module"
+      ],
+      "author": "glebm"
+    },
+    {
+      "name": "postcss-less",
+      "descriptions": "LESS parser for PostCSS",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-syntax",
+        "parser",
+        "less"
+      ],
+      "author": "shellscape"
+    },
+    {
+      "name": "sugarss",
+      "descriptions": "Indent-based CSS syntax for PostCSS",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-syntax",
+        "syntax",
+        "indent",
+        "parser"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "stylelint-scss",
+      "descriptions": "A collection of SCSS specific rules for stylelint",
+      "keyword": [
+        "css",
+        "csslint",
+        "lint",
+        "linter",
+        "stylelint",
+        "stylelint-plugin"
+      ],
+      "author": "kristerkari"
+    },
+    {
+      "name": "vendors",
+      "descriptions": "List of vendor prefixes known to the web platform",
+      "keyword": [
+        "css",
+        "html",
+        "dom",
+        "web",
+        "platform",
+        "vendor",
+        "prefix",
+        "prefixes"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "gulp-postcss",
+      "descriptions": "PostCSS gulp plugin",
+      "keyword": [
+        "gulpplugin",
+        "postcss",
+        "postcss-runner",
+        "css"
+      ],
+      "author": "unsoundscapes"
+    },
+    {
+      "name": "postcss-normalize-whitespace",
+      "descriptions": "Trim whitespace inside and around CSS rules & declarations.",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "postcss-nested",
+      "descriptions": "PostCSS plugin to unwrap nested rules like how Sass does it",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "sass",
+        "nested"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "postcss-values-parser",
+      "descriptions": "A CSS property value parser for use with PostCSS",
+      "keyword": [
+        "css",
+        "less",
+        "ast",
+        "postcss",
+        "value",
+        "values",
+        "parser",
+        "parsing",
+        "properties"
+      ],
+      "author": "shellscape"
+    },
+    {
+      "name": "postcss-font-variant",
+      "descriptions": "PostCSS plugin to transform W3C font-variant properties to more compatible CSS (font-feature-settings)",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin",
+        "font",
+        "variant",
+        "font-variant"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "css-unit-converter",
+      "descriptions": "Converts CSS values from one unit to another",
+      "keyword": [
+        "css",
+        "value",
+        "unit",
+        "converter",
+        "convert"
+      ],
+      "author": "andyjansson"
+    },
+    {
+      "name": "rgba-regex",
+      "descriptions": "Regex for matching RGBA color strings.",
+      "keyword": [
+        "css",
+        "regex",
+        "regexp",
+        "regexps",
+        "rgba",
+        "color",
+        "regular",
+        "expression"
+      ],
+      "author": "johno"
+    },
+    {
+      "name": "postcss-media-minmax",
+      "descriptions": "Using more intuitive `>=`, `<=`, `>`, `<` instead of media queries min/max prefix.",
+      "keyword": [
+        "css",
+        "css3",
+        "postcss",
+        "postcss-plugin",
+        "media querie",
+        "media queries"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-normalize-positions",
+      "descriptions": "Normalize keyword values for position into length values.",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "icss-replace-symbols",
+      "descriptions": "Replacing symbols during the linking phase of ICSS",
+      "keyword": [
+        "css",
+        "modules",
+        "icss",
+        "postcss"
+      ],
+      "author": "geelen"
+    },
+    {
+      "name": "hsl-regex",
+      "descriptions": "Regex for matching HSL colors.",
+      "keyword": [
+        "hsl",
+        "regex",
+        "regexp",
+        "color",
+        "css"
+      ],
+      "author": "johno"
+    },
+    {
+      "name": "hsla-regex",
+      "descriptions": "Regex for matching HSLA colors.",
+      "keyword": [
+        "hsla",
+        "regex",
+        "regexp",
+        "color",
+        "css"
+      ],
+      "author": "johno"
+    },
+    {
+      "name": "rgb-regex",
+      "descriptions": "Regex for RGB color strings.",
+      "keyword": [
+        "css",
+        "regex",
+        "regexp",
+        "regexps",
+        "rgb",
+        "color",
+        "regular",
+        "expression"
+      ],
+      "author": "johno"
+    },
+    {
+      "name": "postcss-normalize-string",
+      "descriptions": "Normalize wrapping quotes for CSS string literals.",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "css-to-react-native",
+      "descriptions": "Convert CSS text to a React Native stylesheet object",
+      "keyword": [
+        "styled-components",
+        "React",
+        "ReactNative",
+        "styles",
+        "CSS"
+      ],
+      "author": "jacobp100"
+    },
+    {
+      "name": "colornames",
+      "descriptions": "Map color names to HEX color values.",
+      "keyword": [
+        "color",
+        "colour",
+        "names",
+        "css",
+        "hex",
+        "rgb",
+        "convert"
+      ],
+      "author": "timoxley"
+    },
+    {
+      "name": "styled-jsx",
+      "descriptions": "Full CSS support for JSX without compromises",
+      "keyword": [
+        "babel-plugin-macros",
+        "zeit",
+        "css-in-js",
+        "css"
+      ],
+      "author": "giuseppegurgone"
+    },
+    {
+      "name": "postcss-normalize-unicode",
+      "descriptions": "Normalize unicode-range descriptors, and can convert to wildcard ranges.",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "postcss-url",
+      "descriptions": "PostCSS plugin to rebase or inline on url().",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin",
+        "url",
+        "rebase",
+        "inline",
+        "base64",
+        "assets"
+      ],
+      "author": "sergcen"
+    },
+    {
+      "name": "postcss-replace-overflow-wrap",
+      "descriptions": "PostCSS plugin to replace overflow-wrap with word-wrap or optionally retain both declarations.",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "overflow-wrap",
+        "word-wrap"
+      ],
+      "author": "mattdimu"
+    },
+    {
+      "name": "grunt-contrib-cssmin",
+      "descriptions": "Minify CSS",
+      "keyword": [
+        "gruntplugin",
+        "cssmin",
+        "css",
+        "style",
+        "styles",
+        "stylesheet",
+        "minify",
+        "compress"
+      ],
+      "author": "xhmikosr"
+    },
+    {
+      "name": "specificity",
+      "descriptions": "Calculate the specificity of a CSS selector",
+      "keyword": [
+        "CSS",
+        "specificity"
+      ],
+      "author": "keeganstreet"
+    },
+    {
+      "name": "material-colors",
+      "descriptions": "Colors of Google's Material Design made available to coders",
+      "keyword": [
+        "colors",
+        "palette",
+        "design",
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "stylus",
+        "javascript"
+      ],
+      "author": "shuhei"
+    },
+    {
+      "name": "postcss-color-hex-alpha",
+      "descriptions": "Use 4 & 8 character hex color notation in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "color",
+        "hex",
+        "alpha",
+        "transparent",
+        "transparency",
+        "4-digit",
+        "8-digit",
+        "w3c",
+        "csswg",
+        "specification",
+        "spec"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "hyphenate-style-name",
+      "descriptions": "Hyphenates a camelcased CSS property name",
+      "keyword": [
+        "hyphenate",
+        "style",
+        "css",
+        "camelcase"
+      ],
+      "author": "rexxars"
+    },
+    {
+      "name": "stylelint-order",
+      "descriptions": "A collection of order related linting rules for stylelint.",
+      "keyword": [
+        "stylelint-plugin",
+        "stylelint",
+        "css",
+        "lint",
+        "order"
+      ],
+      "author": "hudochenkov"
+    },
+    {
+      "name": "known-css-properties",
+      "descriptions": "List of known CSS properties",
+      "keyword": [
+        "css",
+        "properties",
+        "w3c",
+        "chrome",
+        "firefox",
+        "explorer",
+        "edge",
+        "safari",
+        "opera",
+        "samsung-internet",
+        "uc-browser"
+      ],
+      "author": "vio"
+    },
+    {
+      "name": "postcss-pseudo-class-any-link",
+      "descriptions": "Use the :any-link pseudo-class in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "link",
+        "visited",
+        "any-link",
+        "a",
+        "area",
+        "hyperlink",
+        "href"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-color-rebeccapurple",
+      "descriptions": "PostCSS plugin to transform W3C CSS rebeccapurple color to more compatible CSS (rgb())",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin",
+        "color",
+        "colour",
+        "rgb",
+        "rebeccapurple"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "kuler",
+      "descriptions": "Color your terminal using CSS/hex color codes",
+      "keyword": [
+        "kuler",
+        "ansi",
+        "color",
+        "colour",
+        "chalk",
+        "css",
+        "hex",
+        "rgb",
+        "rgv"
+      ],
+      "author": "3rdeden"
+    },
+    {
+      "name": "bulma",
+      "descriptions": "Modern CSS framework based on Flexbox",
+      "keyword": [
+        "css",
+        "sass",
+        "flexbox",
+        "responsive",
+        "framework"
+      ],
+      "author": "jgthms"
+    },
+    {
+      "name": "postcss-color-mod-function",
+      "descriptions": "Modify colors using the color-mod() function in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "colors",
+        "colours",
+        "modifications",
+        "mods",
+        "adjusters",
+        "adjustments",
+        "csswg",
+        "rgba",
+        "hsla",
+        "white",
+        "black",
+        "View more"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-sass",
+      "descriptions": "A Sass parser for PostCSS, using gonzales-pe.",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "postcss-sass",
+        "sass"
+      ],
+      "author": "aleshaoleg"
+    },
+    {
+      "name": "postcss-color-gray",
+      "descriptions": "Use the gray() color function in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "gray",
+        "color",
+        "lab",
+        "transform",
+        "function",
+        "csswg",
+        "w3c",
+        "specification"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-attribute-case-insensitive",
+      "descriptions": "PostCSS plugin to support case insensitive attributes",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "attribute",
+        "insensitive",
+        "sensitive",
+        "CSS4"
+      ],
+      "author": "semigradsky"
+    },
+    {
+      "name": "bootstrap-vue",
+      "descriptions": "BootstrapVue, with over 40 plugins and more than 80 custom components, provides one of the most comprehensive implementations of Bootstrap v4 components and grid system for Vue.js. With extensive and automated WAI-ARIA accessibility markup.",
+      "keyword": [
+        "Bootstrap",
+        "Bootstrap v4",
+        "Bootstrap for Vue",
+        "SSR",
+        "Web",
+        "Components",
+        "Directives",
+        "ARIA",
+        "Accessibility",
+        "Polymer",
+        "Vue",
+        "VueJS",
+        "Vue2",
+        "WebComponents",
+        "View more"
+      ],
+      "author": "tmorehouse"
+    },
+    {
+      "name": "cssauron",
+      "descriptions": "Create matching selectors from css for your very own nested object hierarchy",
+      "keyword": [
+        "css",
+        "selector",
+        "parser",
+        "match"
+      ],
+      "author": "chrisdickinson"
+    },
+    {
+      "name": "postcss-image-set-function",
+      "descriptions": "Display resolution-dependent images using the image-set() function in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "image-set",
+        "background",
+        "image",
+        "responsive",
+        "resolution",
+        "negotiation",
+        "optimization"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "css-prefers-color-scheme",
+      "descriptions": "Use light and dark color schemes in all browsers",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "media",
+        "query",
+        "prefers",
+        "color",
+        "scheme",
+        "dark",
+        "light",
+        "no-preference",
+        "mode",
+        "queries",
+        "interface"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-dir-pseudo-class",
+      "descriptions": "Use the :dir pseudo-class in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "directionality",
+        "directions",
+        "selector",
+        "attribute",
+        "polyfill",
+        "left",
+        "left-to-right",
+        "ltr",
+        "right",
+        "right-to-left",
+        "rtl"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-focus-visible",
+      "descriptions": "Use the :focus-visible pseudo-selector in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "focus",
+        "ring",
+        "pseudos",
+        "selectors",
+        "accessibility",
+        "a11y",
+        "keyboards",
+        "pointer",
+        "cursor",
+        "mice",
+        "mouse",
+        "View more"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-logical",
+      "descriptions": "Use logical properties and values in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "logical",
+        "flow",
+        "relative",
+        "property",
+        "properties",
+        "values",
+        "ltr",
+        "rtl",
+        "dir",
+        "directions",
+        "directional",
+        "View more"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-focus-within",
+      "descriptions": "Use the :focus-within pseudo-selector in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "focus",
+        "within",
+        "polyfill",
+        "pseudos",
+        "selectors",
+        "accessibility",
+        "a11y",
+        "descendants",
+        "ancestors"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-page-break",
+      "descriptions": "PostCSS plugin postcss-page-break to fallback `break-` properties with `page-break-` alias",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "break",
+        "break-inside",
+        "page-break-inside",
+        "avoid"
+      ],
+      "author": "shrpne"
+    },
+    {
+      "name": "rst-selector-parser",
+      "descriptions": "A CSS-based selector parser for React Standard Tree (RST) traversal",
+      "keyword": [
+        "css",
+        "selector",
+        "parser"
+      ],
+      "author": "aweary"
+    },
+    {
+      "name": "cssdb",
+      "descriptions": "A comprehensive list of CSS features and their positions in the process of becoming implemented web standards",
+      "keyword": [
+        "css",
+        "features",
+        "list",
+        "specifications",
+        "stages",
+        "tc39"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-lab-function",
+      "descriptions": "Use lab() and lch() color functions in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "color",
+        "colors",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla",
+        "hwb",
+        "functional",
+        "notation",
+        "design",
+        "syntax",
+        "View more"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-color-functional-notation",
+      "descriptions": "Use space and slash separated color notation in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "color",
+        "colors",
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla",
+        "hwb",
+        "functional",
+        "notation",
+        "design",
+        "syntax",
+        "View more"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-env-function",
+      "descriptions": "Use env() variables in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "environments",
+        "variables",
+        "envs",
+        "constants",
+        "functions"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-place",
+      "descriptions": "Use a place-* shorthand for align-* and justify-* in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "shorthands",
+        "alignments",
+        "justifies",
+        "justify",
+        "aligns",
+        "contents",
+        "selfs"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-overflow-shorthand",
+      "descriptions": "Use the overflow shorthand in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "overflow",
+        "properties",
+        "shorthands",
+        "values"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-gap-properties",
+      "descriptions": "Use the gap, column-gap, and row-gap shorthand properties in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "grids",
+        "layouts",
+        "columns",
+        "rows",
+        "gaps",
+        "shorthands",
+        "prefixes"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "caniuse-db",
+      "descriptions": "Raw browser/feature support data from caniuse.com",
+      "keyword": [
+        "support",
+        "css",
+        "js",
+        "html5",
+        "svg"
+      ],
+      "author": "fyrd"
+    },
+    {
+      "name": "precss",
+      "descriptions": "Use Sass-like markup and staged CSS features in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "sass",
+        "scss",
+        "variables",
+        "conditionals",
+        "iterations",
+        "iterators",
+        "iterables",
+        "iterate",
+        "contents",
+        "eaches",
+        "elses",
+        "View more"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-double-position-gradients",
+      "descriptions": "Use double-position gradients in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "double",
+        "position",
+        "gradients",
+        "linear",
+        "radial",
+        "conic",
+        "color",
+        "stop",
+        "syntax",
+        "repeating"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-html",
+      "descriptions": "PostCSS syntax for parsing HTML (and HTML-like)",
+      "keyword": [
+        "postcss",
+        "syntax",
+        "html",
+        "vue",
+        "quickapp",
+        "PHP",
+        "css",
+        "less",
+        "sass",
+        "scss",
+        "sss",
+        "sugarss"
+      ],
+      "author": "gucong"
+    },
+    {
+      "name": "css-has-pseudo",
+      "descriptions": "Style elements relative to other elements in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "javascript",
+        "js",
+        "polyfill",
+        "has",
+        "contains",
+        "descendant",
+        "pseudo",
+        "selector"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "css-blank-pseudo",
+      "descriptions": "Style form elements when they are empty",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "javascript",
+        "js",
+        "polyfill",
+        "blank",
+        "empty",
+        "pseudo",
+        "selectors",
+        "accessibility",
+        "a11y",
+        "input",
+        "select"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "rework-visit",
+      "descriptions": "Rework declaration visitor utility",
+      "keyword": [
+        "css",
+        "rework"
+      ],
+      "author": "tjholowaychuk"
+    },
+    {
+      "name": "react-responsive",
+      "descriptions": "Media queries in react for responsive design",
+      "keyword": [
+        "css",
+        "react-component",
+        "viewport",
+        "react",
+        "mobile",
+        "media queries",
+        "respond",
+        "media query",
+        "matchMedia",
+        "responsive",
+        "component"
+      ],
+      "author": "contra"
+    },
+    {
+      "name": "chartjs-color",
+      "descriptions": "Color conversion and manipulation with CSS string support",
+      "keyword": [
+        "color",
+        "colour",
+        "css"
+      ],
+      "author": "chartjs-ci"
+    },
+    {
+      "name": "hast-util-parse-selector",
+      "descriptions": "Parse a simple CSS selector to a HAST node",
+      "keyword": [
+        "hast",
+        "rehype",
+        "selector",
+        "parse",
+        "css",
+        "html"
+      ],
+      "author": "wooorm"
+    },
+    {
+      "name": "normalize-selector",
+      "descriptions": "Normalize CSS Selectors",
+      "keyword": [
+        "CSS"
+      ],
+      "author": "getify"
+    },
+    {
+      "name": "cropperjs",
+      "descriptions": "JavaScript image cropper.",
+      "keyword": [
+        "image",
+        "crop",
+        "move",
+        "zoom",
+        "rotate",
+        "scale",
+        "cropper",
+        "cropper.js",
+        "cropping",
+        "processing",
+        "html",
+        "css",
+        "javascript",
+        "front-end"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "postcss-modules",
+      "descriptions": "PostCSS plugin to use CSS Modules everywhere",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "modules",
+        "css modules",
+        "components"
+      ],
+      "author": "outpunk"
+    },
+    {
+      "name": "css-vendor",
+      "descriptions": "CSS vendor prefix detection and property feature testing.",
+      "keyword": [
+        "css",
+        "vendor",
+        "feature",
+        "test",
+        "prefix",
+        "cssinjs",
+        "jss",
+        "css-in-js"
+      ],
+      "author": "aleshaoleg"
+    },
+    {
+      "name": "ng-packagr",
+      "descriptions": "Compile and package a TypeScript library to Angular Package Format",
+      "keyword": [
+        "angular",
+        "angular2",
+        "angular4",
+        "angular-library",
+        "angular-components",
+        "component-library",
+        "typescript",
+        "css",
+        "scss",
+        "html"
+      ],
+      "author": "haggis_"
+    },
+    {
+      "name": "text-hex",
+      "descriptions": "Generate a hex color from the given text",
+      "keyword": [
+        "css",
+        "color",
+        "hex",
+        "text"
+      ],
+      "author": "3rdeden"
+    },
+    {
+      "name": "gulp-cssnano",
+      "descriptions": "Minify CSS with cssnano.",
+      "keyword": [
+        "cssnano",
+        "minify",
+        "minification",
+        "optimise",
+        "optimisation",
+        "css",
+        "gulpplugin",
+        "postcss"
+      ],
+      "author": "beneb"
+    },
+    {
+      "name": "sass-resources-loader",
+      "descriptions": "SASS resources loader for Webpack",
+      "keyword": [
+        "css",
+        "sass",
+        "webpack"
+      ],
+      "author": "justin808"
+    },
+    {
+      "name": "css-color-keywords",
+      "descriptions": "A list of all CSS color keywords.",
+      "keyword": [
+        "css",
+        "color",
+        "keywords",
+        "list"
+      ],
+      "author": "sonicdoe"
+    },
+    {
+      "name": "grunt-sass",
+      "descriptions": "Compile Sass to CSS using node-sass",
+      "keyword": [
+        "gruntplugin",
+        "css",
+        "sass",
+        "scss",
+        "style",
+        "compile",
+        "preprocess",
+        "libsass"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "css.escape",
+      "descriptions": "A robust polyfill for the `CSS.escape` utility method as defined in CSSOM.",
+      "keyword": [
+        "string",
+        "unicode",
+        "identifier",
+        "css",
+        "cssom",
+        "polyfill"
+      ],
+      "author": "mathias"
+    },
+    {
+      "name": "uncss",
+      "descriptions": "Remove unused CSS styles",
+      "keyword": [
+        "optimize",
+        "optimise",
+        "unused",
+        "rules",
+        "selector",
+        "CSS",
+        "HTML"
+      ],
+      "author": "giakki"
+    },
+    {
+      "name": "style-search",
+      "descriptions": "Search CSS(-like) strings",
+      "keyword": [
+        "css",
+        "search",
+        "stylelint"
+      ],
+      "author": "davidtheclark"
+    },
+    {
+      "name": "aphrodite",
+      "descriptions": "Framework-agnostic CSS-in-JS with support for server-side rendering, browser prefixing, and minimum CSS generation",
+      "keyword": [
+        "css",
+        "react",
+        "inline-styles"
+      ],
+      "author": "lencioni"
+    },
+    {
+      "name": "gulp-useref",
+      "descriptions": "Parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets.",
+      "keyword": [
+        "gulpplugin",
+        "html",
+        "scripts",
+        "css",
+        "optimize",
+        "concat"
+      ],
+      "author": "jonkemp"
+    },
+    {
+      "name": "create-emotion",
+      "descriptions": "The Next Generation of CSS-in-JS.",
+      "keyword": [
+        "styles",
+        "emotion",
+        "react",
+        "css",
+        "css-in-js"
+      ],
+      "author": "mitchellhamilton"
+    },
+    {
+      "name": "object-fit-images",
+      "descriptions": "Polyfill object-fit and object-position on images on IE9, IE10, IE11, Edge, Safari, ...",
+      "keyword": [
+        "polyfill",
+        "object-fit",
+        "covers",
+        "contains",
+        "css",
+        "styles",
+        "internet",
+        "explorer",
+        "ies",
+        "shim",
+        "shiv",
+        "fills",
+        "images",
+        "srcset"
+      ],
+      "author": "bfred-it"
+    },
+    {
+      "name": "parse-color",
+      "descriptions": "Parse a css color string (plus hsv and cmyk) into an object",
+      "keyword": [
+        "rgb",
+        "rgba",
+        "hsl",
+        "hsla",
+        "hsv",
+        "hsva",
+        "cmyk",
+        "cmyka",
+        "color",
+        "css",
+        "alpha"
+      ],
+      "author": "substack"
+    },
+    {
+      "name": "react-with-styles",
+      "descriptions": "[![Build Status][travis-svg]][travis-url] [![dependency status][deps-svg]][deps-url] [![dev dependency status][dev-deps-svg]][dev-deps-url] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]",
+      "keyword": [
+        "react",
+        "css",
+        "styles",
+        "aphrodite",
+        "radium",
+        "inline",
+        "native"
+      ],
+      "author": "noratarano"
+    },
+    {
+      "name": "foundation-sites",
+      "descriptions": "The most advanced responsive front-end framework in the world.",
+      "keyword": [
+        "css",
+        "scss",
+        "sass",
+        "js",
+        "responsive",
+        "mobile-first",
+        "framework",
+        "eyeglass-module",
+        "handlebars-helper-rel",
+        "handlebars-helper-slugify"
+      ],
+      "author": "joeworkman"
+    },
+    {
+      "name": "@csstools/normalize.css",
+      "descriptions": "A cross-browser CSS foundation",
+      "keyword": [
+        "css",
+        "normalizes",
+        "browsers",
+        "fixes"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "extract-css-chunks-webpack-plugin",
+      "descriptions": "Extract CSS from chunks into stylesheets + HMR. Supports Webpack 4 + SSR",
+      "keyword": [
+        "css",
+        "chunks",
+        "code splitting",
+        "mini-css",
+        "hot",
+        "hmr",
+        "universal",
+        "webpack",
+        "webpack 4",
+        "css-hot-loader",
+        "extract-css-chunks-webpack-plugin"
+      ],
+      "author": "zackljackson"
+    },
+    {
+      "name": "sanitize.css",
+      "descriptions": "A best-practices CSS foundation",
+      "keyword": [
+        "css",
+        "normalizes",
+        "sanitizes",
+        "browsers",
+        "fixes"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "css-selector-parser",
+      "descriptions": "Just a CSS selector parser.",
+      "keyword": [
+        "css",
+        "css selector",
+        "css selector parser"
+      ],
+      "author": "mdevils"
+    },
+    {
+      "name": "spritesmith",
+      "descriptions": "Utility that takes images and creates a spritesheet with JSON sprite data",
+      "keyword": [
+        "sprite",
+        "spritesheet",
+        "css"
+      ],
+      "author": "twolfson"
+    },
+    {
+      "name": "gulp-csso",
+      "descriptions": "Minify CSS with CSSO.",
+      "keyword": [
+        "gulpplugin",
+        "minify",
+        "css"
+      ],
+      "author": "lahmatiy"
+    },
+    {
+      "name": "glamor",
+      "descriptions": "Inline css for component systems",
+      "keyword": [
+        "css",
+        "inline"
+      ],
+      "author": "threepointone"
+    },
+    {
+      "name": "animejs",
+      "descriptions": "JavaScript animation engine",
+      "keyword": [
+        "anime",
+        "animation",
+        "javascript",
+        "CSS",
+        "transforms",
+        "SVG",
+        "canvas"
+      ],
+      "author": "juliangarnier"
+    },
+    {
+      "name": "postcss-jsx",
+      "descriptions": "PostCSS syntax for parsing CSS in JS literals",
+      "keyword": [
+        "postcss",
+        "syntax",
+        "emotion",
+        "aphrodite",
+        "glamor",
+        "glamorous",
+        "react-native",
+        "react-style",
+        "reactcss",
+        "styled-components",
+        "styletron-react",
+        "typestyle",
+        "css-in-js",
+        "css"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "react-jss",
+      "descriptions": "JSS integration with React",
+      "keyword": [
+        "react",
+        "style",
+        "css",
+        "stylesheet",
+        "jss",
+        "hoc",
+        "decorator"
+      ],
+      "author": "kof"
+    },
+    {
+      "name": "postcss-simple-vars",
+      "descriptions": "PostCSS plugin for Sass-like variables",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "sass",
+        "variables",
+        "vars"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "svg-sprite",
+      "descriptions": "SVG sprites & stacks galore — A low-level Node.js module that takes a bunch of SVG files, optimizes them and bakes them into SVG sprites of several types along with suitable stylesheet resources (e.g. CSS, Sass, LESS, Stylus, etc.)",
+      "keyword": [
+        "icon",
+        "icons",
+        "svg",
+        "png",
+        "sprite",
+        "spritesheet",
+        "stack",
+        "generator",
+        "css",
+        "sass",
+        "less",
+        "stylus",
+        "stylesheet",
+        "inline",
+        "View more"
+      ],
+      "author": "jkphl"
+    },
+    {
+      "name": "slick",
+      "descriptions": "Standalone CSS Selector Finder and Parser.",
+      "keyword": [
+        "dom",
+        "css",
+        "selector",
+        "finder",
+        "parser"
+      ],
+      "author": "kamicane"
+    },
+    {
+      "name": "postcss-markdown",
+      "descriptions": "PostCSS syntax for parsing Markdown",
+      "keyword": [
+        "postcss",
+        "syntax",
+        "markdown",
+        "html",
+        "css",
+        "less",
+        "sass",
+        "scss",
+        "sss",
+        "sugarss"
+      ],
+      "author": "gucong"
+    },
+    {
+      "name": "pretty-data",
+      "descriptions": "Plugin to pretty-print or minify XML, JSON, CSS and SQL files",
+      "keyword": [
+        "pretty print",
+        "beautify",
+        "minify",
+        "XML",
+        "JSON",
+        "CSS",
+        "SQL"
+      ],
+      "author": "vkiryukhin"
+    },
+    {
+      "name": "postcss-browser-comments",
+      "descriptions": "Keep only the CSS you need based on comments and your browserslist",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "browserslists",
+        "browserlists",
+        "browsers",
+        "lists",
+        "support",
+        "caniuse",
+        "target"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-js",
+      "descriptions": "PostCSS for React Inline Styles, Radium, Free Style and other CSS-in-JS",
+      "keyword": [
+        "postcss",
+        "postcss-runner",
+        "js",
+        "inline",
+        "react",
+        "css",
+        "cssinjs"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "stylelint-config-prettier",
+      "descriptions": "Turns off all rules that are unnecessary or might conflict with Prettier.",
+      "keyword": [
+        "stylelint",
+        "prettier",
+        "config",
+        "lint",
+        "css"
+      ],
+      "author": "shannonmoeller"
+    },
+    {
+      "name": "css-stringify",
+      "descriptions": "CSS compiler",
+      "keyword": [
+        "css",
+        "stringify",
+        "stylesheet"
+      ],
+      "author": "necolas"
+    },
+    {
+      "name": "gulp-cssmin",
+      "descriptions": "Minify css using gulp",
+      "keyword": [
+        "gulpjs",
+        "gulpplugin",
+        "min",
+        "css"
+      ],
+      "author": "chilijung"
+    },
+    {
+      "name": "reduce-css-calc",
+      "descriptions": "Reduce CSS calc() function to the maximum",
+      "keyword": [
+        "css",
+        "calculation",
+        "calc"
+      ],
+      "author": "moox"
+    },
+    {
+      "name": "jss-plugin-rule-value-function",
+      "descriptions": "JSS plugin for function value and rule syntax",
+      "keyword": [
+        "jss",
+        "style",
+        "sheet",
+        "stylesheet",
+        "css",
+        "components",
+        "composable",
+        "css in js",
+        "css-in-js",
+        "dynamic",
+        "function",
+        "reactive",
+        "animation"
+      ],
+      "author": "kof"
+    },
+    {
+      "name": "convert-css-length",
+      "descriptions": "Convert between css lengths e.g. em->px or px->rem",
+      "keyword": [
+        "css",
+        "length",
+        "convert",
+        "units",
+        "sass",
+        "compass"
+      ],
+      "author": "kylemathews"
+    },
+    {
+      "name": "postcss-mixins",
+      "descriptions": "PostCSS plugin for mixins",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "mixins",
+        "sass"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "bourbon",
+      "descriptions": "A lightweight Sass tool set.",
+      "keyword": [
+        "css",
+        "eyeglass-module",
+        "mixins",
+        "sass",
+        "scss"
+      ],
+      "author": "tysongach"
+    },
+    {
+      "name": "css-value",
+      "descriptions": "CSS value parser",
+      "keyword": [
+        "css",
+        "parser",
+        "value"
+      ],
+      "author": "tjholowaychuk"
+    },
+    {
+      "name": "nwmatcher",
+      "descriptions": "A CSS3-compliant JavaScript selector engine.",
+      "keyword": [
+        "css",
+        "matcher",
+        "selector",
+        "ender"
+      ],
+      "author": "diego"
+    },
+    {
+      "name": "react-media",
+      "descriptions": "CSS media queries for React",
+      "keyword": [
+        "react",
+        "media",
+        "media query",
+        "query",
+        "css",
+        "responsive"
+      ],
+      "author": "mjackson"
+    },
+    {
+      "name": "gulp-concat-css",
+      "descriptions": "Concatenate css files, rebasing urls and inlining @import",
+      "keyword": [
+        "gulpplugin",
+        "concat",
+        "css",
+        "import",
+        "merge",
+        "inline"
+      ],
+      "author": "mariocasciaro"
+    },
+    {
+      "name": "spin.js",
+      "descriptions": "A spinning activity indicator",
+      "keyword": [
+        "css",
+        "progress indicator",
+        "spin",
+        "spinner"
+      ],
+      "author": "theodorejb"
+    },
+    {
+      "name": "dom-css",
+      "descriptions": "Fast dom CSS styling",
+      "keyword": [
+        "dom",
+        "css",
+        "style",
+        "sheet",
+        "animate",
+        "element",
+        "px",
+        "pixels"
+      ],
+      "author": "mattdesl"
+    },
+    {
+      "name": "chartjs-color-string",
+      "descriptions": "Parser and generator for CSS color strings",
+      "keyword": [
+        "color",
+        "colour",
+        "rgb",
+        "css"
+      ],
+      "author": "chartjs-ci"
+    },
+    {
+      "name": "postcss-color-function",
+      "descriptions": "PostCSS plugin to transform W3C CSS color function to more compatible CSS.",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin",
+        "color",
+        "colour",
+        "function"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "postcss-sorting",
+      "descriptions": "PostCSS plugin to keep rules and at-rules content in order.",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "sorting",
+        "order"
+      ],
+      "author": "hudochenkov"
+    },
+    {
+      "name": "gulp-stylus",
+      "descriptions": "Stylus plugin for gulp",
+      "keyword": [
+        "gulp",
+        "stylus",
+        "css",
+        "preprocessor",
+        "gulpplugin",
+        "gulp-plugin"
+      ],
+      "author": "stevelacy"
+    },
+    {
+      "name": "@atlaskit/theme",
+      "descriptions": "The Atlaskit theme framework",
+      "keyword": [
+        "atlaskit",
+        "css",
+        "theme",
+        "react",
+        "ui"
+      ],
+      "author": "atlaskit"
+    },
+    {
+      "name": "minify",
+      "descriptions": "Minifier of js, css, html and img",
+      "keyword": [
+        "minify",
+        "minimize",
+        "js",
+        "css",
+        "img",
+        "html",
+        "base64"
+      ],
+      "author": "coderaiser"
+    },
+    {
+      "name": "insert-css",
+      "descriptions": "Insert a string of css into the <head>",
+      "keyword": [
+        "css",
+        "insert",
+        "dom",
+        "browser",
+        "browserify",
+        "inject",
+        "styles",
+        "stylesheet",
+        "style",
+        "html",
+        "head",
+        "link"
+      ],
+      "author": "vvo"
+    },
+    {
+      "name": "postcss-reduce-idents",
+      "descriptions": "Reduce custom identifiers with PostCSS.",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "uglifycss",
+      "descriptions": "Port of YUI CSS Compressor to NodeJS",
+      "keyword": [
+        "css",
+        "stylesheet",
+        "uglify",
+        "minify"
+      ],
+      "author": "fmarcia"
+    },
+    {
+      "name": "camelcase-css",
+      "descriptions": "Convert a kebab-cased CSS property into a camelCased DOM property.",
+      "keyword": [
+        "camelcase",
+        "case",
+        "css",
+        "dom"
+      ],
+      "author": "stevenvachon"
+    },
+    {
+      "name": "purgecss",
+      "descriptions": "Remove unused css selectors.",
+      "keyword": [
+        "optimization",
+        "remove",
+        "unused",
+        "css",
+        "purge",
+        "uncss",
+        "purify"
+      ],
+      "author": "ffloriel"
+    },
+    {
+      "name": "postcss-message-helpers",
+      "descriptions": "PostCSS helpers to throw or output GNU style messages",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugins",
+        "messages",
+        "error",
+        "warning"
+      ],
+      "author": "moox"
+    },
+    {
+      "name": "react-css-modules",
+      "descriptions": "Seamless mapping of class names to CSS modules inside of React components.",
+      "keyword": [
+        "react-component",
+        "react",
+        "css",
+        "modules"
+      ],
+      "author": "gajus"
+    },
+    {
+      "name": "gulp-svg-sprite",
+      "descriptions": "SVG sprites & stacks galore — Gulp plugin wrapping around svg-sprite that reads in a bunch of SVG files, optimizes them and creates SVG sprites and CSS resources in various flavours",
+      "keyword": [
+        "gulpplugin",
+        "icon",
+        "icons",
+        "svg",
+        "png",
+        "sprite",
+        "spritesheet",
+        "stack",
+        "generator",
+        "css",
+        "sass",
+        "less",
+        "stylus",
+        "stylesheet",
+        "View more"
+      ],
+      "author": "jkphl"
+    },
+    {
+      "name": "css-box-model",
+      "descriptions": "Get accurate and well named css box model information about an Element 📦",
+      "keyword": [
+        "css",
+        "box model",
+        "css box model",
+        "getBoundingClientRect",
+        "DOMRect",
+        "ClientRect",
+        "Rect",
+        "Spacing",
+        "DOM"
+      ],
+      "author": "alexreardon"
+    },
+    {
+      "name": "ignore-styles",
+      "descriptions": "Ignore imported style files when running in Node",
+      "keyword": [
+        "webpack",
+        "css",
+        "testing"
+      ],
+      "author": "bkonkle"
+    },
+    {
+      "name": "style-to-object",
+      "descriptions": "Converts inline style to object.",
+      "keyword": [
+        "style-to-object",
+        "inline",
+        "style",
+        "parser",
+        "css",
+        "object",
+        "pojo"
+      ],
+      "author": "remarkablemark"
+    },
+    {
+      "name": "postcss-pxtorem",
+      "descriptions": "A CSS post-processor that converts px to rem.",
+      "keyword": [
+        "css",
+        "rem",
+        "pixel",
+        "px",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "cuth"
+    },
+    {
+      "name": "gulp-stylelint",
+      "descriptions": "Gulp plugin for running Stylelint results through various reporters.",
+      "keyword": [
+        "gulpplugin",
+        "stylelint",
+        "postcss",
+        "css"
+      ],
+      "author": "olegskl"
+    },
+    {
+      "name": "rtlcss",
+      "descriptions": "Framework for transforming cascading style sheets (CSS) from left-to-right (LTR) to right-to-left (RTL)",
+      "keyword": [
+        "rtl",
+        "css",
+        "ltr",
+        "rtlcss",
+        "framework",
+        "style",
+        "mirror",
+        "flip",
+        "convert",
+        "transform"
+      ],
+      "author": "myounes"
+    },
+    {
+      "name": "grunt-contrib-sass",
+      "descriptions": "Compile Sass to CSS",
+      "keyword": [
+        "gruntplugin",
+        "scss",
+        "sass",
+        "css",
+        "compile",
+        "preprocessor",
+        "style"
+      ],
+      "author": "vladikoff"
+    },
+    {
+      "name": "css-in-js-utils",
+      "descriptions": "Useful utility functions for CSS in JS solutions",
+      "keyword": [
+        "css",
+        "cssinjs",
+        "utils",
+        "small"
+      ],
+      "author": "rofrischmann"
+    },
+    {
+      "name": "hamburgers",
+      "descriptions": "Collection of tasty CSS-animated hamburger icons. Includes Sass files (modular and customizable), so cook up your own hamburger.",
+      "keyword": [
+        "css",
+        "hamburger",
+        "hamburgers",
+        "eyeglass-module",
+        "menu",
+        "sass",
+        "scss"
+      ],
+      "author": "jonsuh"
+    },
+    {
+      "name": "react-with-styles-interface-css",
+      "descriptions": "Interface for react-with-styles outputting CSS",
+      "keyword": [
+        "react-with-styles",
+        "css-in-js",
+        "css"
+      ],
+      "author": "noratarano"
+    },
+    {
+      "name": "doiuse",
+      "descriptions": "Lint CSS for browser support against caniuse database",
+      "keyword": [
+        "lint",
+        "css",
+        "browser",
+        "support"
+      ],
+      "author": "pkuczynski"
+    },
+    {
+      "name": "github-markdown-css",
+      "descriptions": "The minimal amount of CSS to replicate the GitHub Markdown style",
+      "keyword": [
+        "browser",
+        "github",
+        "markdown",
+        "md",
+        "css",
+        "style",
+        "stylesheet"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "pixrem",
+      "descriptions": "A CSS post-processor that generates pixel fallbacks for rem units.",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin",
+        "rem",
+        "parser",
+        "postproccessor",
+        "responsive"
+      ],
+      "author": "robwierzbowski"
+    },
+    {
+      "name": "postcss-advanced-variables",
+      "descriptions": "Use Sass-like variables, conditionals, and iterators in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "sass",
+        "scss",
+        "variables",
+        "conditionals",
+        "iterators",
+        "fors",
+        "eaches",
+        "medias",
+        "defaults"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "grunt-postcss",
+      "descriptions": "Apply several post-processors to your CSS using PostCSS",
+      "keyword": [
+        "gruntplugin",
+        "postcss-runner",
+        "css",
+        "postprocessor",
+        "postcss"
+      ],
+      "author": "weiss"
+    },
+    {
+      "name": "grunt-autoprefixer",
+      "descriptions": "Parse CSS and add vendor-prefixed CSS properties using the Can I Use database. Based on Autoprefixer.",
+      "keyword": [
+        "gruntplugin",
+        "css",
+        "postprocessor",
+        "prefix",
+        "autoprefixer"
+      ],
+      "author": "weiss"
+    },
+    {
+      "name": "jest-image-snapshot",
+      "descriptions": "Jest matcher for image comparisons. Most commonly used for visual regression testing.",
+      "keyword": [
+        "test",
+        "amex",
+        "visual testing",
+        "css",
+        "jest",
+        "browser testing"
+      ],
+      "author": "amexopensource"
+    },
+    {
+      "name": "css-mediaquery",
+      "descriptions": "Parses and determines if a given CSS Media Query matches a set of values.",
+      "keyword": [
+        "css",
+        "media",
+        "query",
+        "mediaquery",
+        "mobile",
+        "parse",
+        "match"
+      ],
+      "author": "ericf"
+    },
+    {
+      "name": "mensch",
+      "descriptions": "A decent CSS parser",
+      "keyword": [
+        "css",
+        "parser",
+        "parsing",
+        "stylesheet"
+      ],
+      "author": "brett"
+    },
+    {
+      "name": "tachyons",
+      "descriptions": "Functional CSS for humans",
+      "keyword": [
+        "css",
+        "oocss",
+        "postcss",
+        "functional css",
+        "design",
+        "responsive",
+        "performance"
+      ],
+      "author": "johno"
+    },
+    {
+      "name": "postcss-prefix-selector",
+      "descriptions": "Prefix all CSS rules with a selector",
+      "keyword": [
+        "postcss",
+        "prefix",
+        "selectors",
+        "postcss-plugin",
+        "css",
+        "selector",
+        "plugin"
+      ],
+      "author": "valentin-radulescu-hs"
+    },
+    {
+      "name": "postcss-zindex",
+      "descriptions": "Reduce z-index values with PostCSS.",
+      "keyword": [
+        "css",
+        "normalize",
+        "optimise",
+        "optimisation",
+        "postcss",
+        "postcss-plugin",
+        "z-index"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "postcss-discard-unused",
+      "descriptions": "Discard unused counter styles, keyframes and fonts.",
+      "keyword": [
+        "css",
+        "minify",
+        "optimise",
+        "postcss",
+        "postcss-plugin",
+        "unused"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "flexboxgrid",
+      "descriptions": "Grid based off of CSS3 flexbox specification",
+      "keyword": [
+        "browser",
+        "flexbox",
+        "grid",
+        "css"
+      ],
+      "author": "dam"
+    },
+    {
+      "name": "postcss-filter-plugins",
+      "descriptions": "Exclude/warn on duplicated PostCSS plugins.",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "ryanzim"
+    },
+    {
+      "name": "postcss-merge-idents",
+      "descriptions": "Merge keyframe and counter style identifiers.",
+      "keyword": [
+        "css",
+        "merge",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "simple-line-icons",
+      "descriptions": "Simple and elegent line icons.",
+      "keyword": [
+        "icon",
+        "simple",
+        "line",
+        "css",
+        "webfont"
+      ],
+      "author": "thesabbir"
+    },
+    {
+      "name": "extracted-loader",
+      "descriptions": "Reloads stylesheets extracted with with ExtractTextPlugin",
+      "keyword": [
+        "webpack",
+        "loader",
+        "css",
+        "scss",
+        "styles",
+        "stylesheets",
+        "hotreload",
+        "next.js"
+      ],
+      "author": "sheerun"
+    },
+    {
+      "name": "csscolorparser",
+      "descriptions": "Https://github.com/deanm/css-color-parser-js",
+      "keyword": [
+        "css",
+        "color",
+        "html5",
+        "parser"
+      ],
+      "author": "deanm"
+    },
+    {
+      "name": "loaders.css",
+      "descriptions": "Loading animations in pure css",
+      "keyword": [
+        "css",
+        "loaders",
+        "animation",
+        "animate"
+      ],
+      "author": "connoratherton"
+    },
+    {
+      "name": "colorguard",
+      "descriptions": "Keep a watchful eye on your css colors",
+      "keyword": [
+        "css",
+        "colors",
+        "lint",
+        "csslint",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "slexaxton"
+    },
+    {
+      "name": "grunt-usemin",
+      "descriptions": "Replaces references to non-optimized scripts or stylesheets into a set of HTML files (or any templates/views)",
+      "keyword": [
+        "gruntplugin",
+        "usemin",
+        "yeoman",
+        "html",
+        "css",
+        "optimize"
+      ],
+      "author": "arthurvr"
+    },
+    {
+      "name": "postcss-property-lookup",
+      "descriptions": "PostCSS plugin that allows referencing property values without a variable",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "property-lookup"
+      ],
+      "author": "simonsmith"
+    },
+    {
+      "name": "css-url-regex",
+      "descriptions": "Regular expression for matching CSS urls.",
+      "keyword": [
+        "css",
+        "css-url",
+        "regex",
+        "regexp"
+      ],
+      "author": "johno"
+    },
+    {
+      "name": "zombie",
+      "descriptions": "Insanely fast, full-stack, headless browser testing using Node.js",
+      "keyword": [
+        "test",
+        "tests",
+        "testing",
+        "TDD",
+        "spec",
+        "specs",
+        "BDD",
+        "headless",
+        "browser",
+        "html",
+        "html5",
+        "dom",
+        "css",
+        "javascript",
+        "View more"
+      ],
+      "author": "assaf"
+    },
+    {
+      "name": "extract-loader",
+      "descriptions": "Webpack loader to extract HTML and CSS from the bundle",
+      "keyword": [
+        "webpack",
+        "loader",
+        "extract",
+        "html",
+        "css"
+      ],
+      "author": "jhnns"
+    },
+    {
+      "name": "critical",
+      "descriptions": "Extract & Inline Critical-path CSS from HTML",
+      "keyword": [
+        "critical",
+        "path",
+        "css",
+        "optimization"
+      ],
+      "author": "bezoerb"
+    },
+    {
+      "name": "inline-style-parser",
+      "descriptions": "An inline style parser.",
+      "keyword": [
+        "inline-style-parser",
+        "inline-style",
+        "style",
+        "parser",
+        "css"
+      ],
+      "author": "remarkablemark"
+    },
+    {
+      "name": "styled-normalize",
+      "descriptions": "Normalize.css for styled-components CSS-in-JS library",
+      "keyword": [
+        "styled",
+        "components",
+        "normalize",
+        "css",
+        "react",
+        "jss",
+        "styles",
+        "import",
+        "export"
+      ],
+      "author": "sergeysova"
+    },
+    {
+      "name": "style-resources-loader",
+      "descriptions": "CSS processor resources loader for webpack",
+      "keyword": [
+        "webpack",
+        "loader",
+        "style",
+        "css",
+        "sass",
+        "scss",
+        "less",
+        "stylus",
+        "inject",
+        "resource",
+        "variable",
+        "mixin"
+      ],
+      "author": "yenshih"
+    },
+    {
+      "name": "colormin",
+      "descriptions": "Turn a CSS color into its smallest representation.",
+      "keyword": [
+        "color",
+        "colors",
+        "compression",
+        "css",
+        "minify"
+      ],
+      "author": "beneb"
+    },
+    {
+      "name": "postcss-apply",
+      "descriptions": "PostCSS plugin enabling custom properties sets references",
+      "keyword": [
+        "css",
+        "apply",
+        "postcss",
+        "postcss-plugin"
+      ],
+      "author": "pascalduez"
+    },
+    {
+      "name": "trumpet",
+      "descriptions": "Parse and transform streaming html using css selectors",
+      "keyword": [
+        "html",
+        "streaming",
+        "parser",
+        "transform",
+        "selectors",
+        "css"
+      ],
+      "author": "substack"
+    },
+    {
+      "name": "admin-lte",
+      "descriptions": "Responsive open source admin dashboard and control panel.",
+      "keyword": [
+        "css",
+        "sass",
+        "responsive",
+        "admin",
+        "template",
+        "theme",
+        "framework",
+        "control-panel",
+        "dashboard"
+      ],
+      "author": "rejack"
+    },
+    {
+      "name": "computed-style",
+      "descriptions": "Cross-browser currentStyle/getComputedStyle implementation",
+      "keyword": [
+        "cross-browser",
+        "getComputedStyle",
+        "currentStyle",
+        "css",
+        "style"
+      ],
+      "author": "twolfson"
+    },
+    {
+      "name": "sassdoc",
+      "descriptions": "Release the docs!",
+      "keyword": [
+        "sass",
+        "scss",
+        "css",
+        "doc",
+        "documentation",
+        "comments",
+        "theme"
+      ],
+      "author": "pascalduez"
+    },
+    {
+      "name": "grunt-contrib-csslint",
+      "descriptions": "Lint CSS files",
+      "keyword": [
+        "gruntplugin",
+        "css",
+        "lint",
+        "csslint"
+      ],
+      "author": "vladikoff"
+    },
+    {
+      "name": "parserlib",
+      "descriptions": "CSS3 SAX-inspired parser",
+      "keyword": [
+        "parser",
+        "css",
+        "css3",
+        "sax",
+        "style",
+        "stylesheet"
+      ],
+      "author": "xhmikosr"
+    },
+    {
+      "name": "purify-css",
+      "descriptions": "Removed unused css. Compatible with single-page apps.",
+      "keyword": [
+        "optimize",
+        "css",
+        "remove",
+        "unused"
+      ],
+      "author": "illyism"
+    },
+    {
+      "name": "isomorphic-style-loader",
+      "descriptions": "CSS style loader for Webpack optimized for critical path CSS rendering and isomoprhic web apps",
+      "keyword": [
+        "webpack",
+        "webpack-loader",
+        "webpack loader",
+        "loader",
+        "css",
+        "scss",
+        "style",
+        "styles",
+        "style-loader",
+        "style loader",
+        "react",
+        "reactjs",
+        "isomorphic",
+        "universal",
+        "View more"
+      ],
+      "author": "frenzzy"
+    },
+    {
+      "name": "matches-selector",
+      "descriptions": "Check if a DOM element matches a given selector, with decent browser support and unit tests.",
+      "keyword": [
+        "browserify",
+        "CSS",
+        "selector"
+      ],
+      "author": "forbeslindesay"
+    },
+    {
+      "name": "web-resource-inliner",
+      "descriptions": "Inlines img, script and link tags into the same file.",
+      "keyword": [
+        "inline",
+        "js",
+        "css",
+        "scripts",
+        "stylesheets",
+        "html",
+        "datauri"
+      ],
+      "author": "jrit"
+    },
+    {
+      "name": "@styled-system/css",
+      "descriptions": "Styled System for the `css` prop",
+      "keyword": [
+        "css",
+        "css-in-js",
+        "emotion",
+        "styled-components",
+        "style",
+        "react"
+      ],
+      "author": "jxnblk"
+    },
+    {
+      "name": "inline-css",
+      "descriptions": "Inline css into an html file.",
+      "keyword": [
+        "inline",
+        "css",
+        "html",
+        "email"
+      ],
+      "author": "jonkemp"
+    },
+    {
+      "name": "emotion-server",
+      "descriptions": "Extract and inline critical css with emotion for server side rendering.",
+      "keyword": [
+        "styles",
+        "emotion",
+        "react",
+        "css",
+        "css-in-js",
+        "ssr",
+        "server-side-rendering"
+      ],
+      "author": "mitchellhamilton"
+    },
+    {
+      "name": "pleeease-filters",
+      "descriptions": "Convert CSS shorthand filters to SVG ones",
+      "keyword": [
+        "postprocessor",
+        "css",
+        "postcss",
+        "pleeease",
+        "filters"
+      ],
+      "author": "iamvdo"
+    },
+    {
+      "name": "viewerjs",
+      "descriptions": "JavaScript image viewer.",
+      "keyword": [
+        "image",
+        "viewer",
+        "viewerjs",
+        "viewer.js",
+        "html",
+        "css",
+        "javascript",
+        "front-end",
+        "web"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "theme-ui",
+      "descriptions": "Build consistent, themeable React UIs based on design system constraints",
+      "keyword": [
+        "theme-ui",
+        "emotion",
+        "mdx",
+        "css",
+        "styles",
+        "css-in-js"
+      ],
+      "author": "jxnblk"
+    },
+    {
+      "name": "normalize-css-color",
+      "descriptions": "Normalize a subset of CSS color values into integers",
+      "keyword": [
+        "css",
+        "color",
+        "convert",
+        "hex"
+      ],
+      "author": "intelligibabble"
+    },
+    {
+      "name": "postcss-css-variables",
+      "descriptions": "PostCSS plugin to transform CSS Custom Properties(CSS variables) syntax into a static representation",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin"
+      ],
+      "author": "mlm"
+    },
+    {
+      "name": "css-color-function",
+      "descriptions": "A parser and converter for Tab Atkins's proposed color function in CSS.",
+      "keyword": [
+        "color",
+        "function",
+        "css",
+        "parse",
+        "convert"
+      ],
+      "author": "thegaw"
+    },
+    {
+      "name": "postcss-color-rgba-fallback",
+      "descriptions": "PostCSS plugin to transform rgba() to hexadecimal",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin",
+        "rgba",
+        "hexadecimal"
+      ],
+      "author": "magsout"
+    },
+    {
+      "name": "cropper",
+      "descriptions": "A simple jQuery image cropping plugin.",
+      "keyword": [
+        "image",
+        "crop",
+        "move",
+        "zoom",
+        "rotate",
+        "scale",
+        "cropper",
+        "cropper.js",
+        "cropping",
+        "processing",
+        "jquery",
+        "plugin",
+        "jquery-plugin",
+        "html",
+        "View more"
+      ],
+      "author": "chenfengyuan"
+    },
+    {
+      "name": "to-style",
+      "descriptions": "Convert style objects to style strings",
+      "keyword": [
+        "style",
+        "css",
+        "object",
+        "conver",
+        "to",
+        "string"
+      ],
+      "author": "radubrehar"
+    },
+    {
+      "name": "gulp-compass",
+      "descriptions": "Compile Compass files",
+      "keyword": [
+        "gulp",
+        "gulpplugin",
+        "compass",
+        "scss",
+        "sass",
+        "css",
+        "compile",
+        "preprocessor",
+        "style"
+      ],
+      "author": "appleboy"
+    },
+    {
+      "name": "parse-unit",
+      "descriptions": "Parses number and unit, '20px' into [20, 'px']",
+      "keyword": [
+        "parse",
+        "number",
+        "string",
+        "str",
+        "split",
+        "unit",
+        "in",
+        "m",
+        "px",
+        "%",
+        "pt",
+        "pc",
+        "em",
+        "deg",
+        "View more"
+      ],
+      "author": "mattdesl"
+    },
+    {
+      "name": "penthouse",
+      "descriptions": "Generate critical path CSS for web pages",
+      "keyword": [
+        "CSS Critical Path Generator",
+        "css",
+        "performance",
+        "build",
+        "tool",
+        "chrome:headless"
+      ],
+      "author": "pocketjoso"
+    },
+    {
+      "name": "stylelint-no-unsupported-browser-features",
+      "descriptions": "Disallow features that are unsupported by the browsers that you are targeting",
+      "keyword": [
+        "stylelint",
+        "stylelint-plugin",
+        "css",
+        "doiuse",
+        "linter",
+        "browser",
+        "support"
+      ],
+      "author": "ismay"
+    },
+    {
+      "name": "postcss-assets",
+      "descriptions": "PostCSS plugin to manage assets",
+      "keyword": [
+        "assets",
+        "base64",
+        "css",
+        "image",
+        "path",
+        "postcss",
+        "postcss-plugin",
+        "size",
+        "url"
+      ],
+      "author": "borodean"
+    },
+    {
+      "name": "postcss-font-family-system-ui",
+      "descriptions": "Use the system-ui font family in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "ua",
+        "user",
+        "agent",
+        "platform",
+        "system",
+        "ui",
+        "default",
+        "font",
+        "font-family",
+        "family",
+        "face",
+        "View more"
+      ],
+      "author": "jlhwung"
+    },
+    {
+      "name": "react-style-proptype",
+      "descriptions": "Validates style objects by ensuring they only have valid keys",
+      "keyword": [
+        "react",
+        "proptype",
+        "validation",
+        "devtool",
+        "style",
+        "css"
+      ],
+      "author": "greenjello"
+    },
+    {
+      "name": "gulp-inline-css",
+      "descriptions": "Inline linked css in an html file. Useful for emails.",
+      "keyword": [
+        "gulpplugin",
+        "inline",
+        "css",
+        "html",
+        "email"
+      ],
+      "author": "jonkemp"
+    },
+    {
+      "name": "closest",
+      "descriptions": "Find the closest parent that matches a selector.",
+      "keyword": [
+        "browserify",
+        "CSS",
+        "selector",
+        "closest",
+        "parents",
+        "jquery"
+      ],
+      "author": "forbeslindesay"
+    },
+    {
+      "name": "split.js",
+      "descriptions": "2kb unopinionated utility for resizeable split views",
+      "keyword": [
+        "css",
+        "split",
+        "flexbox",
+        "tiny",
+        "split-layout"
+      ],
+      "author": "nathancahill"
+    },
+    {
+      "name": "node-bourbon",
+      "descriptions": "Node-sass wrapper for thoughtbot's bourbon library",
+      "keyword": [
+        "sass",
+        "css"
+      ],
+      "author": "iamlacroix"
+    },
+    {
+      "name": "grunt-contrib-compass",
+      "descriptions": "Compile Sass to CSS using Compass",
+      "keyword": [
+        "gruntplugin",
+        "compass",
+        "scss",
+        "sass",
+        "css",
+        "compile",
+        "preprocessor",
+        "style"
+      ],
+      "author": "vladikoff"
+    },
+    {
+      "name": "stylint",
+      "descriptions": "A linter for stylus",
+      "keyword": [
+        "cli",
+        "css",
+        "hinter",
+        "lint",
+        "linter",
+        "styl",
+        "style",
+        "stylint",
+        "stylus",
+        "stylus-hint",
+        "stylus-lint"
+      ],
+      "author": "simenb"
+    },
+    {
+      "name": "ember-cli-autoprefixer",
+      "descriptions": "Process styles in an ember-cli application using Autoprefixer",
+      "keyword": [
+        "ember-addon",
+        "autoprefixer",
+        "css",
+        "prefix",
+        "preprocess"
+      ],
+      "author": "kimroen"
+    },
+    {
+      "name": "sqwish",
+      "descriptions": "A tool for compressing CSS",
+      "keyword": [
+        "minify",
+        "css",
+        "compress"
+      ],
+      "author": "ded"
+    },
+    {
+      "name": "node-sass-middleware",
+      "descriptions": "Connect middleware for node-sass",
+      "keyword": [
+        "sass",
+        "css",
+        "libsass"
+      ],
+      "author": "am11"
+    },
+    {
+      "name": "stylefire",
+      "descriptions": "Performant, simplified stylers for CSS, SVG, path and DOM scroll.",
+      "keyword": [
+        "css",
+        "svg",
+        "path",
+        "scroll",
+        "animation"
+      ],
+      "author": "popmotion"
+    },
+    {
+      "name": "facepaint",
+      "descriptions": "Responsive style values for css-in-js.",
+      "keyword": [
+        "styles",
+        "emotion",
+        "react",
+        "css",
+        "css-in-js"
+      ],
+      "author": "tkh44"
+    },
+    {
+      "name": "postcss-inline-svg",
+      "descriptions": "PostCSS plugin to reference an SVG file and control its attributes with CSS syntax",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "svg",
+        "inline"
+      ],
+      "author": "hudochenkov"
+    },
+    {
+      "name": "cssbeautify",
+      "descriptions": "Reindent and reformat CSS.",
+      "keyword": [
+        "cssbeautify",
+        "css",
+        "formatter"
+      ],
+      "author": "senchalabs"
+    },
+    {
+      "name": "scope-css",
+      "descriptions": "Scope each css rule with a selector, ie. nest into parent",
+      "keyword": [
+        "css",
+        "style",
+        "insert-css",
+        "nesting",
+        "scope",
+        "nest",
+        "parent",
+        "selector",
+        "sheetify"
+      ],
+      "author": "dfcreative"
+    },
+    {
+      "name": "gulp-csscomb",
+      "descriptions": "CSScomb is a coding style formatter for CSS.",
+      "keyword": [
+        "gulpplugin",
+        "css",
+        "csscomb",
+        "lint",
+        "linter",
+        "preprocessor"
+      ],
+      "author": "koistya"
+    },
+    {
+      "name": "style-value-types",
+      "descriptions": "Parsers, transformers and tests for special value types, eg: %, hex codes etc.",
+      "keyword": [
+        "css",
+        "svg",
+        "hex",
+        "rgba",
+        "hsla"
+      ],
+      "author": "popmotion"
+    },
+    {
+      "name": "clean-css-cli",
+      "descriptions": "A command-line interface to clean-css CSS optimization library",
+      "keyword": [
+        "css",
+        "optimizer",
+        "minifier"
+      ],
+      "author": "jakub.pawlowicz"
+    },
+    {
+      "name": "spritesheet-templates",
+      "descriptions": "Convert spritesheet data into CSS or CSS pre-processor data",
+      "keyword": [
+        "json",
+        "css",
+        "sass",
+        "scss",
+        "stylus",
+        "less",
+        "sprite",
+        "spritesheet",
+        "template",
+        "format"
+      ],
+      "author": "twolfson"
+    },
+    {
+      "name": "jscpd",
+      "descriptions": "Copy/paste detector for programming code, support JavaScript, CoffeeScript, PHP, Ruby, Python, Less, Go, Java, Yaml, C#, C++, C, Puppet, Twig languages",
+      "keyword": [
+        "jscpd",
+        "code-quality",
+        "code-smells",
+        "duplication",
+        "cpd",
+        "pmd",
+        "analyze",
+        "quality",
+        "copy-paste",
+        "clone",
+        "copy",
+        "paste",
+        "javascript",
+        "coffeescript",
+        "View more"
+      ],
+      "author": "apk"
+    },
+    {
+      "name": "postcss-extend-rule",
+      "descriptions": "Use the @extend at-rule and functional selectors in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "extend",
+        "matched",
+        "matches",
+        "match",
+        "selectors",
+        "subclassing",
+        "subclasses",
+        "subclass",
+        "styling",
+        "styles",
+        "style",
+        "View more"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "gulp-uglifycss",
+      "descriptions": "Gulp plugin to use uglifycss",
+      "keyword": [
+        "gulpplugin",
+        "gulp",
+        "uglifycss",
+        "css",
+        "uglify",
+        "compress"
+      ],
+      "author": "spy-seth"
+    },
+    {
+      "name": "postcss-atroot",
+      "descriptions": "PostCSS plugin to place rules directly at the root",
+      "keyword": [
+        "postcss",
+        "at-root",
+        "postcss-plugin",
+        "sass",
+        "atroot",
+        "css"
+      ],
+      "author": "oevgeny"
+    },
+    {
+      "name": "purgecss-webpack-plugin",
+      "descriptions": "Purgecss plugin for webpack - Remove unused css",
+      "keyword": [
+        "webpack-plugin",
+        "purgecss",
+        "remove",
+        "unused",
+        "css"
+      ],
+      "author": "ffloriel"
+    },
+    {
+      "name": "postcss-easy-import",
+      "descriptions": "PostCSS plugin to inline @import rules content with extra features",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "import",
+        "glob",
+        "partial"
+      ],
+      "author": "simonsmith"
+    },
+    {
+      "name": "decomment",
+      "descriptions": "Removes comments from JSON/JavaScript, CSS/HTML, CPP/H, etc.",
+      "keyword": [
+        "remove comments",
+        "JavaScript",
+        "JSON",
+        "CSS",
+        "HTML",
+        "CPP",
+        "C++",
+        "Text"
+      ],
+      "author": "vitaly.tomilov"
+    },
+    {
+      "name": "cssfontparser",
+      "descriptions": "Parse shorthand css font strings\"",
+      "keyword": [
+        "css",
+        "font",
+        "parsing",
+        "parser",
+        "shorthand"
+      ],
+      "author": "tmpvar"
+    },
+    {
+      "name": "style-inject",
+      "descriptions": "Inject style tag to document head.",
+      "keyword": [
+        "style",
+        "css",
+        "inject"
+      ],
+      "author": "rem"
+    },
+    {
+      "name": "strip-css-comments",
+      "descriptions": "Strip comments from CSS",
+      "keyword": [
+        "css",
+        "style",
+        "stylesheet",
+        "strip",
+        "remove",
+        "delete",
+        "trim",
+        "comments",
+        "preprocess",
+        "transform",
+        "string"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "rucksack-css",
+      "descriptions": "A little bag of CSS superpowers",
+      "keyword": [
+        "rucksack",
+        "postcss",
+        "css",
+        "framework",
+        "boilerplate"
+      ],
+      "author": "seaneking"
+    },
+    {
+      "name": "line-height",
+      "descriptions": "Calculate line-height of an HTML element (IE6 compatible)",
+      "keyword": [
+        "line-height",
+        "lineHeight",
+        "getComputedStyle",
+        "css"
+      ],
+      "author": "twolfson"
+    },
+    {
+      "name": "typography",
+      "descriptions": "Opinionated toolkit for building websites with beautiful typography",
+      "keyword": [
+        "css",
+        "inline styles",
+        "react",
+        "typography",
+        "vertical-rhythm"
+      ],
+      "author": "kylemathews"
+    },
+    {
+      "name": "inline-source-map-comment",
+      "descriptions": "Create an inline source map comment from a source map",
+      "keyword": [
+        "inline",
+        "sourcemap",
+        "source",
+        "map",
+        "comment",
+        "js",
+        "css",
+        "cli",
+        "browser",
+        "client-side"
+      ],
+      "author": "shinnn"
+    },
+    {
+      "name": "spinkit",
+      "descriptions": "A collection of loading indicators animated with CSS",
+      "keyword": [
+        "css",
+        "spinkit",
+        "spinner",
+        "loading",
+        "ui"
+      ],
+      "author": "tobiasahlin"
+    },
+    {
+      "name": "postcss-for",
+      "descriptions": "PostCSS plugin that enables SASS-like for loop syntax in your CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "for",
+        "loop",
+        "sass",
+        "from",
+        "to",
+        "iterate",
+        "nested"
+      ],
+      "author": "antyakushev"
+    },
+    {
+      "name": "is-color",
+      "descriptions": "Check if a string is CSS color value",
+      "keyword": [
+        "css",
+        "color"
+      ],
+      "author": "morishitter"
+    },
+    {
+      "name": "gulp-rtlcss",
+      "descriptions": "Gulp plugin that uses RTLCSS to convert LTR CSS to RTL.",
+      "keyword": [
+        "convert",
+        "css",
+        "gulpplugin",
+        "rtl"
+      ],
+      "author": "jjlharrison"
+    },
+    {
+      "name": "colors.css",
+      "descriptions": "Better default colors for the web. A collection of skin classes for faster prototyping and nicer looking sites.",
+      "keyword": [
+        "colors",
+        "design",
+        "a11y",
+        "postcss",
+        "palette",
+        "css",
+        "oocss"
+      ],
+      "author": "mrmrs"
+    },
+    {
+      "name": "browserify-css",
+      "descriptions": "A Browserify transform for bundling, rebasing, inlining, and minifying CSS files",
+      "keyword": [
+        "browser",
+        "browserify",
+        "browserify-transform",
+        "css",
+        "dom",
+        "minify",
+        "transform"
+      ],
+      "author": "cheton"
+    },
+    {
+      "name": "base64-inline-loader",
+      "descriptions": "Base64 loader for Webpack",
+      "keyword": [
+        "webpack",
+        "base64",
+        "css",
+        "fonts",
+        "images",
+        "loader"
+      ],
+      "author": "monolithed"
+    },
+    {
+      "name": "reflexbox",
+      "descriptions": "Responsive React grid system built with Styled System, with support for Emotion and Styled Components",
+      "keyword": [
+        "reflexbox",
+        "flexbox",
+        "grid-styled",
+        "rebass",
+        "rebass-grid",
+        "layout",
+        "emotion",
+        "css",
+        "style"
+      ],
+      "author": "jxnblk"
+    },
+    {
+      "name": "synesthesia",
+      "descriptions": "A collection of regular expressions to match color syntax substrings from a text",
+      "keyword": [
+        "color",
+        "match",
+        "substring",
+        "regex",
+        "regexp",
+        "syntax",
+        "css",
+        "html"
+      ],
+      "author": "munter"
+    },
+    {
+      "name": "postcss-rtl",
+      "descriptions": "PostCSS plugin for RTL-optimizations",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "postcss plugin",
+        "rtl",
+        "ltr",
+        "right to left",
+        "left to right"
+      ],
+      "author": "vkalinichev"
+    },
+    {
+      "name": "material-icons",
+      "descriptions": "Material design icon font and CSS framework for self hosting the icons.",
+      "keyword": [
+        "material-icons",
+        "material-design-icons",
+        "material-design",
+        "iconfont",
+        "icons",
+        "font",
+        "css",
+        "sass"
+      ],
+      "author": "marella"
+    },
+    {
+      "name": "mat4-decompose",
+      "descriptions": "Decomposes a 3D matrix",
+      "keyword": [
+        "4x4",
+        "decompose",
+        "gl-mat4",
+        "mat4",
+        "decomposition",
+        "interpolation",
+        "lerp",
+        "linear",
+        "tween",
+        "animate",
+        "css",
+        "matrix"
+      ],
+      "author": "mattdesl"
+    },
+    {
+      "name": "nano-css",
+      "descriptions": "Smallest 5th gen CSS-in-JS library",
+      "keyword": [
+        "css",
+        "style",
+        "styles",
+        "pico",
+        "nano",
+        "lite",
+        "react",
+        "js",
+        "in-js",
+        "css-in-js",
+        "styled",
+        "decorator",
+        "component",
+        "styled-components",
+        "View more"
+      ],
+      "author": "streamich"
+    },
+    {
+      "name": "postcss-will-change",
+      "descriptions": "PostCSS plugin to insert 3D hack before will-change property",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "will-change",
+        "fallback"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "css-initials",
+      "descriptions": "Initial CSS values for `all: initial` polyfills.",
+      "keyword": [
+        "CSS",
+        "initial",
+        "values",
+        "all: initial"
+      ],
+      "author": "trysound"
+    },
+    {
+      "name": "css-vars-ponyfill",
+      "descriptions": "Client-side support for CSS custom properties (aka \"CSS variables\") in legacy and modern browsers",
+      "keyword": [
+        "client",
+        "component",
+        "css",
+        "custom properties",
+        "custom property",
+        "custom",
+        "dom",
+        "es6",
+        "ie",
+        "ie9",
+        "ie10",
+        "ie11",
+        "internet explorer",
+        "javascript",
+        "View more"
+      ],
+      "author": "jhildenbiddle"
+    },
+    {
+      "name": "basscss",
+      "descriptions": "Low-level CSS toolkit",
+      "keyword": [
+        "atomic css",
+        "functional css",
+        "css",
+        "framework",
+        "oocss",
+        "basscss"
+      ],
+      "author": "jxnblk"
+    },
+    {
+      "name": "gulp-inline-source",
+      "descriptions": "Inline flagged js & css sources.",
+      "keyword": [
+        "gulpplugin",
+        "inline",
+        "css",
+        "javascript"
+      ],
+      "author": "fmal"
+    },
+    {
+      "name": "carbon-components",
+      "descriptions": "The Carbon Design System is IBM’s open-source design system for products and experiences.",
+      "keyword": [
+        "carbon",
+        "component",
+        "components",
+        "css",
+        "html",
+        "ibm",
+        "javascript",
+        "js",
+        "library",
+        "pattern",
+        "patterns",
+        "sass",
+        "scss",
+        "style guide",
+        "View more"
+      ],
+      "author": "abbeyhrt"
+    },
+    {
+      "name": "gulp-iconfont-css",
+      "descriptions": "Generate (S)CSS file for icon font created with Gulp",
+      "keyword": [
+        "gulpplugin",
+        "gulp",
+        "icon",
+        "font",
+        "scss",
+        "css"
+      ],
+      "author": "backflip"
+    },
+    {
+      "name": "broccoli-sass-source-maps",
+      "descriptions": "Libsass-based Sass compiler for Broccoli",
+      "keyword": [
+        "broccoli-plugin",
+        "sass",
+        "scss",
+        "css",
+        "libsass"
+      ],
+      "author": "aexmachina"
+    },
+    {
+      "name": "cssify",
+      "descriptions": "A simple Browserify transform for adding required styles to the browser.",
+      "keyword": [
+        "browserify",
+        "css",
+        "transform",
+        "browserify-transform",
+        "dom",
+        "browser"
+      ],
+      "author": "dguttman"
+    },
+    {
+      "name": "stylelint-declaration-block-no-ignored-properties",
+      "descriptions": "Disallow property values that are ignored due to another property value in the same rule.",
+      "keyword": [
+        "css",
+        "less",
+        "lint",
+        "linter",
+        "scss",
+        "stylelint",
+        "stylelint-plugin",
+        "sugarss"
+      ],
+      "author": "kristerkari"
+    },
+    {
+      "name": "bootstrap-table",
+      "descriptions": "An extended table to integration with some of the most widely used CSS frameworks. (Supports Bootstrap, Semantic UI, Bulma, Material Design, Foundation)",
+      "keyword": [
+        "bootstrap",
+        "table",
+        "pagination",
+        "checkbox",
+        "radio",
+        "datatables",
+        "css",
+        "css-framework",
+        "semantic",
+        "semantic-ui",
+        "bulma",
+        "material",
+        "material-design",
+        "materialize"
+      ],
+      "author": "wenzhixin"
+    },
+    {
+      "name": "units-css",
+      "descriptions": "Parse length and angle CSS values and convert between units",
+      "keyword": [
+        "unit",
+        "units",
+        "value",
+        "values",
+        "property",
+        "properties",
+        "rule",
+        "rules",
+        "css",
+        "parse",
+        "convert"
+      ],
+      "author": "alexdunphy"
+    },
+    {
+      "name": "bootstrap-css-only",
+      "descriptions": "[Bootstrap](http://getbootstrap.com/) CSS and font libraries only. No javascript, and more importantly NO depenedency on jQuery.",
+      "keyword": [
+        "bootstrap",
+        "css",
+        "fonticons",
+        "front-end",
+        "web"
+      ],
+      "author": "fyockm"
+    },
+    {
+      "name": "color-rgba",
+      "descriptions": "Convert color string (or parseable argument) to RGBA array",
+      "keyword": [
+        "color",
+        "colorjs",
+        "rgb",
+        "rgba",
+        "color-space",
+        "css"
+      ],
+      "author": "dfcreative"
+    },
+    {
+      "name": "prefix-style",
+      "descriptions": "Gets a prefixed name for a css style",
+      "keyword": [
+        "prefix",
+        "css",
+        "style",
+        "rule",
+        "prefixes",
+        "prefixing",
+        "webkit",
+        "-webkit",
+        "-ms",
+        "-moz",
+        "-o",
+        "styles",
+        "transform"
+      ],
+      "author": "mattdesl"
+    },
+    {
+      "name": "website-scraper",
+      "descriptions": "Download website to a local directory (including all css, images, js, etc.)",
+      "keyword": [
+        "scrape",
+        "scraper",
+        "download",
+        "web",
+        "url",
+        "page",
+        "site",
+        "html",
+        "css",
+        "image",
+        "js"
+      ],
+      "author": "s0ph1e"
+    },
+    {
+      "name": "purecss",
+      "descriptions": "Pure is a ridiculously tiny CSS library you can use to start any web project.",
+      "keyword": [
+        "pure",
+        "css",
+        "purecss",
+        "yahoo"
+      ],
+      "author": "redonkulus"
+    },
+    {
+      "name": "webpack-isomorphic-tools",
+      "descriptions": "Transforms CSS-alike text into a React style JSON object",
+      "keyword": [
+        "react",
+        "style",
+        "inline",
+        "css"
+      ],
+      "author": "catamphetamine"
+    },
+    {
+      "name": "broccoli-clean-css",
+      "descriptions": "CSS minifier for Broccoli, using clean-css",
+      "keyword": [
+        "broccoli-plugin",
+        "css",
+        "cleancss",
+        "clean-css",
+        "minifier",
+        "minification",
+        "compress",
+        "compressor",
+        "postprocess",
+        "optimization",
+        "optimize",
+        "optimizer",
+        "whitespace"
+      ],
+      "author": "shinnn"
+    },
+    {
+      "name": "gulp-group-css-media-queries",
+      "descriptions": "CSS postprocessing: group media queries. Useful for postprocessing preprocessed CSS files.",
+      "keyword": [
+        "gulpplugin",
+        "css",
+        "group",
+        "media",
+        "queries"
+      ],
+      "author": "avaly"
+    },
+    {
+      "name": "jest-emotion",
+      "descriptions": "Jest utilities for emotion",
+      "keyword": [
+        "styles",
+        "emotion",
+        "react",
+        "css",
+        "css-in-js",
+        "jest",
+        "snapshot"
+      ],
+      "author": "emotion-release-bot"
+    },
+    {
+      "name": "grunt-spritesmith",
+      "descriptions": "Grunt task for converting a set of images into a spritesheet and corresponding CSS variables.",
+      "keyword": [
+        "grunt",
+        "gruntplugin",
+        "sprite",
+        "image",
+        "spritesheet",
+        "css",
+        "spritesmith",
+        "cross-platform"
+      ],
+      "author": "twolfson"
+    },
+    {
+      "name": "grunt-webfont",
+      "descriptions": "Ultimate SVG to webfont converter for Grunt.",
+      "keyword": [
+        "gruntplugin",
+        "font",
+        "webfont",
+        "fontforge",
+        "font-face",
+        "woff",
+        "woff2",
+        "ttf",
+        "svg",
+        "eot",
+        "truetype",
+        "css",
+        "icon"
+      ],
+      "author": "cmeichel"
+    },
+    {
+      "name": "postcss-hexrgba",
+      "descriptions": "PostCSS plugin that adds shorthand hex methods to rgba() values",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "hex",
+        "rgba"
+      ],
+      "author": "seaneking"
+    },
+    {
+      "name": "react-typography",
+      "descriptions": "Helpful React components for Typography.js",
+      "keyword": [
+        "css",
+        "inline styles",
+        "react",
+        "react-component",
+        "typography",
+        "vertical-rhythm"
+      ],
+      "author": "kylemathews"
+    },
+    {
+      "name": "fela",
+      "descriptions": "State-Driven Styling in JavaScript",
+      "keyword": [
+        "fela",
+        "dynamic styling",
+        "stylesheet",
+        "css",
+        "styling",
+        "functional styling",
+        "functional css",
+        "atomic css",
+        "state-driven",
+        "atomic design",
+        "state-driven styling",
+        "cssinjs"
+      ],
+      "author": "rofrischmann"
+    },
+    {
+      "name": "rework-plugin-url",
+      "descriptions": "Url() plugin for rework, formerly included in core",
+      "keyword": [
+        "browser",
+        "server",
+        "css",
+        "preprocess",
+        "transform"
+      ],
+      "author": "conradz"
+    },
+    {
+      "name": "bootstrap-material-design",
+      "descriptions": "Material Design for Bootstrap 4",
+      "keyword": [
+        "material",
+        "design",
+        "bootstrap",
+        "css",
+        "js",
+        "sass",
+        "mobile-first",
+        "responsive",
+        "front-end",
+        "framework",
+        "web"
+      ],
+      "author": "fezvrasta"
+    },
+    {
+      "name": "postcss-partial-import",
+      "descriptions": "Inline sugary @import statements in CSS",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "sugar",
+        "sass",
+        "scss",
+        "imports",
+        "styles",
+        "files",
+        "partials",
+        "modules",
+        "bower",
+        "node",
+        "npm"
+      ],
+      "author": "jonathantneal"
+    },
+    {
+      "name": "webfont",
+      "descriptions": "Generator of fonts from svg icons, svg icons to svg font, svg font to ttf, ttf to eot, ttf to woff, ttf to woff2",
+      "keyword": [
+        "cli",
+        "standalone",
+        "font",
+        "fonts",
+        "webfont",
+        "webfonts",
+        "svg",
+        "ttf",
+        "woff",
+        "woff2",
+        "otf",
+        "eot",
+        "ttf2eot",
+        "ttf2woff",
+        "View more"
+      ],
+      "author": "evilebottnawi"
+    },
+    {
+      "name": "stylelint-config-shopify",
+      "descriptions": "Shopify's stylelint rules and config",
+      "keyword": [
+        "stylelint",
+        "stylelint-config",
+        "config",
+        "shopify",
+        "css"
+      ],
+      "author": "shopify-dep"
+    },
+    {
+      "name": "@fullhuman/postcss-purgecss",
+      "descriptions": "PostCSS plugin for PurgeCSS",
+      "keyword": [
+        "postcss",
+        "postcss-plugin",
+        "remove",
+        "unused",
+        "css",
+        "purgecss"
+      ],
+      "author": "ffloriel"
+    },
+    {
+      "name": "css-rule-stream",
+      "descriptions": "Transform stream to cut css into rule-sized chunks",
+      "keyword": [
+        "css",
+        "parse",
+        "stream"
+      ],
+      "author": "anandthakker"
+    },
+    {
+      "name": "css-tokenize",
+      "descriptions": "Transform stream that tokenizes CSS",
+      "keyword": [
+        "css",
+        "tokenize",
+        "parse",
+        "stream",
+        "streaming"
+      ],
+      "author": "anandthakker"
+    },
+    {
+      "name": "spectre.css",
+      "descriptions": "Spectre.css: A lightweight, responsive and modern CSS framework",
+      "keyword": [
+        "css",
+        "framework",
+        "flexbox",
+        "responsive",
+        "mobile-friendly",
+        "front-end",
+        "sass",
+        "modern"
+      ],
+      "author": "picturepan2"
+    },
+    {
+      "name": "stylelint-selector-bem-pattern",
+      "descriptions": "A stylelint plugin that harnesses the power of postcss-bem-linter",
+      "keyword": [
+        "stylelint",
+        "stylelint-plugin",
+        "css",
+        "nesting",
+        "linter",
+        "bem"
+      ],
+      "author": "simonsmith"
+    },
+    {
+      "name": "postcss-shopify",
+      "descriptions": "All of Shopify’s recommended PostCSS plugins in one easy-to-use preset.",
+      "keyword": [
+        "postcss",
+        "postcss-plugin",
+        "css",
+        "shopify"
+      ],
+      "author": "shopify-dep"
+    },
+    {
+      "name": "postcss-image-set-polyfill",
+      "descriptions": "PostCSS plugin for fallback image-set",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "image-set",
+        "background",
+        "image"
+      ],
+      "author": "superol3g"
+    },
+    {
+      "name": "postcss-color-hwb",
+      "descriptions": "PostCSS plugin to transform W3C CSS hwb() color to more compatible CSS (rgb() (or rgba()))",
+      "keyword": [
+        "css",
+        "postcss",
+        "postcss-plugin",
+        "color",
+        "colour",
+        "rgb",
+        "hwb"
+      ],
+      "author": "semigradsky"
+    },
+    {
+      "name": "lesshat",
+      "descriptions": "The most advanced LESS mixins library",
+      "keyword": [
+        "lesshat",
+        "less",
+        "css",
+        "mixins"
+      ],
+      "author": "mboudreau"
+    },
+    {
+      "name": "postcss-browser-reporter",
+      "descriptions": "PostCSS plugin to report warning messages right in your browser",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "warnings"
+      ],
+      "author": "ai"
+    },
+    {
+      "name": "color-alpha",
+      "descriptions": "Change alpha value of a color string",
+      "keyword": [
+        "color",
+        "alpha",
+        "opacity",
+        "css",
+        "css-color",
+        "color-space",
+        "color-parse",
+        "color-manipulate",
+        "channel"
+      ],
+      "author": "dfcreative"
+    },
+    {
+      "name": "postcss-bem-linter",
+      "descriptions": "A BEM linter for postcss",
+      "keyword": [
+        "css",
+        "postcss",
+        "bem",
+        "lint",
+        "test"
+      ],
+      "author": "simonsmith"
+    },
+    {
+      "name": "sizzle",
+      "descriptions": "A pure-JavaScript, bottom-up CSS selector engine designed to be easily dropped in to a host library.",
+      "keyword": [
+        "sizzle",
+        "javascript",
+        "CSS",
+        "selector",
+        "jquery"
+      ],
+      "author": "gibson042"
+    },
+    {
+      "name": "gulp-css-base64",
+      "descriptions": "Gulp's task for transform all resources found in a CSS into base64-encoded data URI strings",
+      "keyword": [
+        "gulpplugin",
+        "css",
+        "base64"
+      ],
+      "author": "zckrs"
+    },
+    {
+      "name": "mediaquery",
+      "descriptions": "Turns human readable breakpoints into correct mediaqueries",
+      "keyword": [
+        "mediaquery",
+        "mediaqueries",
+        "responsive",
+        "breakpoints",
+        "step",
+        "media",
+        "css"
+      ],
+      "author": "axyz"
+    },
+    {
+      "name": "postcss-each",
+      "descriptions": "PostCSS plugin to iterate through values",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "each",
+        "iterator"
+      ],
+      "author": "outpunk"
+    },
+    {
+      "name": "gulp-jsbeautifier",
+      "descriptions": "Js-beautify for Gulp",
+      "keyword": [
+        "beautifier",
+        "beautify",
+        "css",
+        "format",
+        "gulp",
+        "gulpplugin",
+        "html",
+        "indent",
+        "javascript",
+        "js-beautify",
+        "js",
+        "jsbeautifier",
+        "json",
+        "prettify"
+      ],
+      "author": "biasso"
+    },
+    {
+      "name": "weui",
+      "descriptions": "A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.",
+      "keyword": [
+        "weui",
+        "wechat",
+        "weixin",
+        "css",
+        "less",
+        "mobile"
+      ],
+      "author": "weui"
+    },
+    {
+      "name": "gulp-cssimport",
+      "descriptions": "Parses a CSS file, finds imports, grabs the content of the linked file and replaces the import statement with it.",
+      "keyword": [
+        "css",
+        "gulpplugin",
+        "import"
+      ],
+      "author": "iamthes"
+    },
+    {
+      "name": "cssfilter",
+      "descriptions": "Sanitize untrusted CSS with a configuration specified by a Whitelist. 根据白名单过滤CSS",
+      "keyword": [
+        "sanitization",
+        "xss",
+        "sanitize",
+        "sanitisation",
+        "input",
+        "security",
+        "escape",
+        "encode",
+        "filter",
+        "validator",
+        "html",
+        "css",
+        "injection",
+        "whitelist"
+      ],
+      "author": "leizongmin"
+    },
+    {
+      "name": "postcss-color-hsl",
+      "descriptions": "PostCSS plugin to transform W3C CSS Color Module Level 4 hsl() new syntax to more compatible CSS (comma-separated hsl() or hsla())",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "color",
+        "hsl",
+        "hsla"
+      ],
+      "author": "dmarchena"
+    },
+    {
+      "name": "postcss-color-rgb",
+      "descriptions": "PostCSS plugin to transform W3C CSS Color Module Level 4 rgb() new syntax to more compatible CSS (comma-separated rgb() or rgba())",
+      "keyword": [
+        "postcss",
+        "css",
+        "postcss-plugin",
+        "color",
+        "rgb",
+        "rgba"
+      ],
+      "author": "dmarchena"
+    },
+    {
+      "name": "ember-cli-less",
+      "descriptions": "Use less to preprocess your ember-cli app css",
+      "keyword": [
+        "ember-addon",
+        "less",
+        "css",
+        "preprocessor"
+      ],
+      "author": "knownasilya"
+    },
+    {
+      "name": "vue2-animate",
+      "descriptions": "SCSS/CSS cross-browser animation library, for use with Vue.js 2.0. Ported from Animate.css.",
+      "keyword": [
+        "less",
+        "animate",
+        "animate.css",
+        "vue",
+        "vue.js",
+        "transition",
+        "vue-animate",
+        "css",
+        "sass",
+        "scss"
+      ],
+      "author": "asika32764"
+    },
+    {
+      "name": "styled-is",
+      "descriptions": "Flag utility for styled-components",
+      "keyword": [
+        "flag",
+        "flags",
+        "react",
+        "css",
+        "css-in-js",
+        "styled-components"
+      ],
+      "author": "saravieira"
+    },
+    {
+      "name": "fontmin",
+      "descriptions": "Minify font seamlessly, font subsetter, webfont (eot, woff, svg) converter.",
+      "keyword": [
+        "font",
+        "webfont",
+        "icon",
+        "iconfont",
+        "font-face",
+        "compress",
+        "minify",
+        "font-cli",
+        "otf",
+        "ttf",
+        "woff",
+        "eot",
+        "svg",
+        "ttf2eot",
+        "View more"
+      ],
+      "author": "junmer"
+    },
+    {
+      "name": "color-normalize",
+      "descriptions": "Convert any color data to sanitized output format",
+      "keyword": [
+        "color",
+        "colorjs",
+        "rgb",
+        "rgba",
+        "color-space",
+        "css"
+      ],
+      "author": "dy"
+    },
+    {
+      "name": "broccoli-autoprefixer",
+      "descriptions": "Prefix CSS using Autoprefixer",
+      "keyword": [
+        "broccoli-plugin",
+        "autoprefixer",
+        "postcss",
+        "css",
+        "prefix",
+        "prefixes",
+        "stylesheet",
+        "preprocess",
+        "postcss-runner"
+      ],
+      "author": "sindresorhus"
+    },
+    {
+      "name": "gulp-cssbeautify",
+      "descriptions": "Reindent and reformat CSS",
+      "keyword": [
+        "gulpplugin",
+        "cssbeautify",
+        "css",
+        "formatter"
+      ],
+      "author": "jonkemp"
+    },
+    {
+      "name": "html-minifier-terser",
+      "descriptions": "Highly configurable, well-tested, JavaScript-based HTML minifier.",
+      "keyword": [
+        "cli",
+        "compress",
+        "compressor",
+        "css",
+        "html",
+        "htmlmin",
+        "javascript",
+        "min",
+        "minification",
+        "minifier",
+        "minify",
+        "optimize",
+        "optimizer",
+        "pack",
+        "View more"
+      ],
+      "author": "danielruf"
+    },
+    {
+      "name": "to-px",
+      "descriptions": "Convert any CSS unit to logical pixels (\"px\")",
+      "keyword": [
+        "css",
+        "px",
+        "em",
+        "ex",
+        "line",
+        "height",
+        "ch",
+        "rem",
+        "vh",
+        "vw",
+        "vmin",
+        "vmax",
+        "unit",
+        "conversion",
+        "View more"
+      ],
+      "author": "mikolalysenko"
+    },
+    {
+      "name": "free-style",
+      "descriptions": "Make CSS easier and more maintainable by using JavaScript",
+      "keyword": [
+        "inline",
+        "css",
+        "style",
+        "js",
+        "hash",
+        "server"
+      ],
+      "author": "blakeembrey"
+    },
+    {
+      "name": "bless",
+      "descriptions": "CSS Post-Processor that chunks CSS files per IE9 selector count restrictions",
+      "keyword": [
+        "css",
+        "parser",
+        "less",
+        "sass",
+        "stylus",
+        "ie9",
+        "selector-limit"
+      ],
+      "author": "mtscout6"
+    },
+    {
+      "name": "bootstrap-multiselect",
+      "descriptions": "JQuery multiselect plugin based on Twitter Bootstrap.",
+      "keyword": [
+        "js",
+        "css",
+        "less",
+        "bootstrap",
+        "jquery",
+        "multiselect"
+      ],
+      "author": "tiesont"
+    },
+    {
+      "name": "inline-source",
+      "descriptions": "Inline all flagged js, css, image source files",
+      "keyword": [
+        "inline",
+        "html",
+        "js",
+        "css",
+        "svg"
+      ],
+      "author": "popeindustries"
+    },
+    {
+      "name": "substyle",
+      "descriptions": "Universal styling for reusable React components",
+      "keyword": [
+        "react",
+        "style",
+        "css",
+        "inline",
+        "styles",
+        "bem",
+        "className"
+      ],
+      "author": "jfschwarz"
+    },
+    {
+      "name": "css-font-weight-keywords",
+      "descriptions": "List of CSS font weight keywords.",
+      "keyword": [
+        "css",
+        "font",
+        "weight",
+        "keywords"
+      ],
+      "author": "jedmao"
+    },
+    {
+      "name": "css-font-style-keywords",
+      "descriptions": "List of CSS font style keywords.",
+      "keyword": [
+        "css",
+        "font",
+        "style",
+        "keywords"
+      ],
+      "author": "jedmao"
+    }
+  ]
+}

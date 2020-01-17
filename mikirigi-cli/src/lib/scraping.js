@@ -84,9 +84,8 @@ exports.scrapingNPMPackages = async (keyword) => {
     };
   }
 
-  // だいたい 2 ページ程度で十分
   const packages = await Promise.all(
-    [...Array(2).keys()].map(i => {
+    [...Array(100).keys()].map(i => {
       const f = getKeyword({ keyword, pageNum: i });
       return f;
     })
